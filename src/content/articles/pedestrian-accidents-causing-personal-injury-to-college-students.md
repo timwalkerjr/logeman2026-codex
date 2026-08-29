@@ -4,6 +4,7 @@ description: "Injured in a pedestrian accident on campus? Our Ann Arbor personal
 heroTitle: "College Student Pedestrian Accident Lawyer"
 heroEyebrow: ""
 heroDescription: "Injured in a pedestrian accident on campus? Our Ann Arbor personal injury attorneys help college students recover compensation. Over 150,000 pedestrians injured yearly. Free consultation."
+heroPracticeArea: "pedestrian-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

@@ -86,7 +86,8 @@
 - Shared route: `src/pages/articles/[slug].astro`
 - Route coverage: all 47 existing `/articles/*` URLs; the overall build remains 191 static pages.
 - Per-item fields: document title, description, hero content, responsive PageSmith hero image set, live-site canonical, card excerpt/image/order, FAQ items, preserved presentation variants, and article body.
-- The shared route preserves each source page's statistics, form, testimonials, and map choices while standardizing the article hero on the approved About Us Lady Justice treatment.
+- The shared route preserves each source page's statistics, form, testimonials, and map choices.
+- Each article carries a `heroPracticeArea` relationship. The shared route keeps the article's own H1 and description while using the mapped practice area's eyebrow, responsive image set, and image alt text.
 - `src/pages/articles-posts.astro` now reads the Articles collection and maps all 47 entries. The 9 existing featured card images and excerpts retain their original priority; remaining entries use their collection fallback image and excerpt.
 - The former 47 one-file-per-route Astro pages were removed after migration. `scripts/migrate-articles-to-collection.mjs` documents and reproduces the extraction and normalization logic from a clean pre-migration checkout.
 - Verification: all 47 rendered articles have exactly one H1, the corresponding `https://www.logeman.com/articles/.../` canonical, `noindex, nofollow`, and an FAQ section; all 247 FAQ items are preserved. No article renders literal or encoded HTML as a code block.

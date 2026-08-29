@@ -4,6 +4,7 @@ description: "Injured in a hit-and-run accident? Learn critical steps to protect
 heroTitle: "What to Do After a Hit-and-Run Accident"
 heroEyebrow: ""
 heroDescription: "Injured in a hit-and-run accident? Learn critical steps to protect your rights and insurance benefits. Contact police within 24 hours, document evidence, and get experienced legal help from Ann Arbor personal injury attorneys."
+heroPracticeArea: "uninsured-underinsured-motorist-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

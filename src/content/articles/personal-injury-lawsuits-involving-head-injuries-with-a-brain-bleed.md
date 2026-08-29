@@ -4,6 +4,7 @@ description: "Experienced brain bleed injury lawyers in Ann Arbor. If you suffer
 heroTitle: "Brain Bleed Injury Lawsuits"
 heroEyebrow: ""
 heroDescription: "Experienced brain bleed injury lawyers in Ann Arbor. If you suffered a head injury with brain bleed due to someone's negligence, contact us for a free consultation about your personal injury case."
+heroPracticeArea: "personal-injury-lawsuits-involving-traumatic-brain-injury"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

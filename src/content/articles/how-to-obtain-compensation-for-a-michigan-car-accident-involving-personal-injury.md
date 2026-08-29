@@ -4,6 +4,7 @@ description: "Learn how to obtain compensation after a Michigan car accident. Ou
 heroTitle: "Michigan Car Accident Compensation Guide"
 heroEyebrow: ""
 heroDescription: "Learn how to obtain compensation after a Michigan car accident. Our experienced attorneys explain PIP benefits, no-fault insurance claims, and when to file a personal injury lawsuit."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

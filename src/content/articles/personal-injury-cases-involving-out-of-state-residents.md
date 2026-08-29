@@ -4,6 +4,7 @@ description: "Learn how the 2019 Michigan No-Fault Law amendment affects out-of-
 heroTitle: "Out-of-State Residents & Michigan No-Fault Law Changes"
 heroEyebrow: ""
 heroDescription: "Learn how the 2019 Michigan No-Fault Law amendment affects out-of-state residents in personal injury cases. Non-residents now face significant barriers to insurance benefits and financial recovery. Contact our experienced Ann Arbor personal injury attorneys."
+heroPracticeArea: "michigan-no-fault-insurance-claims"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

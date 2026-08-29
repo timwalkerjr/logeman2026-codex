@@ -4,6 +4,7 @@ description: "Learn how to calculate the value of your personal injury case in M
 heroTitle: "How to Calculate the Value of Your Personal Injury Case"
 heroEyebrow: ""
 heroDescription: "Learn how to calculate the value of your personal injury case in Michigan. Understand factors like injury severity, insurance coverage, liability, and how they impact your settlement amount."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { articlePracticeAreaMap } from './article-practice-area-map.mjs';
 
 const projectRoot = process.cwd();
 const sourceDir = path.join(projectRoot, 'src', 'pages', 'articles');
@@ -120,8 +121,8 @@ const records = sourceFiles.map((file) => {
   const faqs = faqVariable ? extractArrayLiteral(source, faqVariable) : [];
   const featured = featuredBySlug.get(slug);
 
-  if (!title || !description || !heroTitle || faqs.length === 0) {
-    throw new Error(`Incomplete article mapping in ${file}: title=${Boolean(title)}, description=${Boolean(description)}, heroTitle=${Boolean(heroTitle)}, faqs=${faqs.length}`);
+  if (!title || !description || !heroTitle || !articlePracticeAreaMap[slug] || faqs.length === 0) {
+    throw new Error(`Incomplete article mapping in ${file}: title=${Boolean(title)}, description=${Boolean(description)}, heroTitle=${Boolean(heroTitle)}, heroPracticeArea=${Boolean(articlePracticeAreaMap[slug])}, faqs=${faqs.length}`);
   }
 
   return {
@@ -132,6 +133,7 @@ const records = sourceFiles.map((file) => {
       heroTitle,
       heroEyebrow: '',
       heroDescription: description,
+      heroPracticeArea: articlePracticeAreaMap[slug],
       heroImage: defaultHeroImage,
       heroImageSrcset: defaultHeroSrcset,
       heroImageAlt: 'Lady Justice holding the scales of justice',

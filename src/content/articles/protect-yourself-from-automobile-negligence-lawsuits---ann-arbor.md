@@ -4,6 +4,7 @@ description: "Michigan's 2020 no-fault reform changed liability rules. Learn how
 heroTitle: "Protect Yourself From Auto Negligence Lawsuits"
 heroEyebrow: ""
 heroDescription: "Michigan's 2020 no-fault reform changed liability rules. Learn how to protect yourself from automobile negligence lawsuits with proper bodily injury coverage. Expert legal guidance from Ann Arbor attorneys."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

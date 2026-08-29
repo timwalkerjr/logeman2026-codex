@@ -4,6 +4,7 @@ description: "Learn what to look for when selecting a personal injury attorney i
 heroTitle: "How to Select a Personal Injury Lawyer in Michigan"
 heroEyebrow: ""
 heroDescription: "Learn what to look for when selecting a personal injury attorney in Michigan. Discover key factors like experience, communication, and past results. Free consultation available from our Ann Arbor law firm with over 45 years of experience."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

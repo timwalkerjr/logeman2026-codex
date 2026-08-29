@@ -4,6 +4,7 @@ description: "Comprehensive guide to Michigan car accident insurance, no-fault l
 heroTitle: "Michigan Car Accident Insurance & Personal Injury Claims Guide"
 heroEyebrow: ""
 heroDescription: "Comprehensive guide to Michigan car accident insurance, no-fault law, PIP coverage, and personal injury claims. Learn about required coverages, optional protections, and when to contact an experienced attorney."
+heroPracticeArea: "michigan-no-fault-insurance-claims"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

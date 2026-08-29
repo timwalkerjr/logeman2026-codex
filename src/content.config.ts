@@ -102,6 +102,7 @@ const articles = defineCollection({
     heroTitle: z.string(),
     heroEyebrow: z.string().default(''),
     heroDescription: z.string(),
+    heroPracticeArea: z.string(),
     heroImage: z.string(),
     heroImageSrcset: z.array(z.string()).default([]),
     heroImageAlt: z.string(),

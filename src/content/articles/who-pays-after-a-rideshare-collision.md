@@ -4,6 +4,7 @@ description: "Injured in a rideshare accident? Learn about your compensation opt
 heroTitle: "Who Pays After a Rideshare Collision?"
 heroEyebrow: ""
 heroDescription: "Injured in a rideshare accident? Learn about your compensation options including personal no-fault insurance, rideshare coverage, and corporate policies. Free consultation with experienced Michigan rideshare accident attorneys."
+heroPracticeArea: "personal-injury-claims-involving-lyft-and-uber-drivers-in-michigan"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

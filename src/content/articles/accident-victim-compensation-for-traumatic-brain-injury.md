@@ -4,6 +4,7 @@ description: "Michigan accident victims can receive compensation for traumatic b
 heroTitle: "Traumatic Brain Injury Compensation Michigan"
 heroEyebrow: ""
 heroDescription: "Michigan accident victims can receive compensation for traumatic brain injuries and concussions, even with normal scans. Learn about TBI symptoms, complications, and legal rights. Free consultation with experienced Ann Arbor brain injury attorneys."
+heroPracticeArea: "personal-injury-lawsuits-involving-traumatic-brain-injury"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

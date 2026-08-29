@@ -4,6 +4,7 @@ description: "Get answers to common questions about Michigan's 2020 auto insuran
 heroTitle: "FAQs About Michigan's New Auto Insurance Law"
 heroEyebrow: ""
 heroDescription: "Get answers to common questions about Michigan's 2020 auto insurance reform law, including PIP coverage options, premium savings, lawsuit thresholds, and no-fault changes."
+heroPracticeArea: "michigan-no-fault-insurance-claims"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

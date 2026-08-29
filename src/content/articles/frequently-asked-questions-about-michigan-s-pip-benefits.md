@@ -4,6 +4,7 @@ description: "Get answers to frequently asked questions about Michigan's Persona
 heroTitle: "Michigan PIP Benefits FAQ"
 heroEyebrow: ""
 heroDescription: "Get answers to frequently asked questions about Michigan's Personal Injury Protection (PIP) benefits, including coverage, claims process, deadlines, and your rights."
+heroPracticeArea: "michigan-no-fault-insurance-claims"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

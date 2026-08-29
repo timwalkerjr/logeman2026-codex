@@ -4,6 +4,7 @@ description: "Michigan seniors can opt out of PIP coverage with Medicare Parts A
 heroTitle: "Should Senior Citizens Opt Out of PIP Coverage? Medicare vs PIP Comparison"
 heroEyebrow: ""
 heroDescription: "Michigan seniors can opt out of PIP coverage with Medicare Parts A & B, but Medicare doesn't cover long-term care, attendant care, transportation, or vehicle modifications. Compare benefits before deciding."
+heroPracticeArea: "michigan-no-fault-insurance-claims"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

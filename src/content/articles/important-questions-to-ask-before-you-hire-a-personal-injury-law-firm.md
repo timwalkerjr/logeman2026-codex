@@ -4,6 +4,7 @@ description: "Learn the critical questions to ask before hiring a personal injur
 heroTitle: "Questions to Ask Before Hiring a Personal Injury Lawyer"
 heroEyebrow: ""
 heroDescription: "Learn the critical questions to ask before hiring a personal injury attorney. Logeman & Iafrate, P.C. shares expert guidance to help you choose the right lawyer for your Michigan case."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

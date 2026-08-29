@@ -4,6 +4,7 @@ description: "Learn about Michigan slip and fall laws, how to prove your case, s
 heroTitle: "Can I Sue for a Slip and Fall Accident in Michigan?"
 heroEyebrow: ""
 heroDescription: "Learn about Michigan slip and fall laws, how to prove your case, statute of limitations, and what compensation you may be entitled to. Get expert legal guidance on premises liability claims."
+heroPracticeArea: "premises-liability-law-in-michigan"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

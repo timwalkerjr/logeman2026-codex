@@ -4,6 +4,7 @@ description: "Learn why taking photographs after a car accident in Michigan is c
 heroTitle: "The Importance of Taking Photographs After a Car Accident in Michigan"
 heroEyebrow: ""
 heroDescription: "Learn why taking photographs after a car accident in Michigan is crucial for your personal injury claim. Our Ann Arbor attorneys explain what to document at the accident scene and how photos can help prove fault and damages."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

@@ -4,6 +4,7 @@ description: "Learn the critical steps to take after a car accident in Michigan.
 heroTitle: "What to Do After a Car Accident"
 heroEyebrow: ""
 heroDescription: "Learn the critical steps to take after a car accident in Michigan. From calling 911 to documenting the scene and exchanging information, our experienced Ann Arbor attorneys explain how to protect your rights and ensure your safety."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

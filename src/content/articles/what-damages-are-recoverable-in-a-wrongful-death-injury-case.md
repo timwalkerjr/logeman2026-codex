@@ -4,6 +4,7 @@ description: "Learn about the types of damages recoverable in a Michigan wrongfu
 heroTitle: "Damages Recoverable in Wrongful Death Cases"
 heroEyebrow: ""
 heroDescription: "Learn about the types of damages recoverable in a Michigan wrongful death case. Our experienced attorneys explain economic and non-economic damages, who can file, and how the claims process works."
+heroPracticeArea: "wrongful-death"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

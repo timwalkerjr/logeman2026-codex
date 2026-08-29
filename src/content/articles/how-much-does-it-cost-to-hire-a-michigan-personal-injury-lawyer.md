@@ -4,6 +4,7 @@ description: "Learn what it costs to hire a Michigan personal injury lawyer. Mos
 heroTitle: "How Much Does It Cost to Hire a Michigan Personal Injury Lawyer?"
 heroEyebrow: ""
 heroDescription: "Learn what it costs to hire a Michigan personal injury lawyer. Most charge 1/3 contingency fees with no upfront costs. Find out how to choose the best attorney for your case and protect your rights."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

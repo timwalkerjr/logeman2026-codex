@@ -4,6 +4,7 @@ description: "Learn how pedestrian fault affects injury compensation in Michigan
 heroTitle: "How Pedestrian Fault Impacts Injury Lawsuits in Michigan"
 heroEyebrow: ""
 heroDescription: "Learn how pedestrian fault affects injury compensation in Michigan. Understand comparative negligence, behaviors that impact fault percentages, and how to protect your rights after a pedestrian accident."
+heroPracticeArea: "pedestrian-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

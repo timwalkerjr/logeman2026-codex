@@ -4,6 +4,7 @@ description: "Learn how pain and suffering damages are calculated in personal in
 heroTitle: "How to Calculate Pain and Suffering Damages in a Personal Injury Lawsuit"
 heroEyebrow: ""
 heroDescription: "Learn how pain and suffering damages are calculated in personal injury cases. Understand multiplier and per diem formulas, factors affecting compensation, and how attorneys determine non-economic damages for your claim."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

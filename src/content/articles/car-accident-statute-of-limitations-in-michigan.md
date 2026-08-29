@@ -4,6 +4,7 @@ description: "Learn about Michigan's 3-year statute of limitations for car accid
 heroTitle: "Car Accident Statute of Limitations in Michigan"
 heroEyebrow: ""
 heroDescription: "Learn about Michigan's 3-year statute of limitations for car accident claims, including exceptions, the discovery rule, and how to protect your right to compensation."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

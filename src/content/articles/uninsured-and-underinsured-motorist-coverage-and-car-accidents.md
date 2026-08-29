@@ -4,6 +4,7 @@ description: "Learn how uninsured and underinsured motorist coverage protects yo
 heroTitle: "Uninsured & Underinsured Motorist Coverage in Michigan"
 heroEyebrow: ""
 heroDescription: "Learn how uninsured and underinsured motorist coverage protects you after a car accident in Michigan. Our experienced attorneys explain policy exclusions, coverage requirements, and how to maximize your compensation when dealing with inadequately insured drivers."
+heroPracticeArea: "uninsured-underinsured-motorist-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

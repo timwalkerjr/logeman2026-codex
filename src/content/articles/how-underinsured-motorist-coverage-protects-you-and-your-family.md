@@ -4,6 +4,7 @@ description: "Learn how underinsured motorist coverage protects you when at-faul
 heroTitle: "Underinsured Motorist Coverage: How It Protects Your Family"
 heroEyebrow: ""
 heroDescription: "Learn how underinsured motorist coverage protects you when at-fault drivers lack adequate insurance. Our Ann Arbor law firm secured a $1.25M verdict in an underinsured motorist case."
+heroPracticeArea: "uninsured-underinsured-motorist-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

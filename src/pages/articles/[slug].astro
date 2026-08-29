@@ -15,28 +15,34 @@ import LocationMap from '@/components/home/LocationMap.astro';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
+  const practiceAreas = await getCollection('practiceAreas');
+  const practiceAreasById = new Map(practiceAreas.map((entry) => [entry.id, entry]));
 
-  return articles.map((entry) => ({
-    params: { slug: entry.id },
-    props: { entry },
-  }));
+  return articles.map((entry) => {
+    const heroPracticeArea = practiceAreasById.get(entry.data.heroPracticeArea);
+    if (!heroPracticeArea) {
+      throw new Error(`Article ${entry.id} maps to missing practice area ${entry.data.heroPracticeArea}`);
+    }
+
+    return {
+      params: { slug: entry.id },
+      props: { entry, heroPracticeArea },
+    };
+  });
 }
 
 interface Props {
   entry: CollectionEntry<'articles'>;
+  heroPracticeArea: CollectionEntry<'practiceAreas'>;
 }
 
-const { entry } = Astro.props;
+const { entry, heroPracticeArea } = Astro.props;
 const { Content } = await render(entry);
 const {
   title,
   description,
   heroTitle,
-  heroEyebrow,
   heroDescription,
-  heroImage,
-  heroImageSrcset,
-  heroImageAlt,
   canonicalUrl,
   faqs,
   statsVariant,
@@ -44,6 +50,12 @@ const {
   testimonialsVariant,
   mapVariant,
 } = entry.data;
+const {
+  heroEyebrow,
+  heroImage,
+  heroImageSrcset,
+  heroImageAlt,
+} = heroPracticeArea.data;
 ---
 
 <BaseLayout

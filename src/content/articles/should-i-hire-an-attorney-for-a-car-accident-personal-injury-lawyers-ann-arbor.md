@@ -4,6 +4,7 @@ description: "Wondering if you need a car accident attorney? Learn when to hire 
 heroTitle: "Should I Hire a Car Accident Attorney?"
 heroEyebrow: ""
 heroDescription: "Wondering if you need a car accident attorney? Learn when to hire a lawyer, what steps to take after an accident, and how Logeman & Iafrate's experienced Ann Arbor attorneys can help you recover the compensation you deserve. Free consultation."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

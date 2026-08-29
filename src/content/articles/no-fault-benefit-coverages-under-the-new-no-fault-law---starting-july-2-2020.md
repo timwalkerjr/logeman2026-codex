@@ -4,6 +4,7 @@ description: "Learn about the six PIP coverage options under Michigan's revised 
 heroTitle: "Michigan No-Fault PIP Coverage Options"
 heroEyebrow: ""
 heroDescription: "Learn about the six PIP coverage options under Michigan's revised No-Fault Law effective July 2, 2020. Our experienced attorneys help you understand unlimited lifetime coverage, $500K, $250K, $50K Medicaid, and opt-out provisions."
+heroPracticeArea: "michigan-no-fault-insurance-claims"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

@@ -4,6 +4,7 @@ description: "Even if a car accident wasn't your fault, consulting with an exper
 heroTitle: "Should I Hire a Lawyer After a Car Accident That Wasn't My Fault?"
 heroEyebrow: ""
 heroDescription: "Even if a car accident wasn't your fault, consulting with an experienced Michigan car accident attorney can help you maximize compensation and protect your rights."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"

@@ -4,6 +4,7 @@ description: "Learn why hiring an independent case manager is crucial after a se
 heroTitle: "Should You Hire a Case Manager After an Auto Accident?"
 heroEyebrow: ""
 heroDescription: "Learn why hiring an independent case manager is crucial after a serious auto accident. Discover how case managers help navigate medical care, insurance claims, and coordinate your recovery process."
+heroPracticeArea: "car-accidents"
 heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
 heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
 heroImageAlt: "Lady Justice holding the scales of justice"
