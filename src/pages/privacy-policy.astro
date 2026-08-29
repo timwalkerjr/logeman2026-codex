@@ -1,11 +1,17 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
 import ArticleContent from '@/components/articles/ArticleContent.astro';
 import StatsBar from '@/components/articles/StatsBar.astro';
 import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
 import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
 ---
 <BaseLayout title="Privacy Policy | Logeman & Iafrate, P.C." description="Learn how Logeman & Iafrate protects your personal information. Read our privacy policy regarding data collection and use on our website.">
+  <ArticleHero
+    variant="simple"
+    title="Privacy Policy"
+    description="We are committed to protecting customer information while providing personalized service. Any and all information collected through our Internet sites will be kept strictly confidential and will not be sold, rented, or otherwise disclosed to any third party not actively engaged in providing services to our customers."
+  />
   <ArticleContent>
     <h2><strong>Our Privacy Policy</strong></h2>
     <p>We are committed to protecting customer information while providing personalized service. Any and all information collected through our Internet sites will be kept strictly confidential and will not be sold, rented, or otherwise disclosed to any third party not actively engaged in providing services to our customers. Information voluntarily provided through our Website may be used to provide personalized services, conduct business, maintain accounts, and provide promotions or research directly related to business purposes.</p>

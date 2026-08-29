@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
 import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
 import StatsBar from '@/components/articles/StatsBar.astro';
 import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
@@ -37,6 +38,15 @@ const practiceAreas = [
 ];
 ---
 <BaseLayout title="Logeman & Iafrate, P.C. Practice Areas | Ann Arbor Personal Injury Lawyers" description="With over 60 years of combined experience, our team offers free consultations and operates on a contingency-fee basis, meaning we do not charge fees unless we recover damages for you.">
+  <ArticleHero
+    variant="background"
+    eyebrow="Compassionate And Aggressive Legal Representation For Injury Victims"
+    title="Our Firm's Practice Areas"
+    description="When you face the aftermath of an accident, navigating through your personal injury claim can feel overwhelming and complex while trying to heal from physical injuries. At Logeman & Iafrate, P.C., in Ann Arbor, we understand the physical, emotional and financial toll an injury can take on you and your family. That is why we dedicate ourselves to advocating for your rights and securing the compensation you deserve."
+    image="https://pagesmith-cdn.com/881ce63c/images/69406c0ce85ce8d8904524b7_693ad97ca5fa6617b9679f45_almani-aXtYkEMJih4-unsplash-1024.webp"
+    imageSrcset="https://pagesmith-cdn.com/881ce63c/images/69406c0ce85ce8d8904524b7_693ad97ca5fa6617b9679f45_almani-aXtYkEMJih4-unsplash-640.webp 640w, https://pagesmith-cdn.com/881ce63c/images/69406c0ce85ce8d8904524b7_693ad97ca5fa6617b9679f45_almani-aXtYkEMJih4-unsplash-1024.webp 1024w, https://pagesmith-cdn.com/881ce63c/images/69406c0ce85ce8d8904524b7_693ad97ca5fa6617b9679f45_almani-aXtYkEMJih4-unsplash-1536.webp 1536w"
+    imageAlt="Motorcyclist riding a Harley-Davidson motorcycle"
+  />
   <ArticleContent>
     <p>We have over 6 decades of combined personal injury law success.</p>
     <h2><strong>Practice Areas and Case Types</strong></h2>

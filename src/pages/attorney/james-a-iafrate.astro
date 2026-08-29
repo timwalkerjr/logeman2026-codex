@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
 
 const education = [
   {
@@ -60,14 +61,19 @@ const classesAndSeminars = [
   description="Attorney James A. Iafrate brings decades of trial experience to personal injury cases in Michigan. Learn about his background and commitment to injured clients."
   canonicalUrl="https://www.logeman.com/attorney/james-a-iafrate/"
 >
+  <ArticleHero
+    variant="simple"
+    title="James A. Iafrate, Partner"
+    description="Personal injury attorney with three decades of experience fighting for injured clients in Michigan. He's known for compassionate and aggressive legal representation for injury victims."
+  />
   <section class="bg-background py-12">
     <div class="max-w-[1440px] mx-auto px-6">
       <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
         <div class="lg:col-span-8 space-y-8">
           <div>
-            <h1 class="text-[44px] font-bold text-foreground leading-[1.25] mb-6">
+            <h2 class="text-[44px] font-bold text-foreground leading-[1.25] mb-6">
               Meet James A. Iafrate
-            </h1>
+            </h2>
 
             <img
               src="https://pagesmith-cdn.com/881ce63c/images/693a53edf7b9715e7b7f58e3_james-a-iafrate-bio-photo-1024.webp"

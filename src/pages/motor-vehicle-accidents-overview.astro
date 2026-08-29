@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import MotorVehicleHero from '@/components/motor-vehicle/MotorVehicleHero.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
 import MotorVehicleQuestions from '@/components/motor-vehicle/MotorVehicleQuestions.astro';
 import MotorVehicleCTA from '@/components/motor-vehicle/MotorVehicleCTA.astro';
 import ArticleStats from '@/components/articles/ArticleStats.astro';
@@ -12,6 +13,13 @@ const title = "Michigan Car Accident Lawyers | Logeman & Iafrate, P.C.";
 const description = "Experienced Michigan auto accident attorneys handling car, truck, and motorcycle crashes. We navigate no-fault claims and fight for full compensation.";
 ---
 <BaseLayout title={title} description={description}>
+  <ArticleHero
+    title="Motor Vehicle Accidents Overview"
+    description="At Logeman & Iafrate, P.C., we have the experience to help you mount a strong case and seek compensation for the harm you have suffered. We offer personal injury guidance on a contingency basis, meaning that you won't pay unless we win your case."
+    image="https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
+    imageSrcset="https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w, https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"
+    imageAlt="Lady Justice holding the scales of justice"
+  />
   <MotorVehicleHero />
   <MotorVehicleQuestions />
   <MotorVehicleCTA />

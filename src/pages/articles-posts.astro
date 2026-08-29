@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
 
 const recentArticles = [
   {
@@ -103,11 +104,19 @@ const recentNews = [
   description="Explore articles on Michigan personal injury law, no-fault insurance, and your legal rights. Stay informed with insights from our experienced attorneys."
   canonicalUrl="https://www.logeman.com/articles-posts/"
 >
+  <ArticleHero
+    variant="background"
+    eyebrow="Compassionate And Aggressive Legal Representation For Injury Victims"
+    title="Recent Articles and Posts"
+    description="When you face the aftermath of an accident, navigating through your personal injury claim can feel overwhelming and complex while trying to heal from physical injuries. At Logeman & Iafrate, P.C., in Ann Arbor, we understand the physical, emotional and financial toll an injury can take on you and your family. That is why we dedicate ourselves to advocating for your rights and securing the compensation you deserve."
+    image="https://pagesmith-cdn.com/881ce63c/images/693ae3bfbd437f799d63087e_0-1024.webp"
+    imageAlt="Logeman & Iafrate attorneys"
+  />
   <section class="bg-background py-12">
     <div class="max-w-[1440px] mx-auto px-6">
-      <h1 class="text-[36px] font-bold text-foreground leading-[1.3] mb-6">
+      <h2 class="text-[36px] font-bold text-foreground leading-[1.3] mb-6">
         Personal Injury Legal Resources
-      </h1>
+      </h2>
       <p class="text-[16px] text-foreground leading-[1.6] mb-12">
         We have over 6 decades of combined personal injury law success.
       </p>

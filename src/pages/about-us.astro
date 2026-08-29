@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleHero from '../components/articles/ArticleHero.astro';
 import AboutHero from '../components/about/AboutHero.astro';
 import AboutStory from '../components/about/AboutStory.astro';
 import ArticleStats from '../components/articles/ArticleStats.astro';
@@ -11,6 +12,14 @@ const title = "About Our Firm | Logeman & Iafrate Personal Injury Attorneys";
 const description = "Learn about Logeman & Iafrate's 45+ year commitment to injured clients in Michigan. Our trial-ready approach gets results when other firms say no.";
 ---
 <BaseLayout title={title} description={description}>
+  <ArticleHero
+    eyebrow="Helping You On Your Path To Justice After An Injury In Ann Arbor"
+    title="About Logeman & Iafrate, P.C."
+    description="After suffering injuries in a life-altering accident or losing a loved one due to someone else's negligence, you deserve the chance to fight for your future and obtain the compensation you need to move forward."
+    image="https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
+    imageSrcset="https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w, https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"
+    imageAlt="Lady Justice holding the scales of justice"
+  />
   <AboutHero />
   <AboutStory />
   <ArticleStats />

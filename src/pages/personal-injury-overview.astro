@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PersonalInjuryHero from '@/components/personal-injury/PersonalInjuryHero.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
 import PersonalInjuryQuestions from '@/components/personal-injury/PersonalInjuryQuestions.astro';
 import PersonalInjuryCTA from '@/components/personal-injury/PersonalInjuryCTA.astro';
 import ArticleStats from '@/components/articles/ArticleStats.astro';
@@ -12,6 +13,13 @@ const title = "Michigan Personal Injury Lawyers | Logeman & Iafrate, P.C.";
 const description = "Experienced Michigan personal injury attorneys handling complex claims others won't take. From car accidents to catastrophic injuries, we fight for maximum compensation.";
 ---
 <BaseLayout title={title} description={description}>
+  <ArticleHero
+    title="Personal Injury Overview"
+    description="When you face the aftermath of an accident, navigating through your personal injury claim can feel overwhelming and complex while trying to heal from physical injuries. At Logeman & Iafrate, P.C., in Ann Arbor, we understand the physical, emotional and financial toll an injury can take on you and your family. That is why we dedicate ourselves to advocating for your rights and securing the compensation you deserve."
+    image="https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
+    imageSrcset="https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w, https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"
+    imageAlt="Lady Justice holding the scales of justice"
+  />
   <PersonalInjuryHero />
   <PersonalInjuryQuestions />
   <PersonalInjuryCTA />

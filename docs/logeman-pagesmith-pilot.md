@@ -70,3 +70,12 @@
 - Astro check: no new diagnostics; the same 3 pre-existing type errors remain in `BlogLayout.astro` and `DocsLayout.astro`.
 - Every rendered practice-area page has exactly one H1, its production Webflow canonical, `noindex, nofollow`, an FAQ section, and a PageSmith CDN hero image.
 - The shared dynamic route does not import the unverified `StatsBar` or `ArticleStats` components.
+
+## Static-page hero restoration
+
+- Restored the live Webflow hero content and presentation on 14 site-level pages, beginning with About Us.
+- The shared `ArticleHero` now supports the three live-site hero families: split image, full-background image with the navy diagonal overlay, and solid navy editorial.
+- Page-specific hero copy and images were mapped from the corresponding live Webflow pages; the existing body-section headings were demoted where necessary so every route retains exactly one H1.
+- Desktop and mobile checks cover representative pages from all three hero families.
+- Verification: Astro build succeeds for all 191 routes; all 14 restored routes have exactly one H1, their matching `https://www.logeman.com/.../` canonical, and `noindex, nofollow`.
+- The same 3 pre-existing type errors remain in `BlogLayout.astro` and `DocsLayout.astro`; no new type-check diagnostics were introduced.
