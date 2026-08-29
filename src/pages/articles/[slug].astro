@@ -44,6 +44,10 @@ const {
   heroTitle,
   heroDescription,
   canonicalUrl,
+  ctaHeadline,
+  ctaText,
+  ctaButtonText,
+  ctaButtonLink,
   faqs,
   statsVariant,
   formVariant,
@@ -73,7 +77,12 @@ const {
     imageAlt={heroImageAlt}
   />
 
-  <ArticleContent>
+  <ArticleContent
+    ctaHeadline={ctaHeadline}
+    ctaText={ctaText}
+    ctaButtonText={ctaButtonText}
+    ctaButtonLink={ctaButtonLink}
+  >
     <Content />
   </ArticleContent>
 

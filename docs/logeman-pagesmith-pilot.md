@@ -89,6 +89,7 @@
 - The shared route preserves each source page's statistics, form, testimonials, and map choices.
 - Each article carries a `heroPracticeArea` relationship. The shared route keeps the article's own H1 and description while using the mapped practice area's eyebrow, responsive image set, and image alt text.
 - `src/pages/articles-posts.astro` now reads the Articles collection and maps all 47 entries. Card images are mapped by slug from the corresponding live Webflow collection cards across all pagination pages (44 distinct images across 47 articles); existing featured excerpts retain their original priority.
+- The Articles schema now includes `ctaHeadline`, `ctaText`, `ctaButtonText`, and `ctaButtonLink`. Every article has a topic-specific free-case-review CTA rendered below its dynamic table of contents in the shared sidebar.
 - `scripts/article-card-image-map.mjs` records the read-only Webflow image mapping, and `scripts/apply-article-card-images.mjs` applies it deterministically to the collection records.
 - The former 47 one-file-per-route Astro pages were removed after migration. `scripts/migrate-articles-to-collection.mjs` documents and reproduces the extraction and normalization logic from a clean pre-migration checkout.
 - Verification: all 47 rendered articles have exactly one H1, the corresponding `https://www.logeman.com/articles/.../` canonical, `noindex, nofollow`, and an FAQ section; all 247 FAQ items are preserved. No article renders literal or encoded HTML as a code block.

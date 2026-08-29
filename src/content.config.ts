@@ -109,6 +109,10 @@ const articles = defineCollection({
     canonicalUrl: z.string().url(),
     excerpt: z.string(),
     cardImage: z.string(),
+    ctaHeadline: z.string().default(''),
+    ctaText: z.string().default(''),
+    ctaButtonText: z.string().default(''),
+    ctaButtonLink: z.string().default(''),
     featuredOrder: z.number().optional(),
     faqs: z.array(z.object({
       question: z.string(),
