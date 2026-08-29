@@ -83,6 +83,10 @@ const practiceAreas = defineCollection({
     heroImageSrcset: z.array(z.string()).default([]),
     heroImageAlt: z.string(),
     canonicalUrl: z.string().url(),
+    ctaHeadline: z.string().default(''),
+    ctaText: z.string().default(''),
+    ctaButtonText: z.string().default(''),
+    ctaButtonLink: z.string().default(''),
     faqs: z.array(z.object({
       question: z.string(),
       answer: z.string(),
