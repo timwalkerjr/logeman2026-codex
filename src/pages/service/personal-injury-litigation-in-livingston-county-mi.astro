@@ -1,0 +1,100 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import ArticleStats from '@/components/articles/ArticleStats.astro';
+import FreeConsultationForm from '@/components/home/FreeConsultationForm.astro';
+import Testimonials from '@/components/home/Testimonials.astro';
+import LocationMap from '@/components/home/LocationMap.astro';
+
+const faqItems = [
+  {
+    question: "How long does personal injury litigation take in Michigan?",
+    answer: "Personal injury litigation timelines vary significantly based on case complexity, court schedules, and whether appeals occur. Simple cases might resolve within 12-18 months of filing. Complex cases involving catastrophic injuries, multiple defendants, or extensive discovery can take two to three years or longer. Michigan courts require mediation before trial, which may extend timelines but can facilitate resolution. Our attorneys work efficiently while thoroughly preparing your case for the best possible outcome."
+  },
+  {
+    question: "What happens during a deposition in my personal injury case?",
+    answer: "A deposition is sworn testimony taken under oath before trial. The opposing attorney asks questions while a court reporter records your answers. Depositions help both sides understand what witnesses will say at trial and preserve testimony. We thoroughly prepare clients for depositions, reviewing potential questions and explaining effective testimony techniques. Your deposition is critical—answers given under oath can be used at trial, so preparation is essential."
+  },
+  {
+    question: "Can I still settle my case after filing a lawsuit?",
+    answer: "Yes. Most personal injury lawsuits settle before trial, often after discovery reveals the strength of evidence or mediation facilitates productive discussions. Filing suit doesn't prevent settlement—it often encourages more serious negotiations when defendants realize you're prepared to litigate. We continue settlement discussions throughout litigation while simultaneously preparing for trial, ensuring you can accept fair offers or proceed to verdict depending on what's best for your case."
+  },
+  {
+    question: "What are summary disposition motions and how do they affect my case?",
+    answer: "Summary disposition motions ask the court to dismiss some or all claims before trial, arguing there's no genuine dispute of material fact requiring a jury. In personal injury cases, defendants frequently file motions challenging threshold injury requirements, causation, or duty. Successfully defeating these motions requires detailed legal briefing and supporting evidence. Our experience responding to summary disposition motions helps preserve cases that defendants attempt to dismiss prematurely."
+  },
+  {
+    question: "How much does personal injury litigation cost in Livingston County?",
+    answer: "We handle personal injury litigation on a contingency-fee basis, meaning you pay no legal fees unless we recover compensation for you. Our fee is a percentage of the recovery—if we don't win, you owe nothing. Litigation expenses including filing fees, deposition costs, and expert witness fees are typically advanced by the firm and reimbursed from settlement or verdict proceeds. This arrangement ensures everyone has access to experienced trial representation regardless of financial circumstances."
+  }
+];
+---
+<BaseLayout
+  title="Personal Injury Litigation Livingston County MI | Trial Lawyers"
+  description="Experienced Livingston County personal injury litigation attorneys with 45+ years trial success. When settlement fails, we fight in court. Free consultation. (734) 994-0200"
+>
+  <ArticleContent title="Personal Injury Litigation Livingston County MI">
+    <p>Personal injury litigation is the formal legal process of pursuing compensation through the court system when settlement negotiations fail. While many personal injury cases resolve through settlement, some require the full power of litigation to achieve justice. At Logeman & Iafrate, P.C., we've spent over 45 years preparing cases for trial and winning verdicts for Livingston County clients when insurance companies refuse fair compensation.</p>
+    <p>Insurance companies know which law firms are settlement mills that avoid courtrooms. They also know which attorneys are prepared to take cases all the way through trial. That distinction often determines whether an insurer makes a reasonable offer or drags out the process hoping you'll accept less. Our track record of million-dollar verdicts sends a clear message: we're trial-ready advocates who won't back down.</p>
+
+    <h2>When Personal Injury Litigation Becomes Necessary</h2>
+    <p>Most personal injury cases begin with insurance claims and settlement discussions. But litigation may become necessary when:</p>
+    <ul>
+      <li><strong>Insurance companies deny legitimate claims</strong> based on disputed liability, pre-existing condition arguments, or coverage defenses</li>
+      <li><strong>Settlement offers don't reflect true damages</strong> including future medical costs, ongoing care needs, or the full value of pain and suffering</li>
+      <li><strong>Multiple parties dispute fault</strong> requiring court proceedings to establish liability percentages</li>
+      <li><strong>Insurers use delay tactics</strong> hoping financial pressure forces you to accept inadequate compensation</li>
+      <li><strong>Complex legal questions arise</strong> regarding Michigan's threshold requirements, policy interpretations, or applicable statutes</li>
+    </ul>
+    <p>Litigation isn't the first choice—but it's often the only path to fair compensation when insurers won't negotiate reasonably.</p>
+
+    <h2>The Personal Injury Litigation Process in Michigan</h2>
+    <p>Understanding the litigation process helps you know what to expect when settlement fails. While every case follows its own timeline, most personal injury lawsuits in Michigan proceed through these stages:</p>
+    <h3>Pre-Litigation Investigation</h3>
+    <p>Before filing suit, we conduct thorough investigation gathering medical records, accident reports, witness statements, employment documentation, and expert opinions. This foundation is critical for building a case that can withstand summary judgment motions and trial challenges.</p>
+    <h3>Complaint and Answer</h3>
+    <p>We file a complaint in the appropriate Michigan court stating the legal basis for your claim and the damages you've suffered. The defendant responds with an answer, and the litigation formally begins. Michigan's statute of limitations—typically three years for personal injury claims—makes timely filing essential.</p>
+    <h3>Discovery Phase</h3>
+    <p>Discovery allows both sides to gather evidence through interrogatories, document requests, and depositions. We depose defense witnesses including insurance adjusters, independent medical examiners, and accident reconstructionists. Defendants depose our clients and their treating physicians. Thorough discovery preparation is critical for trial success.</p>
+    <h3>Motion Practice</h3>
+    <p>Defendants typically file motions to dismiss or for summary disposition challenging legal sufficiency, threshold injury requirements, or causation. We respond with detailed briefs and supporting evidence. Successfully defeating these motions requires deep knowledge of Michigan personal injury law.</p>
+    <h3>Mediation and Settlement Conferences</h3>
+    <p>Many Michigan courts require mediation before trial. A neutral mediator facilitates settlement discussions, but cannot impose a resolution. If mediation fails, cases proceed to trial—where our preparation shows its value.</p>
+    <h3>Trial</h3>
+    <p>At trial, we present evidence to a judge or jury, cross-examine defense witnesses, and argue why you deserve full compensation. Our attorneys have tried cases throughout Livingston County and Michigan, securing verdicts when insurers wouldn't settle fairly.</p>
+    <h3>Post-Trial and Appeals</h3>
+    <p>After verdict, either side may file post-trial motions or appeal. We protect favorable verdicts from appellate challenges and pursue appeals when trial court errors affected the outcome.</p>
+
+    <h2>Proving Your Case: What Litigation Requires</h2>
+    <p>Successful personal injury litigation demands substantial proof at every stage. Michigan law requires plaintiffs to establish:</p>
+    <p><strong>Duty and breach.</strong> The defendant owed you a duty of care and violated that duty through negligence, recklessness, or intentional conduct. This might be a driver's duty to obey traffic laws or a property owner's duty to maintain safe premises.</p>
+    <p><strong>Causation.</strong> The defendant's breach directly caused your injuries. Defense attorneys attack causation aggressively, arguing that pre-existing conditions, intervening causes, or unrelated factors explain your injuries.</p>
+    <p><strong>Damages.</strong> You suffered compensable harm including medical expenses, lost income, pain and suffering, and other losses. We work with medical experts, economists, and life care planners to document the full extent of damages.</p>
+    <p><strong>Threshold injury (for auto cases).</strong> Third-party auto negligence claims require proving serious impairment of body function—an objectively manifested impairment affecting your general ability to lead your normal life. This threshold frequently becomes the battleground in auto litigation.</p>
+
+    <h2>Why Trial-Ready Preparation Matters</h2>
+    <p>Insurance companies evaluate cases based on likely trial outcomes. When they know your attorney avoids courtrooms, they offer less. When they know your attorney has won significant verdicts, they negotiate more seriously.</p>
+    <p>Our trial-ready approach affects every stage of litigation. We prepare every case as if it will go to trial, retaining qualified experts, taking thorough depositions, and developing compelling trial themes. That preparation often leads to better settlement offers—but when it doesn't, we're ready to present your case to a Livingston County jury.</p>
+    <p>Our results speak for themselves. From million-dollar verdicts against insurance companies that denied legitimate claims to successful threshold determinations for clients other firms said couldn't meet the standard, we've proven our ability to win at trial.</p>
+
+    <h2>Livingston County Personal Injury Litigation Experience</h2>
+    <p>Livingston County personal injury litigation presents unique considerations. Local court procedures, judicial preferences, and jury pool characteristics all influence litigation strategy. Our experience in Livingston County Circuit Court provides valuable advantages including familiarity with local judges, understanding of scheduling practices, and insight into how juries evaluate different types of cases.</p>
+    <p>Whether your case involves a Brighton intersection collision, a Hartland premises liability claim, or a Howell workplace injury, we understand the local dynamics that affect litigation outcomes.</p>
+
+    <h2>Experienced Livingston County Personal Injury Litigators</h2>
+    <p>If you've been injured and settlement negotiations aren't producing fair results, litigation may be necessary to protect your rights. At Logeman & Iafrate, P.C., we provide experienced legal representation throughout the litigation process, from initial complaint through trial and appeal.</p>
+    <p>We handle personal injury litigation on a contingency-fee basis—you pay no legal fees unless we recover compensation for you. Our free consultation allows you to discuss your case with attorneys who have the trial experience and litigation skills to take on insurance companies that won't negotiate fairly.</p>
+    <p>Call us today at <strong>(734) 994-0200</strong> or fill out our online contact form to schedule your free consultation. When settlement isn't enough, we're prepared to fight for you in court.</p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <ArticleStats />
+
+  <FreeConsultationForm />
+
+  <Testimonials />
+
+  <LocationMap />
+</BaseLayout>

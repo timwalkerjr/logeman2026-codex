@@ -1,0 +1,97 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
+
+const faqs = [
+  {
+    question: "Why is Halloween the most dangerous night for child pedestrians?",
+    answer: "Halloween sees a significant increase in child pedestrian traffic during evening hours when visibility is reduced. Children are excited, often wearing dark costumes that limit visibility, and may dart between parked cars or cross streets unexpectedly while trick-or-treating."
+  },
+  {
+    question: "What time is most dangerous for children on Halloween?",
+    answer: "The deadliest hour for child pedestrian accidents on Halloween is between 6:00 and 7:00 p.m., when nearly one-fourth of all accidents occur. This coincides with peak trick-or-treating hours when darkness falls and traffic is heavy."
+  },
+  {
+    question: "What age group is at highest risk on Halloween?",
+    answer: "Children ages 12-15 experience the most fatalities on Halloween. This age group often trick-or-treats without adult supervision and may be more likely to take risks or become distracted while crossing streets."
+  },
+  {
+    question: "Where do most Halloween pedestrian accidents occur?",
+    answer: "Most Halloween pedestrian accidents happen in the middle of the block, away from intersections or crosswalks. Children often cross streets between parked cars or in poorly lit areas where drivers don't expect pedestrians."
+  },
+  {
+    question: "What should drivers do to prevent Halloween pedestrian accidents?",
+    answer: "Drivers should watch for children on roadways, medians, and curbs; enter and exit driveways and alleys carefully; reduce speed in residential areas; eliminate distractions; and consider avoiding driving during peak trick-or-treat hours if possible. New, inexperienced drivers should be discouraged from driving on Halloween."
+  },
+  {
+    question: "How can parents keep their children safe while trick-or-treating?",
+    answer: "Parents should accompany young children, plan and review safe routes, establish return times, add reflective tape to costumes, ensure costumes are fire-resistant, instruct children to stay in well-lit familiar areas, travel in groups, and inspect all treats before consumption."
+  }
+];
+---
+
+<BaseLayout
+  title="Halloween is a Scary Night to be a Child Pedestrian"
+  description="Halloween is the deadliest night for child pedestrians. Learn critical safety statistics, peak danger times, and essential tips for trick-or-treaters and drivers to prevent accidents."
+  canonicalUrl="https://www.logeman.com/posts/halloween-is-a-scary-night-to-be-a-child-pedestrian/"
+>
+  <ArticleHero title="Halloween is a Scary Night to be a Child Pedestrian" />
+
+  <ArticleContent>
+    <p>Children have a greater chance of being <a href="/motor-vehicle-accidents-overview/pedestrian-accident-attorney-ann-arbor-mi/">injured by a car</a> on Halloween than any other day of the year.</p>
+
+    <h2>The Deadliest Hour</h2>
+    <p>Nearly one-fourth of accidents occurred from 6:00 – 7:00 p.m.</p>
+
+    <h2>Middle of the Block Most Hazardous</h2>
+    <p>Most of the accidents occurred away from an intersection or crosswalk.</p>
+
+    <h2>Ages Most at Risk on Halloween</h2>
+    <p>Most of the fatalities occurred with children ages 12-15.</p>
+
+    <h2>Drivers Who Posed the Greatest Risk</h2>
+    <p>Young drivers account for nearly one-third of all <a href="/">fatal accidents</a> involving child pedestrians on Halloween.</p>
+
+    <h2>Safety Tips for Trick-or-Treaters to Avoid Personal Injury Accidents</h2>
+    <p>Keep these tips in mind when your children are out on Halloween night:</p>
+    <ul>
+      <li>A responsible adult should accompany young children on the neighborhood rounds.</li>
+      <li>Fasten reflective tape to costumes and bags.</li>
+      <li>If your older children are going alone, plan and review a route acceptable to you.</li>
+      <li>Agree on a specific time child should return home.</li>
+      <li>All costumes should be fire resistant.</li>
+      <li>Instruct children to travel only in familiar, well-lit areas and stick with their friends.</li>
+      <li>Tell your children not to eat any treats until they return home.</li>
+    </ul>
+
+    <h2><a href="https://www.nsc.org/home-safety/tools-resources/seasonal-safety/autumn/halloween">See National Safety Council Safety Tips</a></h2>
+
+    <h2>Safety Tips for Drivers to Avoid Personal Injury Accidents</h2>
+    <p>The National Safety Council offers these additional safety tips for parents – and anyone who plans to be on the road during trick-or-treat hours.</p>
+    <ul>
+      <li>Watch for children walking on roadways, medians and curbs.</li>
+      <li>Enter and exit driveways, alleys and crosswalks carefully.</li>
+      <li>Discourage new, inexperienced drivers from driving on Halloween, especially during trick-or-treat hours.</li>
+    </ul>
+
+    <p>If you're looking for an experienced <a href="/personal-injury-overview/">personal injury attorney</a> you can trust in Michigan, please contact us online at <a href="/">logeman.com</a>, Logeman, Iafrate & Logeman, P.C. today or call <a href="tel:+1-866-992-0200">(866) 992-0200</a> toll free, for a Free Consultation.</p>
+
+    <p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqs} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+
+  <ArticleMap />
+</BaseLayout>

@@ -1,0 +1,92 @@
+---
+const testimonials = [
+  {
+    quoteTitle: "If I could give them 100 stars I would!",
+    text: "\"At the lowest point in my life they were there for me and got more than I expected. Mr. Logeman was amazing and Cheryl his assistant was so caring and professional. I would recommend them to anyone with a personal injury or accident. They went above and beyond for my son and I. I will forever be in their debt!\"",
+    author: "Vivian S."
+  },
+  {
+    quoteTitle: "They did wonderfully in winning our case!",
+    text: "\"We were referred for a personal injury motorcycle accident. We had no idea even where to begin, but the caring and professional team reassured us and took off a lot of stress. They did wonderfully in winning our case, and were always great at communicating where the case was at and what was needed. I would highly recommend and if we were to ever need their services again, I wouldn't think twice about calling them up.\"",
+    author: "Ashley B."
+  },
+  {
+    quoteTitle: "I could not have asked for better representation!",
+    text: "\"Adrienne Logeman is an exceptional auto injury attorney. Adrienne put me at ease and explained every step of the process. She was composed, professional, polite and extremely competent. The jury returned a unanimous verdict in our favor. I could not have asked for better representation and care. I am very thankful for her. An incredible experience.\"",
+    author: "Robert A."
+  },
+  {
+    quoteTitle: "I truly believe you could not find a better firm to work with.",
+    text: "\"Jim Iafrate and his staff are wonderful to work with, professional, compassionate, and do everything in their power when working on your case. I was always part of the process as communication was timely. Additionally, they know the law and will not be bullied by big insurance companies.\"",
+    author: "Joannie E."
+  },
+  {
+    quoteTitle: "Jim was always available when we needed him to answer questions!",
+    text: "\"Jim handled our case resulting from a very bad automobile accident. Both my husband and I were injured. He is very personable and efficient. He came to our home to get the details of the accident and continued to provide excellent handling of our case to the end when he reached an excellent settlement for us. We feel we became friends during this whole process.\"",
+    author: "Joan F."
+  },
+  {
+    quoteTitle: "I cannot recommended them highly enough!",
+    text: "\"I'm so grateful to Logeman & lafrate for taking care of my legal needs for my case. The entire staff are exceptional, professional, communicate well during the entire process.\"",
+    author: "D June"
+  },
+  {
+    quoteTitle: "By far the best lawyer I've ever had!",
+    text: "\"I had the pleasure of Jim Iafrate representing me. He was professional, had excellent communication skills and is trustworthy. He always kept me up-to date, was responsive and worked diligently. His abilities enabled us to settled my case in a timely manor. Thanks for your hard work Jim!\"",
+    author: "Lana D."
+  },
+  {
+    quoteTitle: "I can not say enough about this firm they continue to advocate for me!",
+    text: "\"I was in 2 different catastrophic car accidents. Jim Iafrate has been my attorney for many years. I can say that without a doubt he is the best attorney in this field. Jim and his staff are professional and compassionate. I highly recommend him to anyone looking for a attorney that has been in a car accident. Jim will go above and beyond for his clients.\"",
+    author: "Debra Q."
+  },
+  {
+    quoteTitle: "My wife and I strongly recommend this law firm and are grateful for all their efforts.",
+    text: "\"The attorneys at Logeman,Iafrate and Logeman were absolutely fantastic and professional in handling our case from a severe automobile accident. They provided constant support and guidance in making sure all of our medical needs were met. The staff at this firm was so helpful in all aspects of the case and subsequent trial and settlement.\"",
+    author: "Vince G."
+  },
+  {
+    quoteTitle: "I know that we can always trust their advice!",
+    text: "\"I work with individuals that have suffered a brain injury because of an auto accident. This law practice has always been an amazing resource for them. They always put their clients first and I know that we can always trust their advice.\"",
+    author: "Courtney W."
+  },
+  {
+    quoteTitle: "I would recommend James and his office to anyone!",
+    text: "\"James and his team worked right beside our entire family during the whole process and even after. James was always available and fought hard to get my family what we deserved. He didn't back down and was uplifting through the entire process. Not only was I proud to have him as our lawyer, we were even prouder that we can now call him a friend.\"",
+    author: "Rob K."
+  }
+];
+---
+
+<section class="py-20 bg-dark-background">
+  <div class="max-w-[1440px] mx-auto px-6">
+    <div class="text-center max-w-[800px] mx-auto mb-14">
+      <h2 class="text-[36px] font-bold text-dark-foreground mb-3">What Our Clients Say About Us</h2>
+      <p class="text-dark-muted-foreground text-[18px]">Cases won, lives changed, and we are happy to have helped each one of our clients.</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {testimonials.map((t) => (
+        <div class="bg-[hsl(215,96%,10%)] rounded-[8px] p-8 border border-white/10 text-white">
+          <div class="flex gap-1 mb-4">
+            {[1,2,3,4,5].map(() => (
+              <svg viewBox="0 0 24 24" fill="#FFB800" class="w-5 h-5" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+              </svg>
+            ))}
+          </div>
+          <h3 class="font-bold text-[18px] mb-3">{t.quoteTitle}</h3>
+          <p class="text-white/80 text-[15px] leading-[1.6] mb-4">{t.text}</p>
+          <div class="flex items-center gap-2">
+            <img src="https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg" alt="Google" class="w-5 h-5" />
+            <span class="text-white/70 text-[14px] font-medium">{t.author}</span>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <div class="text-center mt-10">
+      <a href="/client-testimonials" class="inline-block bg-primary text-primary-foreground border border-primary px-6 py-3 rounded-[4px] font-medium text-[16px] hover:bg-primary-hover transition-colors">See More Reviews and Testimonials</a>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,56 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PracticeAreaHero from '@/components/practice-area/PracticeAreaHero.astro';
+import PracticeAreaAttorneys from '@/components/practice-area/PracticeAreaAttorneys.astro';
+import PracticeAreaFAQ from '@/components/practice-area/PracticeAreaFAQ.astro';
+import FreeConsultationForm from '@/components/home/FreeConsultationForm.astro';
+import Testimonials from '@/components/home/Testimonials.astro';
+import LocationMap from '@/components/home/LocationMap.astro';
+
+const faqItems = [
+  { question: "What is uninsured motorist coverage?", answer: "Uninsured motorist coverage is an additional feature of your auto insurance policy that provides protection when you're injured by a driver who has no insurance. This coverage helps ensure you're not left bearing the financial burden of an accident you didn't cause." },
+  { question: "How does underinsured motorist coverage work?", answer: "Underinsured motorist coverage applies when the at-fault driver has some insurance, but not enough to cover your full damages. It allows you to claim the difference from your own policy. For example, if your damages total $100,000 and the other driver's insurance only covers $50,000, your underinsured motorist coverage can help cover the remaining $50,000." },
+  { question: "What should I do immediately after an accident with an uninsured driver?", answer: "First, ensure everyone's safety and call emergency services. Exchange information with the other driver and take photos of the scene if possible. Seek immediate medical care, even if you feel fine, as some injuries may not be immediately apparent. Report the accident to your insurance company and contact Logeman & Iafrate, P.C., as soon as possible for legal guidance." },
+  { question: "Do I need uninsured motorist coverage in Michigan?", answer: "While all Michigan drivers are required by law to carry liability insurance, not everyone complies. Without uninsured motorist coverage on your own policy, your options for recovery may be severely limited if you're hit by an uninsured driver. This coverage is highly recommended to protect yourself financially." },
+  { question: "How can Logeman & Iafrate help with my uninsured motorist claim?", answer: "Our attorneys have over 60 years of combined experience handling uninsured and underinsured motorist claims. We assist with filing your no-fault insurance claims, navigate the complex claims process, negotiate with insurance providers, and fight to secure the full compensation you deserve for your injuries and losses. We work on a contingency-fee basis, so you pay nothing unless we win your case." }
+];
+---
+
+<BaseLayout
+  title="Uninsured & Underinsured Motorist Accident Lawyers | Ann Arbor MI"
+  description="Injured by an uninsured or underinsured driver in Michigan? Logeman & Iafrate's experienced attorneys help you recover compensation. Free consultation. Call (734) 994-0200."
+>
+  <PracticeAreaHero title="Handling Uninsured And Underinsured Motorist Claims In Ann Arbor">
+    <p>In Michigan, while all drivers are required by law to carry liability insurance, not everyone adheres to this mandate. This oversight can lead to significant complications if you are involved in an accident with an uninsured or underinsured driver. Understanding your rights and the steps to take in such situations is crucial, and our attorneys at Logeman & Iafrate, P.C., are here to guide you through every step.</p>
+    <p>Our attorneys have over 60 years of combined experience and are well-versed in dealing with the nuances of uninsured motorist claims. We strive to ensure that you are not left bearing the financial burden of an accident you did not cause. From navigating the claims process to negotiating with insurance providers, we are committed to securing the compensation you deserve for your injuries and related losses.</p>
+
+    <h2>What Happens In An Accident With An Uninsured Driver?</h2>
+    <p>If you are <a href="/motor-vehicle-accidents-overview/">injured by a driver</a> who lacks insurance, the path to compensation can be complex. Without uninsured motorist coverage on your own policy, your options for recovery may be severely limited. This coverage is an additional feature of your auto insurance policy that provides protection when the at-fault driver has no insurance.</p>
+
+    <h2>The Role Of Underinsured Motorist Coverage</h2>
+    <p>Even if the at-fault driver has some level of insurance, it may not be enough to cover the full extent of your damages. Underinsured motorist coverage comes into play here, allowing you to claim the difference from your own policy. For example, if your total damages amount to $100,000 and the other driver's insurance covers only $50,000, your underinsured motorist coverage can help cover the remaining $50,000.</p>
+
+    <h2>Essential Steps To Take At The Accident Scene And Throughout The Process</h2>
+    <p><strong>At the scene:</strong> Ensure everyone's safety and call emergency services. Exchange information with the other driver and take photos of the scene if possible.</p>
+    <p><strong>Medical attention:</strong> Seek immediate medical care, even if you feel fine. Some injuries may not be immediately apparent.</p>
+    <p><strong>Report the accident:</strong> Notify your insurance company about the accident. Be factual about the details, but avoid admitting fault.</p>
+    <p><strong>Consult with our attorneys:</strong> Contact us at Logeman & Iafrate, P.C., as soon as possible. We can help with everything from filing claims to handling negotiations with insurers.</p>
+
+    <h2>Why Choose Logeman & Iafrate, P.C.?</h2>
+    <p>Our firm is not only proficient in handling uninsured and underinsured motorist claims but is also a leader in Michigan no-fault insurance law. We offer assistance with filing your no-fault insurance claims, ensuring that you maximize the benefits you are entitled to, regardless of who is at fault.</p>
+    <p>We represent clients throughout Michigan, including Ann Arbor and Detroit. Our commitment is to help you recover full and fair compensation for your economic losses, pain, and suffering. We understand the challenges you face and are here to support you at every turn.</p>
+
+    <h2>Contact Us Today To Get Started On Your Case</h2>
+    <p>If you've been involved in an accident with an uninsured or underinsured driver, don't navigate the aftermath alone. Contact Logeman & Iafrate, P.C., for comprehensive legal support. Our dedicated team is ready to help you recover the compensation you need to move forward from this disruptive event. To schedule a free consultation, call us at (734) 228-4339 or fill out our online <a href="/contact/">contact form</a>. We take cases on a contingency-fee basis, meaning you never have to worry about up-front costs until we win compensation for you.</p>
+  </PracticeAreaHero>
+
+  <PracticeAreaAttorneys />
+
+  <Testimonials />
+
+  <FreeConsultationForm />
+
+  <PracticeAreaFAQ items={faqItems} />
+
+  <LocationMap />
+</BaseLayout>

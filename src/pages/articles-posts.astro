@@ -1,0 +1,182 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+
+const recentArticles = [
+  {
+    title: "What to Do if You Are Injured in a Hit-and-Run Accident",
+    excerpt: "After securing your medical needs and contacting 911 if necessary, the first step is to contact the police immediately. It is very important to properly document the incident and to maximize the ability of law...",
+    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7c1f4a0256dfbeb4af_6934905cfa866f743ff0ebd6_69343de43ee8b90d83b0edc6_6931aeb78a1da6e837596c43_6930e47f2951a368fe9d811b_6930e2953573b35f057c907b_1764659007901-auto-accident-injury-law024-1536.webp",
+    url: "/articles/what-to-do-if-you-are-injured-in-a-hit-and-run-accident-ded4e"
+  },
+  {
+    title: "What to Do After a Car Accident",
+    excerpt: "If you or a family member are involved in a car accident, there are steps you should take to help ensure the safety of everyone involved. You should follow these steps in an accident when possible:",
+    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7cdd4f907ac7d1d239_6934905ce3ac2fc4d0679c0e_69343d26290a5898ac030128_6931c6043e703751deb3312c_6930dfa6f09ab4ae548b469b_photo-1650157192590-f5c12d899906-1024.webp",
+    url: "/articles/what-to-do-after-a-car-accident"
+  },
+  {
+    title: "Who Pays After a Rideshare Collision?",
+    excerpt: "Rideshare vehicles are beneficial for many parties. Rideshare companies secure revenue by facilitating trips. The independent contractors who drive for them can control their work schedules or augment the wages they...",
+    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7c8ec7a892ea32fa1c_6934905c3426eb9a7a168a79_69343d265dfda7dc53cd48f6_6931b6ac90766af8119b562b_6930c898e9d71c3b174e5230_photo-1615929362369-4af8423ebd68-1024.webp",
+    url: "/articles/who-pays-after-a-rideshare-collision"
+  },
+  {
+    title: "What Steps Should You Take After a Car Accident Involving Personal Injury?",
+    excerpt: "In order to protect you and your family after a serious car accident where you or family members are injured, you should make sure to do the following:",
+    image: "https://pagesmith-cdn.com/881ce63c/images/693acef1aca637d1607aa0d8_693a6a5280b8b70032dc506a_image-0009-1024.webp",
+    url: "/articles/what-steps-should-you-take-after-a-car-accident-involving-personal-injury"
+  },
+  {
+    title: "What Does it Mean When People Say \"Michigan is a No-Fault State\"?",
+    excerpt: "Historically, Michigan has been a \"no-fault state\" for car accidents. After the amendment to the No-Fault Law in May of 2019, the rules regarding available coverage and benefits were significantly changed, and Michigan...",
+    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7c3e0c4ea85f9c4f95_6934905cb667facffe493830_69343de45b4a15d0e1e9c621_6931fa0116a150a86ca8b276_6930d2790d3ad66eca5ad133_photo-1541747277704-ef7fb8e1a31c-1024.webp",
+    url: "/articles/what-does-it-mean-when-people-say-michigan-is-a-no-fault-state"
+  },
+  {
+    title: "What Damages Are Recoverable in a Wrongful Death Injury Case",
+    excerpt: "There are different categories of damages recoverable in a wrongful death case in Michigan. A lawsuit is required to be filed by a representative of the estate of the deceased victim on behalf of the deceased person's...",
+    image: "https://pagesmith-cdn.com/881ce63c/images/693acef25bb2d028b55fefe0_693a69dcacf6506ef07aa881_wrongful-death-1024.webp",
+    url: "/articles/what-damages-are-recoverable-in-a-wrongful-death-injury-case"
+  },
+  {
+    title: "Uninsured and Underinsured Motorist Coverage and Car Accidents",
+    excerpt: "Uninsured and underinsured motorist coverage is designed to protect automobile insureds and resident family members who are involved in car accidents with irresponsible drivers who have inadequate insurance of their own...",
+    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7b05cfe1465a42eb19_6934905b2d3f9984e2ed0685_69343de13f95bf1d41aa4fb0_69322011060e55d62cfee99d_6930e47be9982fc76695e658_6930cc30a0b357522031c6ad_1764660545154-auto-accident-injury-law025-1536.webp",
+    url: "/articles/uninsured-and-underinsured-motorist-coverage-and-car-accidents"
+  },
+  {
+    title: "What Are the Types of Damages Recoverable in Personal Injury Lawsuits? | Ann Arbor",
+    excerpt: "There are two types of damages normally recoverable in personal injury lawsuits. First, an injured accident victim can normally seek compensation for economic damages which includes loss of past and future earnings,...",
+    image: "https://pagesmith-cdn.com/881ce63c/images/693adb786ea2d635097f4f62_6934905836bac125d35d7592_69343ddf4e0b7ca1588d23cd_6932067b8e44dccfd4a4328a_photo-1589829545856-d10d557cf95f-1024.webp",
+    url: "/articles/what-are-the-types-of-damages-recoverable-in-personal-injury-lawsuits-ann-arbor-2ea2b"
+  },
+  {
+    title: "Understanding the Steps Involved in Pursuing a Personal Injury Lawsuit | Ann Arbor",
+    excerpt: "Hiring your attorney is probably the most important decision you will make before initiating a personal injury lawsuit. You need to make sure that your attorney is experienced in handling your type of personal injury...",
+    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7bbf25e18849126d77_6934905b6ca9db8e17866a7a_69343d25eee8657ad84f52cc_6932ffc5ce30f8d5db2673d2_6930e47e5b8f8d516b01be9e_6930e2fc3a718e8381d2c489_photo-1522752622479-65eefd320386-1024.webp",
+    url: "/articles/understanding-the-steps-involved-in-pursuing-a-personal-injury-lawsuit-ann-arbor"
+  }
+];
+
+const recentNews = [
+  {
+    title: "Bus Accident Liability in Michigan: Public Transit vs. School Bus Claims",
+    excerpt: "Understanding liability in bus accidents, whether involving public transit or school buses, is crucial for those pursuing claims in Michigan. This article delves into the differences and provides guidance for potential claimants.",
+    image: "https://pagesmith-cdn.com/881ce63c/images/698257e72b74b9df7dee21e3_f8df0386-ad8b-4702-bcf7-6d9c7c44f03f-1024.webp",
+    url: "/posts/bus-accident-liability-in-michigan-public-transit-vs-school-bus-claims"
+  },
+  {
+    title: "Bicycle Accident Claims in Ann Arbor: Bike Lane Laws & Cyclist Rights",
+    excerpt: "Ann Arbor, with its extensive bike lanes, continues to see bicycle accidents. Understanding your rights and the legal process can help if you're involved in an accident. Common causes include distracted driving, failure to yield, and dooring.",
+    image: "https://pagesmith-cdn.com/881ce63c/images/69810622b1c9dce36dcb9bd1_6cb187e2-b02c-4d94-b63b-15ad73cd3aff-1024.webp",
+    url: "/posts/bicycle-accident-claims-in-ann-arbor-bike-lane-laws-cyclist-rights"
+  },
+  {
+    title: "Medical Malpractice Expert Testimony After Danhoff v. Fahim: Michigan Supreme Court Ruling",
+    excerpt: "The Michigan Supreme Court's decision in Danhoff v. Fahim highlights the crucial role of expert testimony in medical malpractice cases. This ruling affects how standards of care are assessed and the criteria for expert witnesses in Michigan.",
+    image: "https://pagesmith-cdn.com/881ce63c/images/697fb45d95fe14daeaa2dc66_1d430d08-bbd0-408f-89b4-ac00db2920f5-1024.webp",
+    url: "/posts/medical-malpractice-expert-testimony-after-danhoff-v-fahim-michigan-supreme-court-ruling"
+  },
+  {
+    title: "Proving Lost Wages in Michigan Personal Injury Cases: Documentation & Calculation",
+    excerpt: "Lost wages in Michigan personal injury cases can significantly impact victims' finances. Understanding how to document and calculate these losses is essential to obtaining fair compensation.",
+    image: "https://pagesmith-cdn.com/881ce63c/images/697d33fcbb0913929376fb73_00b238e1-f0b2-497a-a9ff-130dba896e37-1024.webp",
+    url: "/posts/proving-lost-wages-in-michigan-personal-injury-cases-documentation-calculation"
+  },
+  {
+    title: "Commercial Truck Accident Claims: Federal Regulations & Trucking Company Liability",
+    excerpt: "Understanding commercial truck accidents involves navigating federal regulations and liability issues. This article examines these complexities and the role of legal representation in ensuring victims' rights.",
+    image: "https://pagesmith-cdn.com/881ce63c/images/696fe2aee5ea9dfb7ff3ff27_76bc4796-a98b-4127-bdf1-474c47927955-1024.webp",
+    url: "/posts/commercial-truck-accident-claims-federal-regulations-trucking-company-liability"
+  },
+  {
+    title: "Product Liability in Michigan: Defective Products & Manufacturing Defect Claims",
+    excerpt: "Michigan product liability law ensures accountability for defective products. This article covers the legal landscape, focusing on lawsuits and manufacturing defect claims.",
+    image: "https://pagesmith-cdn.com/881ce63c/images/697bc29cadd449a0f7d25045_f1d20dd1-d28d-4d04-9f4a-94ae572aca10-1024.webp",
+    url: "/posts/product-liability-in-michigan-defective-products-manufacturing-defect-claims"
+  }
+];
+---
+
+<BaseLayout
+  title="Personal Injury Legal Resources | Logeman & Iafrate Blog"
+  description="Explore articles on Michigan personal injury law, no-fault insurance, and your legal rights. Stay informed with insights from our experienced attorneys."
+  canonicalUrl="https://www.logeman.com/articles-posts/"
+>
+  <section class="bg-background py-12">
+    <div class="max-w-[1440px] mx-auto px-6">
+      <h1 class="text-[36px] font-bold text-foreground leading-[1.3] mb-6">
+        Personal Injury Legal Resources
+      </h1>
+      <p class="text-[16px] text-foreground leading-[1.6] mb-12">
+        We have over 6 decades of combined personal injury law success.
+      </p>
+
+      <h2 class="text-[26px] font-bold text-foreground leading-[1.3] mb-4">
+        Recent Injury Related Articles
+      </h2>
+      <p class="text-[16px] text-foreground leading-[1.6] mb-8">
+        We handle personal injury law cases in Michigan. We take on the tough cases other firms pass on.
+      </p>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {recentArticles.map((article) => (
+          <article class="bg-[rgba(229,236,246,0.54)] rounded-[8px] overflow-hidden border border-white/60 hover-lift">
+            <a href={article.url} class="block">
+              <img
+                src={article.image}
+                alt={article.title}
+                class="w-full h-[200px] object-cover"
+                loading="lazy"
+              />
+              <div class="p-6">
+                <h3 class="text-[20px] font-semibold text-foreground mb-3 leading-[1.4]">
+                  {article.title}
+                </h3>
+                <p class="text-[14px] text-foreground leading-[1.6] mb-4">
+                  {article.excerpt}
+                </p>
+                <span class="text-primary font-medium text-[14px] inline-flex items-center gap-1">
+                  Learn More →
+                </span>
+              </div>
+            </a>
+          </article>
+        ))}
+      </div>
+
+      <h2 class="text-[26px] font-bold text-foreground leading-[1.3] mt-16 mb-4">
+        Recent News and Posts
+      </h2>
+      <p class="text-[16px] text-foreground leading-[1.6] mb-8">
+        We handle personal injury law cases in Michigan. We take on the tough cases other firms pass on.
+      </p>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {recentNews.map((post) => (
+          <article class="bg-[rgba(229,236,246,0.54)] rounded-[8px] overflow-hidden border border-white/60 hover-lift">
+            <a href={post.url} class="block">
+              <img
+                src={post.image}
+                alt={post.title}
+                class="w-full h-[200px] object-cover"
+                loading="lazy"
+              />
+              <div class="p-6">
+                <h3 class="text-[20px] font-semibold text-foreground mb-3 leading-[1.4]">
+                  {post.title}
+                </h3>
+                <p class="text-[14px] text-foreground leading-[1.6] mb-4">
+                  {post.excerpt}
+                </p>
+                <span class="text-primary font-medium text-[14px] inline-flex items-center gap-1">
+                  Learn More →
+                </span>
+              </div>
+            </a>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

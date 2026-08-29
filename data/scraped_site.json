@@ -1,0 +1,1266 @@
+{
+  "success": true,
+  "url": "https://www.logeman.com/",
+  "structured": {
+    "title": "Ann Arbor, Michigan Injury Lawyers | Logeman & Iafrate, P.C.",
+    "description": "Michigan personal injury attorneys with 45+ years of experience. We take cases others won't and prepare every case for trial. Free consultations available.",
+    "url": "https://www.logeman.com/",
+    "imageCount": 57,
+    "branding": {
+      "colors": {
+        "primary": "#004AAD",
+        "secondary": "#011530",
+        "accent": "#004AAD",
+        "background": "#FFFFFF",
+        "textPrimary": "#020604",
+        "link": "#E5ECF6"
+      },
+      "typography": {
+        "fontFamilies": {
+          "primary": "Poppins",
+          "heading": "Playfair Display"
+        },
+        "fontStacks": {
+          "heading": [
+            "Playfair Display"
+          ],
+          "body": [
+            "Poppins",
+            "sans-serif"
+          ],
+          "paragraph": [
+            "Poppins",
+            "sans-serif"
+          ]
+        },
+        "fontSizes": {
+          "h1": "44px",
+          "h2": "36px",
+          "body": "14px"
+        }
+      },
+      "spacing": {
+        "baseUnit": 4,
+        "borderRadius": "2px"
+      },
+      "logo": "https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6941b18a1fbcadfc33d9874c_Logo.png",
+      "favicon": "https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934a8bf1dfa3090ec4c2153_logeman-favicon.png",
+      "faviconCdn": "https://pagesmith-cdn.com/881ce63c/images/6934a8bf1dfa3090ec4c2153_logeman-favicon-32.webp"
+    },
+    "pages": [
+      {
+        "slug": "index",
+        "path": "/",
+        "title": "Ann Arbor, Michigan Injury Lawyers | Logeman & Iafrate, P.C.",
+        "file": "data/pages/index.md"
+      }
+    ],
+    "availablePages": [
+      {
+        "path": "/contact-us/",
+        "label": "Contact Us",
+        "slug": "contact-us",
+        "scraped": false
+      },
+      {
+        "path": "/about-us/",
+        "label": "About Us",
+        "slug": "about-us",
+        "scraped": false
+      },
+      {
+        "path": "/attorney/james-a-iafrate/",
+        "label": "James A Iafrate",
+        "slug": "attorney-james-a-iafrate",
+        "scraped": false
+      },
+      {
+        "path": "/practice-areas/",
+        "label": "Practice Areas",
+        "slug": "practice-areas",
+        "scraped": false
+      },
+      {
+        "path": "/personal-injury-overview/",
+        "label": "Personal Injury Overview",
+        "slug": "personal-injury-overview",
+        "scraped": false
+      },
+      {
+        "path": "/attorney/adrienne-d-logeman/",
+        "label": "Adrienne D Logeman",
+        "slug": "attorney-adrienne-d-logeman",
+        "scraped": false
+      },
+      {
+        "path": "/verdicts-and-settlements/",
+        "label": "Verdicts And Settlements",
+        "slug": "verdicts-and-settlements",
+        "scraped": false
+      },
+      {
+        "path": "/client-testimonials/",
+        "label": "Client Testimonials",
+        "slug": "client-testimonials",
+        "scraped": false
+      },
+      {
+        "path": "/articles-posts/",
+        "label": "Articles Posts",
+        "slug": "articles-posts",
+        "scraped": false
+      },
+      {
+        "path": "/motor-vehicle-accidents-overview/",
+        "label": "Motor Vehicle Accidents Overview",
+        "slug": "motor-vehicle-accidents-overview",
+        "scraped": false
+      },
+      {
+        "path": "/catastrophic-injuries-overview/",
+        "label": "Catastrophic Injuries Overview",
+        "slug": "catastrophic-injuries-overview",
+        "scraped": false
+      },
+      {
+        "path": "/attorney-disclaimer/",
+        "label": "Attorney Disclaimer",
+        "slug": "attorney-disclaimer",
+        "scraped": false
+      },
+      {
+        "path": "/privacy-policy/",
+        "label": "Privacy Policy",
+        "slug": "privacy-policy",
+        "scraped": false
+      },
+      {
+        "path": "/thank-you/",
+        "label": "Thank You",
+        "slug": "thank-you",
+        "scraped": false
+      },
+      {
+        "path": "/service-areas/",
+        "label": "Service Areas",
+        "slug": "service-areas",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/animal-bites-and-attacks/",
+        "label": "Animal Bites And Attacks",
+        "slug": "practice-area-animal-bites-and-attacks",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/bicycle-accidents-in-ann-arbor-throughout-michigan/",
+        "label": "Bicycle Accidents In Ann Arbor Throughout Michigan",
+        "slug": "practice-area-bicycle-accidents-in-ann-arbor-throughout-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/bus-accidents/",
+        "label": "Bus Accidents",
+        "slug": "practice-area-bus-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/car-accidents/",
+        "label": "Car Accidents",
+        "slug": "practice-area-car-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/construction-accidents/",
+        "label": "Construction Accidents",
+        "slug": "practice-area-construction-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/distracted-driving-causing-personal-injury-ann-arbor-mi/",
+        "label": "Distracted Driving Causing Personal Injury Ann Arbor Mi",
+        "slug": "practice-area-distracted-driving-causing-personal-injury-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/drunk-driver-accidents/",
+        "label": "Drunk Driver Accidents",
+        "slug": "practice-area-drunk-driver-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/michigan-no-fault-insurance-claims/",
+        "label": "Michigan No Fault Insurance Claims",
+        "slug": "practice-area-michigan-no-fault-insurance-claims",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/motorcycle-accidents/",
+        "label": "Motorcycle Accidents",
+        "slug": "practice-area-motorcycle-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/pedestrian-accidents/",
+        "label": "Pedestrian Accidents",
+        "slug": "practice-area-pedestrian-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/personal-injury-cases-involving-electric-scooters-personal-injury-attorneys-ann-arbor/",
+        "label": "Personal Injury Cases Involving Electric Scooters Personal Injury Attorneys Ann Arbor",
+        "slug": "practice-area-personal-injury-cases-involving-electric-scooters-personal-injury-attorneys-ann-arbor",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/personal-injury-claims-involving-lyft-and-uber-drivers-in-michigan/",
+        "label": "Personal Injury Claims Involving Lyft And Uber Drivers In Michigan",
+        "slug": "practice-area-personal-injury-claims-involving-lyft-and-uber-drivers-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/personal-injury-lawsuits-involving-traumatic-brain-injury/",
+        "label": "Personal Injury Lawsuits Involving Traumatic Brain Injury",
+        "slug": "practice-area-personal-injury-lawsuits-involving-traumatic-brain-injury",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/premises-liability-law-in-michigan/",
+        "label": "Premises Liability Law In Michigan",
+        "slug": "practice-area-premises-liability-law-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/product-liability/",
+        "label": "Product Liability",
+        "slug": "practice-area-product-liability",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/spinal-cord-injury/",
+        "label": "Spinal Cord Injury",
+        "slug": "practice-area-spinal-cord-injury",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/truck-accidents/",
+        "label": "Truck Accidents",
+        "slug": "practice-area-truck-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/uninsured-underinsured-motorist-accidents/",
+        "label": "Uninsured Underinsured Motorist Accidents",
+        "slug": "practice-area-uninsured-underinsured-motorist-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/practice-area/wrongful-death/",
+        "label": "Wrongful Death",
+        "slug": "practice-area-wrongful-death",
+        "scraped": false
+      },
+      {
+        "path": "/posts/3-locations-where-pedestrians-are-particularly-vulnerable/",
+        "label": "3 Locations Where Pedestrians Are Particularly Vulnerable",
+        "slug": "posts-3-locations-where-pedestrians-are-particularly-vulnerable",
+        "scraped": false
+      },
+      {
+        "path": "/posts/a-properly-installed-child-car-seat-may-prevent-serious-injuries-during-a-car-crash---ann-arbor-mi/",
+        "label": "A Properly Installed Child Car Seat May Prevent Serious Injuries During A Car Crash   Ann Arbor Mi",
+        "slug": "posts-a-properly-installed-child-car-seat-may-prevent-serious-injuries-during-a-car-crash---ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/posts/a-stroke-can-be-an-unexpected-result-of-a-collision/",
+        "label": "A Stroke Can Be An Unexpected Result Of A Collision",
+        "slug": "posts-a-stroke-can-be-an-unexpected-result-of-a-collision",
+        "scraped": false
+      },
+      {
+        "path": "/posts/attendant-care-benefits-in-michigan-getting-paid-for-family-caregiving-after-accidents/",
+        "label": "Attendant Care Benefits In Michigan Getting Paid For Family Caregiving After Accidents",
+        "slug": "posts-attendant-care-benefits-in-michigan-getting-paid-for-family-caregiving-after-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/posts/bicycle-accident-claims-in-ann-arbor-bike-lane-laws-cyclist-rights/",
+        "label": "Bicycle Accident Claims In Ann Arbor Bike Lane Laws Cyclist Rights",
+        "slug": "posts-bicycle-accident-claims-in-ann-arbor-bike-lane-laws-cyclist-rights",
+        "scraped": false
+      },
+      {
+        "path": "/posts/bicycle-fatalities-and-injuries-are-on-the-rise-in-michigan/",
+        "label": "Bicycle Fatalities And Injuries Are On The Rise In Michigan",
+        "slug": "posts-bicycle-fatalities-and-injuries-are-on-the-rise-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/posts/black-ice-accidents-in-michigan-legal-rights-when-winter-roads-cause-crashes/",
+        "label": "Black Ice Accidents In Michigan Legal Rights When Winter Roads Cause Crashes",
+        "slug": "posts-black-ice-accidents-in-michigan-legal-rights-when-winter-roads-cause-crashes",
+        "scraped": false
+      },
+      {
+        "path": "/posts/bus-accident-liability-in-michigan-public-transit-vs-school-bus-claims/",
+        "label": "Bus Accident Liability In Michigan Public Transit Vs School Bus Claims",
+        "slug": "posts-bus-accident-liability-in-michigan-public-transit-vs-school-bus-claims",
+        "scraped": false
+      },
+      {
+        "path": "/posts/commercial-truck-accident-claims-federal-regulations-trucking-company-liability/",
+        "label": "Commercial Truck Accident Claims Federal Regulations Trucking Company Liability",
+        "slug": "posts-commercial-truck-accident-claims-federal-regulations-trucking-company-liability",
+        "scraped": false
+      },
+      {
+        "path": "/posts/congratulations-to-adrienne-logeman/",
+        "label": "Congratulations To Adrienne Logeman",
+        "slug": "posts-congratulations-to-adrienne-logeman",
+        "scraped": false
+      },
+      {
+        "path": "/posts/could-a-business-be-liable-for-a-drunk-driving-crash/",
+        "label": "Could A Business Be Liable For A Drunk Driving Crash",
+        "slug": "posts-could-a-business-be-liable-for-a-drunk-driving-crash",
+        "scraped": false
+      },
+      {
+        "path": "/posts/distracted-driving-is-a-preventable-cause-of-crashes/",
+        "label": "Distracted Driving Is A Preventable Cause Of Crashes",
+        "slug": "posts-distracted-driving-is-a-preventable-cause-of-crashes",
+        "scraped": false
+      },
+      {
+        "path": "/posts/distracted-driving-is-the-leading-cause-of-personal-injury-accidents/",
+        "label": "Distracted Driving Is The Leading Cause Of Personal Injury Accidents",
+        "slug": "posts-distracted-driving-is-the-leading-cause-of-personal-injury-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/posts/distracted-driving-laws-in-michigan-texting-phone-use-liability-after-crashes/",
+        "label": "Distracted Driving Laws In Michigan Texting Phone Use Liability After Crashes",
+        "slug": "posts-distracted-driving-laws-in-michigan-texting-phone-use-liability-after-crashes",
+        "scraped": false
+      },
+      {
+        "path": "/posts/don-t-let-an-insurance-adjuster-ruin-your-michigan-car-accident-claim/",
+        "label": "Don T Let An Insurance Adjuster Ruin Your Michigan Car Accident Claim",
+        "slug": "posts-don-t-let-an-insurance-adjuster-ruin-your-michigan-car-accident-claim",
+        "scraped": false
+      },
+      {
+        "path": "/posts/dram-shop-liability-in-michigan-suing-bars-for-drunk-driving-accidents/",
+        "label": "Dram Shop Liability In Michigan Suing Bars For Drunk Driving Accidents",
+        "slug": "posts-dram-shop-liability-in-michigan-suing-bars-for-drunk-driving-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/posts/halloween-is-a-scary-night-to-be-a-child-pedestrian/",
+        "label": "Halloween Is A Scary Night To Be A Child Pedestrian",
+        "slug": "posts-halloween-is-a-scary-night-to-be-a-child-pedestrian",
+        "scraped": false
+      },
+      {
+        "path": "/posts/insurance-bad-faith-in-michigan-auto-accidents-when-your-own-insurer-denies-valid-claims/",
+        "label": "Insurance Bad Faith In Michigan Auto Accidents When Your Own Insurer Denies Valid Claims",
+        "slug": "posts-insurance-bad-faith-in-michigan-auto-accidents-when-your-own-insurer-denies-valid-claims",
+        "scraped": false
+      },
+      {
+        "path": "/posts/legal-decision-regarding-no-fault-fee-caps/",
+        "label": "Legal Decision Regarding No Fault Fee Caps",
+        "slug": "posts-legal-decision-regarding-no-fault-fee-caps",
+        "scraped": false
+      },
+      {
+        "path": "/posts/medical-malpractice-expert-testimony-after-danhoff-v-fahim-michigan-supreme-court-ruling/",
+        "label": "Medical Malpractice Expert Testimony After Danhoff V Fahim Michigan Supreme Court Ruling",
+        "slug": "posts-medical-malpractice-expert-testimony-after-danhoff-v-fahim-michigan-supreme-court-ruling",
+        "scraped": false
+      },
+      {
+        "path": "/posts/michigan-court-of-appeals-rules-in-favor-of-injured-passenger/",
+        "label": "Michigan Court Of Appeals Rules In Favor Of Injured Passenger",
+        "slug": "posts-michigan-court-of-appeals-rules-in-favor-of-injured-passenger",
+        "scraped": false
+      },
+      {
+        "path": "/posts/michigan-court-of-appeals-states-insurance-company-cannot-dictate-medical-care/",
+        "label": "Michigan Court Of Appeals States Insurance Company Cannot Dictate Medical Care",
+        "slug": "posts-michigan-court-of-appeals-states-insurance-company-cannot-dictate-medical-care",
+        "scraped": false
+      },
+      {
+        "path": "/posts/michigan-dog-bite-law-strict-liability-compensation-for-attack-victims/",
+        "label": "Michigan Dog Bite Law Strict Liability Compensation For Attack Victims",
+        "slug": "posts-michigan-dog-bite-law-strict-liability-compensation-for-attack-victims",
+        "scraped": false
+      },
+      {
+        "path": "/posts/michigan-s-new-no-fault-reform-legislation/",
+        "label": "Michigan S New No Fault Reform Legislation",
+        "slug": "posts-michigan-s-new-no-fault-reform-legislation",
+        "scraped": false
+      },
+      {
+        "path": "/posts/michigan-s-new-texting-and-driving-law/",
+        "label": "Michigan S New Texting And Driving Law",
+        "slug": "posts-michigan-s-new-texting-and-driving-law",
+        "scraped": false
+      },
+      {
+        "path": "/posts/michigan-supreme-court-restores-rights-for-injured-consumers/",
+        "label": "Michigan Supreme Court Restores Rights For Injured Consumers",
+        "slug": "posts-michigan-supreme-court-restores-rights-for-injured-consumers",
+        "scraped": false
+      },
+      {
+        "path": "/posts/motorcycle-accidents-in-michigan-helmet-laws-no-fault-benefits-liability/",
+        "label": "Motorcycle Accidents In Michigan Helmet Laws No Fault Benefits Liability",
+        "slug": "posts-motorcycle-accidents-in-michigan-helmet-laws-no-fault-benefits-liability",
+        "scraped": false
+      },
+      {
+        "path": "/posts/new-rules-regarding-independent-medical-evaluations-and-car-accident-injury-claims/",
+        "label": "New Rules Regarding Independent Medical Evaluations And Car Accident Injury Claims",
+        "slug": "posts-new-rules-regarding-independent-medical-evaluations-and-car-accident-injury-claims",
+        "scraped": false
+      },
+      {
+        "path": "/posts/pedestrian-accident-rights-in-ann-arbor-crosswalk-laws-injury-claims/",
+        "label": "Pedestrian Accident Rights In Ann Arbor Crosswalk Laws Injury Claims",
+        "slug": "posts-pedestrian-accident-rights-in-ann-arbor-crosswalk-laws-injury-claims",
+        "scraped": false
+      },
+      {
+        "path": "/posts/premises-liability-in-michigan-slip-and-fall-laws-property-owner-duties/",
+        "label": "Premises Liability In Michigan Slip And Fall Laws Property Owner Duties",
+        "slug": "posts-premises-liability-in-michigan-slip-and-fall-laws-property-owner-duties",
+        "scraped": false
+      },
+      {
+        "path": "/posts/product-liability-in-michigan-defective-products-manufacturing-defect-claims/",
+        "label": "Product Liability In Michigan Defective Products Manufacturing Defect Claims",
+        "slug": "posts-product-liability-in-michigan-defective-products-manufacturing-defect-claims",
+        "scraped": false
+      },
+      {
+        "path": "/posts/proving-lost-wages-in-michigan-personal-injury-cases-documentation-calculation/",
+        "label": "Proving Lost Wages In Michigan Personal Injury Cases Documentation Calculation",
+        "slug": "posts-proving-lost-wages-in-michigan-personal-injury-cases-documentation-calculation",
+        "scraped": false
+      },
+      {
+        "path": "/posts/rideshare-accidents-in-michigan-when-can-you-sue-uber-or-lyft-19283/",
+        "label": "Rideshare Accidents In Michigan When Can You Sue Uber Or Lyft 19283",
+        "slug": "posts-rideshare-accidents-in-michigan-when-can-you-sue-uber-or-lyft-19283",
+        "scraped": false
+      },
+      {
+        "path": "/posts/social-media-and-personal-injury-lawsuits/",
+        "label": "Social Media And Personal Injury Lawsuits",
+        "slug": "posts-social-media-and-personal-injury-lawsuits",
+        "scraped": false
+      },
+      {
+        "path": "/posts/spinal-cord-injury-compensation-in-michigan-what-your-paralysis-case-is-worth/",
+        "label": "Spinal Cord Injury Compensation In Michigan What Your Paralysis Case Is Worth",
+        "slug": "posts-spinal-cord-injury-compensation-in-michigan-what-your-paralysis-case-is-worth",
+        "scraped": false
+      },
+      {
+        "path": "/posts/understanding-comparative-negligence-in-michigan-car-accidents-the-50-rule-explained/",
+        "label": "Understanding Comparative Negligence In Michigan Car Accidents The 50 Rule Explained",
+        "slug": "posts-understanding-comparative-negligence-in-michigan-car-accidents-the-50-rule-explained",
+        "scraped": false
+      },
+      {
+        "path": "/posts/uninsured-motorist-coverage-in-michigan-why-you-need-it-after-2019-reforms/",
+        "label": "Uninsured Motorist Coverage In Michigan Why You Need It After 2019 Reforms",
+        "slug": "posts-uninsured-motorist-coverage-in-michigan-why-you-need-it-after-2019-reforms",
+        "scraped": false
+      },
+      {
+        "path": "/posts/washtenaw-county-judge-makes-significant-ruling-under-michigan-no-fault-law/",
+        "label": "Washtenaw County Judge Makes Significant Ruling Under Michigan No Fault Law",
+        "slug": "posts-washtenaw-county-judge-makes-significant-ruling-under-michigan-no-fault-law",
+        "scraped": false
+      },
+      {
+        "path": "/posts/why-do-drunk-drivers-swerve-in-and-out-of-lanes-in-traffic/",
+        "label": "Why Do Drunk Drivers Swerve In And Out Of Lanes In Traffic",
+        "slug": "posts-why-do-drunk-drivers-swerve-in-and-out-of-lanes-in-traffic",
+        "scraped": false
+      },
+      {
+        "path": "/posts/will-the-chaos-with-no-fault-insurance-reform-ever-end/",
+        "label": "Will The Chaos With No Fault Insurance Reform Ever End",
+        "slug": "posts-will-the-chaos-with-no-fault-insurance-reform-ever-end",
+        "scraped": false
+      },
+      {
+        "path": "/articles/3-rules-that-apply-to-michigan-wrongful-death-lawsuits/",
+        "label": "3 Rules That Apply To Michigan Wrongful Death Lawsuits",
+        "slug": "articles-3-rules-that-apply-to-michigan-wrongful-death-lawsuits",
+        "scraped": false
+      },
+      {
+        "path": "/articles/accident-victim-compensation-for-traumatic-brain-injury/",
+        "label": "Accident Victim Compensation For Traumatic Brain Injury",
+        "slug": "articles-accident-victim-compensation-for-traumatic-brain-injury",
+        "scraped": false
+      },
+      {
+        "path": "/articles/can-i-sue-for-a-slip-and-fall-accident-in-michigan/",
+        "label": "Can I Sue For A Slip And Fall Accident In Michigan",
+        "slug": "articles-can-i-sue-for-a-slip-and-fall-accident-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/articles/car-accident-insurance-and-personal-injury-claims-in-michigan/",
+        "label": "Car Accident Insurance And Personal Injury Claims In Michigan",
+        "slug": "articles-car-accident-insurance-and-personal-injury-claims-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/articles/car-accident-statute-of-limitations-in-michigan/",
+        "label": "Car Accident Statute Of Limitations In Michigan",
+        "slug": "articles-car-accident-statute-of-limitations-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/articles/common-mistakes-to-avoid-when-pursuing-a-personal-injury-claim-in-michigan/",
+        "label": "Common Mistakes To Avoid When Pursuing A Personal Injury Claim In Michigan",
+        "slug": "articles-common-mistakes-to-avoid-when-pursuing-a-personal-injury-claim-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/articles/do-i-need-a-personal-injury-lawyer-ann-arbor-mi/",
+        "label": "Do I Need A Personal Injury Lawyer Ann Arbor Mi",
+        "slug": "articles-do-i-need-a-personal-injury-lawyer-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/articles/faqs-regarding-michigan-s-new-auto-insurance-law/",
+        "label": "Faqs Regarding Michigan S New Auto Insurance Law",
+        "slug": "articles-faqs-regarding-michigan-s-new-auto-insurance-law",
+        "scraped": false
+      },
+      {
+        "path": "/articles/frequently-asked-questions-about-michigan-s-pip-benefits/",
+        "label": "Frequently Asked Questions About Michigan S Pip Benefits",
+        "slug": "articles-frequently-asked-questions-about-michigan-s-pip-benefits",
+        "scraped": false
+      },
+      {
+        "path": "/articles/how-can-pedestrian-fault-impact-injury-lawsuits/",
+        "label": "How Can Pedestrian Fault Impact Injury Lawsuits",
+        "slug": "articles-how-can-pedestrian-fault-impact-injury-lawsuits",
+        "scraped": false
+      },
+      {
+        "path": "/articles/how-do-you-calculate-pain-suffering-damages-in-a-personal-injury-lawsuit/",
+        "label": "How Do You Calculate Pain Suffering Damages In A Personal Injury Lawsuit",
+        "slug": "articles-how-do-you-calculate-pain-suffering-damages-in-a-personal-injury-lawsuit",
+        "scraped": false
+      },
+      {
+        "path": "/articles/how-much-does-it-cost-to-hire-a-michigan-personal-injury-lawyer/",
+        "label": "How Much Does It Cost To Hire A Michigan Personal Injury Lawyer",
+        "slug": "articles-how-much-does-it-cost-to-hire-a-michigan-personal-injury-lawyer",
+        "scraped": false
+      },
+      {
+        "path": "/articles/how-pain-and-suffering-damages-are-calculated-in-michigan/",
+        "label": "How Pain And Suffering Damages Are Calculated In Michigan",
+        "slug": "articles-how-pain-and-suffering-damages-are-calculated-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/articles/how-to-calculate-the-value-of-your-personal-injury-case/",
+        "label": "How To Calculate The Value Of Your Personal Injury Case",
+        "slug": "articles-how-to-calculate-the-value-of-your-personal-injury-case",
+        "scraped": false
+      },
+      {
+        "path": "/articles/how-to-hire-a-personal-injury-attorney/",
+        "label": "How To Hire A Personal Injury Attorney",
+        "slug": "articles-how-to-hire-a-personal-injury-attorney",
+        "scraped": false
+      },
+      {
+        "path": "/articles/how-to-obtain-compensation-for-a-michigan-car-accident-involving-personal-injury/",
+        "label": "How To Obtain Compensation For A Michigan Car Accident Involving Personal Injury",
+        "slug": "articles-how-to-obtain-compensation-for-a-michigan-car-accident-involving-personal-injury",
+        "scraped": false
+      },
+      {
+        "path": "/articles/how-underinsured-motorist-coverage-protects-you-and-your-family/",
+        "label": "How Underinsured Motorist Coverage Protects You And Your Family",
+        "slug": "articles-how-underinsured-motorist-coverage-protects-you-and-your-family",
+        "scraped": false
+      },
+      {
+        "path": "/articles/if-the-car-accident-was-not-my-fault-should-i-still-consult-with-an-accident-attorney/",
+        "label": "If The Car Accident Was Not My Fault Should I Still Consult With An Accident Attorney",
+        "slug": "articles-if-the-car-accident-was-not-my-fault-should-i-still-consult-with-an-accident-attorney",
+        "scraped": false
+      },
+      {
+        "path": "/articles/important-questions-to-ask-before-you-hire-a-personal-injury-law-firm/",
+        "label": "Important Questions To Ask Before You Hire A Personal Injury Law Firm",
+        "slug": "articles-important-questions-to-ask-before-you-hire-a-personal-injury-law-firm",
+        "scraped": false
+      },
+      {
+        "path": "/articles/landlord-s-legal-duty-to-protect-tenants-from-personal-injury/",
+        "label": "Landlord S Legal Duty To Protect Tenants From Personal Injury",
+        "slug": "articles-landlord-s-legal-duty-to-protect-tenants-from-personal-injury",
+        "scraped": false
+      },
+      {
+        "path": "/articles/legal-options-for-injuries-caused-by-defective-traffic-signals/",
+        "label": "Legal Options For Injuries Caused By Defective Traffic Signals",
+        "slug": "articles-legal-options-for-injuries-caused-by-defective-traffic-signals",
+        "scraped": false
+      },
+      {
+        "path": "/articles/michigan-car-accident-laws-personal-injury-lawyers-ann-arbor/",
+        "label": "Michigan Car Accident Laws Personal Injury Lawyers Ann Arbor",
+        "slug": "articles-michigan-car-accident-laws-personal-injury-lawyers-ann-arbor",
+        "scraped": false
+      },
+      {
+        "path": "/articles/no-fault-benefit-coverages-under-the-new-no-fault-law---starting-july-2-2020/",
+        "label": "No Fault Benefit Coverages Under The New No Fault Law   Starting July 2 2020",
+        "slug": "articles-no-fault-benefit-coverages-under-the-new-no-fault-law---starting-july-2-2020",
+        "scraped": false
+      },
+      {
+        "path": "/articles/pedestrian-accidents-causing-personal-injury-to-college-students/",
+        "label": "Pedestrian Accidents Causing Personal Injury To College Students",
+        "slug": "articles-pedestrian-accidents-causing-personal-injury-to-college-students",
+        "scraped": false
+      },
+      {
+        "path": "/articles/personal-injury-cases-involving-out-of-state-residents/",
+        "label": "Personal Injury Cases Involving Out Of State Residents",
+        "slug": "articles-personal-injury-cases-involving-out-of-state-residents",
+        "scraped": false
+      },
+      {
+        "path": "/articles/personal-injury-lawsuits-and-the-michigan-seat-belt-law/",
+        "label": "Personal Injury Lawsuits And The Michigan Seat Belt Law",
+        "slug": "articles-personal-injury-lawsuits-and-the-michigan-seat-belt-law",
+        "scraped": false
+      },
+      {
+        "path": "/articles/personal-injury-lawsuits-involving-head-injuries-with-a-brain-bleed/",
+        "label": "Personal Injury Lawsuits Involving Head Injuries With A Brain Bleed",
+        "slug": "articles-personal-injury-lawsuits-involving-head-injuries-with-a-brain-bleed",
+        "scraped": false
+      },
+      {
+        "path": "/articles/personal-injury-settlements-for-minor-children-in-michigan/",
+        "label": "Personal Injury Settlements For Minor Children In Michigan",
+        "slug": "articles-personal-injury-settlements-for-minor-children-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/articles/protect-yourself-from-automobile-negligence-lawsuits---ann-arbor/",
+        "label": "Protect Yourself From Automobile Negligence Lawsuits   Ann Arbor",
+        "slug": "articles-protect-yourself-from-automobile-negligence-lawsuits---ann-arbor",
+        "scraped": false
+      },
+      {
+        "path": "/articles/replacement-service-claims---insurance-company-s-best-defense-to-no-fault-lawsuit/",
+        "label": "Replacement Service Claims   Insurance Company S Best Defense To No Fault Lawsuit",
+        "slug": "articles-replacement-service-claims---insurance-company-s-best-defense-to-no-fault-lawsuit",
+        "scraped": false
+      },
+      {
+        "path": "/articles/selecting-a-personal-injury-law-firm-in-michigan-ann-arbor/",
+        "label": "Selecting A Personal Injury Law Firm In Michigan Ann Arbor",
+        "slug": "articles-selecting-a-personal-injury-law-firm-in-michigan-ann-arbor",
+        "scraped": false
+      },
+      {
+        "path": "/articles/should-i-hire-an-attorney-for-a-car-accident-personal-injury-lawyers-ann-arbor/",
+        "label": "Should I Hire An Attorney For A Car Accident Personal Injury Lawyers Ann Arbor",
+        "slug": "articles-should-i-hire-an-attorney-for-a-car-accident-personal-injury-lawyers-ann-arbor",
+        "scraped": false
+      },
+      {
+        "path": "/articles/should-senior-citizens-opt-out-of-pip-coverage---medicare-vs-pip/",
+        "label": "Should Senior Citizens Opt Out Of Pip Coverage   Medicare Vs Pip",
+        "slug": "articles-should-senior-citizens-opt-out-of-pip-coverage---medicare-vs-pip",
+        "scraped": false
+      },
+      {
+        "path": "/articles/should-you-hire-a-case-manager-if-you-are-injured-in-an-auto-accident/",
+        "label": "Should You Hire A Case Manager If You Are Injured In An Auto Accident",
+        "slug": "articles-should-you-hire-a-case-manager-if-you-are-injured-in-an-auto-accident",
+        "scraped": false
+      },
+      {
+        "path": "/articles/smart-choices-under-the-new-no-fault-law-ann-arbor-mi/",
+        "label": "Smart Choices Under The New No Fault Law Ann Arbor Mi",
+        "slug": "articles-smart-choices-under-the-new-no-fault-law-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/articles/the-importance-of-taking-photographs-after-a-car-accident-in-michigan-personal-injury/",
+        "label": "The Importance Of Taking Photographs After A Car Accident In Michigan Personal Injury",
+        "slug": "articles-the-importance-of-taking-photographs-after-a-car-accident-in-michigan-personal-injury",
+        "scraped": false
+      },
+      {
+        "path": "/articles/tips-for-buying-auto-insurance-in-michigan/",
+        "label": "Tips For Buying Auto Insurance In Michigan",
+        "slug": "articles-tips-for-buying-auto-insurance-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/articles/types-of-compensation-after-a-car-accident-in-michigan/",
+        "label": "Types Of Compensation After A Car Accident In Michigan",
+        "slug": "articles-types-of-compensation-after-a-car-accident-in-michigan",
+        "scraped": false
+      },
+      {
+        "path": "/articles/understanding-the-steps-involved-in-pursuing-a-personal-injury-lawsuit-ann-arbor/",
+        "label": "Understanding The Steps Involved In Pursuing A Personal Injury Lawsuit Ann Arbor",
+        "slug": "articles-understanding-the-steps-involved-in-pursuing-a-personal-injury-lawsuit-ann-arbor",
+        "scraped": false
+      },
+      {
+        "path": "/articles/uninsured-and-underinsured-motorist-coverage-and-car-accidents/",
+        "label": "Uninsured And Underinsured Motorist Coverage And Car Accidents",
+        "slug": "articles-uninsured-and-underinsured-motorist-coverage-and-car-accidents",
+        "scraped": false
+      },
+      {
+        "path": "/articles/what-are-the-types-of-damages-recoverable-in-personal-injury-lawsuits-ann-arbor-2ea2b/",
+        "label": "What Are The Types Of Damages Recoverable In Personal Injury Lawsuits Ann Arbor 2ea2b",
+        "slug": "articles-what-are-the-types-of-damages-recoverable-in-personal-injury-lawsuits-ann-arbor-2ea2b",
+        "scraped": false
+      },
+      {
+        "path": "/articles/what-damages-are-recoverable-in-a-wrongful-death-injury-case/",
+        "label": "What Damages Are Recoverable In A Wrongful Death Injury Case",
+        "slug": "articles-what-damages-are-recoverable-in-a-wrongful-death-injury-case",
+        "scraped": false
+      },
+      {
+        "path": "/articles/what-does-it-mean-when-people-say-michigan-is-a-no-fault-state/",
+        "label": "What Does It Mean When People Say Michigan Is A No Fault State",
+        "slug": "articles-what-does-it-mean-when-people-say-michigan-is-a-no-fault-state",
+        "scraped": false
+      },
+      {
+        "path": "/articles/what-steps-should-you-take-after-a-car-accident-involving-personal-injury/",
+        "label": "What Steps Should You Take After A Car Accident Involving Personal Injury",
+        "slug": "articles-what-steps-should-you-take-after-a-car-accident-involving-personal-injury",
+        "scraped": false
+      },
+      {
+        "path": "/articles/what-to-do-after-a-car-accident/",
+        "label": "What To Do After A Car Accident",
+        "slug": "articles-what-to-do-after-a-car-accident",
+        "scraped": false
+      },
+      {
+        "path": "/articles/what-to-do-if-you-are-injured-in-a-hit-and-run-accident-ded4e/",
+        "label": "What To Do If You Are Injured In A Hit And Run Accident Ded4e",
+        "slug": "articles-what-to-do-if-you-are-injured-in-a-hit-and-run-accident-ded4e",
+        "scraped": false
+      },
+      {
+        "path": "/articles/who-pays-after-a-rideshare-collision/",
+        "label": "Who Pays After A Rideshare Collision",
+        "slug": "articles-who-pays-after-a-rideshare-collision",
+        "scraped": false
+      },
+      {
+        "path": "/service-area/ann-arbor-mi/",
+        "label": "Ann Arbor Mi",
+        "slug": "service-area-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service-area/brighton-mi/",
+        "label": "Brighton Mi",
+        "slug": "service-area-brighton-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service-area/calhoun-county-mi/",
+        "label": "Calhoun County Mi",
+        "slug": "service-area-calhoun-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service-area/jackson-county-mi/",
+        "label": "Jackson County Mi",
+        "slug": "service-area-jackson-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service-area/lenawee-county-mi/",
+        "label": "Lenawee County Mi",
+        "slug": "service-area-lenawee-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service-area/livingston-county-mi/",
+        "label": "Livingston County Mi",
+        "slug": "service-area-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service-area/washtenaw-county-mi/",
+        "label": "Washtenaw County Mi",
+        "slug": "service-area-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service-area/wayne-county-mi/",
+        "label": "Wayne County Mi",
+        "slug": "service-area-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/amputation-injuries-in-jackson-county-mi/",
+        "label": "Amputation Injuries In Jackson County Mi",
+        "slug": "service-amputation-injuries-in-jackson-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/bicycle-accident-injuries-in-calhoun-county-mi/",
+        "label": "Bicycle Accident Injuries In Calhoun County Mi",
+        "slug": "service-bicycle-accident-injuries-in-calhoun-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/bicycle-accident-injuries-in-jackson-county-mi/",
+        "label": "Bicycle Accident Injuries In Jackson County Mi",
+        "slug": "service-bicycle-accident-injuries-in-jackson-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/bicycle-accident-injuries-in-livingston-county-mi/",
+        "label": "Bicycle Accident Injuries In Livingston County Mi",
+        "slug": "service-bicycle-accident-injuries-in-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/burn-injuries-in-ann-arbor-mi/",
+        "label": "Burn Injuries In Ann Arbor Mi",
+        "slug": "service-burn-injuries-in-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/burn-injuries-in-calhoun-county-mi/",
+        "label": "Burn Injuries In Calhoun County Mi",
+        "slug": "service-burn-injuries-in-calhoun-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/bus-accident-injuries-in-ann-arbor-mi/",
+        "label": "Bus Accident Injuries In Ann Arbor Mi",
+        "slug": "service-bus-accident-injuries-in-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/bus-accident-injuries-in-calhoun-county-mi/",
+        "label": "Bus Accident Injuries In Calhoun County Mi",
+        "slug": "service-bus-accident-injuries-in-calhoun-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/bus-accident-injuries-in-jackson-county-mi/",
+        "label": "Bus Accident Injuries In Jackson County Mi",
+        "slug": "service-bus-accident-injuries-in-jackson-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/car-accident-injuries-in-ann-arbor-mi/",
+        "label": "Car Accident Injuries In Ann Arbor Mi",
+        "slug": "service-car-accident-injuries-in-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/car-accident-injuries-in-brighton-mi/",
+        "label": "Car Accident Injuries In Brighton Mi",
+        "slug": "service-car-accident-injuries-in-brighton-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/car-accident-injuries-in-lenawee-county-mi/",
+        "label": "Car Accident Injuries In Lenawee County Mi",
+        "slug": "service-car-accident-injuries-in-lenawee-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/car-accident-injuries-in-washtenaw-county-mi/",
+        "label": "Car Accident Injuries In Washtenaw County Mi",
+        "slug": "service-car-accident-injuries-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/car-accident-injuries-in-wayne-county-mi/",
+        "label": "Car Accident Injuries In Wayne County Mi",
+        "slug": "service-car-accident-injuries-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/catastrophic-injuries-in-calhoun-county-mi/",
+        "label": "Catastrophic Injuries In Calhoun County Mi",
+        "slug": "service-catastrophic-injuries-in-calhoun-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/catastrophic-injuries-in-livingston-county-mi/",
+        "label": "Catastrophic Injuries In Livingston County Mi",
+        "slug": "service-catastrophic-injuries-in-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/construction-accident-injuries-in-ann-arbor-mi/",
+        "label": "Construction Accident Injuries In Ann Arbor Mi",
+        "slug": "service-construction-accident-injuries-in-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/construction-accident-injuries-in-calhoun-county-mi/",
+        "label": "Construction Accident Injuries In Calhoun County Mi",
+        "slug": "service-construction-accident-injuries-in-calhoun-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/construction-accident-injuries-in-washtenaw-county-mi/",
+        "label": "Construction Accident Injuries In Washtenaw County Mi",
+        "slug": "service-construction-accident-injuries-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/distracted-driving-accident-injuries-in-livingston-county-mi/",
+        "label": "Distracted Driving Accident Injuries In Livingston County Mi",
+        "slug": "service-distracted-driving-accident-injuries-in-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/distracted-driving-accident-injuries-in-washtenaw-county-mi/",
+        "label": "Distracted Driving Accident Injuries In Washtenaw County Mi",
+        "slug": "service-distracted-driving-accident-injuries-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/distracted-driving-accident-injuries-in-wayne-county-mi/",
+        "label": "Distracted Driving Accident Injuries In Wayne County Mi",
+        "slug": "service-distracted-driving-accident-injuries-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/distracted-driving-accident-injuries-in-wayne-county-mi-bdb29/",
+        "label": "Distracted Driving Accident Injuries In Wayne County Mi Bdb29",
+        "slug": "service-distracted-driving-accident-injuries-in-wayne-county-mi-bdb29",
+        "scraped": false
+      },
+      {
+        "path": "/service/dog-bite-injuries-in-brighton-mi/",
+        "label": "Dog Bite Injuries In Brighton Mi",
+        "slug": "service-dog-bite-injuries-in-brighton-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/dog-bite-injuries-in-jackson-county-mi/",
+        "label": "Dog Bite Injuries In Jackson County Mi",
+        "slug": "service-dog-bite-injuries-in-jackson-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/dog-bite-injuries-in-lenawee-county-mi/",
+        "label": "Dog Bite Injuries In Lenawee County Mi",
+        "slug": "service-dog-bite-injuries-in-lenawee-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/dog-bite-injuries-in-livingston-county-mi/",
+        "label": "Dog Bite Injuries In Livingston County Mi",
+        "slug": "service-dog-bite-injuries-in-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/dog-bite-injuries-in-wayne-county-mi/",
+        "label": "Dog Bite Injuries In Wayne County Mi",
+        "slug": "service-dog-bite-injuries-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/drunk-driver-accident-injuries-in-ann-arbor-mi/",
+        "label": "Drunk Driver Accident Injuries In Ann Arbor Mi",
+        "slug": "service-drunk-driver-accident-injuries-in-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/drunk-driver-accident-injuries-in-washtenaw-county-mi/",
+        "label": "Drunk Driver Accident Injuries In Washtenaw County Mi",
+        "slug": "service-drunk-driver-accident-injuries-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/drunk-driver-accident-injuries-in-wayne-county-mi/",
+        "label": "Drunk Driver Accident Injuries In Wayne County Mi",
+        "slug": "service-drunk-driver-accident-injuries-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/economic-damages-claims-in-jackson-county-mi/",
+        "label": "Economic Damages Claims In Jackson County Mi",
+        "slug": "service-economic-damages-claims-in-jackson-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/economic-damages-claims-in-livingston-county-mi/",
+        "label": "Economic Damages Claims In Livingston County Mi",
+        "slug": "service-economic-damages-claims-in-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/electric-scooter-accident-injuries-in-calhoun-county-mi/",
+        "label": "Electric Scooter Accident Injuries In Calhoun County Mi",
+        "slug": "service-electric-scooter-accident-injuries-in-calhoun-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/electric-scooter-accident-injuries-in-jackson-county-mi/",
+        "label": "Electric Scooter Accident Injuries In Jackson County Mi",
+        "slug": "service-electric-scooter-accident-injuries-in-jackson-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/electric-scooter-accident-injuries-in-livingston-county-mi/",
+        "label": "Electric Scooter Accident Injuries In Livingston County Mi",
+        "slug": "service-electric-scooter-accident-injuries-in-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/insurance-dispute-resolution-in-jackson-county-mi/",
+        "label": "Insurance Dispute Resolution In Jackson County Mi",
+        "slug": "service-insurance-dispute-resolution-in-jackson-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/insurance-dispute-resolution-in-livingston-county-mi/",
+        "label": "Insurance Dispute Resolution In Livingston County Mi",
+        "slug": "service-insurance-dispute-resolution-in-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/loss-of-limb-claims-in-washtenaw-county-mi/",
+        "label": "Loss Of Limb Claims In Washtenaw County Mi",
+        "slug": "service-loss-of-limb-claims-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/loss-of-limb-claims-in-wayne-county-mi/",
+        "label": "Loss Of Limb Claims In Wayne County Mi",
+        "slug": "service-loss-of-limb-claims-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/medical-malpractice-representation-in-livingston-county-mi/",
+        "label": "Medical Malpractice Representation In Livingston County Mi",
+        "slug": "service-medical-malpractice-representation-in-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/medical-malpractice-representation-in-washtenaw-county-mi/",
+        "label": "Medical Malpractice Representation In Washtenaw County Mi",
+        "slug": "service-medical-malpractice-representation-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/medical-malpractice-representation-in-wayne-county-mi/",
+        "label": "Medical Malpractice Representation In Wayne County Mi",
+        "slug": "service-medical-malpractice-representation-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/motorcycle-accident-injuries-in-brighton-mi/",
+        "label": "Motorcycle Accident Injuries In Brighton Mi",
+        "slug": "service-motorcycle-accident-injuries-in-brighton-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/motorcycle-accident-injuries-in-lenawee-county-mi/",
+        "label": "Motorcycle Accident Injuries In Lenawee County Mi",
+        "slug": "service-motorcycle-accident-injuries-in-lenawee-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/motorcycle-accident-injuries-in-livingston-county-mi/",
+        "label": "Motorcycle Accident Injuries In Livingston County Mi",
+        "slug": "service-motorcycle-accident-injuries-in-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/motorcycle-accident-injuries-in-washtenaw-county-mi/",
+        "label": "Motorcycle Accident Injuries In Washtenaw County Mi",
+        "slug": "service-motorcycle-accident-injuries-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/motorcycle-accident-injuries-in-wayne-county-mi/",
+        "label": "Motorcycle Accident Injuries In Wayne County Mi",
+        "slug": "service-motorcycle-accident-injuries-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/no-fault-insurance-claims-in-ann-arbor-mi/",
+        "label": "No Fault Insurance Claims In Ann Arbor Mi",
+        "slug": "service-no-fault-insurance-claims-in-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/no-fault-insurance-claims-in-washtenaw-county-mi/",
+        "label": "No Fault Insurance Claims In Washtenaw County Mi",
+        "slug": "service-no-fault-insurance-claims-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/no-fault-insurance-claims-in-wayne-county-mi/",
+        "label": "No Fault Insurance Claims In Wayne County Mi",
+        "slug": "service-no-fault-insurance-claims-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/non-economic-damages-claims-in-calhoun-county-mi/",
+        "label": "Non Economic Damages Claims In Calhoun County Mi",
+        "slug": "service-non-economic-damages-claims-in-calhoun-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/non-economic-damages-claims-in-jackson-county-mi/",
+        "label": "Non Economic Damages Claims In Jackson County Mi",
+        "slug": "service-non-economic-damages-claims-in-jackson-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/pain-and-suffering-claims-in-ann-arbor-mi/",
+        "label": "Pain And Suffering Claims In Ann Arbor Mi",
+        "slug": "service-pain-and-suffering-claims-in-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/pain-and-suffering-claims-in-washtenaw-county-mi/",
+        "label": "Pain And Suffering Claims In Washtenaw County Mi",
+        "slug": "service-pain-and-suffering-claims-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/pain-and-suffering-claims-in-wayne-county-mi/",
+        "label": "Pain And Suffering Claims In Wayne County Mi",
+        "slug": "service-pain-and-suffering-claims-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/paralysis-injuries-in-ann-arbor-mi/",
+        "label": "Paralysis Injuries In Ann Arbor Mi",
+        "slug": "service-paralysis-injuries-in-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/paralysis-injuries-in-washtenaw-county-mi/",
+        "label": "Paralysis Injuries In Washtenaw County Mi",
+        "slug": "service-paralysis-injuries-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/pedestrian-accident-injuries-in-ann-arbor-mi/",
+        "label": "Pedestrian Accident Injuries In Ann Arbor Mi",
+        "slug": "service-pedestrian-accident-injuries-in-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/pedestrian-accident-injuries-in-brighton-mi/",
+        "label": "Pedestrian Accident Injuries In Brighton Mi",
+        "slug": "service-pedestrian-accident-injuries-in-brighton-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/pedestrian-accident-injuries-in-calhoun-county-mi/",
+        "label": "Pedestrian Accident Injuries In Calhoun County Mi",
+        "slug": "service-pedestrian-accident-injuries-in-calhoun-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/pedestrian-accident-injuries-in-lenawee-county-mi/",
+        "label": "Pedestrian Accident Injuries In Lenawee County Mi",
+        "slug": "service-pedestrian-accident-injuries-in-lenawee-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/pedestrian-accident-injuries-in-washtenaw-county-mi/",
+        "label": "Pedestrian Accident Injuries In Washtenaw County Mi",
+        "slug": "service-pedestrian-accident-injuries-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/personal-injury-litigation-in-jackson-county-mi/",
+        "label": "Personal Injury Litigation In Jackson County Mi",
+        "slug": "service-personal-injury-litigation-in-jackson-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/personal-injury-litigation-in-livingston-county-mi/",
+        "label": "Personal Injury Litigation In Livingston County Mi",
+        "slug": "service-personal-injury-litigation-in-livingston-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/personal-injury-litigation-in-wayne-county-mi/",
+        "label": "Personal Injury Litigation In Wayne County Mi",
+        "slug": "service-personal-injury-litigation-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/premises-liability-injuries-in-ann-arbor-mi/",
+        "label": "Premises Liability Injuries In Ann Arbor Mi",
+        "slug": "service-premises-liability-injuries-in-ann-arbor-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/premises-liability-injuries-in-washtenaw-county-mi/",
+        "label": "Premises Liability Injuries In Washtenaw County Mi",
+        "slug": "service-premises-liability-injuries-in-washtenaw-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/premises-liability-injuries-in-wayne-county-mi/",
+        "label": "Premises Liability Injuries In Wayne County Mi",
+        "slug": "service-premises-liability-injuries-in-wayne-county-mi",
+        "scraped": false
+      },
+      {
+        "path": "/service/product-liability-representation-in-calhoun-county-mi/",
+        "label": "Product Liability Representation In Calhoun County Mi",
+        "slug": "service-product-liability-representation-in-calhoun-county-mi",
+        "scraped": false
+      }
+    ]
+  },
+  "metadata": {
+    "scraper": "firecrawl-crawl-endpoint",
+    "timestamp": "2026-08-28T08:35:43.887Z",
+    "homepageContentLength": 61009,
+    "imageCount": 57,
+    "hasBranding": true,
+    "hasElementorEnrichment": false,
+    "hasVisibleIr": false,
+    "pagesDiscovered": 199,
+    "pagesScraped": 1
+  }
+}

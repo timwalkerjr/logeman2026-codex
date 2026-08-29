@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleHero from '../components/articles/ArticleHero.astro';
+import ArticleContent from '../components/articles/ArticleContent.astro';
+import ArticleStats from '../components/articles/ArticleStats.astro';
+import ArticleContactForm from '../components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '../components/articles/ArticleTestimonials.astro';
+import ArticleMap from '../components/articles/ArticleMap.astro';
+
+const title = "Legal Disclaimer | Logeman & Iafrate, P.C.";
+const description = "Important legal information about the attorney-client relationship and use of the Logeman & Iafrate website. Read our full disclaimer here.";
+---
+<BaseLayout title={title} description={description}>
+  <ArticleHero />
+  <ArticleContent>
+    <h2>Attorney Disclaimer</h2>
+
+    <p>The information on this website is for general information purposes only. Nothing on this site should be taken as legal advice for any individual case or situation. This information is not intended to create, and receipt or viewing does not constitute, an attorney-client relationship.</p>
+
+    <h3>No Attorney-Client Relationship</h3>
+
+    <p>Simply contacting Logeman &amp; Iafrate, P.C. or any of its attorneys does not, by itself, create an attorney-client relationship. An attorney-client relationship is only formed after we have expressly agreed to represent you and a written engagement letter has been signed.</p>
+
+    <h3>Confidentiality</h3>
+
+    <p>Please do not send any confidential information to us until such time as an attorney-client relationship has been established. Any information sent to us through this website, by email, or through other channels before an attorney-client relationship exists may not be treated as confidential.</p>
+
+    <h3>Past Results</h3>
+
+    <p>The case results and testimonials shown on this website are illustrative of the work we have done for clients. Past results do not guarantee, predict, or warrant future outcomes for any particular case or client.</p>
+
+    <h3>Jurisdiction</h3>
+
+    <p>Logeman &amp; Iafrate, P.C. is licensed to practice law in the State of Michigan. The information on this website may not be applicable in jurisdictions other than Michigan.</p>
+
+    <h3>Contacting Us</h3>
+
+    <p>To schedule a free consultation with our office, please call <strong>(734) 994-0200</strong> or complete our online contact form. We will review your inquiry and determine whether we are able to assist with your legal matter.</p>
+
+    <p class="text-muted-foreground italic mt-8">This disclaimer is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman &amp; Iafrate, P.C. for advice regarding your individual situation.</p>
+  </ArticleContent>
+  <ArticleStats />
+  <ArticleContactForm />
+  <ArticleTestimonials />
+  <ArticleMap />
+</BaseLayout>

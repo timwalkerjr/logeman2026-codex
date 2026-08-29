@@ -1,0 +1,74 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PracticeAreaHero from '@/components/practice-area/PracticeAreaHero.astro';
+import PracticeAreaAttorneys from '@/components/practice-area/PracticeAreaAttorneys.astro';
+import PracticeAreaFAQ from '@/components/practice-area/PracticeAreaFAQ.astro';
+import FreeConsultationForm from '@/components/home/FreeConsultationForm.astro';
+import Testimonials from '@/components/home/Testimonials.astro';
+import LocationMap from '@/components/home/LocationMap.astro';
+
+const faqItems = [
+  { question: "What is premises liability?", answer: "Premises liability is a legal concept that holds property owners responsible for injuries that occur on their property due to unsafe or defective conditions. Property owners have a duty to maintain their premises in a reasonably safe condition for lawful visitors." },
+  { question: "What types of accidents fall under premises liability in Michigan?", answer: "Common premises liability cases include slip and fall accidents on icy sidewalks, construction site accidents, dog bites and attacks, falls due to defective property conditions, fires and explosions, injuries from falling merchandise in stores, and accidents at apartment complexes due to poor maintenance." },
+  { question: "What is the open and obvious doctrine?", answer: "The open and obvious doctrine allows property owners to avoid liability if the dangerous condition was readily apparent to an average person upon casual inspection. However, property owners may still be liable if the hazard is unavoidable or unreasonably dangerous despite being obvious." },
+  { question: "When can a property owner be held liable despite an open and obvious hazard?", answer: "A property owner may still be liable if the hazard is effectively unavoidable (the visitor has no choice but to confront it) or if the condition is unreasonably dangerous with a high likelihood of serious injury, such as an unguarded deep hole or completely ice-covered parking lot." },
+  { question: "What is a property owner's duty of care under Michigan law?", answer: "Under Michigan law, property owners must maintain their property in a reasonably safe condition and prevent foreseeable accidents. This includes warning visitors of potentially dangerous conditions that are not readily observable. The duty applies regardless of whether the visitor is an invitee, licensee, or trespasser." },
+  { question: "What types of injuries are common in premises liability cases?", answer: "Common injuries include concussions, bone fractures, herniated and ruptured discs, torn ligaments and soft tissue injuries, spinal cord injuries, traumatic brain injuries (TBI), lacerations, and shock injuries or burns." },
+  { question: "How long do I have to file a premises liability claim in Michigan?", answer: "Michigan has specific statutes of limitations for personal injury claims. It's important to consult with an experienced premises liability attorney as soon as possible after your injury to ensure your rights are protected and your claim is filed within the required timeframe." },
+  { question: "What compensation can I recover in a premises liability case?", answer: "Victims of premises liability accidents may recover compensation for medical expenses, lost wages, pain and suffering, permanent disability, rehabilitation costs, and other economic and non-economic damages resulting from the injury." }
+];
+---
+
+<BaseLayout
+  title="Premises Liability Law in Michigan | Property Owner Duty & Claims"
+  description="Learn about premises liability law in Michigan, including property owner duties, the open and obvious doctrine, common accident types, and how to pursue compensation for injuries on unsafe property."
+>
+  <PracticeAreaHero title="Premises Liability Law in Michigan">
+    <p>A premises liability case arises when an injury results from an unsafe or defective condition on another's property. A business and landowner have a legal duty to maintain their property in a safe condition for visitors who are lawfully on the property or visiting a business.</p>
+    <p><strong>If a condition on the property is unsafe, the owner may be liable for the damages suffered by the visitor depending on the actual circumstances of the accident.</strong></p>
+
+    <h2>Common Types of Premises Liability Cases</h2>
+    <ul>
+      <li>Slip and fall accidents on icy sidewalks that are unsafe. Frequently it is argued by the lawyers for property owners that there is no liability when the condition is open and obvious upon casual observation by a reasonable person.</li>
+      <li>Construction site accidents causing serious personal injury.</li>
+      <li>Dog bites and attacks. Dog owners are responsible for dog attacks even when there is no history of previous bites. Michigan law requires that all dogs are on a leash when in public.</li>
+      <li>Falls due to defective conditions of the property.</li>
+      <li>Fires and home explosions.</li>
+      <li>Injuries from falling merchandise at big box stores.</li>
+      <li>Injuries occurring at apartment complexes due to the failure to maintain the premises in a safe condition.</li>
+    </ul>
+
+    <h2>What Is Duty of Care Under Michigan Law?</h2>
+    <p>A landowner or business owner has a duty to maintain its property in a reasonably safe condition and to prevent the occurrence of foreseeable accidents, which may include the duty to warn of potentially dangerous conditions not readily observable to a prudent person. The duty to keep a property in a reasonably safe condition is not dependent on the plaintiff's status as an invitee, licensee, or trespasser, or upon whether the property is public or private.</p>
+    <p>The owner must maintain its property in a reasonably safe condition in view of all the circumstances, including the likelihood of injury to others, the seriousness of the injury, and the burden of repairing the defective condition is on the landowner. However, a property owner is not an insurer of the safety of people on its property and has no duty to warn or protect against an open or obvious condition which is not inherently dangerous or avoidable. In most cases, the property will argue that the defective condition was open and obvious and therefore damages are not recoverable.</p>
+
+    <h2>What Is the Open and Obvious Doctrine and How Does That Affect My Claim?</h2>
+    <p>A premises owner can avoid legal liability for injuries if the dangerous condition that caused those injuries was "open and obvious." A danger is open and obvious if an average user with ordinary intelligence would have been able to discover the danger upon a casual inspection. This does not mean that a premises owner is not responsible for hazards that are open and obvious under all circumstances. The owner has a duty to exercise reasonable care to diminish known hazards, including those of ice and snow accumulation or if the condition is effectively unavoidable.</p>
+    <p>An unavoidable hazard is one where the visitor has no choice but to confront the hazard. An example would be where a parking lot was completely ice covered. Courts have also held that if the hazard is unreasonably dangerous (high likelihood of injury despite being an obvious danger), a property owner may still be liable to the accident victim. This would include an unguarded 20-foot hole or other dangerous condition of the land that is unacceptable given the high risk of injury.</p>
+
+    <h2>Common Injuries in Premises Liability Cases</h2>
+    <ul>
+      <li>Concussions</li>
+      <li>Bone fractures</li>
+      <li>Herniated and ruptured discs</li>
+      <li>Torn ligaments and soft tissue injury</li>
+      <li>Spinal cord injury</li>
+      <li>Traumatic brain injury (TBI)</li>
+      <li>Lacerations</li>
+      <li>Shock injuries and burns</li>
+    </ul>
+
+    <h2>Michigan Personal Injury Attorney Services</h2>
+    <p>If you have been injured from an unsafe condition on another's property or have suffered injury due to an accident, our Ann Arbor personal injury law firm can help. Our experienced lawyers are committed to helping the injured recover full and fair compensation for economic losses, pain, and suffering. Please feel free to contact the firm at any time for a free consultation or for help with your personal injury claim.</p>
+  </PracticeAreaHero>
+
+  <PracticeAreaAttorneys />
+
+  <Testimonials />
+
+  <FreeConsultationForm />
+
+  <PracticeAreaFAQ items={faqItems} />
+
+  <LocationMap />
+</BaseLayout>

@@ -1,0 +1,27 @@
+---
+const questions = [
+  {
+    heading: "What Is The Statute Of Limitations For Personal Injury Cases In Michigan?",
+    body: "In Michigan, the statute of limitations for personal injury cases generally requires you to file a lawsuit within three years from the date of the injury. Failing to meet this deadline can result in losing your right to seek compensation. However, specific circumstances might alter these limits. This is why it is vital to contact an experienced personal injury lawyer as soon as possible after your accident to get started on your case."
+  },
+  {
+    heading: "How Do I Know If I Have A Valid Personal Injury Claim?",
+    body: "To determine if you have a valid personal injury claim, you must prove two aspects: liability and damages. There must be a responsible party whose negligence caused your injury, and there must be measurable damages related to that injury. Documentation, including medical records, witness statements and expert testimony, can strengthen your case. We will help you assess the viability of your claim and gather the necessary evidence."
+  }
+];
+---
+<section class="bg-surface py-16">
+  <div class="max-w-[1000px] mx-auto px-6 space-y-6">
+    {questions.map((item) => (
+      <article class="bg-[rgba(229,236,246,0.54)] rounded-[8px] p-6 lg:p-8 border border-white/60">
+        <h2 class="text-[26px] font-bold leading-[1.3] text-foreground tracking-[-0.44px] mb-3">{item.heading}</h2>
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">{item.body}</p>
+      </article>
+    ))}
+
+    <article class="bg-[rgba(229,236,246,0.54)] rounded-[8px] p-6 lg:p-8 border border-white/60">
+      <h2 class="text-[26px] font-bold leading-[1.3] text-foreground tracking-[-0.44px] mb-3">What Are The Common Types Of Personal Injury Cases In Ann Arbor?</h2>
+      <p class="text-[16px] font-normal leading-[1.6] text-foreground">Ann Arbor sees various types of personal injury cases and accidents every year outside of <a href="/motor-vehicle-accidents-overview/" class="text-primary font-semibold underline underline-offset-2">motor vehicle accidents.</a> Most commonly, our attorneys help clients with slip and fall incidents due to unsafe property conditions, injuries from defective products and work-related injuries in industrial or construction settings.</p>
+    </article>
+  </div>
+</section>

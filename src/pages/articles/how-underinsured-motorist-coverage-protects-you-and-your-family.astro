@@ -1,0 +1,41 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+
+const faqItems = [
+  { question: "What is underinsured motorist coverage?", answer: "Underinsured motorist coverage is insurance that protects you when you're injured by a driver whose liability insurance is insufficient to cover your damages. This coverage pays the difference between the at-fault driver's policy limits and your actual damages for medical expenses, pain and suffering, and economic losses." },
+  { question: "When does underinsured motorist coverage apply?", answer: "Underinsured motorist coverage applies when three conditions are met: (1) another driver was at-fault in causing an accident that injured you, (2) you sustained a serious injury or long-term economic loss beyond three years from the accident date, and (3) the at-fault driver's liability insurance is inadequate to cover your pain and suffering, excess medical expenses, and other economic damages." },
+  { question: "How much underinsured motorist coverage should I have?", answer: "It's recommended to carry underinsured motorist coverage equal to or greater than your liability coverage limits. Many drivers in Michigan carry only minimum insurance, which may be $100,000 or less. If you're seriously injured, your damages could far exceed these amounts, making underinsured motorist coverage essential for protecting your family's financial security." },
+  { question: "What happens if the insurance company denies my underinsured motorist claim?", answer: "If an insurance company denies your underinsured motorist claim, you have the right to file a lawsuit against your own insurance carrier. As demonstrated in our $1.25 million verdict against Home-Owners Insurance Company, juries can award full damages when insurance companies wrongfully deny legitimate claims. You may also be entitled to interest from the date the lawsuit was filed." },
+  { question: "Do I need a lawyer for an underinsured motorist claim?", answer: "Yes, it's highly advisable to consult with an experienced personal injury attorney for underinsured motorist claims. These cases can be complex, requiring proof of serious injury and inadequate coverage. Insurance companies often dispute claims, as seen in our case where the insurer argued injuries weren't serious. An attorney can help maximize your recovery and fight for your rights." },
+];
+---
+<BaseLayout title="Underinsured Motorist Coverage: How It Protects Your Family | Ann Arbor" description="Learn how underinsured motorist coverage protects you when at-fault drivers lack adequate insurance. Our Ann Arbor law firm secured a $1.25M verdict in an underinsured motorist case.">
+  <ArticleContent>
+    <p><strong>How <a href="/articles/how-to-obtain-compensation-for-a-michigan-car-accident-involving-personal-injury">underinsured motorist coverage</a> Protects You and Your Family in an Accident with an Underinsured Driver</strong></p>
+    <p>Our office recently obtained a jury verdict in the amount of $1.25 million dollars in Washtenaw County Circuit Court in a claim for underinsured motorist benefits with Home-Owners Insurance Company. The plaintiff was injured in an accident with an inattentive driver who rear-ended his pickup truck while he was waiting to make a left-hand turn. The at-fault driver had bodily injury coverage in the amount of $100,000.00, which the plaintiff claimed was not sufficient to fully compensate him for his injuries and damages.</p>
+    <p>Fortunately, his family had purchased <a href="/practice-area/uninsured-underinsured-motorist-accidents/">underinsured motorist</a> coverage, which provided additional coverage to compensate the injured party for his injuries.</p>
+    <p><strong>Underinsured coverage applies where the at-fault driver's liability insurance coverage is not adequate to cover an injured person's damages for an accident.</strong></p>
+    <p>In order for this coverage to apply, the plaintiff would need to prove the following:</p>
+    <ul>
+      <li>The other driver was at-fault in causing a <a href="/practice-area/car-accidents/">car accident</a> that injured someone else;</li>
+      <li>The injured driver sustained a serious injury or long-term economic loss beyond three years of the accident date; and</li>
+      <li>The other driver's liability insurance coverage is not adequate to cover his or her pain and suffering compensation, excess medical expenses, and other economic loss damages.</li>
+    </ul>
+    <p>Michigan underinsured motorist coverage provides a valuable source of legal recovery for pain and suffering compensation and other economic loss for people injured in a car accident caused by a driver with inadequate insurance coverage. This coverage helps pay money damages to car accident victims when the driver who caused the accident had inadequate liability insurance coverage.</p>
+    <p>In this case, Home-Owners Insurance refused to pay the claim, arguing that the plaintiff's injuries were not serious. As a result, our office filed a lawsuit against Home-Owners Insurance Company seeking the full amount of underinsured motorist coverage. After a three-day trial, the jury agreed with the plaintiff and found the total damages to be $1.25 million dollars. The plaintiff is entitled to additional damages for 12% Uniform Trade Practice Interest and Judgment Interest from the date the lawsuit was filed.</p>
+    <p>If you were injured in an accident, it is important to get a legal review of the case as soon as possible. Our <a href="/about-us/">Ann Arbor personal injury law firm</a> serves clients throughout Michigan. Contact our firm at any time for a free consultation or help with your accident injury claim.</p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+</BaseLayout>

@@ -1,0 +1,100 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+
+const faqItems = [
+  { question: "What is Michigan's no-fault insurance system?", answer: "Michigan's no-fault insurance system requires auto insurance policies to include Personal Injury Protection (PIP) benefits that cover your medical expenses, lost wages, and replacement services regardless of who caused the accident. The system was designed to ensure injured victims receive prompt medical care and wage replacement without having to prove fault. However, the law has been significantly amended in recent years, and the benefits available depend on when you purchased your policy and what coverage level you chose." },
+  { question: "What PIP benefits am I entitled to after a car accident in Ann Arbor?", answer: "PIP benefits typically include: (1) medical expenses for reasonable and necessary treatment related to your injuries, (2) wage loss benefits up to 85% of your gross income for up to three years, (3) replacement services for household tasks you can't perform due to injuries, (4) attendant care or nursing services if needed, (5) rehabilitation costs, and (6) mileage reimbursement for medical appointments. The exact amount of coverage depends on your policy's PIP limits—older policies may have unlimited coverage while newer policies have chosen coverage levels." },
+  { question: "How do I file a no-fault PIP claim after an accident in Ann Arbor?", answer: "You should notify your auto insurance company as soon as possible after the accident—ideally within 24 to 48 hours. Most policies require written notice within 30 days. Provide basic information about the accident, your injuries, and treating providers. You'll need to complete an application for benefits and submit medical records supporting your claims. If your insurance company denies benefits or delays payment, you can file a lawsuit. Michigan's one-year back rule allows you to sue for unpaid benefits, but prompt action strengthens your case." },
+  { question: "What if my insurance company denies my PIP claim?", answer: "Insurance companies deny PIP claims for many reasons, often improperly. Common denial tactics include arguing your treatment wasn't reasonable or necessary, claiming you failed to attend independent medical examinations, asserting your injuries aren't related to the accident, or citing late notice. You have the right to challenge these denials. Our attorneys file lawsuits against insurance companies that improperly deny or terminate PIP benefits, and we can recover benefits plus attorney fees when denials are unreasonable." },
+  { question: "Can I choose my own doctor for no-fault PIP treatment in Michigan?", answer: "Yes. Under Michigan's no-fault law, you have the right to choose your treating physician. Your insurance company may request that you attend an independent medical examination (IME) with a doctor of their choosing, but you are not required to switch your primary treatment to that doctor. However, your insurance may argue that your treatment isn't reasonable or necessary if you don't follow their recommended providers. We can help you navigate these disputes and protect your right to appropriate care." },
+  { question: "What is the serious impairment threshold and why does it matter?", answer: "The serious impairment of body function threshold is a legal standard that determines when you can sue the at-fault driver for pain and suffering damages. Under Michigan law, you must prove that your injuries caused serious impairment of an important body function, or that you suffered permanent serious disfigurement. This standard is one of the most contested issues in Michigan personal injury cases. Insurance companies fight hard to keep cases below this threshold. Our attorneys build strong evidence to meet the serious impairment standard and pursue full compensation." },
+  { question: "How long do I have to file a no-fault insurance lawsuit in Michigan?", answer: "For PIP benefits, Michigan law gives you one year from the date the benefit was incurred to file a lawsuit. For example, if your insurance company denied payment for medical treatment provided six months after the accident, you have one year from the date of that treatment to sue. For personal injury (third-party) claims against the at-fault driver, the statute of limitations is three years. Acting quickly is essential because evidence fades, records get lost, and insurance companies become more aggressive in their defenses over time." },
+  { question: "Do I need an attorney for a no-fault PIP claim?", answer: "While you can file a PIP claim on your own, having an attorney is highly recommended—especially if your insurance company denies benefits, terminates your care, or fails to pay claims promptly. Insurance companies have teams of lawyers working to minimize your benefits. You deserve experienced legal representation to level the playing field. Our attorneys handle all communications with insurance companies, challenge improper denials, and ensure you receive the full benefits you're owed—all on a contingency-fee basis." },
+];
+---
+<BaseLayout title="Ann Arbor No-Fault Insurance Claim Lawyers | Michigan PIP Attorneys" description="Ann Arbor no-fault insurance claim attorneys with 45+ years experience helping injury victims recover PIP benefits. Free consultation. Call (734) 994-0200.">
+  <ArticleContent>
+    <p>After a car accident in Ann Arbor, dealing with insurance companies can feel like a second collision. Adjusters may deny your claims, delay payments, or terminate benefits you're entitled to receive. At Logeman &amp; Iafrate, P.C., we've spent over 45 years helping injury victims throughout Michigan navigate the complexities of no-fault insurance claims and recover the benefits they deserve.</p>
+    <p>Michigan's no-fault system was designed to provide prompt benefits regardless of fault, but insurance companies often use complex rules and aggressive tactics to minimize payouts. Our attorneys understand the no-fault law in detail and know how to hold insurance companies accountable when they fail to pay valid claims.</p>
+
+    <h2><strong>Understanding Michigan's No-Fault Insurance System</strong></h2>
+    <p>Michigan requires all auto insurance policies to include Personal Injury Protection (PIP) benefits. These benefits pay for your medical expenses, lost wages, and replacement services after a car accident—regardless of who caused the crash. The system is intended to ensure injured victims receive prompt care without lengthy disputes over fault.</p>
+    <p>However, no-fault insurance has become more complicated following significant reforms in recent years. The level of PIP coverage available depends on when your policy was purchased. Older policies may provide unlimited medical coverage, while policies purchased after the 2019 reform may have chosen coverage limits. Understanding which rules apply to your policy is critical to maximizing your recovery.</p>
+
+    <h2><strong>PIP Benefits Available After an Ann Arbor Car Accident</strong></h2>
+    <p>Michigan's no-fault system provides several categories of benefits to injured victims:</p>
+    <ul>
+      <li><strong>Medical expenses.</strong> All reasonable and necessary medical care related to your injuries, including hospital stays, doctor visits, surgery, physical therapy, medications, and medical equipment.</li>
+      <li><strong>Wage loss benefits.</strong> Up to 85% of your gross income for up to three years following the accident, with monthly maximums that vary based on your coverage level.</li>
+      <li><strong>Replacement services.</strong> Compensation for household tasks you can't perform due to your injuries, such as housekeeping, lawn care, snow removal, and childcare.</li>
+      <li><strong>Attendant care.</strong> Payment for nursing or caregiving services if your injuries require help with daily activities.</li>
+      <li><strong>Rehabilitation costs.</strong> Vocational rehabilitation, occupational therapy, and other services to help you return to work and daily life.</li>
+      <li><strong>Mileage reimbursement.</strong> Reimbursement for travel to and from medical appointments.</li>
+    </ul>
+    <p>The exact benefits available depend on your specific policy. Our attorneys review your coverage and pursue all available benefits on your behalf.</p>
+
+    <h2><strong>Filing a No-Fault PIP Claim</strong></h2>
+    <p>To file a PIP claim after an Ann Arbor car accident, you must notify your insurance company promptly. Most policies require written notice within 30 days. Once you've reported the accident, your insurer will send you an application for benefits that must be completed and returned. Supporting documentation includes:</p>
+    <ul>
+      <li>Police accident report</li>
+      <li>Medical records and treatment plans</li>
+      <li>Documentation of lost wages</li>
+      <li>Receipts for replacement services</li>
+      <li>Proof of insurance coverage</li>
+    </ul>
+    <p>Once your application is submitted, your insurance company has specific timeframes to pay or deny your claim. If they fail to act within these timeframes or improperly deny benefits, you have the right to file a lawsuit. Our attorneys handle every step of the PIP claim process, from initial filing through litigation if necessary.</p>
+
+    <h2><strong>Common PIP Claim Disputes in Ann Arbor</strong></h2>
+    <p>Insurance companies use various tactics to avoid paying PIP claims. Common disputes include:</p>
+    <ul>
+      <li><strong>Treatment is not reasonable or necessary.</strong> Insurers often argue that ongoing physical therapy, chiropractic care, or specialist consultations exceed what is medically appropriate.</li>
+      <li><strong>Pre-existing conditions.</strong> Insurance companies try to attribute your current injuries to prior medical issues rather than the accident.</li>
+      <li><strong>Independent medical examinations (IMEs).</strong> Insurers send you to their doctors who issue reports supporting denial of your claims.</li>
+      <li><strong>Late notice or failure to cooperate.</strong> Insurers deny claims based on technical violations of policy terms.</li>
+      <li><strong>Coordination of benefits.</strong> Disputes arise when other insurance (health, workers' compensation) covers the same treatment.</li>
+    </ul>
+    <p>Our attorneys have extensive experience overcoming these defenses. We gather medical evidence, work with treating physicians, and challenge improper denials through negotiation or litigation.</p>
+
+    <h2><strong>When Can You Sue the At-Fault Driver?</strong></h2>
+    <p>Michigan's no-fault system limits your right to sue for pain and suffering damages unless your injuries meet specific thresholds. To pursue a third-party claim against the at-fault driver, you must demonstrate that your injuries resulted in:</p>
+    <ul>
+      <li><strong>Serious impairment of body function.</strong> Your injuries must have seriously impaired an important body function, with the impairment being objectively manifested and of a nature that affects your ability to lead a normal life.</li>
+      <li><strong>Permanent serious disfigurement.</strong> Visible scarring or disfigurement that is permanent and serious.</li>
+    </ul>
+    <p>This threshold is one of the most contested issues in Michigan personal injury cases. Insurance companies argue that injuries don't meet the threshold even when they clearly affect your daily life. Our attorneys build strong evidence—including medical records, expert testimony, and documentation of how injuries affect your activities—to meet this standard.</p>
+
+    <h2><strong>Third-Party Claims for Pain and Suffering</strong></h2>
+    <p>If your injuries meet the serious impairment threshold, you can pursue additional compensation from the at-fault driver, including:</p>
+    <ul>
+      <li>Pain and suffering damages</li>
+      <li>Excess medical expenses beyond PIP coverage</li>
+      <li>Full lost wages beyond PIP wage loss benefits</li>
+      <li>Permanent disability compensation</li>
+      <li>Loss of consortium</li>
+      <li>Excess household replacement services</li>
+    </ul>
+    <p>Our attorneys evaluate both your no-fault PIP benefits and any third-party claims to maximize your total recovery.</p>
+
+    <h2><strong>Why Choose Logeman & Iafrate for Your No-Fault Claim?</strong></h2>
+    <p>Insurance companies have teams of lawyers working to minimize your benefits. You deserve experienced legal representation to level the playing field. Our attorneys understand Michigan's no-fault insurance system in detail and know how to hold insurance companies accountable when they deny valid claims.</p>
+    <p>We handle all PIP claims on a contingency-fee basis—you pay no legal fees unless we recover benefits on your behalf. We offer free consultations to evaluate your situation and explain your options. Whether your claim requires simple negotiation or aggressive litigation, we have the experience and resources to pursue the benefits you deserve.</p>
+
+    <h2><strong>Get Help With Your Ann Arbor No-Fault Claim Today</strong></h2>
+    <p>If you're struggling with a no-fault insurance claim in Ann Arbor, don't wait to get legal help. Insurance companies often deny or delay claims hoping you'll give up. The sooner you contact an attorney, the better your chances of recovering full benefits.</p>
+    <p>At Logeman &amp; Iafrate, P.C., we offer free consultations and operate on a contingency-fee basis. Call us today at <strong>(734) 994-0200</strong> or fill out our online contact form to schedule your free consultation. Let us handle the insurance company while you focus on your recovery.</p>
+    <p><em>The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</em></p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+</BaseLayout>

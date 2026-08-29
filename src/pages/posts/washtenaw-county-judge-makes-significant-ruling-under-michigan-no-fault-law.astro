@@ -1,0 +1,42 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+
+const faqItems = [
+  { question: "What did the Washtenaw County judge rule about independent medical evaluations?", answer: "Judge Archie Brown ruled that Farm Bureau Insurance cannot compel an injured accident victim to attend an independent medical evaluation (IME) with a psychologist. The court determined that psychologists are not physicians under MCL 500.3151 and therefore cannot conduct these evaluations under Michigan's no-fault law." },
+  { question: "Why can't psychologists conduct independent medical evaluations under Michigan no-fault law?", answer: "The 2019 amendment to MCL 500.3151 limits independent medical evaluations to licensed physicians engaged in the clinical practice of medicine. Under Michigan law, psychologists are not physicians—they did not attend medical school and cannot practice medicine. Only medical doctors (M.D.) or doctors of osteopathy (D.O.) qualify as physicians under the statute." },
+  { question: "What is the difference between a psychologist and a psychiatrist for IME purposes?", answer: "Psychiatrists attended medical school and are licensed to practice medicine, making them qualified physicians under Michigan law. Psychologists did not attend medical school and cannot practice medicine, prescribe drugs, perform surgery, or administer certain treatments. Therefore, only psychiatrists—not psychologists—can conduct independent medical evaluations under the no-fault law." },
+  { question: "Does this ruling apply to other non-physician evaluations requested by insurance companies?", answer: "Yes. The same legal reasoning applies to evaluations requested by insurance companies from nurses, occupational therapists, and other non-physician healthcare providers. Under MCL 500.3151, only licensed physicians engaged in clinical practice can conduct independent medical evaluations of injured accident victims." },
+  { question: "How does this ruling protect injured accident victims in Michigan?", answer: "This ruling prevents insurance companies from forcing injured victims to undergo evaluations with non-physicians who are not qualified under the statute. It ensures that any independent medical evaluation is conducted by a properly licensed physician, protecting victims' rights and preventing insurance companies from using non-physician evaluators to deny or reduce legitimate claims." },
+];
+---
+<BaseLayout title="Washtenaw County Judge Makes Significant Ruling Under Michigan No-Fault Law" description="Washtenaw County Judge Archie Brown ruled that Farm Bureau Insurance cannot require injured victims to attend independent medical evaluations with psychologists under MCL 500.3151. Learn how this significant ruling protects accident victims' rights under Michigan's no-fault law.">
+  <ArticleContent>
+    <h2><strong>Washtenaw County Judge Makes Significant Ruling That Farm Bureau Insurance Is Not Entitled to Non-Physician Independent Medical Evaluation Under No-Fault Law</strong></h2>
+    <p>Farm Bureau Insurance demanded that an injured accident victim attend a so-called independent medical evaluation with Christian Schutte, a psychologist to undergo neuropsychological testing. This office objected to the request arguing that non-physicians are not allowed to conduct such evaluations under MCL 500.3151. Judge Archie Brown agreed and writes:</p>
+    <p><strong>"IT IS HEREBY ORDERED</strong></p>
+    <ul>
+      <li>Defendant's Motion to Compel Plaintiff to Appear at an Independent Medical Examination with Dr. Christian Schutte, a psychologist is DENIED. Psychologists are not physicians and do not fall under MCL 500.3151."</li>
+    </ul>
+    <p>The amendment of the No-Fault Law on June 11, 2019 included significant changes to MCL 500.3151 which governs a no-fault insurer's right to conduct so-called independent medical evaluations. The amendment limits evaluations to licensed physicians engaged in the clinical practice of medicine.</p>
+    <p>The No-Fault Act does not define "physician," but the Michigan Public Health Code provides the following definition: "an individual who is licensed or authorized under this article to engage in the practice of medicine." MCL 333.17001(1)(f). Similarly, the Michigan Mental Health Code defines "physician" as "an individual licensed or otherwise authorized to engage in the practice of medicine under part 170 of the public health code, 1978 PA 368, MCL 333.17001 to 333.17084, or to engage in the practice of osteopathic medicine and surgery under part 175 of the public health code."</p>
+    <p><strong>Under either definition, a physician is one who is licensed to practice medicine, either as a medical doctor or a doctor of osteopathy. Psychologists did not attend medical school and cannot practice medicine, whereas psychiatrists did attend medical school and are permitted to practice medicine.</strong></p>
+    <p>The law of Michigan makes clear that psychologists are not physicians. The Michigan Court of Appeals held in the context of so-called "independent" evaluations by an adverse party: "As an initial matter, plaintiffs are correct that psychologists are not physicians." Sabbagh v Hamilton Psychological Services, PLC, 329 Mich App 324, 340 (2019).</p>
+    <p>This holding was based on the Michigan Supreme Court decision that recognized that psychologists are different from physicians. See People v Beckley, 434 Mich 691, 728 (1990); People v LaLone, 432 Mich 103, 109 (1989). It also follows Michigan statutes that recognize different statutory privileges for physicians and psychologists. See MCL 600.2157 (identifying physician-patient privilege) and MCL 333.18237 (identifying psychologist-patient privilege).</p>
+    <p>Michigan statutes are also clear that psychologists do not practice medicine. In fact, this concept is part of the very definition of the practice of psychology under the Michigan Public Health Code. As MCL 333.18201(b) states,</p>
+    <p><strong>The practice of psychology shall not include the practice of medicine such as prescribing drugs, performing surgery, or administering electro-convulsive therapy. It is clear that psychologists do not practice medicine, thus they are not physicians, and therefore a no-fault insurance company has no right to request that they perform an examination of an injured person. The same conclusion would apply to nurse and occupational therapy evaluations requested by insurance companies.</strong></p>
+    <p><a href="/about-us/">Logeman, Iafrate &amp; Logeman, P.C.</a> in Ann Arbor is a leader in Michigan no-fault insurance law. Helping accident victims throughout Michigan for more than 45 years, we are dedicated to providing outstanding client service, and skilled legal advocacy in every case. If you have questions or need help with your <a href="/motor-vehicle-accidents-overview/">injury claim</a>, call our <a href="/personal-injury-overview/">personal injury law firm</a> and schedule a Free Consultation.</p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+</BaseLayout>

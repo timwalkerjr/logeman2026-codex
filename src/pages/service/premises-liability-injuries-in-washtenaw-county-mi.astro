@@ -1,0 +1,156 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import ArticleStats from '@/components/articles/ArticleStats.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
+
+const faqItems = [
+  { question: "What is premises liability in Michigan?", answer: "Premises liability holds property owners and occupiers legally responsible for injuries that occur on their property due to dangerous or unsafe conditions. To recover compensation, an injured person must show that the property owner knew or should have known about the hazard, failed to address it within a reasonable time, and that the hazard caused the injuries suffered." },
+  { question: "What is the open and obvious doctrine in Michigan?", answer: "Michigan recognizes the 'open and obvious' doctrine, which states that a property owner generally does not owe a duty to protect invitees from dangers that are open and obvious. However, this rule has important exceptions. The 'special aspects' exception applies when the danger is so unreasonable that the owner should expect harm despite the hazard's obviousness, such as a concealed pit, an unguarded drop-off, or some other extreme hazard." },
+  { question: "Do I need to prove the property owner knew about the hazard?", answer: "Generally, yes. You must show that the property owner either knew or should have known about the dangerous condition. Constructive notice can be established by showing the condition existed long enough that reasonable maintenance practices would have discovered it. Circumstantial evidence—like the absence of inspection records, prior similar incidents, or the condition's obvious age—is often the strongest proof available." },
+  { question: "What if I was partly at fault for my slip and fall?", answer: "Michigan follows comparative fault rules. Your recovery is reduced by your percentage of fault, and if you are more than 50% at fault, you recover nothing. Common defense arguments include that you were wearing inappropriate footwear, were not paying attention, or were in an area where you had no reason to be. Our attorneys counter these arguments with evidence of the hazard's severity and the property owner's failure to address known risks." },
+  { question: "How long do I have to file a premises liability lawsuit in Washtenaw County?", answer: "Michigan's statute of limitations for premises liability claims is generally three years from the date of injury. However, if your claim is against a government entity—such as a public university, municipal building, or government-owned park—the deadlines are much shorter and require a formal Notice of Claim within months of the injury. Contact an attorney immediately so deadlines are not missed." }
+];
+---
+
+<BaseLayout
+  title="Washtenaw County Premises Liability Lawyers | Slip & Fall Injury Attorneys"
+  description="Washtenaw County premises liability attorneys with 45+ years holding property owners accountable for unsafe conditions. Free consultation. No fee unless we win."
+>
+  <ArticleHero />
+  <ArticleContent>
+    <p>Property owners in Washtenaw County—from downtown Ann Arbor shop owners and University of Michigan building managers to Saline landlords and Chelsea business operators—have a legal duty to keep their premises reasonably safe for visitors. When they fail to address dangerous conditions like icy walkways, broken staircases, or wet floors, innocent people suffer serious injuries.</p>
+
+    <p>At Logeman &amp; Iafrate, P.C., we've spent more than 45 years holding negligent property owners accountable throughout Michigan. Slip-and-fall accidents and other premises liability incidents often cause catastrophic injuries, and we have the experience to take on insurance companies that try to deny or minimize your claim.</p>
+
+    <h2>Who Owes You a Duty Under Michigan Premises Liability Law?</h2>
+
+    <p>Michigan law classifies visitors into three categories, each with different duties owed by property owners:</p>
+
+    <ul>
+      <li><strong>Invitees</strong>—people invited onto the property for the owner's business benefit, such as customers at a store or restaurant. Owners must inspect for hazards, address known dangers, and warn of risks the owner should have discovered.</li>
+      <li><strong>Licensees</strong>—social guests and other visitors whose presence is permitted but not for business purposes. Owners must warn of known dangers but are not required to inspect for unknown hazards.</li>
+      <li><strong>Trespassers</strong>—people who enter without permission. Owners generally owe only a limited duty to refrain from willful or wanton misconduct, except in cases involving child trespassers attracted by artificial conditions.</li>
+    </ul>
+
+    <p>Most premises liability claims in Washtenaw County involve invitees injured at businesses, apartment complexes, or public buildings. The owner must use reasonable care to make the premises safe—including routine inspections, prompt repairs, and adequate warnings of non-obvious dangers.</p>
+
+    <h2>Common Premises Liability Hazards We Handle in Washtenaw County</h2>
+
+    <h3>Snow and Ice Removal Failures</h3>
+
+    <p>Michigan winters create significant liability for property owners who fail to clear snow and ice. Sidewalks, parking lots, and entryways that are not properly treated create dangerous slip-and-fall conditions. Many municipalities—including Ann Arbor—have local ordinances requiring timely snow removal, and violations of these ordinances may establish negligence as a matter of law. We're familiar with these local rules and use them to strengthen our clients' cases.</p>
+
+    <h3>Wet Floors and Spills</h3>
+
+    <p>Retail stores, restaurants, and grocery stores frequently create hazards by failing to clean up spills, post warning signs, or block off wet areas after mopping. When employees know about a spill and fail to address it promptly, the business may be liable for resulting injuries.</p>
+
+    <h3>Broken Stairs, Railings, and Flooring</h3>
+
+    <p>Defective staircases, missing handrails, loose floorboards, torn carpeting, and uneven surfaces cause falls that result in broken bones, spinal injuries, and traumatic brain injuries. Property owners who fail to repair known defects or warn visitors of these hazards face liability for the resulting harm.</p>
+
+    <h3>Inadequate Lighting</h3>
+
+    <p>Dark parking lots, stairwells, and walkways hide dangerous conditions and create opportunities for both trip hazards and criminal attacks. Property owners must provide adequate lighting in areas where customers and tenants are expected to walk.</p>
+
+    <h3>Negligent Security</h3>
+
+    <p>Apartment complexes, hotels, parking garages, and shopping centers that fail to provide reasonable security measures—adequate lighting, security cameras, functioning locks, and security patrols—can be held liable when guests, tenants, or customers are assaulted or attacked on the property.</p>
+
+    <h3>Swimming Pool and Recreational Hazards</h3>
+
+    <p>Unguarded pools, broken playground equipment, and poorly maintained recreational facilities cause serious injuries. Property owners must comply with Michigan's premises liability requirements for these high-risk areas.</p>
+
+    <h2>Exceptions to the Open and Obvious Rule</h2>
+
+    <p>Insurance companies frequently defend premises liability cases by arguing that the hazard was "open and obvious"—meaning the injured person should have seen and avoided it. While Michigan recognizes this doctrine, several important exceptions can preserve your right to recovery:</p>
+
+    <ul>
+      <li><strong>Special aspects exception.</strong> When the danger is so extreme that it poses an unreasonable risk of severe harm—regardless of whether it is open and obvious—the property owner may still be liable. Examples include concealed pits, unguarded drops, or contamination hazards.</li>
+      <li><strong>Distraction exception.</strong> When a property owner creates conditions that distract visitors from noticing obvious hazards, liability may apply. For instance, a store that places eye-catching displays near a known uneven floor may be liable for a resulting fall.</li>
+      <li><strong>Effectively unavoidable condition.</strong> When visitors have no reasonable means of avoiding the hazard—for example, a customer funneled through a checkout lane that crosses a wet, freshly mopped floor—the condition is not truly avoidable.</li>
+      <li><strong>Reasonable alternative paths.</strong> Property owners who fail to provide reasonable alternative routes around known hazards remain liable for injuries.</li>
+    </ul>
+
+    <p>These exceptions are fact-specific and require careful legal analysis. Our attorneys evaluate every premises liability case for the exceptions that may apply.</p>
+
+    <h2>Compensation Available for Washtenaw County Premises Liability Injuries</h2>
+
+    <p>Property owners and their insurance companies can be required to pay for all harms caused by their negligence:</p>
+
+    <ul>
+      <li><strong>Medical expenses</strong>—emergency care, surgery, hospitalization, rehabilitation, physical therapy, medications, and ongoing treatment</li>
+      <li><strong>Future medical care</strong>—long-term treatment, in-home care, and adaptive equipment for catastrophic injuries</li>
+      <li><strong>Lost wages</strong>—income lost during recovery and reduced earning capacity if you cannot return to your previous work</li>
+      <li><strong>Pain and suffering</strong>—physical pain, emotional distress, and loss of enjoyment of life</li>
+      <li><strong>Disability and disfigurement</strong>—compensation for permanent impairments and visible scarring</li>
+      <li><strong>Out-of-pocket costs</strong>—home modifications, transportation to medical appointments, and household help during recovery</li>
+    </ul>
+
+    <p>For catastrophic injuries—spinal cord damage, traumatic brain injuries, severe fractures—economic damages alone can reach millions of dollars over a lifetime.</p>
+
+    <h2>Why Property Owners Fight Premises Liability Claims</h2>
+
+    <p>Insurance companies representing property owners aggressively defend premises liability cases. They routinely argue that:</p>
+
+    <ul>
+      <li>The hazard was open and obvious</li>
+      <li>The injured person was not paying attention or wearing appropriate footwear</li>
+      <li>The injury was pre-existing or unrelated to the incident</li>
+      <li>The property owner had no notice of the dangerous condition</li>
+      <li>The injured person assumed the risk by entering the property</li>
+    </ul>
+
+    <p>We counter these defenses with thorough investigation, witness interviews, surveillance video, maintenance records, prior incident reports, and expert testimony. Our trial-ready approach signals to insurers that we will not accept a lowball settlement.</p>
+
+    <h2>Special Rules for Claims Against Government Entities</h2>
+
+    <p>Many premises liability incidents in Washtenaw County occur on government property—the University of Michigan campus, city parks, public libraries, or municipal buildings. Claims against government entities are subject to special rules:</p>
+
+    <ul>
+      <li>You must file a formal Notice of Claim within strict deadlines—often as short as 60 to 120 days after the injury</li>
+      <li>The governmental immunity act limits when and how you can sue public entities</li>
+      <li>Different damage caps and procedural rules may apply</li>
+      <li>The Eaton County 22nd Circuit Court and other local courts have specific procedures for government claims</li>
+    </ul>
+
+    <p>These deadlines are strict and routinely result in forfeited claims when injured people delay seeking legal advice. Our attorneys are experienced in handling claims against governmental bodies and ensure that all procedural requirements are met.</p>
+
+    <h2>Steps to Take After a Slip-and-Fall or Other Premises Injury</h2>
+
+    <p>What you do in the minutes and days after a premises liability incident can significantly affect your claim:</p>
+
+    <ol>
+      <li><strong>Report the incident.</strong> Tell the property owner, manager, or appropriate employee immediately. Make sure a written incident report is completed and obtain a copy.</li>
+      <li><strong>Document the scene.</strong> Take photos and videos of the hazard, the surrounding area, lighting conditions, and your injuries. Capture the scene before the property owner has an opportunity to fix it.</li>
+      <li><strong>Identify witnesses.</strong> Get contact information from anyone who saw your fall or who can testify about the hazard's presence.</li>
+      <li><strong>Seek medical attention.</strong> See a doctor immediately, even if injuries seem minor. Some serious conditions—concussions, internal bleeding, soft tissue damage—may not be apparent right away.</li>
+      <li><strong>Preserve evidence.</strong> Keep the clothing and shoes you were wearing. They may contain physical evidence of the hazard (a torn shoe, stained fabric).</li>
+      <li><strong>Avoid recorded statements.</strong> Do not give recorded statements to insurance adjusters before speaking with an attorney.</li>
+      <li><strong>Contact an attorney.</strong> The sooner we begin investigating, the stronger your claim will be.</li>
+    </ol>
+
+    <h2>Why Washtenaw County Injury Victims Choose Logeman & Iafrate</h2>
+
+    <p>Premises liability cases are often defended by well-funded insurance companies with teams of lawyers working to deny or minimize your claim. Our firm has successfully held negligent property owners accountable for over 45 years. We have the resources to take on insurance companies, the experience to identify the strongest legal theories, and the trial-tested reputation that produces favorable settlements.</p>
+
+    <p>We work on a contingency-fee basis—you pay nothing unless we win. This allows you to pursue the compensation you deserve without worrying about upfront legal costs.</p>
+
+    <h2>Get Legal Help After a Washtenaw County Premises Liability Injury</h2>
+
+    <p>If you've been injured on someone else's property in Washtenaw County—whether at a business, apartment building, public facility, or private residence—contact Logeman &amp; Iafrate, P.C. for a free consultation. Our attorneys serve clients throughout Ann Arbor, Ypsilanti, Saline, Chelsea, Dexter, Manchester, and surrounding communities.</p>
+
+    <p>Call us at <a href="tel:+17349940200"><strong>(734) 994-0200</strong></a> or fill out our online contact form to schedule your free consultation. We handle premises liability cases on a contingency-fee basis—no fee unless we win your case.</p>
+
+    <p class="text-muted-foreground italic max-w-[900px] mx-auto px-6 pb-8">The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</p>
+  </ArticleContent>
+  <ArticleFAQ items={faqItems} />
+  <ArticleStats />
+  <ArticleContactForm />
+  <ArticleTestimonials />
+  <ArticleMap />
+</BaseLayout>

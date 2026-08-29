@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleHero from '../../components/articles/ArticleHero.astro';
+import ArticleContent from '../../components/articles/ArticleContent.astro';
+import ArticleStats from '../../components/articles/ArticleStats.astro';
+import ArticleContactForm from '../../components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '../../components/articles/ArticleTestimonials.astro';
+import ArticleMap from '../../components/articles/ArticleMap.astro';
+import ArticleFAQ from '../../components/articles/ArticleFAQ.astro';
+
+const title = "Ann Arbor Car Accident Lawyers | Michigan Auto Accident Attorneys";
+const description = "Experienced Ann Arbor car accident lawyers helping Michigan auto accident victims recover maximum compensation. Free consultation. No fee unless we win.";
+
+const faqItems = [
+  {
+    question: "What should I do immediately after a car accident in Michigan?",
+    answer: "First, ensure everyone's safety and call 911 if there are injuries. Move to a safe location if possible, exchange insurance and contact information with other drivers, and document the scene with photos. Report the accident to police and notify your own insurance company within one year to preserve your PIP benefits. Avoid admitting fault or making recorded statements to other insurers without legal counsel."
+  },
+  {
+    question: "How does Michigan's no-fault insurance system work?",
+    answer: "Under Michigan's no-fault system, you file a claim with your own auto insurance for Personal Injury Protection (PIP) benefits—regardless of who caused the accident. PIP covers medical expenses, lost wages (up to 85% of gross income), and replacement services. Your coverage level depends on your policy choice: unlimited, $500,000, $250,000, or $50,000. Understanding your coverage before an accident is critical."
+  },
+  {
+    question: "Can I sue the at-fault driver after a Michigan car accident?",
+    answer: "Yes, but only if your injuries meet the \"serious impairment of body function\" threshold—an objectively manifested impairment of an important body function that affects your general ability to lead your normal life. If you meet this threshold, you can pursue compensation for pain and suffering, excess medical expenses, and damages beyond your PIP coverage. Our attorneys have extensive experience proving threshold injuries."
+  },
+  {
+    question: "What compensation can I recover after a Michigan car accident?",
+    answer: "You may recover PIP benefits from your own insurer for medical expenses, wage loss, and replacement services. If your injuries meet Michigan's threshold, you can also pursue a third-party claim against the at-fault driver for pain and suffering, excess economic damages, and loss of quality of life. Additionally, you can file a mini-tort claim (up to $3,000) for vehicle damage against the at-fault driver."
+  },
+  {
+    question: "How long do I have to file a car accident claim in Michigan?",
+    answer: "You must notify your own insurance company of your PIP claim within one year of the accident. The statute of limitations for third-party personal injury lawsuits is three years from the accident date. Missing these deadlines can bar your recovery entirely, so prompt action is essential to protect your rights."
+  }
+];
+---
+<BaseLayout title={title} description={description}>
+  <ArticleHero />
+  <ArticleContent>
+    <h2>Experienced Car Accident Attorneys Serving Ann Arbor and Michigan</h2>
+
+    <p>Car accidents can happen in an instant but change lives forever. At Logeman &amp; Iafrate, P.C., our Ann Arbor car accident lawyers have spent over 45 years fighting for accident victims throughout Michigan. We understand both the physical trauma and the complex legal challenges that follow a serious crash.</p>
+
+    <h3>Understanding Michigan's No-Fault System</h3>
+
+    <p>Michigan's no-fault auto insurance system is unique and often confusing. After an accident, you typically file a claim with your own insurance company for Personal Injury Protection (PIP) benefits—regardless of who caused the crash. These benefits can cover medical expenses, lost wages, and other costs.</p>
+
+    <p>However, the 2019-2020 no-fault reforms changed the landscape significantly. Depending on your coverage level, your PIP medical benefits may be capped at $50,000, $250,000, $500,000, or remain unlimited. Understanding your coverage before an accident occurs is critical.</p>
+
+    <h3>When Can You Sue the At-Fault Driver?</h3>
+
+    <p>Michigan law allows you to pursue a third-party lawsuit against the negligent driver if your injuries meet the "serious impairment of body function" threshold. This requires showing an objectively manifested impairment of an important body function that affects your general ability to lead your normal life.</p>
+
+    <p>Successfully meeting this threshold allows you to recover compensation for pain and suffering, excess medical expenses, and other damages not covered by no-fault benefits. Our attorneys have extensive experience proving threshold injuries and maximizing third-party recoveries.</p>
+
+    <h3>What Damages Can You Recover?</h3>
+
+    <p>In a Michigan car accident case, you may be entitled to:</p>
+
+    <ul>
+      <li>No-fault PIP benefits for medical expenses, wage loss, and replacement services</li>
+      <li>Pain and suffering compensation (in third-party claims)</li>
+      <li>Excess economic damages beyond PIP limits</li>
+      <li>Mini-tort claims for vehicle damage (up to $3,000)</li>
+    </ul>
+
+    <p>Every car accident case is different. The experienced attorneys at Logeman &amp; Iafrate, P.C. will evaluate your situation, explain your options, and fight to maximize your recovery.</p>
+  </ArticleContent>
+  <ArticleFAQ items={faqItems} />
+  <ArticleStats />
+  <ArticleContactForm />
+  <ArticleTestimonials />
+  <ArticleMap />
+</BaseLayout>

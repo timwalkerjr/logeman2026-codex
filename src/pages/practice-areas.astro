@@ -1,0 +1,67 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+
+const faqItems = [
+  { question: "What cases do you handle?", answer: "We represent clients in personal injury, wrongful death, auto accidents, premises liability, medical malpractice, and nursing home abuse cases throughout Michigan. Our attorneys have decades of experience fighting for injured victims and their families." },
+  { question: "Do I pay upfront fees?", answer: "No. We work on a contingency basis, meaning you pay nothing unless we recover damages for you. We believe in our cases and stand behind our clients." },
+  { question: "How long does a case take?", answer: "Every case is different. Some settle quickly while others require trial. We will keep you informed at every step and work at the pace that serves your interests best." },
+  { question: "Will my case go to trial?", answer: "We are prepared to take your case to trial if necessary. Many cases settle before trial, but we never back down from fighting in court when it serves you best." },
+  { question: "What should I do after an accident?", answer: "Seek medical attention first. Document everything you can about the incident. Then contact us for a free consultation. The sooner we get involved, the better we can protect your rights." },
+];
+
+const practiceAreas = [
+  { title: "Bicycle Accidents", description: "Injured in a bicycle accident in Ann Arbor or throughout Michigan? Our experienced attorneys fight for cyclists' rights. Free consultation. Call (734) 994-0200 today.", href: "/practice-area/bicycle-accidents-in-ann-arbor-throughout-michigan" },
+  { title: "Bus Accidents", description: "Experienced Ann Arbor bus accident attorneys helping victims of SMART, The Ride, and school bus accidents. Free consultation. Contingency-fee basis. Call (734) 994-0200.", href: "/practice-area/bus-accidents" },
+  { title: "Car Accidents", description: "Experienced Ann Arbor car accident lawyers helping Michigan auto accident victims recover maximum compensation. Free consultation. No fee unless we win.", href: "/practice-area/car-accidents" },
+  { title: "Construction Accidents", description: "Michigan construction accident attorneys helping injured workers pursue workers' compensation and third-party claims. Experienced trial lawyers. Free consultation.", href: "/practice-area/construction-accidents" },
+  { title: "Distracted Driving", description: "Distracted driving causes over 50% of teen driver crashes and 1,000+ daily injuries. Learn Michigan's texting laws, penalties, and how our Ann Arbor personal injury attorneys can help you recover compensation.", href: "/practice-area/distracted-driving-causing-personal-injury-ann-arbor-mi" },
+  { title: "Dog Bites and Attacks", description: "Bitten by a dog in Michigan? Under MCL 287.351, dog owners face strict liability—no 'one bite' rule. Our Ann Arbor attorneys fight for full compensation for medical bills, scarring, and trauma.", href: "/practice-area/animal-bites-and-attacks" },
+  { title: "Drunk Driver Accidents", description: "Experienced drunk driving accident attorneys in Ann Arbor. We hold negligent drivers and alcohol providers accountable. Free consultation. Call (734) 994-0200.", href: "/practice-area/drunk-driver-accidents" },
+  { title: "Motorcycle Accidents", description: "Experienced Michigan motorcycle accident attorneys in Ann Arbor. Get compensation for injuries, medical expenses, and lost wages. Free consultation. 45+ years helping riders.", href: "/practice-area/motorcycle-accidents" },
+  { title: "No Fault Insurance Claims", description: "Expert Michigan no-fault insurance attorneys in Ann Arbor helping accident victims navigate complex claims, secure full benefits, and fight denied claims. Free consultation available. Call (734) 994-0200.", href: "/practice-area/michigan-no-fault-insurance-claims" },
+  { title: "Pedestrian Accidents", description: "Experienced Ann Arbor pedestrian accident attorneys at Logeman & Iafrate, P.C. fight for victims injured by negligent drivers. Free consultation. 45+ years of proven results. Call (734) 994-0200.", href: "/practice-area/pedestrian-accidents" },
+  { title: "Electric Scooter Accidents", description: "Injured in an electric scooter accident in Ann Arbor? Our experienced personal injury attorneys help victims recover compensation for scooter-related injuries. Free consultation. 45+ years experience.", href: "/practice-area/personal-injury-cases-involving-electric-scooters-personal-injury-attorneys-ann-arbor" },
+  { title: "Lyft & Uber Accidents", description: "Injured in a Lyft or Uber accident in Michigan? Learn about rideshare liability, insurance coverage, compensation, and your legal rights. Free consultation with experienced personal injury attorneys.", href: "/practice-area/personal-injury-claims-involving-lyft-and-uber-drivers-in-michigan" },
+  { title: "Premises Liability", description: "Learn about premises liability law in Michigan, including property owner duties, the open and obvious doctrine, common accident types, and how to pursue compensation for injuries on unsafe property.", href: "/practice-area/premises-liability-law-in-michigan" },
+  { title: "Product Liability", description: "Michigan product liability attorneys holding manufacturers accountable for defective products. Experienced trial lawyers. Free consultation.", href: "/practice-area/product-liability" },
+  { title: "Spinal Cord Injury", description: "Ann Arbor spinal cord injury attorneys helping paralysis victims and their families recover maximum compensation. Experienced trial lawyers. Free consultation.", href: "/practice-area/spinal-cord-injury" },
+  { title: "Brain Injuries", description: "Expert Michigan TBI attorneys explain how to prove long-term cognitive impairment from concussions and mild traumatic brain injuries. Learn defense tactics and evidence needed to win your case. Free consultation.", href: "/practice-area/personal-injury-lawsuits-involving-traumatic-brain-injury" },
+  { title: "Truck Accidents", description: "Experienced Ann Arbor truck accident attorneys with 45+ years fighting for Michigan victims. Free consultation. We don't get paid unless we win. Call (734) 994-0200.", href: "/practice-area/truck-accidents" },
+  { title: "Uninsured / Underinsured Motorists", description: "Injured by an uninsured or underinsured driver in Michigan? Logeman & Iafrate's experienced attorneys help you recover compensation. Free consultation. Call (734) 994-0200.", href: "/practice-area/uninsured-underinsured-motorist-accidents" },
+  { title: "Wrongful Death", description: "Compassionate Ann Arbor wrongful death attorneys helping families seek justice after losing a loved one to negligence. Free consultation. No fee unless we win.", href: "/practice-area/wrongful-death" },
+];
+---
+<BaseLayout title="Logeman & Iafrate, P.C. Practice Areas | Ann Arbor Personal Injury Lawyers" description="With over 60 years of combined experience, our team offers free consultations and operates on a contingency-fee basis, meaning we do not charge fees unless we recover damages for you.">
+  <ArticleContent>
+    <p>We have over 6 decades of combined personal injury law success.</p>
+    <h2><strong>Practice Areas and Case Types</strong></h2>
+    <p>We handle personal injury law cases in Michigan. We take on the tough cases other firms pass on.</p>
+  </ArticleContent>
+
+  <section class="bg-background py-16">
+    <div class="max-w-[1440px] mx-auto px-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {practiceAreas.map((area) => (
+          <div class="bg-[rgba(229,236,246,0.54)] rounded-[8px] p-6 border border-white/60 hover:shadow-md transition-shadow">
+            <h3 class="text-[20px] font-semibold mb-3 text-foreground">{area.title}</h3>
+            <p class="text-[14px] leading-[1.6] text-foreground mb-4">{area.description}</p>
+            <a href={area.href} class="bg-[rgba(204,218,238,0.31)] border border-white text-foreground px-4 py-2 rounded-[4px] font-medium inline-flex items-center gap-2 text-[14px]">Learn More →</a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <ArticleFAQ items={faqItems} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+</BaseLayout>

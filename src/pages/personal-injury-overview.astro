@@ -1,0 +1,22 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PersonalInjuryHero from '@/components/personal-injury/PersonalInjuryHero.astro';
+import PersonalInjuryQuestions from '@/components/personal-injury/PersonalInjuryQuestions.astro';
+import PersonalInjuryCTA from '@/components/personal-injury/PersonalInjuryCTA.astro';
+import ArticleStats from '@/components/articles/ArticleStats.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
+
+const title = "Michigan Personal Injury Lawyers | Logeman & Iafrate, P.C.";
+const description = "Experienced Michigan personal injury attorneys handling complex claims others won't take. From car accidents to catastrophic injuries, we fight for maximum compensation.";
+---
+<BaseLayout title={title} description={description}>
+  <PersonalInjuryHero />
+  <PersonalInjuryQuestions />
+  <PersonalInjuryCTA />
+  <ArticleStats />
+  <ArticleContactForm />
+  <ArticleTestimonials />
+  <ArticleMap />
+</BaseLayout>

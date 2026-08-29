@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AboutHero from '../components/about/AboutHero.astro';
+import AboutStory from '../components/about/AboutStory.astro';
+import ArticleStats from '../components/articles/ArticleStats.astro';
+import ArticleContactForm from '../components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '../components/articles/ArticleTestimonials.astro';
+import ArticleMap from '../components/articles/ArticleMap.astro';
+
+const title = "About Our Firm | Logeman & Iafrate Personal Injury Attorneys";
+const description = "Learn about Logeman & Iafrate's 45+ year commitment to injured clients in Michigan. Our trial-ready approach gets results when other firms say no.";
+---
+<BaseLayout title={title} description={description}>
+  <AboutHero />
+  <AboutStory />
+  <ArticleStats />
+  <ArticleContactForm />
+  <ArticleTestimonials />
+  <ArticleMap />
+</BaseLayout>

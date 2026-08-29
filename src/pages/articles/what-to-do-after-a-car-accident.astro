@@ -1,0 +1,86 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
+
+const faqs = [
+  {
+    question: "What should I do immediately after a car accident?",
+    answer: "First, check for injuries and call 911 if anyone is hurt. Move to safety if possible, turn off your engine, and activate hazard lights. Call the police to document the accident, exchange information with the other driver, and photograph the scene. Even if injuries seem minor, report them to your insurance company."
+  },
+  {
+    question: "Am I legally required to call the police after a car accident in Michigan?",
+    answer: "In Michigan, you may be legally required to call the police depending on the circumstances of the accident. Your insurance company will also request a police report to process your claim. If police don't come to the scene, you can file a report at the nearest police department yourself."
+  },
+  {
+    question: "What information should I exchange with the other driver?",
+    answer: "You should exchange full names and contact information, insurance company and policy numbers, driver's license and license plate numbers, and details about the vehicles involved (type, color, and model). Also note the exact location of the accident."
+  },
+  {
+    question: "Should I report minor injuries to my insurance company?",
+    answer: "Yes, you should report all injuries to your insurance company, whether they seem minor or serious. Sometimes injuries that appear minor initially can develop into more serious conditions. Documenting all injuries from the start protects your rights to compensation."
+  },
+  {
+    question: "When should I contact a personal injury attorney after a car accident?",
+    answer: "If you are seriously injured in a car accident, it's wise to contact an attorney as soon as possible so they can explain your legal rights under Michigan law. An experienced attorney can help you navigate the claims process and fight for the full compensation you deserve. Logeman & Iafrate offers free consultations to discuss your case."
+  }
+];
+---
+
+<BaseLayout
+  title="What to Do After a Car Accident | Essential Steps Guide"
+  description="Learn the critical steps to take after a car accident in Michigan. From calling 911 to documenting the scene and exchanging information, our experienced Ann Arbor attorneys explain how to protect your rights and ensure your safety."
+  canonicalUrl="https://www.logeman.com/articles/what-to-do-after-a-car-accident/"
+>
+  <ArticleHero title="What to Do After a Car Accident" />
+
+  <ArticleContent>
+    <p>If you or a family member are involved in a <a href="/motor-vehicle-accidents-overview/car-accident-attorney-ann-arbor-mi/">car accident</a>, there are steps you should take to help ensure the safety of everyone involved. You should follow these steps in an accident when possible:</p>
+
+    <p><strong>1.</strong> If you or anyone else is injured, call 911 immediately. If you are seriously injured, do not move, and wait for emergency personnel.</p>
+
+    <p><strong>2.</strong> Get to safety, if possible, immediately. If your car is safe to drive and is causing a hazard where it is located, pull the vehicle to the side of the road. Otherwise, stay in the vehicle so that you are not struck by other moving vehicles.</p>
+
+    <p><strong>3.</strong> It is important to call the police, and you may be legally required to do so depending on the circumstances. Your insurance company will request a police report to assist with the claim process. The police may come to the scene to document the accident and the parties involved. Otherwise, you can go to the nearest police department and file a police report yourself.</p>
+
+    <p><strong>4.</strong> Make sure to turn off your engine and turn on your hazard lights. If safe to do so, use road flares in your emergency care kit to warn other approaching vehicles.</p>
+
+    <p><strong>5.</strong> You should exchange contact and insurance information with the other driver, including the following:</p>
+    <ul>
+      <li>Full name and contact information</li>
+      <li>Insurance company and policy number</li>
+      <li>Driver's license and license plate number</li>
+      <li>Type, color, and model of vehicle</li>
+      <li>Location of accident</li>
+    </ul>
+
+    <p><strong>6.</strong> You should document the accident.</p>
+    <ul>
+      <li>Take photographs</li>
+      <li>Get the name and phone numbers of any witnesses</li>
+    </ul>
+
+    <p><strong>7.</strong> If you are injured and are contacted by your insurance company, make sure to report all injuries, whether minor or serious.</p>
+
+    <p>Sometimes minor injuries may turn out to be more serious, so it is prudent to report all injured parts of your body. If you are <a href="/">seriously injured</a>, it would be wise to contact an attorney so that they can explain your legal rights under the law.</p>
+
+    <p>If you are looking for an experienced personal injury attorney you can trust, the attorneys at Logeman, Iafrate &amp; Logeman, P.C. can help. Serving clients throughout Michigan for over 45 years, our Ann Arbor based <a href="/personal-injury-overview/">Personal Injury Law Firm</a> is committed to helping the injured recover full and fair compensation for their economic losses, pain, and suffering. Call for a free consultation.</p>
+
+    <p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqs} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+
+  <ArticleMap />
+</BaseLayout>

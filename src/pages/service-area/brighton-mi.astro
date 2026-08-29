@@ -1,0 +1,164 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import ArticleStats from '@/components/articles/ArticleStats.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
+
+const faqItems = [
+  { question: "What types of injury cases do you handle in Brighton?", answer: "We handle all types of personal injury cases in Brighton and throughout Livingston County, including car accidents, truck accidents, motorcycle crashes, bicycle and pedestrian accidents, slip-and-fall injuries, medical malpractice, defective products, wrongful death, brain and spinal cord injuries, dog bites, and premises liability cases. If you've been injured due to someone else's negligence, we can help." },
+  { question: "How much does it cost to hire a Brighton personal injury lawyer?", answer: "We work on a contingency-fee basis, meaning you pay no legal fees unless we win your case. The initial consultation is always free, and there are no upfront costs or hourly fees. Our compensation comes as a percentage of the recovery we obtain for you. This arrangement ensures quality legal representation is accessible regardless of financial situation." },
+  { question: "How long do I have to file an injury claim in Brighton?", answer: "Michigan's statute of limitations for personal injury claims is generally three years from the date of injury. However, certain claims have much shorter deadlines. Claims against government entities often require a formal Notice of Claim within 60 to 120 days. No-fault insurance claims require notification to your insurance company within one year. Contact an attorney immediately to preserve your rights." },
+  { question: "What is Michigan's no-fault insurance system?", answer: "Michigan's no-fault insurance system requires auto insurance policies to provide Personal Injury Protection (PIP) benefits, including medical expenses, wage loss, and household services, regardless of who caused the crash. The 2020 reforms eliminated mandatory unlimited lifetime medical coverage. Motorcyclists and others not covered by auto PIP may need additional insurance planning. Our attorneys can explain how these rules apply to your case." },
+  { question: "What if I was partly at fault for my accident?", answer: "Michigan follows comparative negligence rules. You can still recover compensation even if you were partly at fault, but your recovery will be reduced by your percentage of fault. If you were more than 50% at fault, you cannot recover anything. Insurance companies frequently exaggerate victim fault—having experienced representation makes a critical difference in the outcome." }
+];
+---
+
+<BaseLayout
+  title="Brighton Personal Injury Lawyers | Logeman & Iafrate, P.C."
+  description="Brighton personal injury attorneys with 45+ years serving Livingston County. Free consultation. No fee unless we win. Call (734) 994-0200."
+>
+  <ArticleHero />
+
+  <section class="bg-[rgba(229,236,246,0.54)] py-16">
+    <div class="max-w-[1200px] mx-auto px-6">
+      <div class="text-center max-w-[900px] mx-auto mb-12">
+        <p class="text-[14px] text-primary font-medium mb-2">Brighton personal injury attorneys</p>
+        <h2 class="text-[36px] font-bold leading-[1.3] text-foreground tracking-[-0.52px] mb-4">Our record speaks to those we've helped in Michigan</h2>
+        <p class="text-[16px] text-foreground leading-[1.6]">For over four and a half decades, our personal injury attorneys have fought for injury victims throughout Michigan, including Brighton and Livingston County. We've recovered millions of dollars in compensation for clients, including significant verdicts in cases other firms refused to take. Our reputation for trial readiness means insurance companies take our cases seriously from the start.</p>
+      </div>
+
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-[1000px] mx-auto">
+        <div class="bg-white rounded-[8px] p-6 text-center border border-black/5">
+          <div class="text-[36px] font-bold text-primary mb-1">60+</div>
+          <div class="text-[14px] text-muted-foreground">Years of combined experience</div>
+        </div>
+        <div class="bg-white rounded-[8px] p-6 text-center border border-black/5">
+          <div class="text-[36px] font-bold text-primary mb-1">1,000+</div>
+          <div class="text-[14px] text-muted-foreground">Cases won for clients</div>
+        </div>
+        <div class="bg-white rounded-[8px] p-6 text-center border border-black/5">
+          <div class="text-[36px] font-bold text-primary mb-1">$50M+</div>
+          <div class="text-[14px] text-muted-foreground">Compensation recovered</div>
+        </div>
+        <div class="bg-white rounded-[8px] p-6 text-center border border-black/5">
+          <div class="text-[36px] font-bold text-primary mb-1">4.9</div>
+          <div class="text-[14px] text-muted-foreground">Client rating</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <ArticleContent>
+    <h2>Brighton Personal Injury Attorneys Serving Livingston County</h2>
+
+    <p>Brighton sits at the busy interchange of US-23 and I-96 in Livingston County, with Grand River Avenue, Old US-23, and Lee Road carrying heavy commuter traffic. The combination of high-speed highways, lake-season congestion around the Mill Pond and Brighton State Recreation Area, and suburban shopping centers creates serious accident risks. When negligence causes serious injury, Brighton victims need attorneys who understand local conditions and have the resources to fight for full compensation.</p>
+
+    <p>At Logeman &amp; Iafrate, P.C., we've spent more than 45 years representing injury victims throughout Brighton, Livingston County, and Michigan. Our firm has the experience, local knowledge, and trial-tested reputation needed to hold negligent parties accountable and maximize your recovery.</p>
+
+    <h2>Practice Areas We Handle in Brighton</h2>
+
+    <p>Our firm handles every type of personal injury case affecting Brighton residents:</p>
+
+    <h3>Highway and Interstate Crashes</h3>
+
+    <p>Brighton's location at the US-23/I-96 interchange makes highway crashes particularly common. We represent victims of high-speed collisions, commercial truck accidents, distracted driving crashes, and drunk driving incidents on local highways and surface streets.</p>
+
+    <h3>Motorcycle Accidents</h3>
+
+    <p>Livingston County's scenic roads attract motorcyclists, but crashes along US-23, I-96, and Grand River Avenue frequently cause catastrophic injuries. We represent injured motorcyclists facing denied insurance claims and biased insurance adjusters who blame riders for crashes they didn't cause.</p>
+
+    <h3>Bicycle and Pedestrian Accidents</h3>
+
+    <p>Brighton's recreational areas and residential neighborhoods see significant bicycle and pedestrian traffic. When negligent drivers strike cyclists or pedestrians, we pursue full compensation for their injuries.</p>
+
+    <h3>Slip-and-Fall and Premises Liability</h3>
+
+    <p>Property owners in Brighton—from restaurants along Main Street to apartment complexes to big-box retailers—must maintain safe premises. When dangerous conditions like ice, wet floors, or broken stairs cause injuries, we hold negligent property owners accountable.</p>
+
+    <h3>Catastrophic Injuries and Wrongful Death</h3>
+
+    <p>Traumatic brain injuries, spinal cord damage, severe burns, and amputations require extensive medical care and lifelong support. We work with medical experts, life care planners, and economists to secure full compensation for catastrophic injuries and wrongful death cases throughout Livingston County.</p>
+
+    <h3>Medical Malpractice</h3>
+
+    <p>When doctors, nurses, and hospitals provide substandard care, patients suffer devastating consequences. We represent victims of surgical errors, birth injuries, diagnostic failures, and medication mistakes at hospitals throughout the region.</p>
+
+    <h3>Product Liability</h3>
+
+    <p>Defective products—from auto parts to household appliances—cause serious injuries. We hold manufacturers, distributors, and retailers accountable when their products harm consumers.</p>
+
+    <h2>Michigan No-Fault Insurance and Brighton Injury Claims</h2>
+
+    <p>Michigan's no-fault insurance system provides important protections for accident victims, including payment of medical expenses, wage loss, and household services regardless of fault. The 2020 reforms eliminated mandatory unlimited lifetime medical coverage, making it critical to understand your coverage and pursue all available benefits.</p>
+
+    <p>Our firm handles all aspects of Michigan no-fault claims, including:</p>
+
+    <ul>
+      <li>First-party PIP benefit claims</li>
+      <li>Priority disputes between insurance companies</li>
+      <li>Denials and underpayment of no-fault benefits</li>
+      <li>Coordination with health insurance and Medicare</li>
+      <li>Attendant care and replacement services claims</li>
+    </ul>
+
+    <p>Motorcyclists face particular challenges because motorcycles are not "motor vehicles" for no-fault purposes. Our attorneys know how to trace coverage and force insurers to pay the benefits Brighton riders are owed.</p>
+
+    <h2>Compensation Available in Brighton Injury Cases</h2>
+
+    <p>Michigan law allows injury victims to pursue comprehensive compensation for their losses:</p>
+
+    <ul>
+      <li><strong>Medical expenses</strong>—past, current, and future medical care, including surgery, hospitalization, rehabilitation, and medication</li>
+      <li><strong>Wage loss</strong>—income lost during recovery and diminished future earning capacity</li>
+      <li><strong>Pain and suffering</strong>—physical pain, emotional distress, and loss of enjoyment of life</li>
+      <li><strong>Out-of-pocket expenses</strong>—transportation, home modifications, and household help</li>
+      <li><strong>Loss of consortium</strong>—the impact of injuries on family relationships</li>
+      <li><strong>Punitive damages</strong>—in cases involving particularly reckless or malicious conduct</li>
+    </ul>
+
+    <p>For catastrophic injuries requiring lifetime care, total compensation can reach millions of dollars.</p>
+
+    <h2>Why Brighton Residents Choose Logeman & Iafrate</h2>
+
+    <p>Choosing the right attorney after an injury makes a critical difference in your recovery. Here's why Brighton residents trust our firm:</p>
+
+    <h3>Proven Trial Experience</h3>
+
+    <p>Insurance companies know which firms settle quickly and which prepare every case for trial. We have a 45-year track record of taking cases to verdict when needed—and our willingness to do so produces better settlement offers for our clients.</p>
+
+    <h3>Resources to Take on Major Cases</h3>
+
+    <p>Personal injury cases often require expert witnesses, accident reconstruction specialists, and medical professionals. Our firm has the resources to hire the experts needed to build the strongest possible case.</p>
+
+    <h3>Personalized Attention</h3>
+
+    <p>We're not a high-volume settlement mill. We take a limited number of cases so we can give each client the personal attention and individualized strategy their case deserves.</p>
+
+    <h3>Contingency-Fee Representation</h3>
+
+    <p>You pay nothing unless we win. There are no upfront costs, hourly fees, or out-of-pocket expenses. Our interests are aligned with yours—we succeed when you succeed.</p>
+
+    <h3>Local Knowledge</h3>
+
+    <p>We've represented clients throughout Livingston County for decades. We know the local courts, judges, medical providers, and insurance adjusters. This insight helps us navigate the legal system effectively and gives our clients a meaningful advantage.</p>
+
+    <h2>Schedule a Free Case Evaluation with a Brighton Injury Attorney</h2>
+
+    <p>If you've been injured due to someone else's negligence in Brighton or anywhere in Michigan, contact Logeman &amp; Iafrate, P.C. for a free case evaluation. We'll review the facts of your situation, explain your legal options, and help you understand what compensation you may be entitled to recover.</p>
+
+    <p>Call us at <a href="tel:+17349940200"><strong>(734) 994-0200</strong></a> or fill out our online contact form. We handle all cases on a contingency-fee basis—no fee unless we win your case.</p>
+
+    <p>Don't let insurance companies take advantage of you. Let our experienced Brighton personal injury attorneys fight for the compensation you deserve.</p>
+
+    <p class="text-muted-foreground italic max-w-[900px] mx-auto px-6 pb-8">The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</p>
+  </ArticleContent>
+  <ArticleFAQ items={faqItems} />
+  <ArticleStats />
+  <ArticleContactForm />
+  <ArticleTestimonials />
+  <ArticleMap />
+</BaseLayout>

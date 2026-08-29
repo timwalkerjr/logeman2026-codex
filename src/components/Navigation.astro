@@ -1,0 +1,240 @@
+---
+const isHome = Astro.url.pathname === '/' || Astro.url.pathname === '';
+---
+
+{!isHome && <div class="h-[72px]" aria-hidden="true" data-ps="src/components/Navigation.astro:gqvsde"></div>}
+<header
+  id="navbar"
+  data-overlay={isHome ? 'true' : 'false'}
+  class:list={[
+    'fixed top-0 left-0 right-0 z-50 w-full transition-all duration-300',
+    isHome ? 'bg-transparent border-b border-transparent' : 'bg-white border-b border-black/5',
+  ]}
+  data-ps="src/components/Navigation.astro:1zp37p"
+>
+  <div id="nav-container" class="max-w-[1536px] mx-auto px-6 py-3 transition-all duration-300 flex items-center justify-between gap-8" data-ps="src/components/Navigation.astro:lxl1n2">
+    <!-- Left Group: Logo + Left-justified Desktop Navigation -->
+    <div class="flex items-center gap-8 lg:gap-10" data-ps="src/components/Navigation.astro:gqvsde">
+      <a href="/" class="flex items-center no-underline shrink-0" aria-label="Logeman & Iafrate, P.C. Homepage" data-ps="src/components/Navigation.astro:7vkjot">
+        <img
+          id="nav-logo"
+          src="https://pagesmith-cdn.com/881ce63c/images/6941b18a1fbcadfc33d9874c_Logo-320.webp"
+          alt="Logeman & Iafrate, P.C."
+          class="w-[111px] h-auto object-contain transition-all duration-300"
+          loading="eager" data-ps="src/components/Navigation.astro:jfbxbi" />
+      </a>
+
+      <!-- Desktop Navigation Links (Left-justified next to logo) -->
+      <nav class="hidden xl:flex items-center gap-6" aria-label="Main Navigation" data-ps="src/components/Navigation.astro:nrytyo">
+      <a href="/" class="text-[16px] text-foreground font-normal hover:text-primary transition-colors no-underline" data-ps="src/components/Navigation.astro:7vkjou">
+        Home
+      </a>
+      <a href="/about-us" class="text-[16px] text-foreground font-normal hover:text-primary transition-colors no-underline" data-ps="src/components/Navigation.astro:7vkjov">
+        About us
+      </a>
+
+      <!-- Practice Areas with Mega Menu -->
+      <div class="relative group" data-ps="src/components/Navigation.astro:lxl1n3">
+        <button
+          type="button"
+          class="flex items-center gap-1.5 text-[16px] text-foreground font-normal hover:text-primary transition-colors py-2 cursor-pointer bg-transparent border-0"
+          aria-expanded="false"
+         data-ps="src/components/Navigation.astro:4mv6r">
+          <span data-ps="src/components/Navigation.astro:7xpc9u">Practice Areas</span>
+          <svg class="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </button>
+
+        <!-- Dropdown Mega Menu -->
+        <div class="absolute left-0 top-full hidden group-hover:block group-focus-within:block w-[88vw] max-w-[1000px] bg-white rounded-lg shadow-2xl border border-black/10 p-6 z-50 animate-in fade-in slide-in-from-top-2 duration-150" data-ps="src/components/Navigation.astro:gqvsd5">
+          <div class="grid grid-cols-4 gap-6" data-ps="src/components/Navigation.astro:gqvsd6">
+            <!-- Col 1: Motor Vehicle -->
+            <div data-ps="src/components/Navigation.astro:gqvsd7">
+              <a href="/motor-vehicle-accidents-overview" class="font-bold text-[16px] text-foreground hover:text-primary block mb-3 no-underline border-b pb-2" data-ps="src/components/Navigation.astro:7vkjow">
+                Motor Vehicle Accident Injuries
+              </a>
+              <ul class="space-y-2 text-[14px]">
+                <li data-ps="src/components/Navigation.astro:2wgngq"><a href="/practice-area/bicycle-accidents-in-ann-arbor-throughout-michigan" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjox">Bicycle Accidents</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgngr"><a href="/practice-area/car-accidents" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjoy">Car Accidents</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgngs"><a href="/practice-area/motorcycle-accidents" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjoz">Motorcycle Accidents</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgngt"><a href="/practice-area/truck-accidents" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjpl">Truck Accidents</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgnhf"><a href="/motor-vehicle-accidents-overview" class="text-primary font-medium hover:underline block pt-1" data-ps="src/components/Navigation.astro:7vkjpm">More Vehicle Cases &rarr;</a></li>
+              </ul>
+            </div>
+
+            <!-- Col 2: Catastrophic -->
+            <div data-ps="src/components/Navigation.astro:gqvsd8">
+              <a href="/catastrophic-injuries-overview" class="font-bold text-[16px] text-foreground hover:text-primary block mb-3 no-underline border-b pb-2" data-ps="src/components/Navigation.astro:7vkjpn">
+                Catastrophic Injuries
+              </a>
+              <ul class="space-y-2 text-[14px]">
+                <li data-ps="src/components/Navigation.astro:2wgnhg"><a href="/practice-area/personal-injury-lawsuits-involving-traumatic-brain-injury" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjpo">Brain Injuries</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgnhh"><a href="/practice-area/construction-accidents" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjpp">Construction Accidents</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgnhi"><a href="/practice-area/spinal-cord-injury" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjpq">Spinal Cord Injury</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgnhj"><a href="/practice-area/wrongful-death" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjpr">Wrongful Death</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgnhk"><a href="/catastrophic-injuries-overview" class="text-primary font-medium hover:underline block pt-1" data-ps="src/components/Navigation.astro:7vkjps">More Catastrophic Cases &rarr;</a></li>
+              </ul>
+            </div>
+
+            <!-- Col 3: Personal Injury -->
+            <div data-ps="src/components/Navigation.astro:gqvsd9">
+              <a href="/personal-injury-overview" class="font-bold text-[16px] text-foreground hover:text-primary block mb-3 no-underline border-b pb-2" data-ps="src/components/Navigation.astro:7vkjpt">
+                Personal Injury Cases
+              </a>
+              <ul class="space-y-2 text-[14px]">
+                <li data-ps="src/components/Navigation.astro:2wgnhl"><a href="/practice-area/animal-bites-and-attacks" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjpu">Dog Bites and Attacks</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgnhm"><a href="/practice-area/personal-injury-cases-involving-electric-scooters-personal-injury-attorneys-ann-arbor" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjqg">Electric Scooter Accidents</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgnhn"><a href="/practice-area/premises-liability-law-in-michigan" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjqh">Premises Liability</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgnho"><a href="/practice-area/product-liability" class="text-muted-foreground hover:text-primary no-underline block py-0.5" data-ps="src/components/Navigation.astro:7vkjqi">Product Liability</a></li>
+                <li data-ps="src/components/Navigation.astro:2wgnia"><a href="/personal-injury-overview" class="text-primary font-medium hover:underline block pt-1" data-ps="src/components/Navigation.astro:7vkjqj">More Personal Injury Cases &rarr;</a></li>
+              </ul>
+            </div>
+
+            <!-- Col 4: Featured News -->
+            <div class="bg-secondary/50 p-4 rounded-lg flex flex-col justify-between" data-ps="src/components/Navigation.astro:gqvsda">
+              <div data-ps="src/components/Navigation.astro:gqvsdb">
+                <p class="text-xs font-semibold uppercase tracking-wider text-primary mb-2" data-ps="src/components/Navigation.astro:rmn2d">Featured</p>
+                <img
+                  src="https://pagesmith-cdn.com/881ce63c/images/693497142d3f9984e2edc6a5_relume-608159-768.webp"
+                  alt="45 Years Anniversary"
+                  class="w-full h-24 object-cover rounded mb-3" data-ps="src/components/Navigation.astro:jfbxbj" />
+                <p class="font-bold text-[14px] text-foreground leading-snug mb-1" data-ps="src/components/Navigation.astro:rmn2e">
+                  We're Celebrating 45 Years of Serving the Injured.
+                </p>
+                <p class="text-xs text-muted-foreground" data-ps="src/components/Navigation.astro:rmn2f">
+                  Ann Arbor, MI is our home too and we are proud to be such a long-term part of the community.
+                </p>
+              </div>
+              <a href="/about-us" class="text-primary text-[13px] font-medium hover:underline block mt-3" data-ps="src/components/Navigation.astro:7vkjqk">Read more &rarr;</a>
+            </div>
+          </div>
+
+          <!-- Mega Menu Footer Link -->
+          <div class="mt-4 pt-4 border-t border-black/10 flex justify-end" data-ps="src/components/Navigation.astro:gqvsde">
+            <a href="/practice-areas" class="inline-flex items-center gap-1 text-primary font-semibold text-[15px] hover:underline" data-ps="src/components/Navigation.astro:kd8n5r">
+              See All Practice Areas &rarr;
+            </a>
+          </div>
+        </div>
+      </div>
+<a href="/client-testimonials" class="text-[16px] text-foreground font-normal hover:text-primary transition-colors no-underline" data-ps="src/components/Navigation.astro:7vkjqm">
+        Reviews
+      </a>
+      <a href="/service-areas" class="text-[16px] text-foreground font-normal hover:text-primary transition-colors no-underline" data-ps="src/components/Navigation.astro:7vkjqn">
+        Service Areas
+      </a>
+      <a href="/contact-us" class="text-[16px] text-foreground font-normal hover:text-primary transition-colors no-underline" data-ps="src/components/Navigation.astro:7vkjqo">
+        Contact Us
+      </a>
+      </nav>
+    </div>
+
+    <!-- Header CTA Buttons -->
+    <div class="hidden lg:flex items-center gap-4" data-ps="src/components/Navigation.astro:gqvsdc">
+      <a
+        href="tel:+17349940200"
+        class="bg-primary text-primary-foreground border border-primary px-4 py-2.5 rounded-[4px] font-medium text-[15px] hover:bg-primary-hover transition-colors no-underline whitespace-nowrap"
+       data-ps="src/components/Navigation.astro:7vkjrb">
+        (734) 994-0200
+      </a>
+    </div>
+
+    <!-- Mobile Menu Button -->
+    <button
+      id="mobile-menu-button"
+      type="button"
+      class="xl:hidden p-2 text-foreground hover:text-primary transition-colors"
+      aria-label="Toggle menu"
+      aria-expanded="false"
+      aria-controls="mobile-menu"
+     data-ps="src/components/Navigation.astro:4mv6s">
+      <svg id="menu-icon-open" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+      <svg id="menu-icon-close" class="w-6 h-6 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
+
+  <!-- Mobile Menu -->
+  <div
+    id="mobile-menu"
+    class="hidden xl:hidden overflow-hidden bg-background border-t border-border px-6 py-4 space-y-3"
+    role="navigation"
+    aria-label="Mobile navigation"
+   data-ps="src/components/Navigation.astro:gqvsdd">
+    <a href="/" class="block text-foreground text-base py-2 font-medium hover:text-primary no-underline" data-ps="src/components/Navigation.astro:7vkjrc">Home</a>
+    <a href="/about-us" class="block text-foreground text-base py-2 font-medium hover:text-primary no-underline" data-ps="src/components/Navigation.astro:7vkjrd">About us</a>
+    <a href="/practice-areas" class="block text-foreground text-base py-2 font-medium hover:text-primary no-underline" data-ps="src/components/Navigation.astro:7vkjre">Practice Areas</a>
+    <a href="/verdicts-and-settlements" class="block text-foreground text-base py-2 font-medium hover:text-primary no-underline" data-ps="src/components/Navigation.astro:7vkjrf">Our Results</a>
+    <a href="/client-testimonials" class="block text-foreground text-base py-2 font-medium hover:text-primary no-underline" data-ps="src/components/Navigation.astro:7vkjrg">Reviews</a>
+    <a href="/service-areas" class="block text-foreground text-base py-2 font-medium hover:text-primary no-underline" data-ps="src/components/Navigation.astro:7vkjrh">Service Areas</a>
+    <a href="/contact-us" class="block text-foreground text-base py-2 font-medium hover:text-primary no-underline" data-ps="src/components/Navigation.astro:7vkjri">Contact Us</a>
+    <div class="pt-4 flex flex-col gap-3" data-ps="src/components/Navigation.astro:gqvsde">
+      <a
+        href="tel:+17349940200"
+        class="text-center bg-primary text-primary-foreground border border-primary px-4 py-3 rounded-[4px] font-medium text-base no-underline"
+       data-ps="src/components/Navigation.astro:7vkjrk">
+        (734) 994-0200
+      </a>
+    </div>
+  </div>
+</header>
+
+<script is:inline>
+  const mobileMenuButton = document.getElementById('mobile-menu-button');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const menuIconOpen = document.getElementById('menu-icon-open');
+  const menuIconClose = document.getElementById('menu-icon-close');
+
+  function toggleMenu() {
+    const isOpen = !mobileMenu?.classList.contains('hidden');
+    if (isOpen) {
+      mobileMenu?.classList.add('hidden');
+      menuIconOpen?.classList.remove('hidden');
+      menuIconClose?.classList.add('hidden');
+      mobileMenuButton?.setAttribute('aria-expanded', 'false');
+    } else {
+      mobileMenu?.classList.remove('hidden');
+      menuIconOpen?.classList.add('hidden');
+      menuIconClose?.classList.remove('hidden');
+      mobileMenuButton?.setAttribute('aria-expanded', 'true');
+    }
+  }
+
+  mobileMenuButton?.addEventListener('click', toggleMenu);
+
+  const navbar = document.getElementById('navbar');
+  const navContainer = document.getElementById('nav-container');
+  const navLogo = document.getElementById('nav-logo');
+  const overlay = navbar?.dataset.overlay === 'true';
+
+  function updateNav() {
+    const scrolled = window.scrollY > 10;
+    if (overlay) {
+      if (scrolled) {
+        navbar?.classList.remove('bg-transparent', 'border-transparent');
+        navbar?.classList.add('bg-white', 'shadow-sm', 'border-black/5');
+      } else {
+        navbar?.classList.add('bg-transparent', 'border-transparent');
+        navbar?.classList.remove('bg-white', 'shadow-sm', 'border-black/5');
+      }
+    }
+    if (scrolled) {
+      navContainer?.classList.remove('py-3');
+      navContainer?.classList.add('py-2');
+      navLogo?.classList.remove('w-[111px]');
+      navLogo?.classList.add('w-[90px]');
+    } else {
+      navContainer?.classList.add('py-3');
+      navContainer?.classList.remove('py-2');
+      navLogo?.classList.add('w-[111px]');
+      navLogo?.classList.remove('w-[90px]');
+    }
+  }
+
+  window.addEventListener('scroll', updateNav, { passive: true });
+  updateNav();
+</script>

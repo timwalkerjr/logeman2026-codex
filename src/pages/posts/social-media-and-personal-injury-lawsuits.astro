@@ -1,0 +1,41 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+
+const faqItems = [
+  { question: "Can defendants access my private social media accounts during a personal injury lawsuit?", answer: "Yes, defendants may request access to your social media accounts, including private posts and photos. Courts vary in their rulings, with some ordering limited production and others allowing defendants to view all content. Even private accounts may not remain private during litigation." },
+  { question: "Should I delete my social media posts after filing a personal injury lawsuit?", answer: "No, you should not delete any evidence relevant to your case, including photos or posts. There are legal obligations to preserve evidence, and deleting content could harm your case. The best practice is to stop using social media entirely during pending litigation." },
+  { question: "How can social media posts hurt my personal injury case?", answer: "Social media posts can undermine your injury claims. For example, photos showing you engaged in physical activities, on vacation, or having fun can be used by defendants to question the severity of your injuries. Even innocent posts about daily activities can be misinterpreted to contradict your claims." },
+  { question: "What privacy settings should I use on social media during a lawsuit?", answer: "Make all aspects of your social media pages private, including status updates, photos, profile pages, and about sections. Prohibit others from tagging you in photographs. However, remember that even with private settings, courts may still order you to produce this information during litigation." },
+  { question: "Can insurance companies use my friends' posts about me as evidence?", answer: "Yes, posts made by others about you can be requested as evidence. You should monitor what others post about you and consider asking friends not to tag you or post about your activities. If you have mutual friends with the defendant, your page is essentially public to them." },
+];
+---
+<BaseLayout title="Social Media and Personal Injury Lawsuits" description="Learn how social media can impact your personal injury lawsuit. Discover best practices for protecting your case, managing privacy settings, and avoiding common pitfalls with Facebook, Twitter, and other platforms during litigation.">
+  <ArticleContent>
+    <p>Social media includes Facebook, Twitter, Google+, MySpace, blogs, and other social networks. When you bring a lawsuit, the defendant will likely request access to, or a copy of, social media pages. They will want copies of photos, status updates, and posts by others about you. They could even ask for your passwords so they can have access to non-public information about you. Online photos and posts are increasingly being used as evidence in courts. Photographs of accident victims having fun or being on vacation with family can be used in court to undermine your case.</p>
+    <p>During pending litigation, the best practice is to stop using all social media accounts while litigation is ongoing. DON'T delete evidence relevant to the case (i.e., photos) since there may be legal obligations to preserve evidence. We understand how integrated social media is as a part of our everyday lives. If you choose to keep a social media page, we offer the following recommendations:</p>
+    <h2><strong>Public Access</strong></h2>
+    <p>You can assume if your social media pages are open to the public, the defendant has or will look at your pages. We do not recommend that your pages be public under any circumstance.</p>
+    <h2><strong>Private or Non-Public Access</strong></h2>
+    <p>If you have a page, make it private! Make sure all aspects of your page are private – status updates, photos, "about" or profile pages, etc. Check and see what the page looks like to the public. For example, most profile pictures on Facebook are public, despite the settings.</p>
+    <p>We advise that you watch what is posted about you by others. There is no clear legal answer on whether you will be ordered by the court to produce this information. This is a very new area of discovery litigation. Some courts will order production of limited items and other courts may order that ALL of it can be viewed by the defendant. Even if your page is private, don't assume that it will stay private during the course of a lawsuit.</p>
+    <p>Prohibit others from "tagging" you in photographs, because these frequently show up to the public.</p>
+    <p><strong>Status updates</strong> – It is best not to discuss your injury or activities. If you do post/blog your status, the court might order these to be produced in the lawsuit. For example, if you had a hand injury and your post says that you did lots of laundry, the defendant would question the seriousness of your injury.</p>
+    <p><strong>Friends</strong> – If you have mutual friends with the defendant, then your page is as good as public. Do not accept any friend requests from people that you do not know.</p>
+    <p><strong>The Law</strong> – It is unclear if your social media will have to be produced during litigation. Do not put anything out there that you would not want public. Insurance companies are very skilled at painting a picture of your life that is different from reality!</p>
+    <p>Our personal injury law firm, <a href="/about-us/">Logeman, Iafrate & Logeman</a> has been helping accident victims throughout Michigan recover the compensation they need to rebuild their lives and take care of their families for over forty-five years. Our <a href="/personal-injury-overview/">personal injury law practice</a> is prepared to handle claims involving <a href="/motor-vehicle-accidents-overview/car-accident-attorney-ann-arbor-mi/">car accidents</a>, uninsured accidents, <a href="/motor-vehicle-accidents-overview/">motorcycle accidents</a>, truck accidents, wrongful death, pedestrian accidents, traumatic <a href="/catastrophic-injuries/brain-injury-lawyers-in-ann-arbor-mi/">brain injury</a>, no fault, and more! Call us today for a <a href="/contact-us/">Free Case Evaluation</a>.</p>
+    <p><em>This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</em></p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+</BaseLayout>

@@ -1,0 +1,46 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+
+const faqItems = [
+  { question: "What is Michigan's no-fault insurance system?", answer: "Michigan's no-fault insurance system requires injured drivers and passengers to file claims with their own insurance company first, regardless of who caused the accident. This system provides Personal Injury Protection (PIP) benefits for medical bills, wage loss, and other expenses. Under the amended No-Fault Law, drivers can choose various levels of medical coverage, from unlimited to opting out completely." },
+  { question: "Do I need to contact the other driver's insurance company after an accident?", answer: "No. In Michigan, you typically file your initial claim with your own vehicle owner's insurance company to receive compensation for medical bills, wage loss, and other benefits. This is different from many other states and often confuses accident victims who are unfamiliar with Michigan's no-fault system." },
+  { question: "What are Personal Injury Protection (PIP) benefits?", answer: "Personal Injury Protection benefits are available under Michigan law and cover medical treatment, wage loss, and other expenses resulting from a car accident. One benefit of PIP coverage is that medical treatment can be authorized immediately regardless of who is at fault for the accident." },
+  { question: "When should I hire a car accident attorney?", answer: "You should contact a Michigan car accident attorney as soon as possible following a crash, especially if serious injuries or complex legal issues are involved. An experienced attorney can protect your legal rights, navigate the complicated no-fault system, and ensure you receive proper compensation. Most personal injury law firms work on a contingent fee basis, meaning you owe no attorney fees unless you win your case." },
+  { question: "Can I sue the other driver for pain and suffering?", answer: "Yes, depending on the circumstances and available coverages, you may be able to sue negligent parties for pain and suffering compensation and other damages. However, insurance companies will often argue comparative negligence to reduce your claim. An experienced attorney can help determine if you have grounds for a lawsuit and what damages you can pursue." },
+  { question: "What level of insurance coverage should I maintain?", answer: "We recommend all drivers maintain unlimited medical coverage for themselves and family household members. Those carrying only state insurance minimums who are seriously injured can exhaust their coverage quickly due to the high cost of medical care, leaving them to pursue additional damages from other parties who may not have adequate coverage." },
+];
+---
+<BaseLayout title="Michigan Car Accident Compensation Guide | Logeman & Iafrate" description="Learn how to obtain compensation after a Michigan car accident. Our experienced attorneys explain PIP benefits, no-fault insurance claims, and when to file a personal injury lawsuit.">
+  <ArticleContent>
+    <p>How do you get compensation after a car accident in Michigan? Car accident victims commonly do not know where to start when they need compensation for personal injuries, medical bills, lost wages, and property damage following an accident. These issues can be very complicated in a state like Michigan that utilizes a modified "no-fault" insurance system after the amendment to the No-Fault Law.</p>
+    <p>If you or a family member are injured in a car accident, most people think they should contact the other driver's insurance, but that's not how accident adjudication works in Michigan. Injured drivers and the occupants of their vehicle normally are required to file the initial claim with the vehicle owner's insurance company to receive compensation for medical bills, wage loss, and other legal compensation.</p>
+    <h2><strong>These are known as Personal Injury Protection benefits (PIP) which are available under Michigan Law.</strong></h2>
+    <p>These rules are often complex and confusing to navigate. Further, the no-fault system can put an injured driver or occupant in an adversarial position with their own insurance company. This is also why it's vital to have an experienced accident lawyer representing your claim to ensure that you receive proper compensation for your injuries.</p>
+    <p>One of the benefits of <a href="/practice-area/michigan-no-fault-insurance-claims/">no-fault insurance</a> is that medical treatment for injuries can be authorized immediately regardless of who is at fault. All drivers should know how much insurance coverage they carry, along with any additional riders or reduced coverage for medical bills and any other available benefits. Under the amended No-Fault Law, a driver can purchase various levels of medical coverage from unlimited coverage to opting out of medical coverage completely.</p>
+    <p><strong>We recommend all drivers maintain unlimited medical coverage for themselves and family household members.</strong></p>
+    <p>Those carrying state insurance minimums who are seriously injured in an accident can exhaust their coverage quickly based on the high cost of medical care. Opposing negligent parties may be sued for pain and suffering compensation and other damages depending on the available coverages. However, the other drivers frequently do not have adequate coverage to compensate you for your injuries.</p>
+    <p>Not only can the insurance company be difficult when determining non-economic damages, the injured client is left to file for any additional damages from other negligent parties after the insurance is maxed out.</p>
+    <p>These potential legal issues are why it's important to contact a <a href="/motor-vehicle-accidents-overview/">Michigan car accident attorney</a> as soon as possible following a crash to protect your legal rights.</p>
+    <h2><strong>Should You Hire a Car Accident Attorney?</strong></h2>
+    <p>You should never attempt to handle a serious car accident claim yourself unless there are no complications and the amount of coverage is sufficient. If serious injuries or complex legal issues are involved, it becomes necessary to retain an experienced personal injury attorney who can represent your legal interests. Most personal injury law firms are hired on a contingent fee basis, so you owe no attorney fees unless you prevail in your case.</p>
+    <p>The injured driver's insurance company will likely argue the amount of comparative negligence in an accident case as a method of reducing a claim, sometimes significantly when the claimant attempts to settle without legal counsel. A quick settlement offer from the insurance company to avoid litigation may include a full release from future medical expense coverage, which means the claim cannot be pursued at a later date. This should only be done in limited circumstances.</p>
+    <h2><strong>Filing a Personal Injury Lawsuit</strong></h2>
+    <p>Insurance companies that routinely attempt to deny an accident claim's value as standard practice are usually prepared to take a case to court if it will be cost efficient, even if they are your own insurance company. The insurance company's lawyers will often even provide a legal defense for the negligent driver in order to increase your contribution to the accident and lower their claim amount.</p>
+    <p>Regardless of the nature of injuries in an auto accident case, insurance adjusters are primarily focused on their company's profit margins. Insurance companies use defense attorneys that are always ready to take a case to court unless the outcome is very expensive.</p>
+    <p>That's why it is so important to have qualified and dependable representation from a <a href="/practice-area/car-accidents/">car accident attorney</a> fighting on your side.</p>
+    <p>If you or a loved one suffered in a Michigan car accident and your injury costs exceed your coverage, or your claim was denied altogether, it's time to contact a <a href="/personal-injury-overview/">personal injury attorney</a> in order to determine the right steps to increase your chances of a successful outcome. A qualified law firm should investigate whether you have grounds for a lawsuit, and if so, who you can sue, what damages you can sue for, and how much your case is worth. Contact us for a <a href="/contact-us/">free consultation</a> today.</p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+</BaseLayout>

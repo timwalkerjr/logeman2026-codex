@@ -1,0 +1,144 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
+
+const faqs = [
+  {
+    question: "What compensation can I recover for severe burn injuries in Michigan?",
+    answer: "Michigan law allows burn injury victims to recover medical expenses (including all future surgeries and treatment), lost wages and diminished earning capacity, pain and suffering, compensation for permanent scarring and disfigurement, home modifications, and costs for psychological counseling and rehabilitation. The total value depends on burn severity, extent of scarring, and impact on your ability to work and enjoy life. Our attorneys work with medical experts to document lifetime costs often reaching millions of dollars."
+  },
+  {
+    question: "How long do I have to file a burn injury lawsuit in Calhoun County?",
+    answer: "Michigan's statute of limitations for personal injury claims is generally three years from the date of injury. However, this deadline can vary based on specific circumstances, including when you discovered the full extent of your injuries. For workplace burns involving workers' compensation, you must report injuries within 90 days and file claims within two years. For product liability claims against manufacturers, different deadlines may apply. Consulting an attorney immediately after your burn injury ensures all deadlines are met."
+  },
+  {
+    question: "Can I sue if my burn injury happened at work in Calhoun County?",
+    answer: "If burned at work, you're typically entitled to workers' compensation benefits for medical treatment and wage loss regardless of fault. However, workers' compensation is usually your exclusive remedy against your direct employer. You may be able to file third-party lawsuits against general contractors, subcontractors, equipment manufacturers, or property owners whose negligence caused your burn injury. These third-party claims allow recovery of damages workers' compensation doesn't cover, including pain and suffering and full wage loss."
+  },
+  {
+    question: "What if a defective product caused my burn injury?",
+    answer: "Product manufacturers face strict liability when defective products cause burn injuries. This applies to faulty appliances, space heaters, electronics with lithium-ion batteries, defective electrical equipment, and any consumer product with design defects, manufacturing errors, or inadequate safety warnings. You must prove the product was defective when it left the manufacturer's control and that the defect caused your burns. Our attorneys work with fire investigators and engineering experts to establish product defects and hold manufacturers accountable."
+  },
+  {
+    question: "How do you prove the full value of burn injury damages?",
+    answer: "Burn injury cases require comprehensive documentation of both current and future losses. We work with burn specialists who explain the medical necessity of ongoing treatment, plastic surgeons who detail reconstructive procedures you'll need, life care planners who calculate lifetime medical costs, economists who project lost earning capacity, and vocational experts who assess how scarring affects employment prospects. We also present testimony about psychological trauma, social isolation, and reduced quality of life. Insurance companies routinely undervalue these claims—our job is proving your true losses."
+  }
+];
+---
+
+<BaseLayout
+  title="Calhoun County Burn Injury Lawyers | Michigan Fire Accident Attorneys"
+  description="Experienced Calhoun County burn injury attorneys with 45 years helping victims of fires, explosions, and workplace accidents. Free consultation. No fee unless we win."
+  canonicalUrl="https://www.logeman.com/service/burn-injuries-in-calhoun-county-mi/"
+>
+  <ArticleHero title="Calhoun County Burn Injury Lawyers | Michigan Fire Accident Attorneys" />
+
+  <ArticleContent>
+    <p>Severe burns are among the most painful and life-altering injuries anyone can suffer. Whether caused by a fire, explosion, electrical accident, chemical exposure, or defective product, burn injuries often require years of treatment, multiple surgeries, and ongoing rehabilitation. Victims face not only excruciating physical pain but also permanent scarring, disfigurement, and profound emotional trauma.</p>
+
+    <p>At Logeman & Iafrate, P.C., our Calhoun County burn injury attorneys understand what you're facing. For more than 45 years, we've fought for burn victims throughout Michigan, securing the compensation they need to rebuild their lives. We take cases others won't, and we prepare every case for trial.</p>
+
+    <h2>Common Causes of Burn Injuries in Calhoun County</h2>
+    <p>Burn injuries occur in various settings, often due to someone else's negligence or failure to maintain safe conditions:</p>
+    <ul>
+      <li><strong>Workplace fires and explosions</strong> — Construction sites, manufacturing facilities, and industrial workplaces throughout Calhoun County pose significant burn risks from equipment malfunctions, chemical exposures, and unsafe working conditions.</li>
+      <li><strong>Motor vehicle accidents</strong> — Car, truck, and motorcycle crashes can cause fires and explosions, trapping occupants inside burning vehicles.</li>
+      <li><strong>Defective products</strong> — Faulty appliances, electronics, space heaters, and lithium-ion batteries can ignite without warning, causing devastating home fires.</li>
+      <li><strong>Electrical accidents</strong> — Contact with power lines, faulty wiring, or electrocution at work sites can cause severe electrical burns.</li>
+      <li><strong>Apartment and house fires</strong> — Landlords who fail to maintain smoke detectors, electrical systems, or safe premises can be held liable for burn injuries.</li>
+      <li><strong>Chemical burns</strong> — Exposure to caustic chemicals in workplace or consumer products can cause severe tissue damage.</li>
+    </ul>
+
+    <h2>Types and Severity of Burn Injuries</h2>
+    <p>Medical professionals classify burns by depth and severity:</p>
+
+    <p><strong>First-degree burns</strong> affect only the outer skin layer, causing redness and pain but typically healing without permanent damage.</p>
+
+    <p><strong>Second-degree burns</strong> penetrate deeper, causing blistering, severe pain, and potential scarring. These injuries often require skin grafts and extended treatment.</p>
+
+    <p><strong>Third-degree burns</strong> destroy all skin layers, appearing white or charred. Victims lose sensation in the affected area because nerve endings are destroyed. These catastrophic injuries always require surgery and often result in permanent disfigurement.</p>
+
+    <p><strong>Fourth-degree burns</strong> extend beyond skin into muscle, tendons, and bone. These life-threatening injuries typically require amputation and create extreme risk of infection and organ failure.</p>
+
+    <h2>Long-Term Impact of Severe Burns</h2>
+    <p>Burn injuries create challenges that extend far beyond initial treatment:</p>
+    <ul>
+      <li><strong>Multiple surgeries</strong> — Burn victims often endure dozens of surgical procedures including debridement, skin grafts, and reconstructive operations over many years.</li>
+      <li><strong>Permanent scarring and disfigurement</strong> — Visible scars, especially on the face, neck, and hands, profoundly affect victims' self-image, relationships, and employment prospects.</li>
+      <li><strong>Loss of function</strong> — Burns to joints and extremities cause contractures that permanently limit mobility and require ongoing physical therapy.</li>
+      <li><strong>Chronic pain</strong> — Burn injuries cause nerve damage that results in constant pain requiring long-term pain management.</li>
+      <li><strong>Psychological trauma</strong> — Depression, anxiety, PTSD, and social isolation commonly follow severe burn injuries, requiring extensive counseling and mental health treatment.</li>
+      <li><strong>Massive medical expenses</strong> — Initial hospitalization in burn units can cost hundreds of thousands of dollars, with lifetime medical costs often exceeding millions.</li>
+    </ul>
+
+    <h2>Compensation Available for Burn Injury Victims in Calhoun County</h2>
+    <p>Michigan law allows burn injury victims to recover full compensation for their losses:</p>
+    <ul>
+      <li><strong>Medical expenses</strong> — Emergency treatment, hospitalization in burn units, surgery, skin grafts, reconstructive procedures, physical therapy, pain management, and all future medical care your injuries require.</li>
+      <li><strong>Lost income and diminished earning capacity</strong> — Wages lost during recovery plus compensation for reduced ability to work when severe burns cause permanent disability.</li>
+      <li><strong>Pain and suffering</strong> — Compensation for the physical agony of burn injuries and emotional distress including depression, anxiety, and PTSD.</li>
+      <li><strong>Scarring and disfigurement</strong> — Damages for permanent scarring and changes to physical appearance that affect quality of life, relationships, and self-esteem.</li>
+      <li><strong>Loss of enjoyment of life</strong> — Compensation when burn injuries prevent you from participating in activities and experiences you previously enjoyed.</li>
+      <li><strong>Home modifications</strong> — Costs to adapt your residence for mobility limitations and ongoing care needs.</li>
+    </ul>
+
+    <h2>Who Can Be Held Liable for Burn Injuries?</h2>
+    <p>Determining liability requires thorough investigation of how and why the burn occurred. Potentially responsible parties include:</p>
+    <ul>
+      <li><strong>Employers</strong> — When workplace fires, explosions, or chemical exposures cause burns, injured workers typically receive workers' compensation benefits regardless of fault.</li>
+      <li><strong>Third parties</strong> — Even when workers' compensation applies, you may pursue additional claims against negligent contractors, equipment manufacturers, or property owners whose actions caused your burn injury.</li>
+      <li><strong>Property owners and landlords</strong> — Building owners who fail to maintain safe premises, working smoke detectors, adequate fire exits, or safe electrical systems can face premises liability claims.</li>
+      <li><strong>Product manufacturers</strong> — Companies that design, manufacture, or sell defective products causing fires face strict liability under Michigan product liability law.</li>
+      <li><strong>Negligent drivers</strong> — When vehicle crashes cause fires and burn injuries, at-fault drivers can be held liable for full damages if your injuries meet Michigan's serious impairment threshold.</li>
+    </ul>
+
+    <h2>Why Burn Injury Cases Require Experienced Trial Lawyers</h2>
+    <p>Burn injury claims are among the most complex personal injury cases. Insurance companies fight thoroughly to minimize their exposure in these high-value claims. They hire defense experts who downplay the severity of injuries and future care needs. They argue that scarring isn't as severe as claimed or that victims can return to work sooner than medical evidence supports.</p>
+
+    <p>We prepare every case for trial from these fights. Our attorneys work with burn specialists, plastic surgeons, life care planners, and economic experts who document the full extent of your injuries and lifetime care requirements. We prepare every burn injury case for trial because insurance companies know we won't accept inadequate settlement offers.</p>
+
+    <p>Our decades of thorough trial preparation—including verdicts and settlements for catastrophic injury victims throughout Michigan—demonstrate our commitment to maximizing recovery for clients who have suffered devastating burn injuries.</p>
+
+    <h2>Immediate Steps After a Burn Injury</h2>
+    <p>If you or a loved one has suffered serious burns, take these actions to protect your health and legal rights:</p>
+    <ul>
+      <li><strong>Seek immediate medical attention</strong> — Severe burns require emergency care in specialized burn units. Even burns that seem moderate can worsen without proper treatment.</li>
+      <li><strong>Document the scene</strong> — If possible, photograph the location where the burn occurred, any defective equipment involved, and visible injuries.</li>
+      <li><strong>Preserve evidence</strong> — Keep any products, appliances, or equipment that caused the burn. This evidence becomes critical in proving liability.</li>
+      <li><strong>Report workplace burns</strong> — Notify your employer immediately if burned at work and file for workers' compensation benefits within required deadlines.</li>
+      <li><strong>Consult an experienced burn injury attorney</strong> — Early legal guidance ensures evidence is preserved, claims are properly filed, and insurance companies don't take advantage during your recovery.</li>
+    </ul>
+
+    <p>We offer free consultations and handle burn injury cases on a contingency-fee basis—you pay nothing unless we win your case.</p>
+
+    <p class="text-[14px] text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
+
+    <h2>Speak With Experienced <a href="/service-area/calhoun-county-mi">Calhoun County</a> Burn Injury Attorneys</h2>
+    <p>Burn injuries change lives forever. The compensation you recover determines whether you can afford the medical care, reconstructive surgery, and support you need for the rest of your life. Don't trust your future to attorneys who settle quickly or lack courtroom experience.</p>
+
+    <p>At Logeman & Iafrate, P.C., we've spent more than 45 years fighting for injured clients throughout Calhoun County and across Michigan. We take on the challenging cases other firms refuse and prepare every case for trial. Insurance companies know we prepare every case for trial.</p>
+
+    <p><strong>Contact us today for a free consultation.</strong> Call <strong>(734) 994-0200</strong> or fill out our online contact form. We handle burn injury cases on a contingency-fee basis—no fees unless we win. Let us fight by your side to secure the compensation you need and deserve.</p>
+
+    <h2>Our Story — Built on Experience and Determination</h2>
+    <p>For decades, Logeman & Iafrate has represented injured clients across Michigan with unwavering commitment. We take cases others won't, and we win cases others can't. Our founders built this firm on a simple principle: injured people deserve fierce advocacy and real results.</p>
+
+    <p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqs} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+
+  <ArticleMap />
+</BaseLayout>

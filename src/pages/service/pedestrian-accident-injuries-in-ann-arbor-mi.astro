@@ -1,0 +1,222 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleHero from '../../components/articles/ArticleHero.astro';
+import ArticleContent from '../../components/articles/ArticleContent.astro';
+import ArticleStats from '../../components/articles/ArticleStats.astro';
+import ArticleContactForm from '../../components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '../../components/articles/ArticleTestimonials.astro';
+import ArticleMap from '../../components/articles/ArticleMap.astro';
+import ArticleFAQ from '../../components/articles/ArticleFAQ.astro';
+
+const title = "Ann Arbor Pedestrian Accident Lawyers | Michigan Injury Attorneys";
+const description = "Experienced Ann Arbor pedestrian accident attorneys with 45 years fighting for injury victims. We navigate Michigan's no-fault system and pursue full compensation. Free consultation. No fee unless we win.";
+
+const faqItems = [
+  {
+    question: "What should I do immediately after being hit by a car while walking?",
+    answer: "First, call 911 to get medical help and have police respond to the scene. Even if you think your injuries are minor, get checked by medical professionals—some serious injuries don't show symptoms right away. Document the scene with photos, get the driver's information and insurance details, and collect contact information from any witnesses. Report the accident to your own auto insurance company within one year to preserve your right to no-fault benefits. Avoid giving recorded statements to the at-fault driver's insurer without legal counsel, and contact an experienced pedestrian accident attorney as soon as possible."
+  },
+  {
+    question: "Can I recover compensation if I wasn't in a crosswalk when I was hit?",
+    answer: "Yes, you may still recover compensation even if you weren't in a marked crosswalk. Michigan law requires drivers to exercise reasonable care to avoid striking pedestrians under all circumstances. While jaywalking or crossing outside a crosswalk may reduce your recovery under comparative negligence principles, it doesn't automatically bar your claim. The driver still had a duty to watch for pedestrians and avoid hitting you. An experienced attorney can evaluate whether the driver's negligence outweighs any contributory fault on your part."
+  },
+  {
+    question: "How does Michigan's no-fault insurance system apply to pedestrian accidents?",
+    answer: "When you're struck by a vehicle while walking, you're generally entitled to Personal Injury Protection (PIP) benefits for medical expenses, wage loss, and other costs. Where those benefits come from depends on your situation: if you own a vehicle, you file with your own insurer; if you live with a relative who has auto insurance, you may be covered under their policy; if you have no auto insurance connection, you file with the Michigan Assigned Claims Plan. Additionally, if your injuries meet Michigan's \"serious impairment\" threshold, you can pursue a third-party claim against the at-fault driver for pain and suffering and other damages not covered by no-fault benefits."
+  },
+  {
+    question: "What is the \"serious impairment of body function\" threshold in pedestrian accident cases?",
+    answer: "To sue the at-fault driver for pain and suffering in Michigan, your injuries must meet the \"serious impairment of body function\" threshold—an objectively manifested impairment of an important body function that affects your general ability to lead your normal life. This requires medical documentation showing visible, measurable injuries that significantly impact your daily activities, work, and quality of life. Pedestrian accidents often cause injuries severe enough to meet this threshold, including broken bones, traumatic brain injuries, spinal cord damage, and permanent scarring. Our attorneys have extensive experience proving threshold injuries and maximizing third-party recoveries."
+  },
+  {
+    question: "How long do I have to file a pedestrian accident lawsuit in Ann Arbor?",
+    answer: "The statute of limitations for personal injury claims in Michigan is generally three years from the date of the accident. However, you must report the accident to your insurance company within one year to preserve your right to no-fault PIP benefits. Missing these deadlines can permanently bar your claims, so it's critical to consult an attorney promptly after a pedestrian accident. Different rules may apply for claims against government entities or in cases involving minors, making early legal guidance essential."
+  },
+  {
+    question: "What compensation can I receive after a pedestrian accident in Michigan?",
+    answer: "You may recover no-fault PIP benefits from your insurer (or the assigned claims plan) covering medical expenses, wage loss at 85% of gross income, replacement services, and mileage reimbursement. If your injuries meet Michigan's threshold, you can also pursue a third-party claim against the at-fault driver for pain and suffering, emotional distress, full wage loss at 100%, loss of future earning capacity, excess medical expenses beyond your PIP limits, and permanent scarring or disfigurement. You may also file mini-tort claims for personal property damage up to $3,000. Our attorneys evaluate all available sources of compensation to pursue the full compensation you're owed."
+  },
+  {
+    question: "Can a pedestrian be partially at fault for an accident in Michigan?",
+    answer: "Yes, Michigan follows comparative negligence principles. If you're found partially at fault—for example, by crossing against a signal or walking outside a crosswalk—your compensation may be reduced by your percentage of fault. However, you can still recover damages as long as you're not more than 50% at fault. The driver still had a duty to exercise reasonable care and watch for pedestrians. Our attorneys work to minimize any fault attributed to you and pursue the full value of your compensation by thoroughly investigating the accident and building strong evidence of the driver's negligence."
+  },
+  {
+    question: "What if the driver who hit me doesn't have insurance?",
+    answer: "If the at-fault driver is uninsured, you may still have options for recovery. You can pursue uninsured motorist (UM) coverage under your own auto policy if you purchased this optional coverage. You can also file for PIP benefits through the Michigan Assigned Claims Plan if you have no other auto insurance connection. Additionally, you may be able to pursue a personal injury lawsuit directly against the uninsured driver, though collecting damages from an uninsured defendant can be challenging. Our attorneys will identify all available sources of compensation and fight to pursue the full compensation you're owed."
+  },
+  {
+    question: "How do pedestrian accident cases differ from car accident cases?",
+    answer: "Pedestrian accident cases typically involve more severe injuries because walkers have no protection against the force of a vehicle. These cases also involve unique legal issues, including questions about where PIP benefits come from (especially for pedestrians without auto insurance), heightened duties drivers owe to pedestrians in crosswalks and residential areas, and the application of Michigan's threshold standard to often-catastrophic injuries. Additionally, pedestrian cases frequently involve issues of visibility, right-of-way, and comparative negligence that require thorough investigation and expert testimony. Our attorneys have extensive experience handling the unique challenges of pedestrian accident claims."
+  }
+];
+---
+<BaseLayout title={title} description={description}>
+  <ArticleHero />
+  <ArticleContent>
+    <p>Walking should be safe. But when drivers fail to yield, run red lights, speed through crosswalks, or text behind the wheel, pedestrians pay the price. At Logeman &amp; Iafrate, P.C., our <a href="/service-area/ann-arbor-mi">Ann Arbor pedestrian accident attorneys</a> have spent more than 45 years fighting for people injured by negligent drivers. We understand the physical trauma you're facing, the financial strain mounting from medical bills, and the complexity of Michigan's no-fault system that determines what compensation you can recover.</p>
+
+    <p>Pedestrian accidents often result in catastrophic injuries because walkers have no protection against a 3,000-pound vehicle. Whether you were crossing in a marked crosswalk, walking on a sidewalk, or jogging along the road, you deserve experienced trial lawyers who know how to build winning cases and are ready to try a case from insurance companies that deny legitimate claims.</p>
+
+    <h2>Common Causes of Pedestrian Accidents in Ann Arbor</h2>
+
+    <p>Ann Arbor's walkable streets, active campus life, and busy intersections create constant interactions between drivers and pedestrians. Unfortunately, many drivers fail to exercise reasonable care around people on foot. Common causes of pedestrian accidents include:</p>
+
+    <ul>
+      <li><strong>Distracted driving.</strong> Texting, talking on the phone, eating, or adjusting the radio diverts attention from the road—and from pedestrians in crosswalks or on sidewalks.</li>
+      <li><strong>Failure to yield.</strong> Michigan law requires drivers to yield to pedestrians in crosswalks, but violations are common, especially during left turns.</li>
+      <li><strong>Speeding.</strong> Higher speeds reduce a driver's ability to stop and dramatically increase the severity of pedestrian injuries.</li>
+      <li><strong>Drunk or impaired driving.</strong> Alcohol and drugs impair judgment, slow reaction times, and increase the likelihood of striking pedestrians.</li>
+      <li><strong>Running red lights or stop signs.</strong> Drivers who blow through signals put pedestrians lawfully crossing intersections at serious risk.</li>
+      <li><strong>Poor visibility.</strong> Dawn, dusk, and nighttime hours make pedestrians harder to see, especially when drivers don't use headlights or when street lighting is inadequate.</li>
+      <li><strong>Backing up without looking.</strong> Parking lot accidents frequently occur when drivers reverse without checking for pedestrians behind them.</li>
+    </ul>
+
+    <h2>Injuries Common in Ann Arbor Pedestrian Accidents</h2>
+
+    <p>When a vehicle strikes a pedestrian, the human body absorbs tremendous force. Even low-speed collisions can cause serious harm. Common pedestrian accident injuries include:</p>
+
+    <ul>
+      <li><strong>Traumatic brain injuries.</strong> Head strikes against the vehicle, windshield, or pavement can cause concussions, skull fractures, and permanent cognitive impairment.</li>
+      <li><strong>Spinal cord injuries.</strong> The impact can damage the spine, causing paralysis, loss of sensation, and lifelong disability.</li>
+      <li><strong>Broken bones.</strong> Leg fractures, hip fractures, arm breaks, and rib fractures are common when the body is thrown or crushed.</li>
+      <li><strong>Internal injuries.</strong> Blunt force trauma can damage organs, cause internal bleeding, and require emergency surgery.</li>
+      <li><strong>Road rash and lacerations.</strong> Sliding across pavement tears skin and tissue, causing painful injuries prone to infection and permanent scarring.</li>
+      <li><strong>Soft tissue damage.</strong> Torn ligaments, damaged muscles, and other soft tissue injuries can require extensive physical therapy and cause chronic pain.</li>
+    </ul>
+
+    <p>These injuries often require lengthy hospital stays, multiple surgeries, months of rehabilitation, and significant time away from work—creating enormous financial and emotional burdens for victims and their families.</p>
+
+    <h2>Michigan's No-Fault System and Pedestrian Accidents</h2>
+
+    <p>Understanding how Michigan's no-fault auto insurance system applies to pedestrian accidents is critical to recovering the compensation you need. The rules can be confusing, but here's what you should know:</p>
+
+    <h3>Personal Injury Protection (PIP) Benefits</h3>
+    <p>If you're struck by a vehicle while walking, you're generally entitled to no-fault Personal Injury Protection benefits. Where those benefits come from depends on your circumstances:</p>
+
+    <ul>
+      <li>If you own a vehicle with no-fault insurance, you file a claim with your own insurer—regardless of who caused the accident.</li>
+      <li>If you live with a relative who has auto insurance, you may be covered under their policy.</li>
+      <li>If you don't own a vehicle and aren't a household member on someone else's policy, you file a claim with the Michigan Assigned Claims Plan, which assigns an insurer to provide coverage.</li>
+      <li>If the striking vehicle can be identified and you have no other coverage, you may claim PIP benefits from the at-fault driver's insurer.</li>
+    </ul>
+
+    <p>PIP benefits can cover medical expenses, wage loss (up to 85% of gross income), replacement services for household tasks you can no longer perform, and other accident-related costs. However, the 2019-2020 no-fault reforms changed the landscape significantly. Your coverage level—whether unlimited, $500,000, $250,000, or $50,000—depends on your policy choice and can dramatically affect your recovery.</p>
+
+    <h3>Third-Party Claims Against the At-Fault Driver</h3>
+    <p>Beyond no-fault benefits, Michigan law allows you to pursue a third-party lawsuit against the negligent driver if your injuries meet the "serious impairment of body function" threshold. This legal standard requires showing an objectively manifested impairment of an important body function that affects your general ability to lead your normal life.</p>
+
+    <p>Meeting this threshold allows you to recover compensation that no-fault benefits don't cover:</p>
+
+    <ul>
+      <li>Pain and suffering</li>
+      <li>Emotional distress and mental anguish</li>
+      <li>Loss of enjoyment of life</li>
+      <li>Excess economic damages beyond your PIP limits</li>
+      <li>Permanent scarring and disfigurement</li>
+    </ul>
+
+    <p>Successfully proving threshold injuries requires medical documentation, expert testimony, and detailed evidence of how the accident changed your life. Our attorneys have extensive experience building these cases and maximizing third-party recoveries.</p>
+
+    <h2>Pedestrian Rights and Driver Duties Under Michigan Law</h2>
+
+    <p>Michigan law establishes clear rules to protect pedestrians. Understanding these statutes helps establish liability when drivers violate them:</p>
+
+    <ul>
+      <li><strong>Right-of-way in crosswalks.</strong> Drivers must yield to pedestrians in marked or unmarked crosswalks at intersections.</li>
+      <li><strong>Duty to exercise due care.</strong> Even when pedestrians violate traffic laws, drivers must exercise reasonable care to avoid striking them.</li>
+      <li><strong>Duty at intersections.</strong> Drivers turning at intersections must yield to pedestrians lawfully crossing.</li>
+      <li><strong>School zones and residential areas.</strong> Reduced speed limits and heightened caution requirements apply in areas where children and pedestrians are present.</li>
+    </ul>
+
+    <p>When drivers violate these duties and strike pedestrians, they can be held liable for the resulting injuries and damages.</p>
+
+    <h2>What Compensation Can You Recover?</h2>
+
+    <p>Pedestrian accident cases can involve multiple sources of compensation:</p>
+
+    <h3>No-Fault PIP Benefits</h3>
+    <ul>
+      <li>Medical expenses and rehabilitation costs</li>
+      <li>Wage loss (up to 85% of gross income)</li>
+      <li>Replacement services for household tasks</li>
+      <li>Mileage reimbursement for medical appointments</li>
+    </ul>
+
+    <h3>Third-Party Claims (If You Meet the Threshold)</h3>
+    <ul>
+      <li>Pain and suffering</li>
+      <li>Emotional distress</li>
+      <li>Loss of enjoyment of life</li>
+      <li>Permanent scarring and disfigurement</li>
+      <li>Excess medical expenses beyond PIP limits</li>
+      <li>Full wage loss (100% of income)</li>
+      <li>Loss of future earning capacity</li>
+    </ul>
+
+    <h3>Additional Claims</h3>
+    <ul>
+      <li>Mini-tort claims for personal property damage up to $3,000</li>
+      <li>Wrongful death claims when a pedestrian is killed</li>
+    </ul>
+
+    <p>Every pedestrian accident case is different. The experienced attorneys at Logeman &amp; Iafrate, P.C. will evaluate your situation, explain your options, and fight to pursue the full compensation you're owed.</p>
+
+    <h2>Why Choose Logeman & Iafrate for Your Ann Arbor Pedestrian Accident Case</h2>
+
+    <p>When insurance companies see our name on a case, they know we're not settling for less than full value. Our reputation is built on decades of trial victories and substantial verdicts throughout Michigan. We take cases others won't, and we prepare every case for trial.</p>
+
+    <p><strong>Trial-ready advocates.</strong> We prepare every case for trial. Insurance companies know we prepare every case for trial, which gives us leverage to negotiate fair settlements—and the ability to win in court when they refuse.</p>
+
+    <p><strong>Deep expertise in Michigan law.</strong> We've spent more than 45 years mastering Michigan's no-fault system, threshold requirements, and complex insurance regulations. We know how to navigate this system and fight for full compensation.</p>
+
+    <p><strong>No fees unless we win.</strong> We operate on a contingency-fee basis. You pay nothing upfront and nothing unless we recover compensation for you.</p>
+
+    <p><strong>Compassionate support.</strong> We understand you're dealing with pain, medical appointments, financial stress, and uncertainty about your future. We handle the legal battle so you can focus on healing.</p>
+
+    <h2>Steps to Take After a Pedestrian Accident in Ann Arbor</h2>
+
+    <p>If you or a loved one has been struck by a vehicle while walking, these steps can protect your health and your legal rights:</p>
+
+    <ol>
+      <li><strong>Seek immediate medical attention.</strong> Call 911 and get emergency care even if you think your injuries are minor. Some serious injuries don't show symptoms immediately.</li>
+      <li><strong>Report the accident.</strong> Make sure police respond to the scene and file an accident report. Get the report number and officer's information.</li>
+      <li><strong>Document everything.</strong> Take photos of the accident scene, your injuries, vehicle damage, and any hazardous conditions. Get contact information from witnesses.</li>
+      <li><strong>Notify your insurance company.</strong> Report the accident within one year to preserve your right to no-fault benefits.</li>
+      <li><strong>Avoid recorded statements.</strong> Don't give recorded statements to the at-fault driver's insurance company without consulting an attorney first.</li>
+      <li><strong>Contact an experienced attorney.</strong> Michigan's complex insurance laws and strict deadlines make early legal guidance essential. We offer free consultations to evaluate your case and explain your rights.</li>
+    </ol>
+
+    <h2>Common Insurance Company Tactics in Pedestrian Accident Cases</h2>
+
+    <p>Insurance companies are businesses focused on minimizing payouts. When you file a pedestrian accident claim, expect resistance. Common tactics include:</p>
+
+    <ul>
+      <li><strong>Claiming you were at fault.</strong> Insurers argue you weren't in a crosswalk, you were jaywalking, or you weren't paying attention.</li>
+      <li><strong>Arguing your injuries aren't serious.</strong> They'll claim your injuries don't meet Michigan's threshold or that they resulted from pre-existing conditions.</li>
+      <li><strong>Offering quick, lowball settlements.</strong> Early settlement offers rarely reflect the full value of your claim, especially when long-term medical care is needed.</li>
+      <li><strong>Delaying and denying benefits.</strong> Insurers drag out the process, hoping you'll give up or accept less.</li>
+      <li><strong>Using surveillance.</strong> Insurance companies investigate claimants, looking for evidence to undermine injury claims.</li>
+    </ul>
+
+    <p>Having experienced legal representation levels the playing field. We know these tactics and how to counter them effectively.</p>
+
+    <p class="text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
+
+    <h2>Get the Legal Help You Need After a Pedestrian Accident</h2>
+
+    <p>Being struck by a vehicle while walking can change your life in an instant. Medical bills pile up. Lost wages strain your finances. Pain and limitations affect everything you do. You deserve experienced trial lawyers who will fight for every dollar you're entitled to recover.</p>
+
+    <p>At Logeman &amp; Iafrate, P.C., we've spent more than 45 years helping injured people throughout Ann Arbor and Michigan navigate complex personal injury claims and win the compensation they need to rebuild their lives. We don't get paid unless we win your case, and we're prepared to take your fight all the way to trial if necessary.</p>
+
+    <p><strong><a href="/contact-us/">Contact our Ann Arbor office</a> today for a free consultation.</strong> Call us at <a href="tel:+17349940200"><strong>(734) 994-0200</strong></a> or fill out our online contact form. We'll review your case, explain your legal options, and start fighting for the justice and compensation you deserve.</p>
+
+    <p>We take cases on a contingency-fee basis—no fees unless we recover damages for you. Let us handle the legal battle while you focus on healing.</p>
+
+    <p class="text-muted-foreground italic max-w-[900px] mx-auto px-6 pb-8">The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</p>
+  </ArticleContent>
+  <ArticleFAQ items={faqItems} />
+  <ArticleStats />
+  <ArticleContactForm />
+  <ArticleTestimonials />
+  <ArticleMap />
+</BaseLayout>

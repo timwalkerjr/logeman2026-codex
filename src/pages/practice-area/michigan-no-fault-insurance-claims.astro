@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleHero from '../../components/articles/ArticleHero.astro';
+import ArticleContent from '../../components/articles/ArticleContent.astro';
+import ArticleStats from '../../components/articles/ArticleStats.astro';
+import ArticleContactForm from '../../components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '../../components/articles/ArticleTestimonials.astro';
+import ArticleMap from '../../components/articles/ArticleMap.astro';
+import ArticleFAQ from '../../components/articles/ArticleFAQ.astro';
+
+const title = "Michigan No-Fault Insurance Claims | Ann Arbor Auto Accident Lawyers";
+const description = "Expert Michigan no-fault insurance attorneys in Ann Arbor helping accident victims navigate complex claims, secure full benefits, and fight denied claims. Free consultation available. Call (734) 994-0200.";
+
+const faqItems = [
+  {
+    question: "What is Michigan's no-fault insurance system?",
+    answer: "Michigan's no-fault insurance system requires drivers to carry Personal Injury Protection (PIP) coverage that covers their own medical expenses and lost wages regardless of who caused the accident. This coverage extends to household members and provides lifetime medical benefits, 85% of lost wages for up to three years, and up to three years of survivors' loss benefits in case of fatality."
+  },
+  {
+    question: "How long do I have to file a no-fault insurance claim in Michigan?",
+    answer: "You have a strict one-year time limit to file a no-fault insurance claim in Michigan. Missing this deadline can result in losing your right to benefits, which is why it's crucial to file promptly and correctly. Our firm offers complimentary claim filing services to ensure your claim is submitted on time."
+  },
+  {
+    question: "What benefits does Michigan no-fault insurance cover?",
+    answer: "Michigan no-fault insurance covers lifetime medical expenses, 85% of lost wages for up to three years if you're unable to work, up to $20 per day for replacement services (like lawn care and house cleaning), attendant care costs, necessary home modifications for disabilities, and survivors' loss benefits for up to three years in case of a fatality."
+  },
+  {
+    question: "When should I hire an attorney for my no-fault claim?",
+    answer: "You should consider hiring an attorney if your claim is denied, payments are delayed, the insurance company disputes your medical treatment, you're not receiving fair compensation for attendant care, or you encounter insurance bad faith. Our experienced attorneys can help you navigate these complex situations and fight for the full benefits you deserve."
+  },
+  {
+    question: "What is the complimentary no-fault claim service?",
+    answer: "Our firm offers a free service where we fill out and file your no-fault insurance claim on your behalf at absolutely no charge. This ensures your claim is complete, accurate, filed with the correct insurance company, and submitted within the one-year deadline. This service helps protect your rights and maximizes your chances of receiving full benefits."
+  },
+  {
+    question: "Can I receive compensation for caring for an injured family member?",
+    answer: "Yes, Michigan no-fault insurance should reimburse you at a fair rate for attendant care you provide for an injured person, even if that person is a family member. Many people don't realize they're entitled to this compensation, but our attorneys can help ensure you receive proper reimbursement for the care you provide."
+  }
+];
+---
+<BaseLayout title={title} description={description}>
+  <ArticleHero />
+  <ArticleContent>
+    <h2>Providing No-Fault Insurance Guidance In Ann Arbor</h2>
+
+    <p>Michigan's no-fault insurance system offers broad protection but understanding your rights and securing your entitled benefits can be challenging. This is where our firm stands out – we provide comprehensive support and ensure that you and your family receive the full and fair compensation you deserve in the event of an auto accident.</p>
+
+    <p>With the unique advantage of having Adrienne Logeman, a co-author of "Michigan No-Fault Automobile Cases: Law and Practice," as part of our team, we bring a level of insight and knowledge that is unparalleled in Michigan. This authoritative book is a cornerstone resource for Michigan attorneys handling no-fault cases, and having such a distinguished expert in our ranks sets us apart from the competition.</p>
+
+    <p>We are committed to transparency and communication, ensuring that you are well-informed and confident every step of the way. From handling your initial claim to dealing with insurance companies and ensuring all filings are timely and accurate, our firm takes a proactive approach. Our complimentary no-fault claim service demonstrates our commitment to justice and client care, ensuring that you face no financial burden while we fight for your rights.</p>
+
+    <h2>Understanding No-Fault Insurance In Michigan</h2>
+
+    <p>Michigan operates under a no-fault insurance system, which can be complex and often misunderstood by many motorists. Under this system, when you purchase personal injury protection (PIP) coverage, it not only protects you but also extends to other members of your household. This coverage is comprehensive, covering lifetime medical expenses and reimbursing 85% of lost wages for up to three years if you are incapacitated in an auto accident.</p>
+
+    <p>In the unfortunate event of a fatality, no-fault insurance provides your family with up to three years of survivors' loss benefits. It also covers up to $20 a day for replacement services such as lawn mowing, house cleaning, and other everyday tasks. The Michigan no-fault insurance law offers additional benefits, making it essential to fully understand the scope of your coverage.</p>
+
+    <h2>Experienced Legal Support For No-Fault Claims</h2>
+
+    <p>Our commitment is to ensure that the injured receive full and fair compensation for their economic losses, and pain and suffering. Our team is always ready to provide sound advice and support for your no-fault insurance claim.</p>
+
+    <p>Our Ann Arbor lawyers understand that insurance companies may deny legitimate personal injury claims. To combat this, we offer a complimentary no-fault claim service to ensure car accident victims receive the compensation they deserve. This service includes filling out and filing your claim on your behalf at absolutely no charge, ensuring you are treated fairly and your rights are protected.</p>
+
+    <h2>Common Pitfalls In Motor Vehicle Accident Claims</h2>
+
+    <p>Navigating no-fault claims can be fraught with challenges that may jeopardize your benefits. Simple mistakes policyholders make can prevent them from collecting the benefits they deserve.</p>
+
+    <p>We will help ensure that:</p>
+
+    <ul>
+      <li>Your claim is filed on time: There is a strict one-year time limit for filing a no-fault insurance claim.</li>
+      <li>Your claim is complete: Your medical condition and other information must be properly documented. If not, your insurance company may deny the claim when there is no time to correct the omission or error.</li>
+      <li>Your claim is filed with the correct company: If you mistakenly file your claim with the wrong company, you may not receive a response until the one-year deadline has passed.</li>
+      <li>You are paid for care you provide: No-fault insurance should reimburse you, at a fair rate, for attendant care you provide for the injured person, even if the injured person is a family member.</li>
+      <li>You are paid for home modifications: An amputee or other person disabled in an accident is entitled to compensation for necessary handicap accommodations.</li>
+      <li>Your legitimate claim is not denied on the basis of another medical condition or pre-existing condition.</li>
+    </ul>
+
+    <p>While you may not always need an attorney, situations where your claim is denied, payments are delayed, or other complications arise with your insurance company are instances where our legal expertise can be invaluable. We can also assist if you encounter insurance bad faith, potentially entitling you to additional damages beyond your original claim.</p>
+
+    <h2>About Adrienne Logeman: An Authority On Michigan No-Fault Law</h2>
+
+    <p>Adrienne Logeman is a co-author of the authoritative book "Michigan No-Fault Automobile Cases: Law and Practice," which is heavily relied upon by Michigan attorneys handling no-fault claims. Her knowledge and contributions to the field make our firm particularly equipped to handle complex no-fault insurance cases, providing our clients with exceptional legal representation.</p>
+
+    <h2>Contact Us For A Free Consultation</h2>
+
+    <p>For more information or assistance with a no-fault insurance claim, please feel free to <a href="/contact-us/">contact our firm</a> at any time. Our lawyers are dedicated to serving the residents of Ann Arbor, Detroit and all across Michigan, ensuring that your no-fault claims are handled with the utmost care and professionalism.</p>
+
+    <p>To schedule your free consultation, call us at <a href="tel:+17349940200"><strong>(734) 994-0200</strong></a> or fill out our online <a href="/contact-us/">contact form.</a> We accept cases on a contingency fee basis, meaning that we do not collect legal fees up front until we win compensation for you.</p>
+  </ArticleContent>
+  <ArticleFAQ items={faqItems} />
+  <ArticleStats />
+  <ArticleContactForm />
+  <ArticleTestimonials />
+  <ArticleMap />
+</BaseLayout>

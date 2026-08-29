@@ -1,0 +1,64 @@
+---
+const injuries = [
+  { label: "Amputations and loss of limbs", strong: false },
+  { label: "Paralysis, including paraplegia or quadriplegia", strong: false },
+  { label: "Spinal cord injuries", strong: true },
+  { label: "Traumatic brain injuries", strong: true },
+  { label: "Severe burn injuries", strong: false },
+  { label: "Multiple fractures", strong: false }
+];
+
+const practiceLinks = [
+  { title: "Vehicle Accidents Overview", subtitle: "An overview of this area of law.", href: "/motor-vehicle-accidents-overview/" },
+  { title: "Catastrophic Injuries Overview", subtitle: "Severe injuries require serious lawyers.", href: "/catastrophic-injuries-overview/" },
+  { title: "Personal Injury Overview", subtitle: "Injuries can be serious, contact us.", href: "/personal-injury-overview/" }
+];
+---
+<section class="bg-background py-12 lg:py-16">
+  <div class="max-w-[1440px] mx-auto px-6">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
+      <div class="lg:col-span-8 space-y-6">
+        <img src="https://pagesmith-cdn.com/881ce63c/images/6941b18a1fbcadfc33d9874c_Logo-320.webp" alt="Logeman & Iafrate, P.C." class="w-[60px] h-auto mb-2" />
+
+        <h1 class="text-[36px] lg:text-[44px] font-bold leading-[1.25] text-foreground tracking-normal">Supporting Your Recovery After Suffering A Catastrophic Injury</h1>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">At Logeman &amp; Iafrate, P.C., we recognize the immense challenges that come with recovering from catastrophic injuries. When you are focused on healing, dealing with legal battles is the last thing you need on your plate. Our dedicated team is here to shoulder your legal burdens, ensuring that you can concentrate on your recovery while we handle the complexities of your claim.</p>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">With over 60 years of combined experience, Logeman &amp; Iafrate, P.C., offers free consultations and operates on a no-win, no-fee basis. Our firm is known for taking on and winning cases that other attorneys might consider unwinnable. We are prepared to go to trial to secure the damages our clients need and deserve. Located in Ann Arbor, we serve clients across Michigan, providing you with the strong legal representation you need while you focus on your future.</p>
+
+        <h2 class="text-[26px] lg:text-[36px] font-bold leading-[1.3] text-foreground tracking-[-0.52px] mt-10">The Devastating Impact Of Catastrophic Injuries</h2>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">Catastrophic injuries are severe and can permanently alter your life. From expensive medical bills to permanent disabilities, you will likely deal with the impacts of these injuries for the rest of your life. These injuries require extensive medical treatment, continuous care, and can significantly impair your ability to work and perform daily activities. Fighting for fair compensation is the best way to secure your financial future and get the justice you deserve.</p>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">Common types of catastrophic injuries include:</p>
+
+        <ul class="list-disc pl-6 space-y-2 text-[16px] leading-[1.6] text-foreground marker:text-primary">
+          {injuries.map((item) => (
+            <li>{item.strong ? <strong class="font-semibold">{item.label}</strong> : item.label}</li>
+          ))}
+        </ul>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">At Logeman &amp; Iafrate, P.C., we have a strong reputation for advocating vigorously for our clients' best interests. We are committed to taking on challenging cases that other firms may shy away from, ensuring that our clients receive the justice and compensation they deserve. Whether your catastrophic injury occurred due to a <strong class="font-semibold">car accident</strong> or a <strong class="font-semibold">slip-and-fall</strong>, you can trust us to fight tirelessly for you.</p>
+      </div>
+
+      <aside class="lg:col-span-4 space-y-8">
+        <div class="rounded-[8px] overflow-hidden border border-border">
+          <img src="https://pagesmith-cdn.com/881ce63c/images/693a55d51fbe67b78602b72b_EV3A7457-Enhanced-NR-1536.webp" alt="Adrienne D. Logeman, Partner" class="w-full h-auto" loading="lazy" />
+        </div>
+        <div class="rounded-[8px] overflow-hidden border border-border">
+          <img src="https://pagesmith-cdn.com/881ce63c/images/693a53edf7b9715e7b7f58e3_james-a-iafrate-bio-photo-1024.webp" alt="James A. Iafrate, Partner" class="w-full h-auto" loading="lazy" />
+        </div>
+
+        <div class="bg-[hsl(0,0%,97%)] p-6 rounded-[8px] border border-black/5 space-y-4">
+          <h3 class="text-[20px] font-semibold leading-[1.4] text-foreground tracking-[-0.28px]">Our Core Legal Practice Areas</h3>
+          {practiceLinks.map((link) => (
+            <a href={link.href} class="block bg-white/60 hover:bg-white p-3 rounded-[6px] border border-black/5 transition-colors">
+              <span class="block text-[16px] font-medium text-foreground">{link.title}</span>
+              <span class="block text-[14px] text-muted-foreground">{link.subtitle}</span>
+            </a>
+          ))}
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,1320 @@
+[
+  {
+    "index": 0,
+    "heading": "Site header / navigation (port into Navigation.astro)",
+    "widgetTypes": [
+      "nav"
+    ],
+    "html": "<header class=\"section_header84 color-scheme-1 home-copy\"><div class=\"navbar6_component fixed-transparent w-nav\"><div class=\"navbar6_container max-width-full\"><a href=\"https://www.logeman.com/\" class=\"navbar6_logo-link w-nav-brand w--current\"><img width=\"148\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6941b18a1fbcadfc33d9874c_Logo.png\" class=\"navbar6_logo\"></a><nav class=\"navbar6_menu w-nav-menu\"><div class=\"navbar6_menu-left\"><a href=\"https://www.logeman.com/\" class=\"navbar6_link w-nav-link w--current\">Home</a><a href=\"https://www.logeman.com/about-us\" class=\"navbar6_link w-nav-link\">About us</a><div class=\"navbar6_menu-dropdown w-dropdown\"><div class=\"navbar6_dropdown-toggle w-dropdown-toggle\" id=\"w-dropdown-toggle-0\"><div>Practice Areas</div><div class=\"dropdown-chevron w-embed\"><svg width=\" 100%\" height=\" 100%\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.55806 6.29544C2.46043 6.19781 2.46043 6.03952 2.55806 5.94189L3.44195 5.058C3.53958 4.96037 3.69787 4.96037 3.7955 5.058L8.00001 9.26251L12.2045 5.058C12.3021 4.96037 12.4604 4.96037 12.5581 5.058L13.4419 5.94189C13.5396 6.03952 13.5396 6.19781 13.4419 6.29544L8.17678 11.5606C8.07915 11.6582 7.92086 11.6582 7.82323 11.5606L2.55806 6.29544Z\" fill=\"currentColor\"></path> </svg></div></div><nav class=\"navbar6_dropdown-list w-dropdown-list\" id=\"w-dropdown-list-0\"><div class=\"navbar6_container\"><div class=\"navbar6_dropdown-content\"><div class=\"navbar6_dropdown-content-left\"><div class=\"navbar6_dropdown-column\"><div class=\"margin-bottom margin-xsmall\"><h4 class=\"heading-style-h5\">Motor Vehicle Accident Injuries</h4></div><div class=\"w-dyn-list\"><div class=\"w-dyn-items\"><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/bicycle-accidents-in-ann-arbor-throughout-michigan\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Bicycle Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Residents and students in the City of Ann Arbor frequently use bicycles and electric scooters for convenient and economical transportation. Despite Ann Arbor's investment in bicycle safety and designation as one of America's most bike-friendly cities, careless drivers continue to pose serious risks to cyclists on the road.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/car-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Car Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Car accidents remain the most common type of personal injury case in Michigan. Our Ann Arbor attorneys have decades of experience helping accident victims navigate Michigan's unique no-fault insurance system while pursuing full compensation from at-fault drivers.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/motorcycle-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Motorcycle Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Experienced Michigan motorcycle accident attorneys helping injured riders recover compensation for medical expenses, lost wages, and pain and suffering. Learn about common motorcycle injuries, Michigan insurance laws, and why you need legal representation after a crash.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/truck-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Truck Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Our Ann Arbor truck accident attorneys can help you with your recovery. When a passenger car is involved in a tractor-trailer wreck, the heavy commercial truck can easily crush a car or force it off the road and down an embankment.</p></div></a></div></div></div><a href=\"https://www.logeman.com/motor-vehicle-accidents-overview\" class=\"navbar6_dropdown-link last w-inline-block\"><div class=\"navbar6_item-right\"><div class=\"overview-link\">More Vehicle Accident Cases</div></div><div class=\"navbar6_icon-wrapper\"><div class=\"icon-embed-xxsmall color-primary w-embed\"><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" aria-hidden=\"true\" role=\"img\" class=\"iconify iconify--bx\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z\"></path><path fill=\"currentColor\" d=\"M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2z\"></path></svg></div></div></a></div><div class=\"navbar6_dropdown-column\"><div class=\"margin-bottom margin-xsmall\"><h4 class=\"heading-style-h5\">Catastrophic Injuries</h4></div><div class=\"w-dyn-list\"><div class=\"w-dyn-items\"><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/personal-injury-lawsuits-involving-traumatic-brain-injury\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Brain Injuries</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Learn how insurance companies defend against traumatic brain injury claims and what evidence is needed to successfully prove long-term cognitive impairment from concussions and mild TBI in personal injury lawsuits.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/construction-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Construction Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Construction sites are among the most dangerous workplaces in Michigan. When workers are injured, they may be entitled to both workers' compensation benefits and third-party claims against negligent contractors or equipment manufacturers.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/spinal-cord-injury\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Spinal Cord Injury</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Spinal cord injuries are among the most catastrophic injuries a person can suffer, often resulting in paralysis, quadriplegia, or paraplegia. Our attorneys have the specialized experience needed to secure maximum compensation for lifetime care needs.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/wrongful-death\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Wrongful Death</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">The loss of a loved one due to someone else's negligence is devastating. Our wrongful death attorneys provide compassionate, experienced representation to help families seek justice and secure the compensation they need to move forward.</p></div></a></div></div></div><div class=\"navbar6_dropdown-link-list\"><a href=\"https://www.logeman.com/catastrophic-injuries-overview\" class=\"navbar6_dropdown-link last w-inline-block\"><div class=\"navbar6_item-right\"><div class=\"overview-link\">More Catastrophic Cases</div></div><div class=\"navbar6_icon-wrapper\"><div class=\"icon-embed-xxsmall color-primary w-embed\"><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" aria-hidden=\"true\" role=\"img\" class=\"iconify iconify--bx\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z\"></path><path fill=\"currentColor\" d=\"M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2z\"></path></svg></div></div></a></div></div><div class=\"navbar6_dropdown-column\"><div class=\"margin-bottom margin-xsmall\"><h4 class=\"heading-style-h5\">Personal Injury Cases</h4></div><div class=\"navbar6_dropdown-link-list\"><div class=\"w-dyn-list\"><div class=\"w-dyn-items\"><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/animal-bites-and-attacks\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Dog Bites and Attacks</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Bitten by a dog in Michigan? Under MCL 287.351, dog owners face strict liability—no \"one bite\" rule. Our Ann Arbor attorneys fight for full compensation for medical bills, scarring, and trauma.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/personal-injury-cases-involving-electric-scooters-personal-injury-attorneys-ann-arbor\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Electric Scooter Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Electric scooters have become increasingly popular in Michigan, but with their rise comes a surge in injuries. Learn about common scooter accidents, safety regulations, and how personal injury attorneys can help you recover compensation if you've been injured in a scooter-related incident.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/premises-liability-law-in-michigan\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Premises Liability</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">A premises liability case arises when an injury results from an unsafe or defective condition on another's property. Property owners have a legal duty to maintain safe conditions for lawful visitors and may be liable for damages when unsafe conditions cause injuries.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/product-liability\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Product Liability</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">When defective products cause injury, manufacturers must be held accountable. Our product liability attorneys have experience pursuing claims against major corporations for design defects, manufacturing flaws, and failure to warn.</p></div></a></div></div></div><a href=\"https://www.logeman.com/personal-injury-overview\" class=\"navbar6_dropdown-link last w-inline-block\"><div class=\"navbar6_item-right\"><div class=\"overview-link\">More Personal Injury Cases</div></div><div class=\"navbar6_icon-wrapper\"><div class=\"icon-embed-xxsmall color-primary w-embed\"><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" aria-hidden=\"true\" role=\"img\" class=\"iconify iconify--bx\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z\"></path><path fill=\"currentColor\" d=\"M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2z\"></path></svg></div></div></a></div></div></div><div class=\"navbar6_dropdown-content-right\"><div class=\"navbar6_dropdown-content-wrapper z-index-1\"><h4 class=\"heading-style-h5\">Featured News Item</h4><div class=\"navbar6_dropdown-blog-item-wrapper\"><a href=\"https://www.logeman.com/about-us\" class=\"navbar6_blog-item w-inline-block\"><div class=\"margin-bottom margin-xsmall\"><div class=\"navbar6_blog-image-wrapper\"></div></div><div class=\"navbar6_blog-content\"><div class=\"margin-bottom margin-tiny\"><div class=\"heading-style-h6\">We're Celebrating 45 Years of Serving the Injured.</div></div><p class=\"text-size-small\">Ann Arbor, MI is our home too and we are proud to be such a long-term part of the...</p><div class=\"margin-top margin-tiny\"><div class=\"button is-link is-icon\"><div>Read more</div><div class=\"icon-embed-xxsmall w-embed\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M6 3L11 8L6 13\" stroke=\"CurrentColor\" stroke-width=\"1.5\"></path> </svg></div></div></div></div></a></div><div class=\"margin-top margin-medium\"><a href=\"https://www.logeman.com/practice-areas\" class=\"button w-button\">See All Practice Areas</a></div></div><div class=\"navbar6_dropdown-background-layer\"></div></div></div></div></nav></div><a href=\"https://www.logeman.com/verdicts-and-settlements\" class=\"navbar6_link w-nav-link\">Our Results</a><a href=\"https://www.logeman.com/client-testimonials\" class=\"navbar6_link w-nav-link\">Reviews</a><a href=\"https://www.logeman.com/service-areas\" class=\"navbar6_link w-nav-link\">Service Areas</a><a href=\"https://www.logeman.com/contact-us\" class=\"navbar6_link w-nav-link\">Contact Us</a></div><div class=\"navbar6_menu-right\"><a href=\"https://www.logeman.com/#free-consultation\" class=\"button is-alternate w-button\">Schedule a Free Consultation</a><a href=\"tel:+17349940200\" class=\"button w-button\">(734) 994-0200</a></div></nav><div class=\"navbar6_menu-button w-nav-button\" style=\"-webkit-user-select: text;\"><div class=\"menu-icon5\"><div class=\"menu-icon1_line-top\"></div><div class=\"menu-icon1_line-middle\"><div class=\"menu-icon1_line-middle-inner\"></div></div><div class=\"menu-icon1_line-bottom\"></div></div></div></div><div class=\"w-nav-overlay\" id=\"w-nav-overlay-0\"></div></div><div class=\"padding-global\"><div class=\"container-large max-width-full\"><div class=\"padding-section-medium fixed-transparent-header\"><div class=\"header84_component\"><div class=\"w-layout-grid header84_card\"><div class=\"header84_card-content\"><div class=\"header84_card-content-top\"><div class=\"margin-bottom margin-small\"><h1>Six Combined Decades Of Experience In Advocating For Injury Victims</h1></div><p class=\"excerpt-hero-text\">At <strong>Logeman &amp; Iafrate, P.C.</strong>, we have the experience to help you mount a strong case and seek compensation for the harm you have suffered. We offer personal injury guidance on a contingency basis, meaning that you won’t pay unless we win your case.</p><div class=\"spacer-medium\"></div><div class=\"button-group\"><a href=\"https://www.logeman.com/#free-consultation\" class=\"button w-button\">Schedule a Free Consultation</a><a href=\"https://www.logeman.com/about-us\" class=\"button is-alternate w-button\">Why choose us when injured?</a></div></div></div></div></div></div></div></div></header>",
+    "elementStyles": [
+      {
+        "tag": "div",
+        "cls": "navbar6_component",
+        "text": "HomeAbout usPractice Areas\n\nMo",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(252, 253, 248, 0)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_logo-link",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "img",
+        "cls": "navbar6_logo",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_link",
+        "text": "Home",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_link",
+        "text": "About us",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "svg",
+        "color": "rgb(0, 74, 173)",
+        "fill": "rgb(0, 74, 173)",
+        "width": 16,
+        "height": 16,
+        "viewBox": "0 0 16 16",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h4",
+        "cls": "heading-style-h5",
+        "text": "Motor Vehicle Accident Injurie",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "20px",
+        "fontWeight": "600"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Bicycle AccidentsResidents and",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "img",
+        "cls": "icon-1x1-xsmall",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Car AccidentsCar accidents rem",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Motorcycle AccidentsExperience",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Truck AccidentsOur Ann Arbor t",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "More Vehicle Accident Cases",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(229, 236, 246, 0.54)",
+        "borderRadius": "6px"
+      },
+      {
+        "tag": "h4",
+        "cls": "heading-style-h5",
+        "text": "Catastrophic Injuries",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "20px",
+        "fontWeight": "600"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Brain InjuriesLearn how insura",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Construction AccidentsConstruc",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Spinal Cord InjurySpinal cord ",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Wrongful DeathThe loss of a lo",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "More Catastrophic Cases",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(229, 236, 246, 0.54)",
+        "borderRadius": "6px"
+      },
+      {
+        "tag": "h4",
+        "cls": "heading-style-h5",
+        "text": "Personal Injury Cases",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "20px",
+        "fontWeight": "600"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Dog Bites and AttacksBitten by",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Electric Scooter AccidentsElec",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Premises LiabilityA premises l",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Product LiabilityWhen defectiv",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "More Personal Injury Cases",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(229, 236, 246, 0.54)",
+        "borderRadius": "6px"
+      },
+      {
+        "tag": "h4",
+        "cls": "heading-style-h5",
+        "text": "Featured News Item",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "20px",
+        "fontWeight": "600"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_blog-item",
+        "text": "We're Celebrating 45 Years of ",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgb(229, 231, 234)",
+        "borderRadius": "8px"
+      },
+      {
+        "tag": "img",
+        "cls": "navbar6_blog-image",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "button",
+        "text": "Read more",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(204, 218, 238, 0.31)",
+        "border": "1px solid rgb(255, 255, 255)",
+        "borderRadius": "4px",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "svg",
+        "color": "rgb(2, 6, 4)",
+        "viewBox": "0 0 16 16",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "a",
+        "cls": "button",
+        "text": "See All Practice Areas",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 74, 173)",
+        "border": "1px solid rgb(0, 74, 173)",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "div",
+        "cls": "navbar6_dropdown-background-layer",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgb(248, 248, 248)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_link",
+        "text": "Our Results",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_link",
+        "text": "Reviews",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_link",
+        "text": "Service Areas",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_link",
+        "text": "Contact Us",
+        "color": "rgb(2, 6, 4)"
+      },
+      {
+        "tag": "a",
+        "cls": "button",
+        "text": "Schedule a Free Consultation",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgb(229, 236, 246)",
+        "border": "1px solid rgb(229, 236, 246)",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "a",
+        "cls": "button",
+        "text": "(734) 994-0200",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 74, 173)",
+        "border": "1px solid rgb(0, 74, 173)",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "div",
+        "cls": "header84_card-content",
+        "text": "Six Combined Decades Of Experi",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(252, 253, 248, 0)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h1",
+        "text": "Six Combined Decades Of Experi",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "44px",
+        "fontWeight": "700"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "heading": "Supporting Your Recovery After Suffering A Catastrophic Injury",
+    "html": "<section class=\"section_about color-scheme-1\"><div class=\"padding-global\"><div class=\"container-large\"><div class=\"padding-section-large\"><div class=\"content_main-side\"><div class=\"main-content\"><div class=\"twc_rich-text-default w-richtext\"><h2>Supporting Your Recovery After Suffering A Catastrophic Injury</h2><p>At Logeman &amp; Iafrate, P.C., we recognize the immense challenges that come with recovering from catastrophic injuries. When you are focused on healing, dealing with legal battles is the last thing you need on your plate. Our dedicated team is here to shoulder your legal burdens, ensuring that you can concentrate on your recovery while we handle the complexities of your claim.</p><p>With over 60 years of combined experience, Logeman &amp; Iafrate, P.C., offers free consultations and operates on a no-win, no-fee basis. Our firm is known for taking on and winning cases that other attorneys might consider unwinnable. We are prepared to go to trial to secure the damages our clients need and deserve. Located in Ann Arbor, we serve clients across Michigan, providing you with the strong legal representation you need while you focus on your future.</p><h2>The Devastating Impact Of Catastrophic Injuries</h2><p>Catastrophic injuries are severe and can permanently alter your life. From expensive medical bills to permanent disabilities, you will likely deal with the impacts of these injuries for the rest of your life. These injuries require extensive medical treatment, continuous care, and can significantly impair your ability to work and perform daily activities. Fighting for fair compensation is the best way to secure your financial future and get the justice you deserve.</p><p>Common types of catastrophic injuries include:</p><ul><li>Amputations and loss of limbs</li><li>Paralysis, including paraplegia or quadriplegia</li><li><strong>Spinal cord injuries</strong></li><li><strong>Traumatic brain injuries</strong></li><li>Severe burn injuries</li><li>Multiple fractures</li></ul><p>At Logeman &amp; Iafrate, P.C., we have a strong reputation for advocating vigorously for our clients’ best interests. We are committed to taking on challenging cases that other firms may shy away from, ensuring that our clients receive the justice and compensation they deserve. Whether your catastrophic injury occurred due to a <strong>car accident</strong> or a <strong>slip-and-fall</strong>, you can trust us to fight tirelessly for you.</p><h2>What Are Considered Catastrophic Injuries?</h2><p>Catastrophic injuries are those that result in permanent disabilities or long-term medical conditions. These injuries significantly disrupt the victim’s lifestyle and ability to function independently. Catastrophic injuries can include spinal cord injuries, traumatic brain injuries, severe burns and amputations. These types of injuries not only cause intense physical pain and suffering but also emotional and financial distress.</p><h2>How Do Catastrophic Injuries Affect Daily Life?</h2><p>Catastrophic injuries can dramatically alter every aspect of daily life. Victims may face challenges such as loss of mobility, dependence on others for personal care and the inability to return to work, which can lead to significant financial strain. Victims may also experience feelings of helplessness, depression and anxiety about their future. The need for ongoing medical treatments and rehabilitation can make recovery a full-time endeavor, while adding a large strain on your family.</p><h2>Can I Sue For Catastrophic Injuries Caused By Someone Else’s Negligence?</h2><p>If your catastrophic injuries were caused by someone else’s negligence, you have the right to sue for compensation. This can include damages for medical expenses, lost wages, loss of future earning capacity, pain and suffering, and more. It is crucial to work with a skilled catastrophic injury attorney who can help prove the negligence of the other party and ensure that you receive the maximum compensation you are entitled to.</p><h2>Get The Compensation You Need, Call Us Today</h2><p>If you or a loved one has suffered catastrophic injuries due to someone else’s negligence, do not hesitate to contact Logeman &amp; Iafrate, P.C. Call us at <a href=\"tel:+17349324622\"><strong>(734) 994-0200</strong></a> or fill out our <strong>online contact form</strong> for a free consultation. We handle cases on a contingency-fee basis, meaning you owe us nothing unless we win your case. Let us help you secure the compensation you need to support your recovery and regain control over your life.</p></div></div><div class=\"sidebar\"><div class=\"sidebar_attorney-img-wrap adrieene\"></div><div class=\"sidebar_attorney-img-wrap james\"></div><div class=\"sidebar_component attorney\"><h3 class=\"heading-style-h3 text-align-center\">Awards and Honors</h3><div class=\"spacer-small\"></div><div class=\"sidebar_logo-wrap\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/693a1090d3d0960b5ee46445_45-Years-in-Business.avif\" alt class=\"award-logo\"></div><div class=\"sidebar_logo-wrap\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/697014f3d508898f484c6001_Iafrate_James_2026.png\" alt class=\"award-logo\"></div><div class=\"sidebar_logo-wrap\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/693a10d209b58daf0e31988a_super-lawyers-award.avif\" alt class=\"award-logo\"></div></div><div class=\"sidebar_component\"><h3 class=\"sidebar_heading-left\">Our Core Legal Practice Areas</h3><div class=\"spacer-small\"></div><a href=\"https://www.logeman.com/motor-vehicle-accidents-overview\" class=\"practice-area-link-wrap w-inline-block\"><div class=\"navbar6_icon-wrapper\"><div class=\"icon-embed-xsmall color-primary w-embed\"><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" aria-hidden=\"true\" role=\"img\" class=\"iconify iconify--tabler\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"m13.446 2.6l7.955 7.954a2.045 2.045 0 0 1 0 2.892l-7.955 7.955a2.045 2.045 0 0 1-2.892 0l-7.955-7.955a2.045 2.045 0 0 1 0-2.892l7.955-7.955a2.045 2.045 0 0 1 2.892 0z\"></path><path d=\"M9 14v-2c0-.59.414-1 1-1h5\"></path><path d=\"m13 9l2 2l-2 2\"></path></g></svg></div></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Vehicle Accidents Overview</div><p class=\"text-size-small hide-mobile-landscape\">An overview of this area of law.</p></div></a><a href=\"https://www.logeman.com/catastrophic-injuries-overview\" class=\"practice-area-link-wrap w-inline-block\"><div class=\"navbar6_icon-wrapper\"><div class=\"icon-embed-xsmall color-primary w-embed\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" id=\"Warning\"> <g fill-rule=\"evenodd\" fill=\"currentColor\" class=\"color000000 svgShape\"> <path d=\"M9.314 1.91c1.107-2.213 4.265-2.213 5.372 0l8.744 17.494c.998 1.996-.453 4.346-2.685 4.346H3.255c-2.232 0-3.683-2.35-2.685-4.346L9.314 1.91Zm4.03.67c-.554-1.107-2.134-1.107-2.688 0L1.912 20.075c-.5 1 .227 2.176 1.343 2.176h17.49a1.503 1.503 0 0 0 1.343-2.176L13.344 2.581Z\" fill=\"currentColor\" class=\"color000000 svgShape\"></path> <path d=\"M12 5.75a2.093 2.093 0 0 0-2.08 2.324l.835 7.509a.75.75 0 0 0 .745.667h1a.75.75 0 0 0 .746-.667l.834-7.51A2.093 2.093 0 0 0 12 5.75zm0 11.5a1.75 1.75 0 1 0 0 3.5 1.75 1.75 0 0 0 0-3.5z\" fill=\"currentColor\" class=\"color000000 svgShape\"></path> </g> </svg></div></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Catastrophic Injuries Overview</div><p class=\"text-size-small hide-mobile-landscape\">Severe injuries require serious lawyers.</p></div></a><a href=\"https://www.logeman.com/personal-injury-overview\" class=\"practice-area-link-wrap w-inline-block\"><div class=\"navbar6_icon-wrapper\"><div class=\"icon-embed-xsmall color-primary w-embed\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\" id=\"Hospital\"> <path fill=\"none\" d=\"M0 0h48v48H0z\"></path> <path d=\"M38 6H10c-2.21 0-3.98 1.79-3.98 4L6 38c0 2.21 1.79 4 4 4h28c2.21 0 4-1.79 4-4V10c0-2.21-1.79-4-4-4zm-2 22h-8v8h-8v-8h-8v-8h8v-8h8v8h8v8z\" fill=\"currentColor\" class=\"color000000 svgShape\"></path> </svg></div></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Personal Injury Overview</div><p class=\"text-size-small hide-mobile-landscape\">Injuries can be serious, contact us.</p></div></a></div></div></div><div class=\"layout395_component\"><div class=\"margin-bottom margin-xxlarge\"><div class=\"text-align-center\"><div class=\"max-width-large align-center\"><div class=\"tagline-wrap margin-xsmall\"><div class=\"text-style-tagline text-align-center\">Serving Ann Arbor and all of Michigan</div></div><div class=\"margin-bottom margin-small\"><h2 class=\"heading-style-h2 text-align-center\">Trusted Michigan Personal Injury Attorneys</h2></div><p class=\"text-size-medium text-align-center\">For decades, we have been helping accident victims recover the compensation they need to rebuild their lives and take care of their families. At Logeman &amp; Iafrate, P.C., we are highly experienced lawyers with a well-trained support staff. We have a long track record of successful outcomes for our clients, and we have even recovered damages in cases that other firms previously had turned down and deemed hopeless.</p></div></div></div><div class=\"w-layout-grid layout395_grid-list\"><div id=\"w-node-e6ff2716-1668-8e92-f5dd-7fb2128728e3-128728d2\" class=\"w-layout-grid layout395_row\"><div class=\"layout395_card\"><div id=\"w-node-e6ff2716-1668-8e92-f5dd-7fb2128728e5-128728d2\" class=\"layout395_card-image-wrapper\"><img alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/693a55d51fbe67b78602b72b_EV3A7457-Enhanced-NR.avif\" class=\"attorney_bio-img\" width=\"459\" height=\"688\"></div><div class=\"layout395_card-content\"><div class=\"layout395_card-content-top\"><div class=\"margin-bottom margin-xxsmall\"><div class=\"tag is-text\">Partner</div></div><div class=\"margin-bottom margin-xsmall\"><h3 class=\"heading-style-h4\">Adrienne Logeman</h3></div><p class=\"text-style-3lines\">Ms. Logeman is a practicing lawyer since 2002 in Ann Arbor, Michigan. She received her bachelors from University of Michigan in bio-psychology/neuroscience. She received her law degree from Michigan State Law School. She also served on the Board of Directors for Eversight and volunteers with Donate for Life...</p></div><div class=\"margin-top margin-small\"><div class=\"button-group is-center\"><a href=\"https://www.logeman.com/attorney/adrienne-d-logeman\" class=\"button is-link is-icon w-inline-block\"><div class=\"button-text\">Learn more</div><div class=\"icon-embed-xxsmall w-embed\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M6 3L11 8L6 13\" stroke=\"CurrentColor\" stroke-width=\"1.5\"></path> </svg></div></a></div></div></div></div><div id=\"w-node-e6ff2716-1668-8e92-f5dd-7fb2128728f7-128728d2\" class=\"layout395_card middle\"><div id=\"w-node-e6ff2716-1668-8e92-f5dd-7fb2128728f8-128728d2\" class=\"layout395_card-image-wrapper\"><img alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/693ae3bfbd437f799d63087e_0.avif\" class=\"layout395_card-image\" width=\"459\" height=\"306\"></div><div class=\"layout395_card-content center\"><div class=\"layout395_card-content-top\"><div class=\"margin-bottom margin-xxsmall\"><div class=\"tag is-text\">Trial ready</div></div><div class=\"margin-bottom margin-xsmall\"><h3 class=\"heading-style-h4\">Michigan Injury Lawyers</h3></div><p>For over forty-five years lawyers at our personal injury law firm have helped accident victims recover the compensation they need to rebuild their lives and take care of their families. Our attorneys are highly experienced and supported by well-trained staff. Their successful advocacy is highlighted by the fact that they have...</p></div><div class=\"margin-top margin-small\"><div class=\"button-group is-center\"><a href=\"https://www.logeman.com/about-us\" class=\"button is-link is-icon w-inline-block\"><div class=\"button-text\">Learn more</div><div class=\"icon-embed-xxsmall w-embed\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M6 3L11 8L6 13\" stroke=\"CurrentColor\" stroke-width=\"1.5\"></path> </svg></div></a></div></div></div></div><div id=\"w-node-e6ff2716-1668-8e92-f5dd-7fb21287290a-128728d2\" class=\"layout395_card\"><div id=\"w-node-e6ff2716-1668-8e92-f5dd-7fb21287290b-128728d2\" class=\"layout395_card-image-wrapper\"><img alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/693a53edf7b9715e7b7f58e3_james-a-iafrate-bio-photo.jpg\" class=\"attorney_bio-img\" width=\"459\" height=\"688\"></div><div class=\"layout395_card-content\"><div class=\"layout395_card-content-top\"><div class=\"margin-bottom margin-xxsmall\"><div class=\"tag is-text\">Partner</div></div><div class=\"margin-bottom margin-xsmall\"><h3 class=\"heading-style-h4\">James A. Iafrate</h3></div><p class=\"text-style-3lines\">Licensed to practice law in Michigan since 1989, attorney James A. Iafrate has been serving clients at the Logeman &amp; Iafrate, P.C., in Ann Arbor, Michigan, for the last 36 years. Over these years, he has built a commendable legal career focusing on a variety of personal injury cases.His practice areas include handling cases...</p></div><div class=\"margin-top margin-small\"><div class=\"button-group is-center\"><a href=\"https://www.logeman.com/attorney/james-a-iafrate\" class=\"button is-link is-icon w-inline-block\"><div class=\"button-text\">Learn more</div><div class=\"icon-embed-xxsmall w-embed\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M6 3L11 8L6 13\" stroke=\"CurrentColor\" stroke-width=\"1.5\"></path> </svg></div></a></div></div></div></div></div></div></div></div></div></div></section>",
+    "elementStyles": [
+      {
+        "tag": "h2",
+        "text": "Supporting Your Recovery After",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "h2",
+        "text": "The Devastating Impact Of Cata",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "h2",
+        "text": "What Are Considered Catastroph",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "h2",
+        "text": "How Do Catastrophic Injuries A",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "h2",
+        "text": "Can I Sue For Catastrophic Inj",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "h2",
+        "text": "Get The Compensation You Need,",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "a",
+        "text": "(734) 994-0200",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "sidebar",
+        "text": "Awards and HonorsOur Core Lega",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgb(248, 248, 248)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h3",
+        "text": "Awards and Honors",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "22px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "img",
+        "cls": "award-logo",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h3",
+        "cls": "sidebar_heading-left",
+        "text": "Our Core Legal Practice Areas",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "22px",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "a",
+        "cls": "practice-area-link-wrap",
+        "text": "Vehicle Accidents OverviewAn o",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(255, 255, 255, 0.5)",
+        "borderRadius": "6px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "svg",
+        "color": "rgb(0, 74, 173)",
+        "width": 24,
+        "height": 24,
+        "viewBox": "0 0 24 24",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "practice-area-link-wrap",
+        "text": "Catastrophic Injuries Overview",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(255, 255, 255, 0.5)",
+        "borderRadius": "6px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "practice-area-link-wrap",
+        "text": "Personal Injury OverviewInjuri",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(255, 255, 255, 0.5)",
+        "borderRadius": "6px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h2",
+        "cls": "heading-style-h2",
+        "text": "Trusted Michigan Personal Inju",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "div",
+        "cls": "layout395_card",
+        "text": "PartnerAdrienne LogemanMs. Log",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(229, 236, 246, 0.54)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "img",
+        "cls": "attorney_bio-img",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h4",
+        "text": "Adrienne Logeman",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "22px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "a",
+        "cls": "button",
+        "text": "Learn more",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(204, 218, 238, 0.31)",
+        "border": "1px solid rgb(255, 255, 255)",
+        "borderRadius": "4px",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "svg",
+        "color": "rgb(2, 6, 4)",
+        "width": 16,
+        "height": 16,
+        "viewBox": "0 0 16 16",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "div",
+        "cls": "layout395_card",
+        "text": "Trial readyMichigan Injury Law",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(229, 236, 246, 0.54)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "img",
+        "cls": "layout395_card-image",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h4",
+        "text": "Michigan Injury Lawyers",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "22px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "div",
+        "cls": "layout395_card",
+        "text": "PartnerJames A. IafrateLicense",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(229, 236, 246, 0.54)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h4",
+        "text": "James A. Iafrate",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "22px",
+        "fontWeight": "700"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "heading": "Our Law Firm's Practice Areas",
+    "html": "<section class=\"section_practice-areas color-scheme-5\"><div class=\"padding-global\"><div class=\"container-large\"><div class=\"padding-section-large\"><div class=\"team17_component\"><div class=\"w-layout-grid practice-area_title-header\"><div class=\"team17_content-left\"><div class=\"margin-bottom margin-xsmall\"><div class=\"text-style-tagline\">Rated by SuperLawyers 2024, 2025 and Peer Selected in Leading Lawyers 2025</div></div><div class=\"margin-bottom margin-small\"><h2 class=\"heading-style-h2\">Our Law Firm's Practice Areas</h2></div><p>After suffering injuries in a life-altering accident or losing a loved one due to someone else’s negligence, you deserve the chance to fight for your future and obtain the compensation you need to move forward. At Logeman &amp; Iafrate, P.C., our personal injury and wrongful death attorneys understand the situation you face. We will fight by your side and help guide you through this challenging time with compassion and dedicated legal support.</p></div></div></div><div class=\"practice-areas-panel\"><div class=\"practice-area_column\"><div class=\"margin-bottom margin-xsmall\"><h4 class=\"heading-style-h5 column_header1\">Motor Vehicle Accident Injuries</h4></div><div class=\"practice-areas-link-list\"><a href=\"https://www.logeman.com/motor-vehicle-accidents-overview\" class=\"practice-area-link-wrap w-inline-block\"><div class=\"navbar6_icon-wrapper\"><div class=\"icon-embed-xsmall color-primary w-embed\"><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" aria-hidden=\"true\" role=\"img\" class=\"iconify iconify--tabler\" width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"><path d=\"m13.446 2.6l7.955 7.954a2.045 2.045 0 0 1 0 2.892l-7.955 7.955a2.045 2.045 0 0 1-2.892 0l-7.955-7.955a2.045 2.045 0 0 1 0-2.892l7.955-7.955a2.045 2.045 0 0 1 2.892 0z\"></path><path d=\"M9 14v-2c0-.59.414-1 1-1h5\"></path><path d=\"m13 9l2 2l-2 2\"></path></g></svg></div></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Vehicle Accidents Overview</div><p class=\"text-size-small hide-mobile-landscape\">An overview of this area of law.</p></div></a></div><div class=\"column_cms-practice-areas\"><div class=\"w-dyn-list\"><div class=\"w-dyn-items\"><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/bicycle-accidents-in-ann-arbor-throughout-michigan\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Bicycle Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Residents and students in the City of Ann Arbor frequently use bicycles and electric scooters for convenient and economical transportation. Despite Ann Arbor's investment in bicycle safety and designation as one of America's most bike-friendly cities, careless drivers continue to pose serious risks to cyclists on the road.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/bus-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446f473f8e04b37562c19/69406c0a6972d9fc86b4087d_2113d9be-2c35-4b25-9512-9098b8eab07c.avif\" alt class=\"icon-1x1-xsmall\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Bus Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Experienced Ann Arbor bus accident attorneys advocating for victims of SMART, The Ride, and school bus accidents. Navigating the aftermath of a bus accident can be exceptionally challenging. In Ann Arbor, where public and private buses are integral to daily transportation, the impact of these accidents can be far-reaching, affecting not only the victims but also their families and the community at large.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/car-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Car Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Car accidents remain the most common type of personal injury case in Michigan. Our Ann Arbor attorneys have decades of experience helping accident victims navigate Michigan's unique no-fault insurance system while pursuing full compensation from at-fault drivers.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/distracted-driving-causing-personal-injury-ann-arbor-mi\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446f473f8e04b37562c19/6940d294a3440ef26e72e0e5_272c75b2-17d6-4a6b-a41b-29aa488ffdaa.avif\" alt class=\"icon-1x1-xsmall\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Distracted Driving</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Distracted driving causes over 50% of crashes involving teen drivers and results in more than 1,000 injuries daily in the U.S. Learn about Michigan's distracted driving laws, penalties, and how to protect your rights if you've been injured by a distracted driver.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/drunk-driver-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446f473f8e04b37562c19/6940d292146548f48d4f8a1e_cf9763a2-359b-468a-bc83-493e034e9367.avif\" alt class=\"icon-1x1-xsmall\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Drunk Driver Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Seeking Justice For Drunk Driving Victims In Ann Arbor. Drunk driving accidents shatter lives, leaving a trail of devastation for victims and their families. In Ann Arbor, where safety and community are paramount, the impact of such reckless behavior resonates deeply. At Logeman &amp; Iafrate, P.C., we stand firm against drunk driving and are dedicated to supporting victims in their quest for justice.</p></div></a></div></div></div></div></div><div class=\"practice-area_column\"><div class=\"margin-bottom margin-xsmall\"><h4 class=\"heading-style-h5 column_header1\">...more accident case types</h4></div><div class=\"column_cms-practice-areas\"><div class=\"w-dyn-list\"><div class=\"w-dyn-items\"><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/personal-injury-claims-involving-lyft-and-uber-drivers-in-michigan\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446f473f8e04b37562c19/6940d29023e45bd42d8cd3b4_c412b6f0-5ca1-4741-875f-cd50610bca61.avif\" alt class=\"icon-1x1-xsmall\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Lyft &amp; Uber Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Accident lawsuits and claims involving ridesharing entities can be a complex process in Michigan. If you are injured in an Uber or Lyft vehicle, responsibility for collecting compensation is not always straightforward. Ridesharing entities classify their drivers as independent contractors and therefore these entities may not always accept liability when their drivers are involved in accidents or negligently cause an injury accident.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/motorcycle-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Motorcycle Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Experienced Michigan motorcycle accident attorneys helping injured riders recover compensation for medical expenses, lost wages, and pain and suffering. Learn about common motorcycle injuries, Michigan insurance laws, and why you need legal representation after a crash.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/michigan-no-fault-insurance-claims\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446f473f8e04b37562c19/6940daca4f049de358dfd593_e87c6b70-4b20-4e52-939c-2c415da106c0.avif\" alt class=\"icon-1x1-xsmall\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">No Fault Insurance Claims</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Expert Michigan no-fault insurance attorneys in Ann Arbor helping accident victims navigate complex claims, secure full benefits, and fight denied claims. Free consultation and complimentary claim filing service available.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/pedestrian-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446f473f8e04b37562c19/6940db59eebd42f8a4bd3400_561f916a-01f5-4652-9977-3884c8a92f6b.avif\" alt class=\"icon-1x1-xsmall\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Pedestrian Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Ann Arbor pedestrian accident attorneys at Logeman &amp; Iafrate, P.C., provide experienced legal representation for victims injured by negligent drivers. We fight to secure full compensation for your injuries and losses.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/truck-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Truck Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Our Ann Arbor truck accident attorneys can help you with your recovery. When a passenger car is involved in a tractor-trailer wreck, the heavy commercial truck can easily crush a car or force it off the road and down an embankment.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/uninsured-underinsured-motorist-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446f473f8e04b37562c19/6940dacdc0ca63aadca44a70_adfb5a17-7ba2-466a-b356-03876acd34b3.avif\" alt class=\"icon-1x1-xsmall\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Uninsured / Underinsured Motorists</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Handling uninsured and underinsured motorist claims in Ann Arbor. In Michigan, while all drivers are required by law to carry liability insurance, not everyone adheres to this mandate. This oversight can lead to significant complications if you are involved in an accident with an uninsured or underinsured driver. Understanding your rights and the steps to take in such situations is crucial.</p></div></a></div></div></div></div></div><div class=\"practice-area_column\"><div class=\"margin-bottom margin-xsmall\"><h4 class=\"heading-style-h5 column_header1\">Catastrophic Injuries</h4></div><div class=\"practice-areas-link-list\"><a href=\"https://www.logeman.com/catastrophic-injuries-overview\" class=\"practice-area-link-wrap w-inline-block\"><div class=\"navbar6_icon-wrapper\"><div class=\"icon-embed-xsmall color-primary w-embed\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" id=\"Warning\"> <g fill-rule=\"evenodd\" fill=\"currentColor\" class=\"color000000 svgShape\"> <path d=\"M9.314 1.91c1.107-2.213 4.265-2.213 5.372 0l8.744 17.494c.998 1.996-.453 4.346-2.685 4.346H3.255c-2.232 0-3.683-2.35-2.685-4.346L9.314 1.91Zm4.03.67c-.554-1.107-2.134-1.107-2.688 0L1.912 20.075c-.5 1 .227 2.176 1.343 2.176h17.49a1.503 1.503 0 0 0 1.343-2.176L13.344 2.581Z\" fill=\"currentColor\" class=\"color000000 svgShape\"></path> <path d=\"M12 5.75a2.093 2.093 0 0 0-2.08 2.324l.835 7.509a.75.75 0 0 0 .745.667h1a.75.75 0 0 0 .746-.667l.834-7.51A2.093 2.093 0 0 0 12 5.75zm0 11.5a1.75 1.75 0 1 0 0 3.5 1.75 1.75 0 0 0 0-3.5z\" fill=\"currentColor\" class=\"color000000 svgShape\"></path> </g> </svg></div></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Catastrophic Injuries Overview</div><p class=\"text-size-small hide-mobile-landscape\">Severe injuries require serious lawyers.</p></div></a></div><div class=\"w-dyn-list\"><div class=\"w-dyn-items\"><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/personal-injury-lawsuits-involving-traumatic-brain-injury\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Brain Injuries</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Learn how insurance companies defend against traumatic brain injury claims and what evidence is needed to successfully prove long-term cognitive impairment from concussions and mild TBI in personal injury lawsuits.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/construction-accidents\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Construction Accidents</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Construction sites are among the most dangerous workplaces in Michigan. When workers are injured, they may be entitled to both workers' compensation benefits and third-party claims against negligent contractors or equipment manufacturers.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/spinal-cord-injury\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Spinal Cord Injury</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">Spinal cord injuries are among the most catastrophic injuries a person can suffer, often resulting in paralysis, quadriplegia, or paraplegia. Our attorneys have the specialized experience needed to secure maximum compensation for lifetime care needs.</p></div></a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/wrongful-death\" class=\"navbar6_dropdown-link w-inline-block\"><div class=\"navbar6_icon-wrapper\"></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Wrongful Death</div><p class=\"text-size-small hide-mobile-landscape text-style-2lines\">The loss of a loved one due to someone else's negligence is devastating. Our wrongful death attorneys provide compassionate, experienced representation to help families seek justice and secure the compensation they need to move forward.</p></div></a></div></div></div></div><div class=\"practice-area_column\"><div class=\"margin-bottom margin-xsmall\"><h4 class=\"heading-style-h5 column_header1\">Personal Injury Cases</h4></div><div class=\"practice-areas-link-list\"><a href=\"https://www.logeman.com/personal-injury-overview\" class=\"practice-area-link-wrap w-inline-block\"><div class=\"navbar6_icon-wrapper\"><div class=\"icon-embed-xsmall color-primary w-embed\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\" id=\"Hospital\"> <path fill=\"none\" d=\"M0 0h48v48H0z\"></path> <path d=\"M38 6H10c-2.21 0-3.98 1.79-3.98 4L6 38c0 2.21 1.79 4 4 4h28c2.21 0 4-1.79 4-4V10c0-2.21-1.79-4-4-4zm-2 22h-8v8h-8v-8h-8v-8h8v-8h8v8h8v8z\" fill=\"currentColor\" class=\"color000000 svgShape\"></path> </svg></div></div><div class=\"navbar6_item-right\"><div class=\"text-weight-semibold\">Personal Injury Overview</div><p class=\"text-size-small hide-mobile-landscape\"> <!-- truncated -->",
+    "elementStyles": [
+      {
+        "tag": "h2",
+        "cls": "heading-style-h2",
+        "text": "Our Law Firm's Practice Areas",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "h4",
+        "cls": "heading-style-h5",
+        "text": "Motor Vehicle Accident Injurie",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "20px",
+        "fontWeight": "600"
+      },
+      {
+        "tag": "a",
+        "cls": "practice-area-link-wrap",
+        "text": "Vehicle Accidents OverviewAn o",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(255, 255, 255, 0.5)",
+        "borderRadius": "6px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "svg",
+        "color": "rgb(0, 74, 173)",
+        "width": 24,
+        "height": 24,
+        "viewBox": "0 0 24 24",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Bicycle AccidentsResidents and",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "img",
+        "cls": "icon-1x1-xsmall",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Bus AccidentsExperienced Ann A",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Car AccidentsCar accidents rem",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Distracted DrivingDistracted d",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Drunk Driver AccidentsSeeking ",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h4",
+        "cls": "heading-style-h5",
+        "text": "...more accident case types",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "20px",
+        "fontWeight": "600"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Lyft & Uber AccidentsAccident ",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Motorcycle AccidentsExperience",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "No Fault Insurance ClaimsExper",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Pedestrian AccidentsAnn Arbor ",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Truck AccidentsOur Ann Arbor t",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Uninsured / Underinsured Motor",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h4",
+        "cls": "heading-style-h5",
+        "text": "Catastrophic Injuries",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "20px",
+        "fontWeight": "600"
+      },
+      {
+        "tag": "a",
+        "cls": "practice-area-link-wrap",
+        "text": "Catastrophic Injuries Overview",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(255, 255, 255, 0.5)",
+        "borderRadius": "6px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Brain InjuriesLearn how insura",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Construction AccidentsConstruc",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Spinal Cord InjurySpinal cord ",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Wrongful DeathThe loss of a lo",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h4",
+        "cls": "heading-style-h5",
+        "text": "Personal Injury Cases",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "20px",
+        "fontWeight": "600"
+      },
+      {
+        "tag": "a",
+        "cls": "practice-area-link-wrap",
+        "text": "Personal Injury OverviewInjuri",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(255, 255, 255, 0.5)",
+        "borderRadius": "6px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Dog Bites and AttacksBitten by",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Electric Scooter AccidentsElec",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Premises LiabilityA premises l",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "navbar6_dropdown-link",
+        "text": "Product LiabilityWhen defectiv",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "heading": "We Stand with You through the Hardest Times, Advocating Vigorously for Your Rights.",
+    "html": "<section class=\"section_feature-1 color-scheme-1\"><div class=\"padding-global\"><div class=\"container-large\"><div class=\"padding-section-large\"><div class=\"layout1_component\"><div class=\"w-layout-grid layout1_content\"><div class=\"layout1_content-left\"><div class=\"margin-bottom margin-xsmall\"><div class=\"text-style-tagline\">Serving Michigan with 60+ Collective Years of Succesful Injury Law Experience</div></div><div class=\"margin-bottom margin-small\"><h2 class=\"heading-style-h2\">We Stand with You through the Hardest Times, Advocating Vigorously for Your Rights.</h2></div><p class=\"text-size-medium\">At our personal injury law practice, we are prepared to handle claims involving car, truck, bus, bicycle, and pedestrian accidents; slip-and-falls and other premises liability claims; product liability claims; claims for compensation for brain and spinal cord injuries; and claims and lawsuits for wrongful death. <br><br>We help clients in Ann Arbor, Detroit and throughout Michigan recover the benefits they need and deserve. Our commitment to service is absolute. Please feel free to contact our firm at any time for advice or help with your personal injury claim.</p><div class=\"margin-top margin-medium\"><div class=\"button-group\"><a href=\"https://www.logeman.com/#free-consultation\" class=\"button w-button\">Speak with a Lawyer</a><a href=\"https://www.logeman.com/practice-areas\" class=\"button is-link is-icon w-inline-block\"><div>Explore Our Practice Areas</div><div class=\"icon-embed-xxsmall w-embed\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M6 3L11 8L6 13\" stroke=\"CurrentColor\" stroke-width=\"1.5\"></path> </svg></div></a></div></div></div><div class=\"layout1_image-wrapper\"><img alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/69349715aea4c19b3ee2118d_relume-608171.avif\" class=\"layout1_image\" width=\"680\" height=\"680\"></div></div></div></div></div></div></section>",
+    "elementStyles": [
+      {
+        "tag": "h2",
+        "cls": "heading-style-h2",
+        "text": "We Stand with You through the ",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "a",
+        "cls": "button",
+        "text": "Speak with a Lawyer",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 74, 173)",
+        "border": "1px solid rgb(0, 74, 173)",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "a",
+        "cls": "button",
+        "text": "Explore Our Practice Areas",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(204, 218, 238, 0.31)",
+        "border": "1px solid rgb(255, 255, 255)",
+        "borderRadius": "4px",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "svg",
+        "color": "rgb(2, 6, 4)",
+        "width": 16,
+        "height": 16,
+        "viewBox": "0 0 16 16",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "img",
+        "cls": "layout1_image",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "heading": "What Our Clients Say About Us",
+    "html": "<section class=\"section_reviews-slides color-scheme-6\"><div class=\"padding-global\"><div class=\"container-large\"><div class=\"padding-section-large\"><div class=\"testimonial9_component\"><div class=\"text-align-center\"><div class=\"max-width-large align-center\"></div><div class=\"tite-section_centered\"><div class=\"margin-bottom margin-small\"><h2 class=\"heading-style-h2 text-align-center\">What Our Clients Say About Us</h2></div><p class=\"text-size-medium text-align-center\">Cases won, lives changed, and we are happy to have helped each one of our clients.</p></div></div><div class=\"spacer-xxlarge\"></div><div class=\"testimonial9_slider w-slider\"><div class=\"testimonial9_mask w-slider-mask\" id=\"w-slider-mask-0\"><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"testimonial22_content-top\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\">If I could give them 100 stars I would!</div><div>“At the lowest point in my life they were there for me and got more than I expected. Mr. Logeman was amazing and Cheryl his assistant was so caring and professional. I would recommend them to anyone with a personal injury or accident. They went above and beyond for my son and I. I will forever be in their debt!”</div><div class=\"margin-top margin-small\"><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>Vivian S.</strong></div></div></div></div></div></div></div></div><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\"><strong>They did wonderfully in winning our case!</strong></div><div class=\"testimonial22_content-top\"><div>“We were referred for a personal injury motorcycle accident. We had no idea even where to begin, but the caring and professional team reassured us and took off a lot of stress. They did wonderfully in winning our case, and were always great at communicating where the case was at and what was needed. I would highly recommend and if we were to ever need their services again, I wouldn’t think twice about calling them up.”</div></div><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>Ashley B.</strong></div></div></div></div></div></div><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"testimonial22_content-top\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\"><strong>I could not have asked for better representation!</strong></div><div>Adrienne Logeman is an exceptional auto injury attorney. Adrienne put me at ease and explained every step of the process. She was composed, professional, polite and extremely competent. The jury returned a unanimous verdict in our favor. I could not have asked for better representation and care. I am very thankful for her. An incredible experience.</div></div><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>Robert A.</strong></div></div></div></div></div></div><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"testimonial22_content-top\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\"><strong>I truly believe you could not find a better firm to work with.</strong></div><div>Jim Iafrate and his staff are wonderful to work with, professional, compassionate, and do everything in their power when working on your case. I was always part of the process as communication was timely. Additionally, they know the law and will not be bullied by big insurance companies.</div><div class=\"margin-top margin-small\"><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>Joannie E.</strong></div></div></div></div></div></div></div></div><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\"><strong>Jim was always available when we needed him to answer questions!</strong></div><div class=\"testimonial22_content-top\"><div>Jim handled our case resulting from a very bad automobile accident. Both my husband and I were injured. He is very personable and efficient. He came to our home to get the details of the accident and continued to provide excellent handling of our case to the end when he reached an excellent settlement for us. We feel we became friends during this whole process.</div></div><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>Joan F.</strong></div></div></div></div></div></div><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"testimonial22_content-top\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\"><strong>I cannot recommended them highly enough!</strong></div><div>I’m so grateful to Logeman &amp; lafrate for taking care of my legal needs for my case. The entire staff are exceptional, professional, communicate well during the entire process.</div></div><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>D June</strong></div></div></div></div></div></div><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"testimonial22_content-top\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\"><strong>By far the best lawyer I’ve ever had!</strong></div><div>I had the pleasure of Jim Iafrate representing me. He was professional, had excellent communication skills and is trustworthy. &nbsp;He always kept me up-to date, was responsive and worked diligently. His abilities enabled us to settled my case in a timely manor. Thanks for your hard work Jim!</div></div><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>Lana D.</strong></div></div></div></div></div></div><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"testimonial22_content-top\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\"><strong>I can not say enough about this firm they continue to advocate for me!</strong></div><div>I was in 2 different catastrophic car accidents. Jim Iafrate has been my attorney for many years. I can say that without a doubt he is the best attorney in this field. &nbsp;Jim and his staff are professional and compassionate. I highly recommend him to anyone looking for a attorney that has been in a car accident. Jim will go above and beyond for his clients.</div></div><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>Debra Q.</strong></div></div></div></div></div></div><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"testimonial22_content-top\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\"><strong>My wife and I strongly recommend &nbsp;this law firm and are grateful for all their efforts.</strong></div><div>The attorneys at Logeman,Iafrate and Logeman were absolutely fantastic and professional in handling our case from a severe automobile accident . They provided constant support and guidance in making sure all of our medical needs were met. The staff at this firm was so helpful in all aspects of the case and subsequent trial and settlement.</div></div><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>Vince G.</strong></div></div></div></div></div></div><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"testimonial22_content-top\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\"><strong>I know that we can always trust their advice!</strong></div><div>I work with individuals that have suffered a brain injury because of an auto accident. This law practice has always been an amazing resource for them. They always put their clients first and I know that we can always trust their advice.</div></div><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>Courtney W.</strong></div></div></div></div></div></div><div class=\"testimonial9_slide w-slide\" style=\"transition: all; transform: translateX(0px); opacity: 1;\"><div class=\"testimonial22_card\"><div class=\"testimonial22_content-top\"><div class=\"margin-bottom margin-medium\"><div class=\"testimonial22_logo-wrapper\"><img src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934970f9f04e78f203234d0_relume-608194.avif\" alt class=\"review-star-rating\"></div></div><div class=\"review-card_title\"><strong>I would recommend James and his office to anyone!</strong></div><div>James and his team worked right beside our entire family during the whole process and even after. &nbsp;James was always available and fought hard to get my family what we deserved. &nbsp;He didn’t back down and was uplifting through the entire process. &nbsp;Not only was I proud to have him as our lawyer, we were even prouder that we can now call him a friend.</div></div><div class=\"review-source\"><div class=\"testimonial22_client-image-wrapper\"><img width=\"440.5\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6935cbe79239297e22822a7c_google%20(1).svg\" class=\"review_source-icon\"></div><div class=\"testimonial22_client\"><div class=\"testimonial22_client-info\"><div class=\"text-size-small text-color-white\"><strong>Rob K.</strong></div></div></div></div></div></div><div class=\"w-slider-aria-label\"></div></div><div class=\"slider-arrow is-centre-previous hide-mobile-landscape w-slider-arrow-left\"><div class=\"slider-arrow-icon_default w-embed\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M3.31066 8.75001L9.03033 14.4697L7.96967 15.5303L0.439339 8.00001L7.96967 0.469676L9.03033 1.53034L3.31066 7.25001L15.5 7.25L15.5 8.75L3.31066 8.75001Z\" fill=\"currentColor\"></path> </svg></div></div><div class=\"slider-arrow is-centre-next hide-mobile-landscape w-slider-arrow-right\"><div class=\"slider-arrow-icon_default w-embed\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M12.6893 7.25L6.96967 1.53033L8.03033 0.469666L15.5607 8L8.03033 15.5303L6.96967 14.4697L12.6893 8.75H0.5V7.25H12.6893Z\" fill=\"currentColor\"></path> </svg></div></div><div class=\"testimonial9_slide-nav w-slider-nav w-slider-nav-invert w-round\"><div class=\"w-slider-dot w-active\" style=\"margin-left: 3px; margin-right: 3px;\"></div><div class=\"w-slider-dot\" style=\"margin-left: 3px; margin-right: 3px;\"></div> <!-- truncated -->",
+    "elementStyles": [
+      {
+        "tag": "h2",
+        "cls": "heading-style-h2",
+        "text": "What Our Clients Say About Us",
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "If I could give them 100 stars",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "img",
+        "cls": "review-star-rating",
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "img",
+        "cls": "review_source-icon",
+        "color": "rgba(255, 255, 255, 0.5)",
+        "fontSize": "12.8px",
+        "fontWeight": "300"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "They did wonderfully in winnin",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "I could not have asked for bet",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "I truly believe you could not ",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "Jim was always available when ",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "I cannot recommended them high",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "By far the best lawyer I’ve ev",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "I can not say enough about thi",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "My wife and I strongly recomme",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "I know that we can always trus",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "testimonial22_card",
+        "text": "I would recommend James and hi",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "8px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "slider-arrow",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "border": "1px solid rgb(0, 16, 38)",
+        "borderRadius": "100%",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "svg",
+        "color": "rgb(255, 255, 255)",
+        "fill": "rgb(255, 255, 255)",
+        "width": 16,
+        "height": 16,
+        "viewBox": "0 0 16 16",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "w-slider-dot",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "100%",
+        "fontSize": "8px"
+      },
+      {
+        "tag": "a",
+        "cls": "button",
+        "text": "See More Reviews and Testimoni",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 74, 173)",
+        "border": "1px solid rgb(0, 74, 173)",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "heading": "Schedule a Free Case Review with a Lawyer",
+    "html": "<section class=\"section_contact-form color-scheme-1\"><div class=\"padding-global color-scheme-5\"><div class=\"container-large\"><div class=\"padding-section-large\"><div id=\"free-consultation\" class=\"schedule_component\"><div class=\"contactcta_content\"><div class=\"content_text\"><div class=\"margin-bottom margin-large\"><div class=\"margin-bottom margin-small\"><img width=\"156\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6934a8c60a913dd56092ddc6_logeman-webclip.avif\" class=\"layout145_image\"></div><h3>Schedule a Free Case Review with a Lawyer</h3><div class=\"spacer-small\"></div><p class=\"text-size-medium\">Don't face this alone. Let us review your case and show you what's possible. We never charge legal fees unless we recover damages on your behalf and the initial consultation is free as well. Reach out to us today.</p><div class=\"margin-top margin-large\"><div class=\"w-layout-grid team17_list\"><a href=\"https://www.logeman.com/#\" class=\"w-inline-block\"><div class=\"team17_item\"><div class=\"team17_image-wrapper\"><img alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/693a55d51fbe67b78602b72b_EV3A7457-Enhanced-NR.avif\" class=\"team17_image\" width=\"80\" height=\"80\"></div><div class=\"team17_item-content\"><div class=\"margin-bottom margin-xsmall\"><div class=\"team17_title-wrapper\"><div class=\"heading-style-h5\">Adrienne D. Logeman</div><div>Partner</div></div></div></div></div></a><a href=\"https://www.logeman.com/attorney/james-a-iafrate\" class=\"w-inline-block\"><div class=\"team17_item\"><div class=\"team17_image-wrapper\"><img width=\"250\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/693a53edf7b9715e7b7f58e3_james-a-iafrate-bio-photo.jpg\" class=\"team17_image\"></div><div class=\"team17_item-content\"><div class=\"margin-bottom margin-xsmall\"><div class=\"team17_title-wrapper\"><div class=\"heading-style-h5\">James A. Iafrate</div><div>Partner</div></div></div></div></div></a></div></div></div></div></div><div class=\"contact6_form-block w-form\"><form id=\"wf-form-logeman_Contact-Form\" class=\"contact6_form\"><div class=\"form_field-2col\"><div class=\"form_field-wrapper\"><label class=\"form_field-label\">First name</label><input class=\"form_input w-input\" type=\"text\" id=\"First-Name\"></div><div class=\"form_field-wrapper\"><label class=\"form_field-label\">Last name</label><input class=\"form_input w-input\" type=\"text\" id=\"Last-Name\"></div></div><div class=\"form_field-2col is-mobile-1col\"><div class=\"form_field-wrapper\"><label class=\"form_field-label\">Email</label><input class=\"form_input w-input\" type=\"email\" id=\"Email\"></div><div class=\"form_field-wrapper\"><label class=\"form_field-label\">Phone number</label><input class=\"form_input w-input\" type=\"tel\" id=\"Phone\"></div></div><div class=\"form_field-wrapper\"><label class=\"form_field-label\">What is your case about?</label><select id=\"Case-Type-Select\" class=\"form_input is-select-input w-select\"><option>Car Accident</option><option>Motorcycle Accident</option><option>Other Accident type</option></select></div><div class=\"padding-vertical padding-xsmall\"><div class=\"form_field-wrapper\"><div class=\"margin-bottom margin-xsmall\"><label class=\"form_field-label\">How would you describe yourself?</label></div><div class=\"w-layout-grid form_radio-2col\"><label class=\"form_radio w-radio\"><div class=\"w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-icon w-radio-input\"></div><input type=\"radio\" id=\"How-would-you\" style=\"opacity:0;position:absolute;z-index:-1\"><span class=\"form_radio-label w-form-label\">Injured person</span></label><label class=\"form_radio w-radio\"><div class=\"w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-icon w-radio-input\"></div><input type=\"radio\" id=\"Contact 6 Radio -6\" style=\"opacity:0;position:absolute;z-index:-1\"><span class=\"form_radio-label w-form-label\">Family member</span></label><label class=\"form_radio w-radio\"><div class=\"w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-icon w-radio-input\"></div><input type=\"radio\" id=\"Contact 6 Radio -5\" style=\"opacity:0;position:absolute;z-index:-1\"><span class=\"form_radio-label w-form-label\">Legal representative</span></label><label class=\"form_radio w-radio\"><div class=\"w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-icon w-radio-input\"></div><input type=\"radio\" id=\"Contact 6 Radio -4\" style=\"opacity:0;position:absolute;z-index:-1\"><span class=\"form_radio-label w-form-label\">Insurance company</span></label><label class=\"form_radio w-radio\"><div class=\"w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-icon w-radio-input\"></div><input type=\"radio\" id=\"Contact 6 Radio -2\" style=\"opacity:0;position:absolute;z-index:-1\"><span class=\"form_radio-label w-form-label\">Medical provider</span></label><label class=\"form_radio w-radio\"><div class=\"w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-icon w-radio-input\"></div><input type=\"radio\" id=\"Contact 6 Radio -3\" style=\"opacity:0;position:absolute;z-index:-1\"><span class=\"form_radio-label w-form-label\">Other</span></label></div></div></div><div class=\"form_field-wrapper\"><label class=\"form_field-label\">Message</label><textarea id=\"Contact-6-Message\" class=\"form_input is-text-area w-input\"></textarea></div><input type=\"submit\" id=\"w-node-f037bdf3-abaa-ca3a-7ac6-6a1f7b8038fb-7b803895\" class=\"button w-button\"><div><div><div><div src=\"https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/c3j5b/0x4AAAAAAAQTptj2So4dx43e/auto/fbE/new/normal?lang=auto\" id=\"cf-chl-widget-c3j5b\" style=\"border-width: medium; border-style: none; border-color: currentcolor; border-image: none; overflow: hidden; width: 1px; height: 1px; position: fixed; visibility: visible; opacity: 0.01; left: 0px; top: 0px; pointer-events: none; z-index: -1;\"><!DOCTYPE html><html><head><meta><meta><meta><meta><meta><title>Checking your Browser…</title></head><body><div class=\"main-wrapper .tOHY4 IdMJX3 KfMSd3\"><div id=\"dbrMC3\" style=\"display: flex;\"><div id=\"VjQXz6\" style=\"display: none;\"></div><div id=\"QgxXA2\" class=\"lbxF6\" style=\"display: none; visibility: hidden;\"><div class=\"zatxt5\"><svg id=\"lUQIR0\" viewBox=\"0 0 30 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\" class=\"EzNPF2\"><line x1=\"15\" x2=\"15\" y1=\"1.5\" y2=\"5.5\" class=\"reyQa9\"></line><line x1=\"24.5459\" x2=\"24.5459\" y1=\"5.45405\" y2=\"10.45405\" transform=\"rotate(45 24.5459 5.45405)\" class=\"reyQa9\"></line><line x1=\"28.5\" x2=\"28.5\" y1=\"15\" y2=\"20\" transform=\"rotate(90 28.5 15)\" class=\"reyQa9\"></line><line x1=\"24.5459\" x2=\"24.5459\" y1=\"24.546\" y2=\"29.546\" transform=\"rotate(135 24.5459 24.546)\" class=\"reyQa9\"></line><line x1=\"15\" x2=\"15\" y1=\"28.5\" y2=\"33.5\" transform=\"rotate(180 15 28.5)\" class=\"reyQa9\"></line><line x1=\"5.4541\" x2=\"5.4541\" y1=\"24.5459\" y2=\"29.5459\" transform=\"rotate(-135 5.4541 24.5459)\" class=\"reyQa9\"></line><line x1=\"1.5\" x2=\"1.5\" y1=\"15\" y2=\"20\" transform=\"rotate(-90 1.5 15)\" class=\"reyQa9\"></line><line x1=\"5.45408\" x2=\"5.45408\" y1=\"5.45404\" y2=\"10.45404\" transform=\"rotate(-45 5.45408 5.45404)\" class=\"reyQa9\"></line></svg></div><div id=\"hJqvk6\"><span id=\"okRIp2\">Verifying...</span><br><div id=\"nmalA3\" class=\"rgex5\" style=\"display: none;\"><span id=\"PNnP9\">Stuck?</span><a href=\"https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/c3j5b/0x4AAAAAAAQTptj2So4dx43e/auto/fbE/new/normal?lang=auto#refresh\" id=\"eVTbB3\">Troubleshoot</a></div></div></div><div id=\"puam6\" class=\"lbxF6\" style=\"display: grid; visibility: visible;\"><svg id=\"qYZn7\" viewBox=\"0 0 30 30\" style=\"display: none;\"><g><line x1=\"15\" x2=\"15\" y1=\"7.5\" y2=\"0\"></line><line x1=\"20.303\" x2=\"23.787\" y1=\"9.697\" y2=\"5.303\"></line><line x1=\"22.5\" x2=\"30\" y1=\"15\" y2=\"15\"></line><line x1=\"20.303\" x2=\"23.787\" y1=\"20.303\" y2=\"24.697\"></line><line x1=\"15\" x2=\"15\" y1=\"22.5\" y2=\"30\"></line><line x1=\"9.697\" x2=\"5.303\" y1=\"20.303\" y2=\"23.787\"></line><line x1=\"7.5\" x2=\"0\" y1=\"15\" y2=\"15\"></line><line x1=\"9.697\" x2=\"5.303\" y1=\"9.697\" y2=\"5.303\"></line></g></svg><svg id=\"aOAb3\" viewBox=\"0 0 52 52\" aria-hidden=\"true\" style=\"display: block; visibility: visible;\"><circle class=\"tGBx5\" cx=\"26\" cy=\"26\" r=\"25\"></circle><path class=\"sfTFU8\" d=\"m13,26l9.37,9l17.63,-18\"></path></svg><span id=\"dWUU3\">Success!</span></div><div id=\"LbPi7\" class=\"lbxF6\" style=\"display: none;\"><svg id=\"tnvb5\" viewBox=\"0 0 30 30\" aria-hidden=\"true\" fill=\"none\"><circle class=\"xNkZc1\" cx=\"15\" cy=\"15\" r=\"15\" fill=\"none\"></circle><path class=\"swsr0\" d=\"M15.9288 16.2308H13.4273L13.073 7H16.2832L15.9288 16.2308ZM14.6781 19.1636C15.1853 19.1636 15.5918 19.3129 15.8976 19.6117C16.2103 19.9105 16.3666 20.2927 16.3666 20.7583C16.3666 21.2169 16.2103 21.5956 15.8976 21.8944C15.5918 22.1932 15.1853 22.3425 14.6781 22.3425C14.1778 22.3425 13.7713 22.1932 13.4586 21.8944C13.1529 21.5956 13 21.2169 13 20.7583C13 20.2997 13.1529 19.921 13.4586 19.6222C13.7713 19.3164 14.1778 19.1636 14.6781 19.1636Z\"></path></svg><div id=\"LaZi1\" class=\"Ciyt8\"><p id=\"IdZD6\" class=\"rgex5\">Verification failed</p><a id=\"Azvms6\" class=\"MmzU8\" href=\"https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/c3j5b/0x4AAAAAAAQTptj2So4dx43e/auto/fbE/new/normal?lang=auto#refresh\">Troubleshoot</a></div></div><div id=\"TdEN0\" class=\"lbxF6\" style=\"display: none;\"><svg id=\"AUjS0\" viewBox=\"0 0 30 30\" aria-hidden=\"true\"><circle class=\"GnsoI0\" cx=\"15\" cy=\"15\" r=\"15\"></circle><path class=\"EyIEO1\" d=\"M15.3125 6H13V16.7184L19.2438 23.2108L20.9088 21.6094L15.3125 15.7877V6Z\"></path></svg><div id=\"pVanu9\"><p id=\"lgnj4\" class=\"rgex5\">Verification expired</p><a href=\"https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/c3j5b/0x4AAAAAAAQTptj2So4dx43e/auto/fbE/new/normal?lang=auto#refresh\" id=\"Ymxz5\">Refresh</a></div></div><div id=\"hzXAJ6\" class=\"lbxF6\" style=\"display: none;\"><svg id=\"wYNE5\" viewBox=\"0 0 30 30\" aria-hidden=\"true\"><circle class=\"teOAA0\" cx=\"15\" cy=\"15\" r=\"15\"></circle><path class=\"Njfz1\" d=\"M15.3125 6H13V16.7184L19.2438 23.2108L20.9088 21.6094L15.3125 15.7877V6Z\"></path></svg><div id=\"MWKB3\"><p id=\"VXJb6\" class=\"rgex5\">Verification expired</p><a href=\"https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/c3j5b/0x4AAAAAAAQTptj2So4dx43e/auto/fbE/new/normal?lang=auto#refresh\" id=\"UnJfV6\">Refresh</a></div></div><div id=\"UQMrN3\" class=\"lbxF6 GRWMD6\" style=\"display: none;\"><svg id=\"YVMh3\" viewBox=\"0 0 30 30\" aria-hidden=\"true\" fill=\"none\"><circle class=\"xNkZc1\" cx=\"15\" cy=\"15\" r=\"15\" fill=\"none\"></circle><path class=\"swsr0\" d=\"M15.9288 16.2308H13.4273L13.073 7H16.2832L15.9288 16.2308ZM14.6781 19.1636C15.1853 19.1636 15.5918 19.3129 15.8976 19.6117C16.2103 19.9105 16.3666 20.2927 16.3666 20.7583C16.3666 21.2169 16.2103 21.5956 15.8976 21.8944C15.5918 22.1932 15.1853 22.3425 14.6781 22.3425C14.1778 22.3425 13.7713 22.1932 13.4586 21.8944C13.1529 21.5956 13 21.2169 13 20.7583C13 20.2997 13.1529 19.921 13.4586 19.6222C13.7713 19.3164 14.1778 19.1636 14.6781 19.1636Z\"></path></svg><div id=\"OpfBi2\" class=\"Ciyt8\"><p id=\"challenge-error-text\" class=\"rgex5\"></p><a id=\"mrjAg2\" class=\"MmzU8\" href=\"https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/turnstile/f/av0/rch/c3j5b/0x4AAAAAAAQTptj2So4dx43e/auto/fbE/new/normal?lang=auto#refresh\">Troubleshoot</a></div></div><div id=\"jQwm2\"><a class=\"PUqEu2\" id=\"vYix3\" href=\"https://www.cloudflare.com/products/turnstile/?utm_source=turnstile&amp;utm_campaign=widget\"><svg role=\"img\" aria-label=\"Cloudflare\" id=\"HSsx1\" viewBox=\"0 0 73 25\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M61.8848 15.7841L62.0632 15.1578C62.2758 14.4126 62.1967 13.7239 61.8401 13.2178C61.5118 12.7517 60.9649 12.4773 60.3007 12.4453L47.7201 12.2836C47.6811 12.2829 47.6428 12.2728 47.6083 12.2542C47.5738 12.2356 47.5442 12.209 47.5217 12.1766C47.4996 12.1431 47.4856 12.1049 47.4807 12.0649C47.4758 12.025 47.4801 11.9844 47.4933 11.9465C47.5149 11.8839 47.5541 11.8291 47.6061 11.7888C47.658 11.7486 47.7204 11.7247 47.7856 11.72L60.4827 11.5566C61.9889 11.4864 63.6196 10.2462 64.1905 8.73372L64.9146 6.81361C64.9443 6.73242 64.951 6.64444 64.9341 6.55957C64.112 2.80652 60.8115 0 56.8652 0C53.2293 0 50.1421 2.38158 49.0347 5.69186C48.2864 5.12186 47.3535 4.85982 46.4228 4.95823C44.6785 5.13401 43.276 6.55928 43.1034 8.32979C43.059 8.77189 43.0915 9.21845 43.1992 9.64918C40.3497 9.73347 38.0645 12.1027 38.0645 15.0151C38.0649 15.2751 38.0838 15.5347 38.1212 15.7919C38.1294 15.8513 38.1584 15.9057 38.2029 15.9452C38.2474 15.9847 38.3044 16.0067 38.3635 16.0071L61.5894 16.0099C61.5916 16.0101 61.5938 16.0101 61.596 16.0099C61.6616 16.0088 61.7252 15.9862 61.7772 15.9455C61.8293 15.9049 61.867 15.8483 61.8848 15.7841Z\" fill=\"#F6821F\"></path><path d=\"M66.0758 6.95285C65.9592 6.95285 65.843 6.95582 65.7274 6.96177C65.7087 6.96312 65.6904 6.96719 65.6729 6.97385C65.6426 6.98437 65.6152 7.00219 65.5931 7.02579C65.5711 7.04939 65.555 7.07806 65.5462 7.10936L65.0515 8.84333C64.8389 9.58847 64.918 10.2766 65.2749 10.7827C65.6029 11.2494 66.1498 11.5233 66.814 11.5552L69.4959 11.7186C69.5336 11.7199 69.5705 11.73 69.6037 11.7483C69.6369 11.7666 69.6654 11.7925 69.687 11.8239C69.7092 11.8576 69.7234 11.896 69.7283 11.9363C69.7332 11.9765 69.7288 12.0173 69.7153 12.0555C69.6937 12.118 69.6546 12.1727 69.6028 12.2129C69.5509 12.2531 69.4887 12.2771 69.4236 12.2819L66.6371 12.4453C65.1241 12.5161 63.4937 13.7558 62.9233 15.2682L62.722 15.8022C62.7136 15.8245 62.7105 15.8486 62.713 15.8724C62.7155 15.8961 62.7236 15.9189 62.7365 15.9389C62.7495 15.9589 62.7669 15.9755 62.7874 15.9873C62.8079 15.9991 62.8309 16.0058 62.8544 16.0068C62.8569 16.0068 62.8592 16.0068 62.8618 16.0068H72.4502C72.506 16.0073 72.5604 15.9893 72.6051 15.9554C72.6498 15.9216 72.6823 15.8739 72.6977 15.8195C72.8677 15.2043 72.9535 14.5684 72.9529 13.9296C72.9517 10.0767 69.8732 6.95285 66.0758 6.95285Z\" fill=\"#FBAD41\"></path><path d=\"M8.11963 18.8904H9.75541V23.4254H12.6139V24.8798H8.11963V18.8904Z\" class=\"ZDPi3\"></path><path d=\"M14.3081 21.9023V21.8853C14.3081 20.1655 15.674 18.7704 17.4952 18.7704C19.3164 18.7704 20.6653 20.1482 20.6653 21.8681V21.8853C20.6653 23.6052 19.2991 24.9994 17.4785 24.9994C15.6578 24.9994 14.3081 23.6222 14.3081 21.9023ZM18.9958 21.9023V21.8853C18.9958 21.0222 18.3806 20.2679 17.4785 20.2679C16.5846 20.2679 15.9858 21.0038 15.9858 21.8681V21.8853C15.9858 22.7484 16.6013 23.5025 17.4952 23.5025C18.3973 23.5025 18.9958 22.7666 18.9958 21.9023Z\" class=\"ZDPi3\"></path><path d=\"M22.6674 22.253V18.8901H24.3284V22.2191C24.3284 23.0822 24.7584 23.4939 25.4159 23.4939C26.0733 23.4939 26.5034 23.1003 26.5034 22.2617V18.8901H28.1647V22.2093C28.1647 24.1432 27.0772 24.9899 25.3991 24.9899C23.7211 24.9899 22.6674 24.1268 22.6674 22.2522\" class=\"ZDPi3\"></path><path d=\"M30.668 18.8907H32.9445C35.0526 18.8907 36.275 20.1226 36.275 21.8508V21.8684C36.275 23.5963 35.0355 24.88 32.911 24.88H30.668V18.8907ZM32.97 23.4076C33.9483 23.4076 34.597 22.8609 34.597 21.8928V21.8759C34.597 20.9178 33.9483 20.3614 32.97 20.3614H32.3038V23.4082L32.97 23.4076Z\" class=\"ZDPi3\"></path><path d=\"M38.6525 18.8904H43.3738V20.3453H40.2883V21.3632H43.079V22.7407H40.2883V24.8798H38.6525V18.8904Z\" class=\"ZDPi3\"></path><path d=\"M45.65 18.8904H47.2858V23.4254H50.1443V24.8798H45.65V18.8904Z\" class=\"ZDPi3\"></path><path d=\"M54.4187 18.8475H55.9949L58.5079 24.8797H56.7541L56.3238 23.8101H54.047L53.6257 24.8797H51.9058L54.4187 18.8475ZM55.8518 22.5183L55.1941 20.8154L54.5278 22.5183H55.8518Z\" class=\"ZDPi3\"></path><path d=\"M60.6149 18.8901H63.4056C64.3083 18.8901 64.9317 19.13 65.328 19.5406C65.6742 19.883 65.8511 20.3462 65.8511 20.9357V20.9526C65.8511 21.8678 65.3691 22.4754 64.6369 22.7919L66.045 24.88H64.1558L62.9671 23.0658H62.2507V24.88H60.6149V18.8901ZM63.3299 21.7654C63.8864 21.7654 64.2071 21.4915 64.2071 21.0551V21.0381C64.2071 20.5674 63.8697 20.328 63.3211 20.328H62.2507V21.7665L63.3299 21.7654Z\" class=\"ZDPi3\"></path> <!-- truncated -->",
+    "elementStyles": [
+      {
+        "tag": "div",
+        "cls": "padding-global",
+        "text": "Schedule a Free Case Review wi",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgb(250, 250, 247)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "img",
+        "cls": "layout145_image",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h3",
+        "text": "Schedule a Free Case Review wi",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "26px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "a",
+        "cls": "w-inline-block",
+        "text": "Adrienne D. LogemanPartner",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "img",
+        "cls": "team17_image",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "w-inline-block",
+        "text": "James A. IafratePartner",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "contact6_form-block",
+        "text": "First nameLast nameEmailPhone ",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgba(229, 236, 246, 0.54)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "input",
+        "cls": "form_input",
+        "color": "rgb(2, 6, 4)",
+        "border": "1px solid rgba(2, 6, 4, 0.15)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "select",
+        "cls": "form_input",
+        "text": "Car AccidentMotorcycle Acciden",
+        "color": "rgb(2, 6, 4)",
+        "border": "1px solid rgba(2, 6, 4, 0.15)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "w-form-formradioinput",
+        "color": "rgb(2, 6, 4)",
+        "border": "1px solid rgba(2, 6, 4, 0.15)",
+        "borderRadius": "100px",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "textarea",
+        "cls": "form_input",
+        "color": "rgb(2, 6, 4)",
+        "border": "1px solid rgba(2, 6, 4, 0.15)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "input",
+        "cls": "button",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 74, 173)",
+        "border": "1px solid rgb(0, 74, 173)",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      },
+      {
+        "tag": "div",
+        "cls": "form_message-success",
+        "text": "Thank you. We will be in touch",
+        "color": "rgb(2, 122, 72)",
+        "backgroundColor": "rgb(236, 253, 243)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "form_message-error",
+        "text": "Something went wrong. Please t",
+        "color": "rgb(180, 35, 24)",
+        "backgroundColor": "rgb(254, 243, 242)",
+        "fontSize": "16px"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "heading": "Frequently Asked Questions",
+    "html": "<section class=\"section_faq4 color-scheme-3\"><div class=\"padding-global\"><div class=\"container-large\"><div class=\"padding-section-large\"><div class=\"faq4_component\"><div class=\"margin-bottom margin-small\"><h2 class=\"heading-style-h2\">Frequently Asked Questions</h2></div><div class=\"margin-bottom margin-medium\"><p class=\"text-size-medium\">Find answers to what matters most about your case and how we work.</p></div><div class=\"w-layout-grid faq4_list\"><div class=\"faq4_accordion\"><div class=\"faq-general_question\"><div class=\"text-size-medium\">How does contingency work?</div><div class=\"faq4_icon-wrappper\"><div class=\"icon-embed-small w-embed\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M25.3333 15.667V16.3336C25.3333 16.7018 25.0349 17.0003 24.6667 17.0003H17V24.667C17 25.0351 16.7015 25.3336 16.3333 25.3336H15.6667C15.2985 25.3336 15 25.0351 15 24.667V17.0003H7.3333C6.96511 17.0003 6.66663 16.7018 6.66663 16.3336V15.667C6.66663 15.2988 6.96511 15.0003 7.3333 15.0003H15V7.33365C15 6.96546 15.2985 6.66699 15.6667 6.66699H16.3333C16.7015 6.66699 17 6.96546 17 7.33365V15.0003H24.6667C25.0349 15.0003 25.3333 15.2988 25.3333 15.667Z\" fill=\"currentColor\"></path> </svg></div></div></div><div class=\"faq4_answer\" style=\"width: 100%; height: 0px;\"><div class=\"margin-bottom margin-small\"><p>You pay nothing upfront and nothing if we lose. We only collect a fee from the settlement or judgment we win for you. This means our interests are aligned with yours from day one.</p></div></div></div><div class=\"faq4_accordion\"><div class=\"faq-general_question\"><div class=\"text-size-medium\">What cases do you take?</div><div class=\"faq4_icon-wrappper\"><div class=\"icon-embed-small w-embed\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M25.3333 15.667V16.3336C25.3333 16.7018 25.0349 17.0003 24.6667 17.0003H17V24.667C17 25.0351 16.7015 25.3336 16.3333 25.3336H15.6667C15.2985 25.3336 15 25.0351 15 24.667V17.0003H7.3333C6.96511 17.0003 6.66663 16.7018 6.66663 16.3336V15.667C6.66663 15.2988 6.96511 15.0003 7.3333 15.0003H15V7.33365C15 6.96546 15.2985 6.66699 15.6667 6.66699H16.3333C16.7015 6.66699 17 6.96546 17 7.33365V15.0003H24.6667C25.0349 15.0003 25.3333 15.2988 25.3333 15.667Z\" fill=\"currentColor\"></path> </svg></div></div></div><div class=\"faq4_answer\" style=\"width: 100%; height: 0px;\"><div class=\"margin-bottom margin-small\"><p>We handle personal injury and wrongful death cases across Michigan. If you've been harmed by someone else's negligence, we want to hear from you. We take on cases others won't.</p></div></div></div><div class=\"faq4_accordion\"><div class=\"faq-general_question\"><div class=\"text-size-medium\">How long does this take?</div><div class=\"faq4_icon-wrappper\"><div class=\"icon-embed-small w-embed\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M25.3333 15.667V16.3336C25.3333 16.7018 25.0349 17.0003 24.6667 17.0003H17V24.667C17 25.0351 16.7015 25.3336 16.3333 25.3336H15.6667C15.2985 25.3336 15 25.0351 15 24.667V17.0003H7.3333C6.96511 17.0003 6.66663 16.7018 6.66663 16.3336V15.667C6.66663 15.2988 6.96511 15.0003 7.3333 15.0003H15V7.33365C15 6.96546 15.2985 6.66699 15.6667 6.66699H16.3333C16.7015 6.66699 17 6.96546 17 7.33365V15.0003H24.6667C25.0349 15.0003 25.3333 15.2988 25.3333 15.667Z\" fill=\"currentColor\"></path> </svg></div></div></div><div class=\"faq4_answer\" style=\"width: 100%; height: 0px;\"><div class=\"margin-bottom margin-small\"><p>Every case is different. Some settle quickly, others require trial. We'll be honest about the timeline and keep you informed every step of the way.</p></div></div></div><div class=\"faq4_accordion\"><div class=\"faq-general_question\"><div class=\"text-size-medium\">Will my case go to trial?</div><div class=\"faq4_icon-wrappper\"><div class=\"icon-embed-small w-embed\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M25.3333 15.667V16.3336C25.3333 16.7018 25.0349 17.0003 24.6667 17.0003H17V24.667C17 25.0351 16.7015 25.3336 16.3333 25.3336H15.6667C15.2985 25.3336 15 25.0351 15 24.667V17.0003H7.3333C6.96511 17.0003 6.66663 16.7018 6.66663 16.3336V15.667C6.66663 15.2988 6.96511 15.0003 7.3333 15.0003H15V7.33365C15 6.96546 15.2985 6.66699 15.6667 6.66699H16.3333C16.7015 6.66699 17 6.96546 17 7.33365V15.0003H24.6667C25.0349 15.0003 25.3333 15.2988 25.3333 15.667Z\" fill=\"currentColor\"></path> </svg></div></div></div><div class=\"faq4_answer\" style=\"width: 100%; height: 0px;\"><div class=\"margin-bottom margin-small\"><p>We're prepared to go to trial if needed to get you the compensation you deserve. Many cases settle, but we never back down from a fight.</p></div></div></div><div class=\"faq4_accordion\"><div class=\"faq-general_question\"><div class=\"text-size-medium\">What should I do now?</div><div class=\"faq4_icon-wrappper\"><div class=\"icon-embed-small w-embed\"><svg width=\"100%\" height=\"100%\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M25.3333 15.667V16.3336C25.3333 16.7018 25.0349 17.0003 24.6667 17.0003H17V24.667C17 25.0351 16.7015 25.3336 16.3333 25.3336H15.6667C15.2985 25.3336 15 25.0351 15 24.667V17.0003H7.3333C6.96511 17.0003 6.66663 16.7018 6.66663 16.3336V15.667C6.66663 15.2988 6.96511 15.0003 7.3333 15.0003H15V7.33365C15 6.96546 15.2985 6.66699 15.6667 6.66699H16.3333C16.7015 6.66699 17 6.96546 17 7.33365V15.0003H24.6667C25.0349 15.0003 25.3333 15.2988 25.3333 15.667Z\" fill=\"currentColor\"></path> </svg></div></div></div><div class=\"faq4_answer\" style=\"width: 100%; height: 0px;\"><div class=\"margin-bottom margin-small\"><p>Call us for a free consultation. Bring any documents you have about your accident or injury. We'll listen, ask questions, and tell you honestly what we think about your case.</p></div></div></div></div><div class=\"max-width-large align-center\"></div><div class=\"margin-top margin-xxlarge\"><div class=\"text-align-center\"><div class=\"max-width-medium align-center\"><div class=\"margin-bottom margin-xsmall\"><h3 class=\"heading-style-h4 text-align-center\">Need more help?</h3></div><p class=\"text-size-medium\">Reach out and we'll answer anything else you need to know.</p><div class=\"margin-top margin-medium\"><div class=\"button-group is-center\"><a href=\"https://www.logeman.com/#free-consultation\" class=\"button w-button\">Schedule a Free Consultation</a></div></div></div></div></div></div></div></div></div></section>",
+    "elementStyles": [
+      {
+        "tag": "h2",
+        "cls": "heading-style-h2",
+        "text": "Frequently Asked Questions",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "36px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "div",
+        "cls": "faq4_accordion",
+        "text": "How does contingency work?\n\nYo",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgb(229, 236, 246)",
+        "borderRadius": "12px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "svg",
+        "color": "rgb(0, 74, 173)",
+        "fill": "rgb(0, 74, 173)",
+        "width": 32,
+        "height": 32,
+        "viewBox": "0 0 32 32",
+        "fontSize": "16px",
+        "fontWeight": "600"
+      },
+      {
+        "tag": "div",
+        "cls": "faq4_accordion",
+        "text": "What cases do you take?\n\nWe ha",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgb(229, 236, 246)",
+        "borderRadius": "12px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "faq4_accordion",
+        "text": "How long does this take?\n\nEver",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgb(229, 236, 246)",
+        "borderRadius": "12px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "faq4_accordion",
+        "text": "Will my case go to trial?\n\nWe'",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgb(229, 236, 246)",
+        "borderRadius": "12px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "div",
+        "cls": "faq4_accordion",
+        "text": "What should I do now?\n\nCall us",
+        "color": "rgb(2, 6, 4)",
+        "backgroundColor": "rgb(229, 236, 246)",
+        "borderRadius": "12px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h4",
+        "text": "Need more help?",
+        "color": "rgb(2, 6, 4)",
+        "fontSize": "22px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "a",
+        "cls": "button",
+        "text": "Schedule a Free Consultation",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 74, 173)",
+        "border": "1px solid rgb(0, 74, 173)",
+        "fontSize": "16px",
+        "fontWeight": "500"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "html": "<section class=\"section_gmap color-scheme-5\"><div class=\"w-embed w-iframe\"><div src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2953.5880601682097!2d-83.7405216!3d42.2446129!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883cafbf8ff9d311%3A0xf9fba0d4da3f17e4!2sLogeman%20%26%20Iafrate%2C%20P.C.!5e0!3m2!1sen!2sus!4v1765284520020!5m2!1sen!2sus\" width=\"100%\" height=\"450\" style=\"border:0;\"><!DOCTYPE html><html><head><meta> </head> <body style=\"overflow: hidden; background-color: grey;\"> <embed-place-card-element> <div class=\"place-details-compact-container\"> <gmp-place-details-compact style=\"color-scheme: light; width: 290px;\"> <div class=\"outer-container\"> <div class=\"container place-compact horizontal\"> <section class=\"basic-info\"> <gmp-internal-place-basic-info> <div class=\"section font-size--small\"> <div class=\"upper-rows\"> <div class=\"row\"> <div class=\"name-row\"> <span class=\"title medium\">Logeman &amp; Iafrate, P.C.</span> </div> </div><div class=\"row\"><span class=\"address\">2950 S State St Ste 400, Ann Arbor, MI 48104</span></div> </div> <div class=\"lower-rows\"> <div class=\"row\"><gmp-internal-place-rating-summary> <div class=\"container\"> <span class=\"rating\"> <span>4.9</span> <gmp-internal-rating> <div class=\"icons single-star\"> <svg class=\"star-filled\" viewBox=\"0 0 12 12\" version=\"1\" xmlns=\"http://www.w3.org/2000/svg\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" fill=\"currentColor\" d=\"M6.00002 9.23652L2.91908 11.4787C2.78946 11.573 2.62246 11.5995 2.47003 11.5499C2.20746 11.4643 2.06393 11.1822 2.14945 10.9196L3.32835 7.29985L0.275172 5.12724C0.143349 5.03343 0.0650635 4.88164 0.0650635 4.71985C0.0650635 4.44371 0.288921 4.21985 0.565063 4.21985H4.30835L5.52412 0.446794C5.57347 0.293635 5.69351 0.173588 5.84667 0.124237C6.10951 0.0395456 6.39123 0.183959 6.47592 0.446794L7.69169 4.21985H11.435C11.5968 4.21985 11.7486 4.29814 11.8424 4.42996C12.0025 4.65495 11.9499 4.96713 11.7249 5.12724L8.67169 7.29985L9.8506 10.9196C9.90024 11.072 9.87378 11.239 9.77945 11.3687C9.61696 11.5919 9.30423 11.6412 9.08096 11.4787L6.00002 9.23652Z\"></path> </svg> </div> </gmp-internal-rating> </span> <span><span>(</span><a href=\"https://maps.google.com/?cid=18013167970653509604&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&amp;hl=en&amp;gl=US&amp;source=embed\">40</a><span>)</span></span> <div class=\"info-button-container\"> <button class=\"info-button\"> <div class=\"tap-area\"></div> <div class=\"info-icon-container\"><svg aria-hidden=\"true\" class=\"info-icon\" viewBox=\"0 -960 960 960\"><path d=\"M440-280h80v-240h-80zm40-320q17 0 28.5-11.5T520-640t-11.5-28.5T480-680t-28.5 11.5T440-640t11.5 28.5T480-600m0 520q-83 0-156-31.5T197-197t-85.5-127T80-480t31.5-156T197-763t127-85.5T480-880t156 31.5T763-763t85.5 127T880-480t-31.5 156T763-197t-127 85.5T480-80m0-80q134 0 227-93t93-227-93-227-227-93-227 93-93 227 93 227 227 93m0-320\" fill=\"light-dark(#5e5e5e, #fff)\"></path></svg></div> </button> <div id=\"disclosure-popover\" class=\"disclosure-container\"> <div class=\"disclosure-arrow-top disclosure-arrow-top-outer\"></div> <div class=\"disclosure-arrow-top disclosure-arrow-top-inner\"></div> <div class=\"disclosure-content\"> Reviews aren't verified by Google, but Google checks for and removes fake content when it's identified. <div class=\"disclosure-bottom\"> <a href=\"https://support.google.com/contributionpolicy/answer/7422880\">Learn more</a> </div> </div> </div> </div> </div> </gmp-internal-place-rating-summary></div> </div> </div> </gmp-internal-place-basic-info> <div class=\"actions-main\"> <gmp-internal-link-button class=\"open-in-maps-button condensed\"> <a href=\"https://maps.google.com/?cid=18013167970653509604&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&amp;hl=en&amp;gl=US&amp;source=embed\"> <div class=\"tap-area\"></div> <div class=\"link-button-container\"> <span class=\"link-text\"><slot></slot></span> <svg fill=\"currentColor\" aria-hidden=\"true\" viewBox=\"0 -960 960 960\"><path d=\"M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120zm188-212-56-56 372-372H560v-80h280v280h-80v-144z\"></path></svg> </div> </a> Maps </gmp-internal-link-button> </div> </section> <gmp-internal-link-button class=\"icon-only open-in-maps-button minimal\"> <a href=\"https://maps.google.com/?cid=18013167970653509604&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&amp;hl=en&amp;gl=US&amp;source=embed\"> <div class=\"tap-area\"></div> <div class=\"link-button-container\"> <span class=\"link-text\"><slot></slot></span> <svg fill=\"currentColor\" aria-hidden=\"true\" viewBox=\"0 -960 960 960\"><path d=\"M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120zm188-212-56-56 372-372H560v-80h280v280h-80v-144z\"></path></svg> </div> </a> </gmp-internal-link-button> </div> </div> <gmp-place-details-place-request> </gmp-place-details-place-request> <gmp-place-content-config> <gmp-place-rating></gmp-place-rating> <gmp-place-address></gmp-place-address> </gmp-place-content-config> </gmp-place-details-compact> <div class=\"directions-button-container\"> <a href=\"https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x883cafbf8ff9d311:0xf9fba0d4da3f17e4!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF\"> <div class=\"tap-area\"></div> <div class=\"directions-icon-container\"> <div class=\"directions-icon\"><svg class=\"VGloHcdirections-icon\" viewBox=\"0 0 15 15\"><path fill=\"currentColor\" d=\"M6.97.22a.747.747 0 011.057 0l6.75 6.75c.292.3.292.772 0 1.057l-6.75 6.75a.747.747 0 01-1.058 0L.22 8.027a.747.747 0 010-1.058zm2.025 5.782h-3.75a.75.75 0 00-.75.75v3h1.5v-2.25h3v1.875l2.625-2.625-2.625-2.625z\"></path></svg></div> </div> </a> </div> </div> </embed-place-card-element><div id=\"mapDiv\" style=\"position: relative; overflow: hidden;\"><div style=\"height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);\"><div><button type=\"button\" style=\"background: none transparent; display: block; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: 0px; padding: 0px; text-transform: none; appearance: none; position: absolute; cursor: pointer; user-select: none; z-index: 1000002; outline-offset: 3px; right: 0px; bottom: 0px; transform: translateX(100%);\"></button></div><div style=\"position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px;\"><div id=\"0603E438-C3FE-4732-928A-A140D9DEE714\" style=\"display: none;\"><div class=\"LGLeeN-keyboard-shortcuts-view\"><table><tbody><tr><td><kbd>←</kbd></td><td>Move left</td></tr><tr><td><kbd>→</kbd></td><td>Move right</td></tr><tr><td><kbd>↑</kbd></td><td>Move up</td></tr><tr><td><kbd>↓</kbd></td><td>Move down</td></tr><tr><td><kbd>+</kbd></td><td>Zoom in</td></tr><tr><td><kbd>-</kbd></td><td>Zoom out</td></tr><tr><td><kbd>Home</kbd></td><td>Jump left by 75%</td></tr><tr><td><kbd>End</kbd></td><td>Jump right by 75%</td></tr><tr><td><kbd>Page Up</kbd></td><td>Jump up by 75%</td></tr><tr><td><kbd>Page Down</kbd></td><td>Jump down by 75%</td></tr></tbody></table></div></div></div><div class=\"gm-style\" style=\"position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;\"><div style=\"position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default; touch-action: pan-x pan-y;\"><div style=\"z-index: 1; position: absolute; left: 50%; top: 50%; width: 100%; will-change: transform; transform: translate(0px, 0px);\"><div style=\"position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;\"><div style=\"position: absolute; left: 0px; top: 0px; z-index: 0;\"><div style=\"position: absolute; z-index: 984; transform: matrix(1, 0, 0, 1, -129, -11);\"><div style=\"position: absolute; left: 0px; top: 0px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: -256px; top: 0px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: -256px; top: -256px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: 0px; top: -256px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: 256px; top: -256px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: 256px; top: 0px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: -512px; top: 0px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: -512px; top: -256px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: 512px; top: -256px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: 512px; top: 0px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: -768px; top: 0px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: -768px; top: -256px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: 768px; top: -256px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: 768px; top: 0px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: -1024px; top: 0px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: -1024px; top: -256px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: 1024px; top: -256px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div><div style=\"position: absolute; left: 1024px; top: 0px; width: 256px; height: 256px;\"><div style=\"width: 256px; height: 256px;\"></div></div></div></div></div><div style=\"position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;\"></div><div style=\"position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;\"></div><div style=\"position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;\"></div><div style=\"position: absolute; left: 0px; top: 0px; z-index: 0;\"><div style=\"position: absolute; z-index: 984; transform: matrix(1, 0, 0, 1, -129, -11);\"><div style=\"position: absolute; left: -1024px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear;\"><img alt src=\"https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i17519!3i24268!4i256!2m3!1e0!2sm!3i792558452!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9816914525049967377!2y18013167970653509604!2s%2Fg%2F11bbyh73kg!4m2!1x422446129!2x3457562080!15sgcid%3Apersonal_injury_lawyer!2b0!3b0!6b0!8b0&amp;key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;token=84220\" style=\"width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;\"></div><div style=\"position: absolute; left: -1024px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear;\"><img alt src=\"https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i17519!3i24267!4i256!2m3!1e0!2sm!3i792558452!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9816914525049967377!2y18013167970653509604!2s%2Fg%2F11bbyh73kg!4m2!1x422446129!2x3457562080!15sgcid%3Apersonal_injury_lawyer!2b0!3b0!6b0!8b0&amp;key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;token=87494\" style=\"width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;\"></div><div style=\"position: absolute; left: 512px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear;\"><img alt src=\"https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i17525!3i24268!4i256!2m3!1e0!2sm!3i792558452!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9816914525049967377!2y18013167970653509604!2s%2Fg%2F11bbyh73kg!4m2!1x422446129!2x3457562080!15sgcid%3Apersonal_injury_lawyer!2b0!3b0!6b0!8b0&amp;key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;token=69372\" style=\"width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;\"></div><div style=\"position: absolute; left: -768px; top: -256px; width: 256px; height: 256px; transition: opacity 200ms linear;\"><img alt src=\"https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i17520!3i24267!4i256!2m3!1e0!2sm!3i792558452!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9816914525049967377!2y18013167970653509604!2s%2Fg%2F11bbyh73kg!4m2!1x422446129!2x3457562080!15sgcid%3Apersonal_injury_lawyer!2b0!3b0!6b0!8b0&amp;key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;token=5064\" style=\"width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;\"></div><div style=\"position: absolute; left: -512px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear;\"><img alt src=\"https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i17521!3i24268!4i256!2m3!1e0!2sm!3i792558452!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9816914525049967377!2y18013167970653509604!2s%2Fg%2F11bbyh73kg!4m2!1x422446129!2x3457562080!15sgcid%3Apersonal_injury_lawyer!2b0!3b0!6b0!8b0&amp;key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;token=93949\" style=\"width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;\"></div><div style=\"position: absolute; left: 1024px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear;\"><img alt src=\"https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i17527!3i24268!4i256!2m3!1e0!2sm!3i792558452!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9816914525049967377!2y18013167970653509604!2s%2Fg%2F11bbyh73kg!4m2!1x422446129!2x3457562080!15sgcid%3Apersonal_injury_lawyer!2b0!3b0!6b0!8b0&amp;key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;token=122619\" style=\"width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;\"></div><div style=\"position: absolute; left: -256px; top: 0px; width: 256px; height: 256px; transition: opacity 200ms linear;\"><img alt src=\"https://www.google.com/maps/vt?pb=!1m5!1m4!1i16!2i17522!3i24268!4i256!2m3!1e0!2sm!3i792558452!2m3!1e2!2sspotlit!5i1!3m13!2sen!3sUS!5e289!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i47083502!27m15!299174093m14!14m13!1m8!1m2!1y9816914525049967377!2y18013167970653509604!2s%2Fg%2F11bbyh73kg!4m2!1x422446129!2x3457562080!15sgcid%3Apersonal_injury_lawyer!2b0!3b0!6b0!8b0&amp;key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;token=55037\" style=\"width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;\"></div> <!-- truncated -->"
+  },
+  {
+    "index": 8,
+    "heading": "Site footer (port into Footer.astro)",
+    "widgetTypes": [
+      "footer"
+    ],
+    "html": "<footer class=\"footer9_component color-scheme-6\"><div class=\"padding-global\"><div class=\"container-large\"><div class=\"padding-vertical padding-xxlarge footer\"><div class=\"w-layout-grid footer9_top-wrapper\"><div class=\"footer9_left-wrapper\"><div class=\"footer-logo-block margin-small\"><a href=\"https://www.logeman.com/\" class=\"footer9_logo-link w-nav-brand w--current\"><img width=\"158\" height=\"Auto\" alt src=\"https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6941b5137db35044271d8d7e_Logo3.png\" class=\"footer9_logo\"><div class=\"footer-contact\"><h3 class=\"footer_firm-name margin-small\">Logeman &amp;&nbsp;Iafrate, P.C.</h3><div class=\"text-block-4\">2950 S. State ST. STE&nbsp;400<br>Ann Arbor MI&nbsp;48104<br><strong>(734) 724-7991</strong></div></div></a></div><div class=\"margin-bottom margin-small\"><div class=\"footer_contact-info\"><div class=\"text-block-3\">We offer free injury case consultations. Call today to speak with a member of our legal team about your accident and injuries.</div><div class=\"text-block-3\"><a href=\"https://www.logeman.com/articles-posts\"><span class=\"text-span\">Read our recent personal injury articles here.</span></a></div></div></div></div><div class=\"w-layout-grid footer9_menu-wrapper\"><div class=\"footer9_link-column\"><div class=\"margin-bottom margin-xsmall\"><div class=\"text-weight-semibold\">Practice areas</div></div><div class=\"footer9_link-list w-dyn-list\"><div class=\"w-dyn-items\"><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/bicycle-accidents-in-ann-arbor-throughout-michigan\" class=\"footer9_link\">Bicycle Accidents</a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/car-accidents\" class=\"footer9_link\">Car Accidents</a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/motorcycle-accidents\" class=\"footer9_link\">Motorcycle Accidents</a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/truck-accidents\" class=\"footer9_link\">Truck Accidents</a></div></div></div><div class=\"footer9_link-list w-dyn-list\"><div class=\"w-dyn-items\"><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/personal-injury-lawsuits-involving-traumatic-brain-injury\" class=\"footer9_link\">Brain Injuries</a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/construction-accidents\" class=\"footer9_link\">Construction Accidents</a></div></div></div></div><div class=\"footer9_link-column\"><div class=\"margin-bottom margin-xsmall\"><div class=\"text-weight-semibold\">Practice Areas</div></div><div class=\"footer9_link-list w-dyn-list\"><div class=\"w-dyn-items\"><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/spinal-cord-injury\" class=\"footer9_link\">Spinal Cord Injury</a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/wrongful-death\" class=\"footer9_link\">Wrongful Death</a></div></div></div><div class=\"footer9_link-list w-dyn-list\"><div class=\"w-dyn-items\"><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/animal-bites-and-attacks\" class=\"footer9_link\">Dog Bites and Attacks</a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/personal-injury-cases-involving-electric-scooters-personal-injury-attorneys-ann-arbor\" class=\"footer9_link\">Electric Scooter Accidents</a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/premises-liability-law-in-michigan\" class=\"footer9_link\">Premises Liability</a></div><div class=\"w-dyn-item\"><a href=\"https://www.logeman.com/practice-area/product-liability\" class=\"footer9_link\">Product Liability</a></div></div></div></div><div class=\"footer9_link-column\"><div class=\"margin-bottom margin-xsmall\"><div class=\"text-weight-semibold\">About us</div></div><div class=\"footer9_link-list\"><a href=\"https://www.logeman.com/attorney/james-a-iafrate\" class=\"footer9_link\">James A. Iafrate</a><a href=\"https://www.logeman.com/attorney/adrienne-d-logeman\" class=\"footer9_link\">Adrienne D. Logeman</a><a href=\"https://www.logeman.com/client-testimonials\" class=\"footer9_link\">Our Client Testimonials</a><a href=\"https://www.logeman.com/verdicts-and-settlements\" class=\"footer9_link\">Verdicts and Settlements</a><a href=\"https://www.logeman.com/#free-consultation\" class=\"footer9_link\">Book a Free Consultation</a></div></div></div></div><div class=\"padding-top padding-medium\"><div class=\"footer9_bottom-wrapper\"><div class=\"footer9_credit-text\">© 2025 Logeman &amp; Iafrate, P.C. All rights reserved.</div><div class=\"w-layout-grid footer9_legal-list\"><a href=\"https://www.logeman.com/attorney-disclaimer\" class=\"footer9_legal-link\">Attorney Disclaimer</a><a href=\"https://www.logeman.com/privacy-policy\" class=\"footer9_legal-link\">Our Privacy Policy</a></div></div></div></div></div></div></footer>",
+    "elementStyles": [
+      {
+        "tag": "div",
+        "cls": "w-layout-grid",
+        "text": "Logeman & Iafrate, P.C.2950 S.",
+        "color": "rgb(204, 208, 213)",
+        "backgroundColor": "rgb(1, 21, 48)",
+        "borderRadius": "12px",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_logo-link",
+        "text": "Logeman & Iafrate, P.C.2950 S.",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "img",
+        "cls": "footer9_logo",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "h3",
+        "cls": "footer_firm-name",
+        "text": "Logeman & Iafrate, P.C.",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "26px",
+        "fontWeight": "700"
+      },
+      {
+        "tag": "a",
+        "text": "Read our recent personal injur",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "16px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Bicycle Accidents",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Car Accidents",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Motorcycle Accidents",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Truck Accidents",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Brain Injuries",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Construction Accidents",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Spinal Cord Injury",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Wrongful Death",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Dog Bites and Attacks",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Electric Scooter Accidents",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Premises Liability",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Product Liability",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "James A. Iafrate",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Adrienne D. Logeman",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Our Client Testimonials",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Verdicts and Settlements",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_link",
+        "text": "Book a Free Consultation",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_legal-link",
+        "text": "Attorney Disclaimer",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "a",
+        "cls": "footer9_legal-link",
+        "text": "Our Privacy Policy",
+        "color": "rgb(204, 208, 213)",
+        "fontSize": "14px"
+      }
+    ]
+  }
+]

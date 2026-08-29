@@ -1,0 +1,78 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import ArticleStats from '@/components/articles/ArticleStats.astro';
+import FreeConsultationForm from '@/components/home/FreeConsultationForm.astro';
+import Testimonials from '@/components/home/Testimonials.astro';
+import LocationMap from '@/components/home/LocationMap.astro';
+
+const faqItems = [
+  {
+    question: "What should I do immediately after an electric scooter accident?",
+    answer: "First, seek medical attention even if injuries seem minor. Document the scene with photos, gather witness information, and report the accident to local authorities. Contact a personal injury attorney as soon as possible to protect your rights and preserve evidence."
+  },
+  {
+    question: "Who can be held liable for an electric scooter accident?",
+    answer: "Liability may fall on several parties including: the scooter rental company (Bird, Lime, etc.) for equipment defects or inadequate maintenance, another driver if a vehicle was involved, the city for poor road conditions, or other negligent parties. An experienced attorney can investigate to determine all responsible parties."
+  },
+  {
+    question: "Do I need to wear a helmet when riding an electric scooter in Michigan?",
+    answer: "While Michigan law does not currently require helmets for electric scooter riders over 18, wearing one is strongly recommended. Helmets significantly reduce the risk of traumatic brain injuries. However, not wearing a helmet does not automatically prevent you from recovering compensation if injured."
+  },
+  {
+    question: "Can I recover compensation if I was partially at fault for my scooter accident?",
+    answer: "Michigan follows a modified comparative negligence rule. You can still recover damages if you were less than 50% at fault, though your compensation will be reduced by your percentage of fault. An attorney can help establish liability and maximize your recovery."
+  },
+  {
+    question: "What types of compensation can I receive for a scooter injury?",
+    answer: "You may be entitled to compensation for medical expenses, lost wages, pain and suffering, permanent disability, rehabilitation costs, and property damage. Michigan's no-fault insurance may also provide benefits regardless of fault. Contact our firm for a free case evaluation."
+  }
+];
+---
+<BaseLayout
+  title="Electric Scooter Injury Lawyer Ann Arbor | Personal Injury Attorney"
+  description="Injured in an electric scooter accident in Ann Arbor? Our experienced personal injury attorneys help victims recover compensation for scooter-related injuries. Free consultation. 45+ years experience."
+>
+  <ArticleContent title="Personal Injury Cases Involving Electric Scooters">
+    <p>Electric scooters have become very popular in Michigan. A walk in downtown Ann Arbor or any other city will make it quite apparent that scooters are everywhere. Bird Scooters showed up on Ann Arbor streets in the Fall of 2018. Rentable scooters are frequently operated by inexperienced riders. Anyone who is 18 years old can download the app, put in a credit card number and be on their way in minutes. No prior experience or training is necessary. Worse yet, people who rent scooters normally want to get somewhere fast, which can lead to reckless behavior.</p>
+
+    <p>Unfortunately, emergency rooms have reported an increasing rise in injuries including broken bones, brain injuries and deaths from scooter accidents. The majority of injuries occur when the rider falls off the scooter or loses control and strikes another object. Few scooter operators wear helmets – less than 10% of reported accidents.</p>
+
+    <h2>The Most Common Scooter Accidents</h2>
+    <ul>
+      <li>Losing control of the scooter</li>
+      <li>Falling from the scooter</li>
+      <li>Hitting a crack or pothole</li>
+      <li>Being struck by a vehicle</li>
+      <li>Colliding with cyclists or pedestrians</li>
+    </ul>
+
+    <h2>Electric Scooters are Largely Unregulated</h2>
+    <p>Pursuant to the Michigan motor vehicle code, motorized scooters may not be operated in bike lanes, but they may be operated on the road closest to the right curb lane. Local ordinances state that it is unlawful to operate these scooters on sidewalks. Electric scooters seem to fall in a gray area of the law, and local governments are still attempting to determine the best way to regulate them through local ordinances. Regulations are needed to ensure public safety for operators and pedestrians.</p>
+
+    <h2>Scooter Safety Tips</h2>
+    <ul>
+      <li>Wear a helmet, which can reduce the risk of head injuries</li>
+      <li>Avoid distractions like texting or talking on the phone</li>
+      <li>Stay alert to pedestrians and vehicles around you</li>
+      <li>Never ride while intoxicated</li>
+      <li>When riding at night, use a safety light</li>
+    </ul>
+
+    <h2>How a Lawyer Can Help After You Suffer a Scooter Injury</h2>
+    <p>If you suffered an injury involving a scooter, we recommend contacting our personal injury lawyers. It is important to find out who is at fault for the crash as soon as possible. When another person is at fault, or if you were on a defective scooter, then you may be able to pursue compensation from either the company or the at-fault party.</p>
+
+    <p>Logeman &amp; Iafrate, P.C. has over 45 years' experience in <a href="/personal-injury-overview/">Personal Injury Law</a> and has helped countless clients throughout Michigan recover the losses and benefits they need and deserve. Our commitment to service is absolute and we welcome the opportunity to fight for your rights. Please feel free to contact the firm at any time for advice or for help with your <a href="/practice-area/michigan-no-fault-insurance-claims/">personal injury claim</a>.</p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <ArticleStats />
+
+  <FreeConsultationForm />
+
+  <Testimonials />
+
+  <LocationMap />
+</BaseLayout>

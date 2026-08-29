@@ -1,0 +1,101 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import ArticleStats from '@/components/articles/ArticleStats.astro';
+import FreeConsultationForm from '@/components/home/FreeConsultationForm.astro';
+import Testimonials from '@/components/home/Testimonials.astro';
+import LocationMap from '@/components/home/LocationMap.astro';
+
+const faqItems = [
+  {
+    question: "What are the main causes of the increase in bicycle accidents in Michigan?",
+    answer: "The 81% increase in bike fatalities is primarily attributed to more people riding bikes during the pandemic, combined with distracted driving and increased cell phone use by motorists."
+  },
+  {
+    question: "Are cyclists required to wear helmets in Michigan?",
+    answer: "No, there is no Michigan law requiring cyclists to wear helmets. However, wearing a helmet is strongly recommended for safety and can significantly reduce the risk of serious head injuries in an accident."
+  },
+  {
+    question: "Where should cyclists ride on Michigan roads?",
+    answer: "Cyclists must ride as close as practicable to the right-hand curb or edge of the road when traveling below the posted speed limit, unless passing, turning left, avoiding hazards, or when the lane is too narrow for safe vehicle passing."
+  },
+  {
+    question: "What lighting is required for nighttime bicycle riding in Michigan?",
+    answer: "Cyclists riding between one-half hour after sunset and one-half hour before sunrise must have a white front light visible from 500 feet and a red rear reflector visible from 100-600 feet. An additional red rear light visible from 500 feet is also permitted."
+  },
+  {
+    question: "Can I ride my bicycle on the sidewalk in Michigan?",
+    answer: "Yes, bicycles can be lawfully ridden on sidewalks in Michigan, but cyclists must yield to pedestrians and give verbal warning before passing. Local ordinances may restrict sidewalk riding in certain areas."
+  },
+  {
+    question: "What should I do if I'm injured in a bicycle accident in Michigan?",
+    answer: "Seek immediate medical attention, document the accident scene and injuries, gather witness information, and contact an experienced personal injury lawyer to help you navigate your accident injury claim and ensure you receive fair compensation."
+  }
+];
+---
+
+<BaseLayout
+  title="Bicycle Fatalities Rising in Michigan | Ann Arbor Personal Injury Lawyers"
+  description="Michigan bike fatalities increased 81%. Learn about bicycle safety laws, rider rights, and how our Ann Arbor personal injury lawyers can help if you've been injured in a bicycle accident."
+>
+  <ArticleContent title="Bicycle Fatalities and Injuries Are on the Rise in Michigan">
+    <p>The Michigan State Police recently reported an 81% increase in bike fatalities in Michigan. The increased number of serious accidents involving bicyclists on Michigan roads is likely related to the pandemic and more people riding bikes.</p>
+
+    <p><strong>Distracted driving and cell phone use likely also have contributed to the increase in personal injury accidents involving bicycles.</strong></p>
+
+    <p>The National Highway Traffic Safety Administration has recommended increasing the number of separated bike lanes and well-marked intersections in order to reduce the number of serious injuries. It is also recommended that bicyclists use reflective gear and always wear bike helmets. Bicyclists should follow safety rules including:</p>
+
+    <h2>Ride on the Right-Hand Side of the Road</h2>
+    <p>If riding your bike below the posted speed limit, a cyclist is required to ride as close as practicable to the right-hand curb or edge of the road. (MCL 257.660a) The law recognizes five situations where a cyclist need not ride as close to the right-hand curb or edge of the road including:</p>
+
+    <ul>
+      <li>When passing another bicycle or a vehicle proceeding in the same direction.</li>
+      <li>When preparing to turn left.</li>
+      <li>When conditions make the right-hand edge of the roadway unsafe for bicycle users, including:
+        <ul>
+          <li>Surface hazards (such as potholes).</li>
+          <li>Uneven roadway surfaces.</li>
+          <li>Drain openings.</li>
+          <li>Debris.</li>
+          <li>Parked or moving vehicles or bicycles.</li>
+          <li>Pedestrians, animals, or other obstacles.</li>
+          <li>The lane is too narrow to permit a vehicle to safely overtake and pass a bicycle.</li>
+        </ul>
+      </li>
+      <li>When operating a bicycle in a lane in which traffic is turning right, but the cyclist intends to proceed straight through the intersection; and</li>
+      <li>When riding on a one-way highway or street that has two (2) or more lanes. In this situation, the cyclist may also ride as close to the left curb or edge of the roadway as practicable.</li>
+    </ul>
+
+    <h2>Riding at Nighttime</h2>
+    <p>If riding one-half hour after sunset, or one-half hour before sunrise, a cyclist must use lights. The law requires that a light system for bicycles must, at a minimum, include a white light which is visible from five hundred (500) feet on the front and a red reflector on the rear which is visible from all distances from one hundred (100) feet to six hundred (600) feet when directly in front of lawful low beam headlights. A lamp emitting a red light visible from a distance of five hundred (500) feet may be used in addition to the red reflector.</p>
+
+    <h2>Use of Hand Signals While Riding a Bike</h2>
+    <p><strong>A cyclist is required to signal:</strong></p>
+
+    <ul>
+      <li>A left turn by extending his/her left hand and arm horizontally.</li>
+      <li>A right turn by extending his/her right hand and arm horizontally.</li>
+    </ul>
+
+    <h2>Riding Bicycles on Sidewalks</h2>
+    <p>Bicycles can be lawfully ridden on a sidewalk; however, cyclists must yield the right-of-way to pedestrians and are required to give a verbal warning before overtaking and passing a pedestrian. Local ordinances may restrict bicycles on sidewalks in some areas. A cyclist lawfully operating a bicycle upon a sidewalk, or a pedestrian crosswalk has all the rights applicable to pedestrians using that sidewalk or crosswalk. (MCL 257.660c)</p>
+
+    <h2>Bicycle Helmets and Cell Phones</h2>
+    <p><strong>There is no law that requires Michigan cyclists to wear helmets or prevents them from talking on cell phones while riding.</strong> However, it is obviously smart to wear a helmet and avoid cell phone use or other distractions while riding a bicycle. A bicycle operator should practice defensive riding and assume that a motorist does not see them at all times.</p>
+
+    <p>If you have been injured in a bicycle accident and need help with your accident injury claim, our Personal Injury Law Firm in Ann Arbor can help. We have been helping clients throughout Michigan collect what they deserve for over 45 years. Call today and schedule your Free Consultation with an experienced personal injury lawyer.</p>
+
+    <p><em>This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</em></p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <ArticleStats />
+
+  <FreeConsultationForm />
+
+  <Testimonials />
+
+  <LocationMap />
+</BaseLayout>

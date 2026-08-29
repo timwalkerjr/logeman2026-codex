@@ -1,0 +1,22 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import MotorVehicleHero from '@/components/motor-vehicle/MotorVehicleHero.astro';
+import MotorVehicleQuestions from '@/components/motor-vehicle/MotorVehicleQuestions.astro';
+import MotorVehicleCTA from '@/components/motor-vehicle/MotorVehicleCTA.astro';
+import ArticleStats from '@/components/articles/ArticleStats.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
+
+const title = "Michigan Car Accident Lawyers | Logeman & Iafrate, P.C.";
+const description = "Experienced Michigan auto accident attorneys handling car, truck, and motorcycle crashes. We navigate no-fault claims and fight for full compensation.";
+---
+<BaseLayout title={title} description={description}>
+  <MotorVehicleHero />
+  <MotorVehicleQuestions />
+  <MotorVehicleCTA />
+  <ArticleStats />
+  <ArticleContactForm />
+  <ArticleTestimonials />
+  <ArticleMap />
+</BaseLayout>

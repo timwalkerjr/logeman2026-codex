@@ -1,0 +1,75 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import ArticleStats from '@/components/articles/ArticleStats.astro';
+import FreeConsultationForm from '@/components/home/FreeConsultationForm.astro';
+import Testimonials from '@/components/home/Testimonials.astro';
+import LocationMap from '@/components/home/LocationMap.astro';
+
+const faqItems = [
+  {
+    question: "What is an independent medical evaluation (IME)?",
+    answer: "An IME is an examination requested by an insurance company and performed by a physician the insurer selects. Its stated purpose is to assess your injuries and need for treatment, but the resulting report is frequently used to justify cutting off benefits."
+  },
+  {
+    question: "What changed under the 2019 No-Fault amendments?",
+    answer: "The amendments established qualification requirements for physicians performing these examinations, including that the examining physician be licensed, meet specified board certification or specialty criteria, and devote a substantial portion of their professional time to active clinical practice rather than examinations for insurers."
+  },
+  {
+    question: "Do I have to attend an IME?",
+    answer: "Michigan's no-fault act permits an insurer to require a mental or physical examination when you claim benefits. Refusing without a valid reason can jeopardize your claim, so it is important to speak with your attorney before deciding how to respond to the request."
+  },
+  {
+    question: "Can I challenge an IME report?",
+    answer: "Yes. If the examining physician does not meet the statutory qualifications, or the report conflicts with your treating physicians' findings, the report can be challenged. Your own doctors' records and testimony are often far more persuasive than a single insurer-arranged examination."
+  },
+  {
+    question: "What should I do at an IME?",
+    answer: "Be truthful and consistent, describe your symptoms and limitations accurately without exaggeration, and take note of how long the examination lasted and what was actually done. Bring someone with you if permitted, and report back to your attorney afterward."
+  },
+  {
+    question: "My benefits were cut off after an IME. What now?",
+    answer: "Contact an experienced no-fault attorney right away. Benefit terminations based on an IME are regularly overturned, and there are deadlines for pursuing overdue benefits, interest and attorney fees."
+  }
+];
+---
+<BaseLayout
+  title="New Rules Regarding Independent Medical Evaluations and Car Accident Injury Claims"
+  description="Michigan's 2019 No-Fault amendments set qualification standards for physicians performing insurer medical examinations. Learn how IME rules affect your car accident claim."
+>
+  <ArticleContent title="New Rules Regarding Independent Medical Evaluations and Car Accident Injury Claims">
+    <p>If you are receiving no-fault benefits after a car accident, there is a good chance your insurance company will send you to an "independent medical evaluation." Despite the name, these examinations are arranged and paid for by the insurer, and the physician is chosen by the insurer. The resulting report is very often used to justify terminating your medical benefits and wage loss.</p>
+
+    <h2>Why the Rules Changed</h2>
+    <p>For years, a small group of physicians earned substantial income producing reports for insurance companies, sometimes after examinations that lasted only a few minutes. Michigan's 2019 No-Fault amendments responded by imposing qualification requirements on physicians who perform these examinations.</p>
+
+    <p>Broadly, the examining physician must be licensed, must satisfy specified board certification or specialty requirements relevant to the condition being evaluated, and must devote a substantial portion of their professional time to active clinical practice rather than to conducting examinations for insurers. The purpose is to ensure the person evaluating you is a practicing physician in the relevant field.</p>
+
+    <h2>Do You Have to Go?</h2>
+    <p>Michigan's no-fault act allows an insurer to require a mental or physical examination when you have made a claim for benefits. Simply refusing to attend can put your benefits at risk. That said, the request has limits, and you should discuss it with your attorney before responding.</p>
+
+    <h2>How to Handle the Examination</h2>
+    <p>Be honest and consistent. Describe your pain, limitations and daily difficulties accurately — do not minimize them, and do not overstate them. Pay attention to how long the examination actually lasts and what tests, if any, the physician performs. Those details matter later if the report contradicts your experience.</p>
+
+    <h2>Challenging an Adverse Report</h2>
+    <p>An IME report is not the last word. If the physician does not meet the statutory qualifications, or if the report conflicts with the findings of the doctors who have actually treated you over time, it can be challenged. Treating physicians' records, imaging, therapy notes and testimony frequently carry more weight than a single insurer-arranged visit.</p>
+
+    <p>When benefits are wrongly cut off, Michigan law also provides remedies for overdue benefits, including interest and attorney fees in appropriate cases.</p>
+
+    <h2>Get Help Protecting Your Benefits</h2>
+    <p>If your <a href="/practice-area/michigan-no-fault-insurance-claims/">no-fault benefits</a> were terminated after an examination, or you have been scheduled for one following a <a href="/practice-area/car-accidents/">car accident</a>, contact our office. Our attorneys have decades of experience holding insurers accountable, and we charge no legal fees unless we recover for you.</p>
+
+    <p><em>This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman &amp; Iafrate, P.C. for advice regarding your individual situation.</em></p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <ArticleStats />
+
+  <FreeConsultationForm />
+
+  <Testimonials />
+
+  <LocationMap />
+</BaseLayout>

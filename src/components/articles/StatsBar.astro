@@ -1,0 +1,29 @@
+---
+const stats = [
+  { value: "60+", label: "Years of trial work and case victories", sublabel: "Combined experience" },
+  { value: "1,000+", label: "Successful outcomes for injured clients", sublabel: "Cases won" },
+  { value: "$50M+", label: "In damages recovered for our clients", sublabel: "Compensation secured" },
+  { value: "4.9", label: "Our rating on Google Reviews", sublabel: "Client satisfaction" },
+];
+---
+<section class="bg-surface py-16">
+  <div class="max-w-[1440px] mx-auto px-6">
+    <div class="text-center mb-10">
+      <p class="text-[14px] text-primary font-medium mb-2">Our record speaks to those we've helped in Michigan</p>
+      <h2 class="text-[36px] font-bold leading-[1.3] text-foreground tracking-[-0.52px] mb-3">Numbers that speak to our commitment to our Clients and our Community</h2>
+      <p class="text-muted-foreground text-[16px] max-w-[800px] mx-auto">Our track record reflects years of hard work and dedication to our clients' recovery.</p>
+    </div>
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+      {stats.map((stat) => (
+        <div class="bg-[rgba(229,236,246,0.54)] rounded-[8px] p-6 border border-white/60 text-center">
+          <p class="text-[14px] text-primary font-medium mb-2">{stat.sublabel}</p>
+          <p class="text-[44px] font-bold leading-[1.1] text-foreground tracking-tight mb-2">{stat.value}</p>
+          <p class="text-[14px] text-muted-foreground leading-[1.5]">{stat.label}</p>
+        </div>
+      ))}
+    </div>
+    <div class="text-center mt-10">
+      <a href="#free-consultation" class="inline-flex items-center bg-primary text-white px-6 py-3 rounded-[4px] font-medium hover:bg-primary-hover transition-colors">Schedule a Free Case Evaluation</a>
+    </div>
+  </div>
+</section>

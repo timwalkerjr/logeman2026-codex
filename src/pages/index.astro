@@ -1,0 +1,47 @@
+---
+import { SITE } from '@/config/site';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Hero from '@/components/home/Hero.astro';
+import CatastrophicInjuryOverview from '@/components/home/CatastrophicInjuryOverview.astro';
+import Attorneys from '@/components/home/Attorneys.astro';
+import PracticeAreas from '@/components/home/PracticeAreas.astro';
+import ExperienceAdvocacy from '@/components/home/ExperienceAdvocacy.astro';
+import Testimonials from '@/components/home/Testimonials.astro';
+import FreeConsultationForm from '@/components/home/FreeConsultationForm.astro';
+import FAQ from '@/components/home/FAQ.astro';
+import LocationMap from '@/components/home/LocationMap.astro';
+---
+
+<BaseLayout
+  title={SITE.title}
+  description={SITE.description}
+  type="website"
+  jsonLd={{
+    '@context': 'https://schema.org',
+    '@type': 'LegalService',
+    name: SITE.name,
+    description: SITE.description,
+    url: new URL(Astro.url.pathname, SITE.url).toString(),
+    telephone: '+1-734-994-0200',
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: '2950 S State St Ste 400',
+      addressLocality: 'Ann Arbor',
+      addressRegion: 'MI',
+      postalCode: '48104',
+      addressCountry: 'US',
+    },
+    priceRange: 'Contingency Fee (No Win, No Fee)',
+    openingHours: 'Mo-Fr 08:30-17:00',
+  }}
+>
+  <Hero />
+  <CatastrophicInjuryOverview />
+  <Attorneys />
+  <PracticeAreas />
+  <ExperienceAdvocacy />
+  <Testimonials />
+  <FreeConsultationForm />
+  <FAQ />
+  <LocationMap />
+</BaseLayout>

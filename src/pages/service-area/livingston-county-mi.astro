@@ -1,0 +1,92 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+
+const faqItems = [
+  { question: "How long do I have to file a personal injury lawsuit in Livingston County?", answer: "The statute of limitations for most personal injury cases in Michigan is three years from the date of injury. However, certain circumstances can affect this deadline. For no-fault benefits, you must report your accident to your insurance company within one year to preserve your claim. Consulting an experienced attorney promptly ensures you don't miss critical deadlines that could bar your claim forever." },
+  { question: "What should I do immediately after a car accident in Livingston County?", answer: "First, ensure everyone's safety and call 911 if there are injuries. Move to a safe location if possible, exchange insurance and contact information with other drivers, and document the scene with photos. Report the accident to police and notify your own insurance company to preserve your PIP benefits. Avoid admitting fault or making recorded statements to other insurers without legal counsel. Contact our firm as soon as possible so we can protect your rights from the start." },
+  { question: "Can I still recover compensation if I was partially at fault for my accident?", answer: "Michigan follows a modified comparative negligence rule for third-party claims. You can recover compensation as long as you're not more than 50% at fault for the accident. However, your recovery will be reduced by your percentage of fault. For example, if you're found 20% at fault and awarded $100,000, you would receive $80,000. No-fault PIP benefits are available regardless of fault. Our attorneys work to minimize any fault attributed to you and pursue the full compensation you're owed." },
+  { question: "What if the at-fault driver didn't have insurance?", answer: "Michigan law requires all drivers to carry uninsured motorist coverage as part of their auto insurance policy unless they specifically rejected it in writing. If the at-fault driver is uninsured, you can file a claim under your own uninsured motorist coverage for injuries that meet Michigan's threshold. You're still entitled to PIP benefits from your own policy for medical expenses and wage loss. Our attorneys help clients navigate these complex situations to recover full compensation." },
+  { question: "How much is my personal injury case worth?", answer: "Every case is unique, and the value depends on many factors including the severity of your injuries, the amount of medical treatment required, whether you have permanent impairments, your lost wages and reduced earning capacity, and the degree of pain and suffering you've experienced. Michigan law caps non-economic damages in certain cases, such as medical malpractice. Our attorneys provide honest assessments based on decades of experience and work with experts to document the full value of your claim." },
+  { question: "Will my case go to trial?", answer: "Most personal injury cases settle before trial, but settlement happens on favorable terms only when insurance companies know you're prepared to go to trial. Unlike high-volume firms that accept quick, low offers, we prepare every case as if it will go to trial. That preparation—gathering evidence, consulting experts, and building a compelling case—creates leverage that leads to better settlements. When insurers won't offer fair compensation, we're ready to present your case to a Livingston County jury." },
+  { question: "How long will my case take?", answer: "The timeline varies depending on the complexity of your case, the severity of your injuries, and whether your case settles or goes to trial. Simple cases with clear liability and modest injuries may resolve in several months. Complex cases involving catastrophic injuries, disputed liability, or insurance bad faith may take a year or longer. We prioritize getting you full compensation, not quick settlements that undervalue your claim. Throughout the process, we keep you informed and involve you in all major decisions." },
+  { question: "What sets Logeman & Iafrate apart from other personal injury firms?", answer: "We take cases other firms turn down and prepare every case for trial. With more than 45 years of experience, we've built a reputation for thorough preparation and trial-ready advocacy that insurance companies respect. We're not a high-volume settlement mill; we're trial lawyers who prepare every case for the courtroom. Our clients work directly with experienced attorneys, not paralegals. We operate on a contingency-fee basis, so you pay nothing unless we win. Most importantly, we genuinely care about helping you rebuild your life after an accident." },
+];
+---
+<BaseLayout title="Livingston County Personal Injury Lawyers | Michigan Accident Attorneys" description="Experienced Livingston County personal injury attorneys with 45 years helping accident victims recover the compensation they're owed. Free consultation. No fee unless we win. Call (734) 994-0200.">
+  <ArticleContent>
+    <h2><strong>Trusted Personal Injury Representation Throughout Livingston County</strong></h2>
+    <p>When you're injured in an accident in Livingston County, you face more than physical pain. Medical bills pile up. Insurance companies deny claims or offer lowball settlements. You're uncertain about your legal rights under Michigan's unique no-fault system. At Logeman &amp; Iafrate, P.C., we've spent more than 45 years fighting for injured people throughout Michigan—including communities across Livingston County. We know the local courts, we understand the challenges you face, and we are prepared to take on insurance companies that refuse to pay what you're owed.</p>
+    <p>Our attorneys take cases other firms turn down and prepare every case for trial. Insurance companies know we are ready to try a case. That trial-ready approach has delivered results for Livingston County clients: verdicts and settlements that reflect the true cost of serious injuries, not what insurers want to pay.</p>
+
+    <h2><strong>Understanding Michigan's No-Fault System in Livingston County</strong></h2>
+    <p>Michigan's no-fault auto insurance system confuses many accident victims. After a crash, you typically file a Personal Injury Protection (PIP) claim with your own insurer—regardless of who caused the accident. Your PIP benefits should cover medical expenses, wage loss, and replacement services. However, the 2019-2020 no-fault reforms changed the landscape significantly.</p>
+    <p>Your PIP medical benefits may now be capped at $50,000, $250,000, $500,000, or remain unlimited depending on the coverage level you selected. Many Livingston County residents discovered too late that they opted for limited coverage to save on premiums, only to face catastrophic injuries requiring millions in lifetime care. We help clients navigate these complex coverage issues and pursue every available source of compensation.</p>
+
+    <h3><strong>When Can You Sue the At-Fault Driver?</strong></h3>
+    <p>Beyond no-fault benefits, Michigan law allows you to pursue a third-party lawsuit against the negligent driver if your injuries meet the "serious impairment of body function" threshold. This requires proving an objectively manifested impairment of an important body function that affects your general ability to lead your normal life. Successfully meeting this threshold allows you to recover compensation for pain and suffering, excess medical expenses, and other damages not covered by no-fault benefits.</p>
+    <p>Our attorneys have extensive experience proving threshold injuries in Livingston County courts. We work with medical experts who can document how your injuries have permanently altered your life, your ability to work, and your capacity to enjoy activities you once took for granted.</p>
+
+    <h2><strong>Common Accident Cases We Handle in Livingston County</strong></h2>
+    <p>Livingston County's rural highways, busy commercial corridors, and growing residential areas create diverse accident risks. We represent clients injured in:</p>
+    <ul>
+      <li><strong>Car accidents</strong> on I-96, US-23, M-59, and county roads throughout Livingston County</li>
+      <li><strong>Truck accidents</strong> involving semi-trucks and commercial vehicles on major freight routes</li>
+      <li><strong>Motorcycle accidents</strong> on scenic county roads popular with riders</li>
+      <li><strong>Construction accidents</strong> at residential developments and commercial sites</li>
+      <li><strong>Catastrophic injuries</strong> including traumatic brain injuries, spinal cord damage, and amputations</li>
+      <li><strong>Wrongful death</strong> cases when negligence claims a loved one's life</li>
+    </ul>
+
+    <h2><strong>Fighting Insurance Companies That Deny Legitimate Claims</strong></h2>
+    <p>Insurance companies routinely deny legitimate claims, hoping injured people will give up. They argue that injuries stem from "unrelated" conditions, that treatment is "unnecessary," or that coverage doesn't apply. We've heard every excuse—and we've beaten them in courtrooms throughout Michigan.</p>
+    <p>Over the decades, we have taken insurers to trial when they refused to honor their obligations. When Livingston County residents face insurance denials, we investigate thoroughly, consult medical experts, and build cases that hold insurers accountable. We don't get paid unless we win, which means we only take cases we believe in and fight to win.</p>
+
+    <h2><strong>What Compensation Can You Recover?</strong></h2>
+    <p>Depending on your case, you may be entitled to recover:</p>
+    <ul>
+      <li><strong>No-fault PIP benefits</strong> for medical expenses, wage loss (up to 85% of gross income), and replacement services</li>
+      <li><strong>Pain and suffering compensation</strong> in third-party claims that meet Michigan's threshold</li>
+      <li><strong>Excess economic damages</strong> beyond PIP limits, including future medical care and lost earning capacity</li>
+      <li><strong>Attendant care benefits</strong> for family members providing care</li>
+      <li><strong>Home and vehicle modifications</strong> for catastrophic injuries</li>
+      <li><strong>Wrongful death damages</strong> including loss of financial support and companionship</li>
+    </ul>
+    <p>Every case is different. Our experienced attorneys will evaluate your situation, explain your options clearly, and work to recover the full compensation you're owed. We work with life care planners, vocational experts, and economic specialists to document the full extent of your damages—not just what you've lost already, but what you'll need for the rest of your life.</p>
+
+    <h2><strong>Why Livingston County Clients Choose Logeman & Iafrate</strong></h2>
+    <p>When you're recovering from serious injuries, you need attorneys who combine legal expertise with genuine compassion. Our firm offers:</p>
+    <ul>
+      <li><strong>More than 45 years of experience</strong> handling complex personal injury cases throughout Michigan</li>
+      <li><strong>Trial-ready advocacy</strong> that insurance companies respect</li>
+      <li><strong>Free consultations</strong> to discuss your case without obligation</li>
+      <li><strong>Contingency-fee basis</strong>—you pay nothing unless we recover damages for you</li>
+      <li><strong>Deep knowledge of Michigan's no-fault system</strong> and how to secure the benefits you're owed</li>
+      <li><strong>Decades of verdicts and settlements</strong> in serious injury cases</li>
+      <li><strong>Personalized attention</strong> from experienced attorneys, not paralegals or case managers</li>
+    </ul>
+    <p>We take cases other firms refuse because they're too complex or the insurance company is too aggressive. We prepare every case to go to trial and pursue what you're owed.</p>
+
+    <h2><strong>Serving Communities Throughout Livingston County</strong></h2>
+    <p>Our Ann Arbor office is conveniently located to serve Livingston County residents. We regularly represent clients from communities throughout the county and handle cases in Livingston County Circuit Court and District Court. Whether you live in a small township or one of the county's larger communities, we provide the same trial-ready representation and commitment to results.</p>
+
+    <h2><strong>Michigan's Filing Deadlines</strong></h2>
+    <p>Michigan law imposes strict deadlines for personal injury claims. The statute of limitations is generally three years, but waiting too long can compromise your case. Evidence disappears, witnesses' memories fade, and delays can weaken a claim. If you've been injured in Livingston County, contact us as soon as possible to protect your rights and preserve your claim.</p>
+
+    <h2><strong>Schedule Your Free Consultation Today</strong></h2>
+    <p>If you or a loved one has been injured in an accident in Livingston County, it's worth reaching out promptly. At Logeman &amp; Iafrate, P.C., we offer free consultations to discuss your case and explain your options. We work on a contingency-fee basis, which means you pay nothing unless we recover compensation for you.</p>
+    <p>Call us today at <strong>(734) 994-0200</strong> or fill out our online contact form to schedule your free consultation. Let us put more than 45 years of experience to work by your side. We take cases others won't, and we prepare every case for trial.</p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+</BaseLayout>

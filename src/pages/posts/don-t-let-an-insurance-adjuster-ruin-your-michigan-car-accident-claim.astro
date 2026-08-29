@@ -1,0 +1,86 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
+
+const faqs = [
+  {
+    question: "Do I have to give a recorded statement to the insurance adjuster?",
+    answer: "No. You are not legally required to provide a recorded statement to the other driver's insurance company. Recorded statements can be used against you later, locking you into details or creating inconsistencies. Politely decline and refer them to your attorney."
+  },
+  {
+    question: "What should I say when an insurance adjuster calls after my accident?",
+    answer: "Keep your answers short and factual. Provide only basic information like the date, time, and location of the accident. Avoid discussing fault, injuries, or details about the crash. Never say \"I'm sorry\" or that you're \"fine.\" If asked complex questions, say \"I need to speak with my attorney first.\""
+  },
+  {
+    question: "Why shouldn't I accept a quick settlement offer from the insurance company?",
+    answer: "Quick settlement offers are typically lowball amounts designed to close your claim before the full extent of your injuries is known. Many injuries, especially delayed pain or long-term issues, may not be apparent immediately after an accident. Accepting a fast settlement can prevent you from claiming additional compensation later."
+  },
+  {
+    question: "When should I contact a car accident lawyer in Michigan?",
+    answer: "Contact an attorney immediately if your injuries are serious or require ongoing medical treatment, if an adjuster asks for a recorded statement or medical release form, or if you receive any settlement offer. A skilled attorney handles all communication with the insurance company and protects the true value of your claim."
+  },
+  {
+    question: "What are common insurance adjuster tactics I should watch out for?",
+    answer: "Common tactics include friendly calls designed to get you to speak freely while being recorded, quick lowball settlement offers before you know the full extent of your injuries, and requests for recorded statements or medical releases. Adjusters are trained negotiators working to minimize your claim's value, not to help you."
+  }
+];
+---
+
+<BaseLayout
+  title="Don't let an insurance adjuster ruin your Michigan car accident claim"
+  description="Learn how to protect your Michigan car accident claim from insurance adjuster tactics. Discover what to avoid saying, when to call a lawyer, and how to secure fair compensation."
+  canonicalUrl="https://www.logeman.com/posts/don-t-let-an-insurance-adjuster-ruin-your-michigan-car-accident-claim/"
+>
+  <ArticleHero title="Don't let an insurance adjuster ruin your Michigan car accident claim" />
+
+  <ArticleContent>
+    <p>A <a href="/posts/could-a-business-be-liable-for-a-drunk-driving-crash">car accident</a> can be a shocking, stressful event. Soon after the collision, you will face an immediate concern: the call from an insurance adjuster. Even in a no-fault state like Michigan, securing the compensation you deserve requires caution.</p>
+
+    <p>Remember that insurance adjusters work for the company, and their job is to deny or minimize claim payouts. Here are three vital tips to protect your legal and financial interests.</p>
+
+    <h2>Adjuster tactics to recognize</h2>
+    <p>Adjusters often <a href="https://www.findlaw.com/consumer/insurance/insurance-company-bad-faith-tactics-and-examples.html">use techniques</a> that prioritize saving the company money over helping you. Here are typical tactics:</p>
+    <ul>
+      <li><strong>"Friendly" calls</strong>: The adjuster may sound very sympathetic. They want you to relax and speak freely. However, they are recording your conversation and gathering information to use against you later.</li>
+      <li><strong>Quick, lowball offers</strong>: An adjuster might offer a fast settlement check within days of the accident. Do not accept it. You risk losing your right to claim more money if the full extent of your injuries, especially delayed pain or long-term issues, turns out to be worse than first thought.</li>
+      <li><strong>Recorded statements</strong>: Refuse to provide this. You are not legally required to give a recorded statement to the other driver's insurer. This statement can lock you into details or inconsistencies later.</li>
+    </ul>
+    <p>Adjusters are trained negotiators. Their initial actions are often calculated steps toward reducing your claim's value.</p>
+
+    <h2>What to avoid saying</h2>
+    <p>Every word you speak to an adjuster matters. Protect your claim by avoiding key phrases, including:</p>
+    <ul>
+      <li>"I'm sorry," or anything that could imply you caused the accident. State the basic facts: the time, the date and the location of the crash.</li>
+      <li>Telling them you are "fine" or just have a "stiff neck" gives them ammunition to argue that your injuries are minor. Simply say that you are receiving medical care, and refer them to your lawyer.</li>
+      <li>Never guess about how fast you were driving or how far away the other car was. If you do not know the answer to a question, firmly say, "I don't know."</li>
+    </ul>
+    <p>Keep your answers short and factual, and do not volunteer any information that the adjuster does not specifically request.</p>
+
+    <h2>When to call a lawyer</h2>
+    <p>The safest response to any complex question or request for information is to say, "I need to speak with my attorney first." An immediate legal consultation is critical in key situations, such as when:</p>
+    <ul>
+      <li>Your injuries are serious or require ongoing medical treatment</li>
+      <li>The adjuster asks for a recorded statement or a medical release form</li>
+      <li>The adjuster makes a settlement offer, no matter how small</li>
+    </ul>
+    <p>A skilled car accident attorney handles all communication with the responsible party's insurance company, <a href="/motor-vehicle-accidents-overview/">leveling the playing field</a> and protecting the actual value of your claim. While you must cooperate with reasonable requests from your own insurer, exercising caution and securing experienced legal representation are your best defenses against adjuster tactics.</p>
+
+    <p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqs} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+
+  <ArticleMap />
+</BaseLayout>

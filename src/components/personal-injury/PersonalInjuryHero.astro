@@ -1,0 +1,64 @@
+---
+const claimTypes = [
+  { label: "Electric scooter accidents", href: "/practice-area/personal-injury-cases-involving-electric-scooters-personal-injury-attorneys-ann-arbor/" },
+  { label: "Premises liability", href: "/practice-area/premises-liability-law-in-michigan/" },
+  { label: "Product liability", href: "/practice-area/product-liability/" },
+  { label: "Construction accidents", href: "/practice-area/construction-accidents/" }
+];
+
+const practiceLinks = [
+  { title: "Vehicle Accidents Overview", subtitle: "An overview of this area of law.", href: "/motor-vehicle-accidents-overview/" },
+  { title: "Catastrophic Injuries Overview", subtitle: "Severe injuries require serious lawyers.", href: "/catastrophic-injuries-overview/" },
+  { title: "Personal Injury Overview", subtitle: "Injuries can be serious, contact us.", href: "/personal-injury-overview/" }
+];
+---
+<section class="bg-background py-12 lg:py-16">
+  <div class="max-w-[1440px] mx-auto px-6">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
+      <div class="lg:col-span-8 space-y-6">
+        <img src="https://pagesmith-cdn.com/881ce63c/images/6941b18a1fbcadfc33d9874c_Logo-320.webp" alt="Logeman & Iafrate, P.C." class="w-[60px] h-auto mb-2" />
+
+        <h1 class="text-[36px] lg:text-[44px] font-bold leading-[1.25] text-foreground tracking-normal">Ann Arbor Attorneys Fighting For Justice In Michigan Personal Injury Cases</h1>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">When you face the aftermath of an accident, navigating through your personal injury claim can feel overwhelming and complex while trying to heal from physical injuries. At Logeman &amp; Iafrate, P.C., in Ann Arbor, we understand the physical, emotional and financial toll an injury can take on you and your family. That is why we dedicate ourselves to advocating for your rights and securing the compensation you deserve.</p>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">With over 60 years of combined experience, our team offers free consultations and operates on a contingency-fee basis, meaning we do not charge fees unless we recover damages for you. We take pride in our ability to handle challenging cases that other attorneys may consider unwinnable. We are always prepared to go to trial to ensure you receive the necessary and deserved injury compensation.</p>
+
+        <h2 class="text-[26px] lg:text-[36px] font-bold leading-[1.3] text-foreground tracking-[-0.52px] mt-10">Supporting You In A Variety Of Accident Claims</h2>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">When you sustain injuries from an accident caused by someone else's negligence in Michigan, you can file a personal injury claim to recover compensation for your physical, financial and emotional losses.</p>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">There are many situations that can lead to a personal injury claim, including:</p>
+
+        <ul class="list-disc pl-6 space-y-2 text-[16px] leading-[1.6] text-foreground marker:text-primary">
+          {claimTypes.map((item) => (
+            <li><a href={item.href} class="text-primary font-semibold underline underline-offset-2">{item.label}</a></li>
+          ))}
+        </ul>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">In Michigan, personal injury compensation may cover both economic and noneconomic damages. Economic damages reimburse you for direct financial losses, while non-economic damages compensate for pain, suffering and other more subjective impacts. When you are injured due to someone else's negligence, it is vital to have a skilled injury attorney by your side to ensure you receive full and fair compensation.</p>
+
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">At Logeman &amp; Iafrate, P.C., we focus on making a real difference in your life by pursuing your personal injury claim diligently. Whether it is securing injury compensation for medical expenses and lost wages or addressing the pain and suffering you have endured, we strive to achieve the best possible injury settlement for you.</p>
+      </div>
+
+      <aside class="lg:col-span-4 space-y-8">
+        <div class="rounded-[8px] overflow-hidden border border-border">
+          <img src="https://pagesmith-cdn.com/881ce63c/images/693a55d51fbe67b78602b72b_EV3A7457-Enhanced-NR-1536.webp" alt="Adrienne D. Logeman, Partner" class="w-full h-auto" loading="lazy" />
+        </div>
+        <div class="rounded-[8px] overflow-hidden border border-border">
+          <img src="https://pagesmith-cdn.com/881ce63c/images/693a53edf7b9715e7b7f58e3_james-a-iafrate-bio-photo-1024.webp" alt="James A. Iafrate, Partner" class="w-full h-auto" loading="lazy" />
+        </div>
+
+        <div class="bg-[hsl(0,0%,97%)] p-6 rounded-[8px] border border-black/5 space-y-4">
+          <h3 class="text-[20px] font-semibold leading-[1.4] text-foreground tracking-[-0.28px]">Our Core Legal Practice Areas</h3>
+          {practiceLinks.map((link) => (
+            <a href={link.href} class="block bg-white/60 hover:bg-white p-3 rounded-[6px] border border-black/5 transition-colors">
+              <span class="block text-[16px] font-medium text-foreground">{link.title}</span>
+              <span class="block text-[14px] text-muted-foreground">{link.subtitle}</span>
+            </a>
+          ))}
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>

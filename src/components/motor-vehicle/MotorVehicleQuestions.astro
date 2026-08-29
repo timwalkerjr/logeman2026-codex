@@ -1,0 +1,26 @@
+---
+const questions = [
+  {
+    heading: "What Are Considered Catastrophic Injuries?",
+    body: "Catastrophic injuries are those that result in permanent disabilities or long-term medical conditions. These injuries significantly disrupt the victim's lifestyle and ability to function independently. Catastrophic injuries can include spinal cord injuries, traumatic brain injuries, severe burns and amputations. These types of injuries not only cause intense physical pain and suffering but also emotional and financial distress."
+  },
+  {
+    heading: "How Do Catastrophic Injuries Affect Daily Life?",
+    body: "Catastrophic injuries can dramatically alter every aspect of daily life. Victims may face challenges such as loss of mobility, dependence on others for personal care and the inability to return to work, which can lead to significant financial strain. Victims may also experience feelings of helplessness, depression and anxiety about their future. The need for ongoing medical treatments and rehabilitation can make recovery a full-time endeavor, while adding a large strain on your family."
+  },
+  {
+    heading: "Can I Sue For Catastrophic Injuries Caused By Someone Else's Negligence?",
+    body: "If your catastrophic injuries were caused by someone else's negligence, you have the right to sue for compensation. This can include damages for medical expenses, lost wages, loss of future earning capacity, pain and suffering, and more. It is crucial to work with a skilled catastrophic injury attorney who can help prove the negligence of the other party and ensure that you receive the maximum compensation you are entitled to."
+  }
+];
+---
+<section class="bg-surface py-16">
+  <div class="max-w-[1000px] mx-auto px-6 space-y-6">
+    {questions.map((item) => (
+      <article class="bg-[rgba(229,236,246,0.54)] rounded-[8px] p-6 lg:p-8 border border-white/60">
+        <h2 class="text-[26px] font-bold leading-[1.3] text-foreground tracking-[-0.44px] mb-3">{item.heading}</h2>
+        <p class="text-[16px] font-normal leading-[1.6] text-foreground">{item.body}</p>
+      </article>
+    ))}
+  </div>
+</section>

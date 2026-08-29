@@ -1,0 +1,2269 @@
+{
+  "viewportWidth": 1920,
+  "pageBackground": {
+    "type": "color",
+    "value": "rgb(255, 255, 255)"
+  },
+  "isElementor": false,
+  "sectionThemes": [
+    {
+      "background": "rgb(255, 255, 255)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Motor Vehicle Accident Injuries",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Catastrophic Injuries",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Personal Injury Cases",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Featured News Item",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h1",
+          "fontSize": "44px",
+          "fontWeight": "700",
+          "color": "rgb(2, 6, 4)",
+          "text": "Six Combined Decades Of Experience In Advocating For Injury Victims",
+          "textAlign": "start"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "14px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "22.4px",
+        "textAlign": "left"
+      },
+      "buttons": [],
+      "links": [
+        {
+          "text": "(734) 994-0200",
+          "color": "rgb(2, 6, 4)",
+          "fontWeight": "400"
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "1536px",
+        "paddingBlock": "8px 8px",
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "center",
+        "gap": "normal 8px",
+        "childCount": 2
+      },
+      "interactionType": "carousel"
+    },
+    {
+      "background": "rgb(255, 255, 255)",
+      "backgroundImage": "https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/693497a35eaaff8688ef590f_relume-608351.avif",
+      "isBackgroundPhoto": true,
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Motor Vehicle Accident Injuries",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Catastrophic Injuries",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Personal Injury Cases",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Featured News Item",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h1",
+          "fontSize": "44px",
+          "fontWeight": "700",
+          "color": "rgb(2, 6, 4)",
+          "text": "Six Combined Decades Of Experience In Advocating For Injury Victims",
+          "textAlign": "start"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "14px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "22.4px",
+        "textAlign": "left"
+      },
+      "buttons": [],
+      "layout": {
+        "containerMaxWidth": "1536px",
+        "paddingBlock": "8px 8px",
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "center",
+        "gap": "normal 8px",
+        "childCount": 2
+      }
+    },
+    {
+      "background": "rgba(252, 253, 248, 0)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Motor Vehicle Accident Injuries",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Catastrophic Injuries",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Personal Injury Cases",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Featured News Item",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "14px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "22.4px",
+        "textAlign": "left"
+      },
+      "buttons": [],
+      "layout": {
+        "containerMaxWidth": "1536px",
+        "paddingBlock": "8px 8px",
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "center",
+        "gap": "normal 8px",
+        "childCount": 2
+      }
+    },
+    {
+      "background": "rgb(250, 250, 247)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [
+        {
+          "tag": "h2",
+          "fontSize": "36px",
+          "fontWeight": "700",
+          "color": "rgb(2, 6, 4)",
+          "text": "Our Law Firm's Practice Areas",
+          "letterSpacing": "-0.52px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Motor Vehicle Accident Injuries",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "...more accident case types",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Catastrophic Injuries",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h4",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(2, 6, 4)",
+          "text": "Personal Injury Cases",
+          "letterSpacing": "-0.28px",
+          "textAlign": "left"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "16px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "25.6px",
+        "textAlign": "start"
+      },
+      "buttons": [],
+      "layout": {
+        "containerMaxWidth": "1440px",
+        "display": "grid",
+        "gridTemplateColumns": "331.609px 331.609px 331.609px 331.609px",
+        "gap": "32px 27.2px",
+        "childCount": 4
+      }
+    },
+    {
+      "background": "rgb(248, 248, 248)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [
+        {
+          "tag": "h2",
+          "fontSize": "36px",
+          "fontWeight": "700",
+          "color": "rgb(2, 6, 4)",
+          "text": "We Stand with You through the Hardest Times, Advocating Vigorously for Your Righ",
+          "letterSpacing": "-0.52px",
+          "textAlign": "left"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "18px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "28.8px",
+        "textAlign": "left"
+      },
+      "buttons": [
+        {
+          "backgroundColor": "rgb(0, 74, 173)",
+          "color": "rgb(255, 255, 255)",
+          "border": "1px solid rgb(0, 74, 173)",
+          "padding": "12px 16px 12px 16px",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "text": "Speak with a Lawyer"
+        },
+        {
+          "backgroundColor": "rgba(204, 218, 238, 0.31)",
+          "color": "rgb(2, 6, 4)",
+          "borderRadius": "4px",
+          "border": "1px solid rgb(255, 255, 255)",
+          "padding": "12px 20px 12px 20px",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "text": "Explore Our Practice Areas"
+        }
+      ],
+      "images": [
+        {
+          "displayWidth": 680,
+          "displayHeight": 680,
+          "objectFit": "cover"
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "1440px",
+        "display": "grid",
+        "gridTemplateColumns": "680px 680px",
+        "gap": "64px 80px",
+        "childCount": 2
+      }
+    },
+    {
+      "background": "rgb(0, 16, 38)",
+      "textColor": "rgb(255, 255, 255)",
+      "headings": [
+        {
+          "tag": "h2",
+          "fontSize": "36px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "text": "What Our Clients Say About Us",
+          "letterSpacing": "-0.52px",
+          "textAlign": "center"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "18px",
+        "color": "rgb(255, 255, 255)",
+        "lineHeight": "28.8px",
+        "textAlign": "center"
+      },
+      "buttons": [
+        {
+          "backgroundColor": "rgb(0, 74, 173)",
+          "color": "rgb(255, 255, 255)",
+          "border": "1px solid rgb(0, 74, 173)",
+          "padding": "12px 16px 12px 16px",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "text": "See More Reviews and Testimonials"
+        }
+      ],
+      "images": [
+        {
+          "displayWidth": 120,
+          "displayHeight": 32
+        },
+        {
+          "displayWidth": 120,
+          "displayHeight": 32
+        },
+        {
+          "displayWidth": 120,
+          "displayHeight": 32
+        },
+        {
+          "displayWidth": 120,
+          "displayHeight": 32
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "1440px",
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "center",
+        "justifyContent": "flex-start",
+        "gap": "16px",
+        "childCount": 2
+      },
+      "interactionType": "carousel",
+      "slides": [
+        {
+          "text": null,
+          "hasImage": true,
+          "imageAlt": ""
+        },
+        {
+          "text": null,
+          "hasImage": false,
+          "imageAlt": null
+        },
+        {
+          "text": null,
+          "hasImage": false,
+          "imageAlt": null
+        },
+        {
+          "text": null,
+          "hasImage": false,
+          "imageAlt": null
+        }
+      ]
+    },
+    {
+      "background": "rgb(250, 250, 247)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [
+        {
+          "tag": "h3",
+          "fontSize": "26px",
+          "fontWeight": "700",
+          "color": "rgb(2, 6, 4)",
+          "text": "Schedule a Free Case Review with a Lawyer",
+          "letterSpacing": "-0.44px",
+          "textAlign": "start"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "18px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "28.8px",
+        "textAlign": "left"
+      },
+      "buttons": [],
+      "images": [
+        {
+          "displayWidth": 156,
+          "displayHeight": 88,
+          "objectFit": "cover"
+        },
+        {
+          "displayWidth": 80,
+          "displayHeight": 80,
+          "objectFit": "cover"
+        },
+        {
+          "displayWidth": 80,
+          "displayHeight": 80,
+          "objectFit": "cover"
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "1440px",
+        "display": "grid",
+        "gridTemplateColumns": "688px 688px",
+        "gap": "16px 64px",
+        "childCount": 2
+      }
+    },
+    {
+      "background": "rgba(229, 236, 246, 0.54)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [
+        {
+          "tag": "h2",
+          "fontSize": "36px",
+          "fontWeight": "700",
+          "color": "rgb(2, 6, 4)",
+          "text": "Frequently Asked Questions",
+          "letterSpacing": "-0.52px",
+          "textAlign": "left"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "22px",
+          "fontWeight": "700",
+          "color": "rgb(2, 6, 4)",
+          "text": "Need more help?",
+          "letterSpacing": "-0.36px",
+          "textAlign": "center"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "18px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "28.8px",
+        "textAlign": "left"
+      },
+      "buttons": [
+        {
+          "backgroundColor": "rgb(0, 74, 173)",
+          "color": "rgb(255, 255, 255)",
+          "border": "1px solid rgb(0, 74, 173)",
+          "padding": "12px 16px 12px 16px",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "text": "Schedule a Free Consultation"
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "1440px",
+        "display": "grid",
+        "gridTemplateColumns": "1440px",
+        "gap": "16px",
+        "childCount": 5
+      },
+      "interactionType": "accordion"
+    },
+    {
+      "background": "rgb(229, 236, 246)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [],
+      "bodyStyle": {
+        "fontSize": "16px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "25.6px",
+        "textAlign": "start"
+      },
+      "buttons": [],
+      "layout": {
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "center",
+        "justifyContent": "space-between",
+        "gap": "24px",
+        "childCount": 2
+      },
+      "interactionType": "accordion",
+      "outerBackground": "rgba(229, 236, 246, 0.54)",
+      "panelWidthPct": 75
+    },
+    {
+      "background": "rgb(229, 236, 246)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [],
+      "bodyStyle": {
+        "fontSize": "16px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "25.6px",
+        "textAlign": "start"
+      },
+      "buttons": [],
+      "layout": {
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "center",
+        "justifyContent": "space-between",
+        "gap": "24px",
+        "childCount": 2
+      },
+      "interactionType": "accordion",
+      "outerBackground": "rgba(229, 236, 246, 0.54)",
+      "panelWidthPct": 75
+    },
+    {
+      "background": "rgb(229, 236, 246)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [],
+      "bodyStyle": {
+        "fontSize": "16px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "25.6px",
+        "textAlign": "start"
+      },
+      "buttons": [],
+      "layout": {
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "center",
+        "justifyContent": "space-between",
+        "gap": "24px",
+        "childCount": 2
+      },
+      "interactionType": "accordion",
+      "outerBackground": "rgba(229, 236, 246, 0.54)",
+      "panelWidthPct": 75
+    },
+    {
+      "background": "rgb(229, 236, 246)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [],
+      "bodyStyle": {
+        "fontSize": "16px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "25.6px",
+        "textAlign": "start"
+      },
+      "buttons": [],
+      "layout": {
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "center",
+        "justifyContent": "space-between",
+        "gap": "24px",
+        "childCount": 2
+      },
+      "interactionType": "accordion",
+      "outerBackground": "rgba(229, 236, 246, 0.54)",
+      "panelWidthPct": 75
+    },
+    {
+      "background": "rgb(229, 236, 246)",
+      "textColor": "rgb(2, 6, 4)",
+      "headings": [],
+      "bodyStyle": {
+        "fontSize": "16px",
+        "color": "rgb(2, 6, 4)",
+        "lineHeight": "25.6px",
+        "textAlign": "start"
+      },
+      "buttons": [],
+      "layout": {
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "center",
+        "justifyContent": "space-between",
+        "gap": "24px",
+        "childCount": 2
+      },
+      "interactionType": "accordion",
+      "outerBackground": "rgba(229, 236, 246, 0.54)",
+      "panelWidthPct": 75
+    },
+    {
+      "background": "rgb(250, 250, 247)",
+      "textColor": null,
+      "headings": [],
+      "bodyStyle": null,
+      "buttons": [],
+      "layout": {}
+    },
+    {
+      "background": "rgb(0, 16, 38)",
+      "textColor": "rgb(204, 208, 213)",
+      "headings": [
+        {
+          "tag": "h3",
+          "fontSize": "26px",
+          "fontWeight": "700",
+          "color": "rgb(204, 208, 213)",
+          "text": "Logeman & Iafrate, P.C.",
+          "letterSpacing": "-0.44px",
+          "textAlign": "start"
+        }
+      ],
+      "bodyStyle": null,
+      "buttons": [],
+      "links": [
+        {
+          "text": "Read our recent personal injury articles",
+          "color": "rgb(76, 128, 197)",
+          "fontWeight": "400"
+        },
+        {
+          "text": "Bicycle Accidents",
+          "color": "rgb(204, 208, 213)",
+          "fontWeight": "400"
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "1440px",
+        "display": "grid",
+        "gridTemplateColumns": "510.172px 680.219px",
+        "gap": "16px 153.6px",
+        "childCount": 2
+      }
+    }
+  ],
+  "globalTypography": {
+    "headingFont": "Playfair Display",
+    "bodyFont": "Poppins",
+    "scale": {
+      "h4": {
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "lineHeight": "28px"
+      },
+      "h1": {
+        "fontSize": "44px",
+        "fontWeight": "700",
+        "lineHeight": "55px"
+      },
+      "h2": {
+        "fontSize": "36px",
+        "fontWeight": "700",
+        "lineHeight": "50.4px"
+      },
+      "h3": {
+        "fontSize": "26px",
+        "fontWeight": "700",
+        "lineHeight": "33.8px"
+      },
+      "body": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "25.6px"
+      }
+    }
+  },
+  "navigation": {
+    "isFullWidth": true,
+    "width": "1920px",
+    "backgroundColor": "rgba(252, 253, 248, 0)",
+    "logo": {
+      "width": "148px",
+      "height": "117px",
+      "position": "inside-nav",
+      "hasBadge": false,
+      "src": "https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/6941b18a1fbcadfc33d9874c_Logo.png"
+    },
+    "hasLogo": true,
+    "links": [
+      {
+        "text": "Schedule a Free Consultation",
+        "fontSize": "16px",
+        "fontFamily": "Poppins",
+        "fontWeight": "500",
+        "color": "rgb(255, 255, 255)",
+        "isButton": true,
+        "buttonStyle": {
+          "backgroundColor": "rgb(0, 74, 173)",
+          "border": "1px solid rgb(0, 74, 173)"
+        }
+      },
+      {
+        "text": "Home",
+        "fontSize": "16px",
+        "fontFamily": "Poppins",
+        "fontWeight": "400",
+        "color": "rgb(2, 6, 4)",
+        "active": true,
+        "hasDropdown": true
+      },
+      {
+        "text": "About us",
+        "fontSize": "16px",
+        "fontFamily": "Poppins",
+        "fontWeight": "400",
+        "color": "rgb(2, 6, 4)",
+        "hasDropdown": true
+      },
+      {
+        "text": "Why choose us when injured?",
+        "fontSize": "16px",
+        "fontFamily": "Poppins",
+        "fontWeight": "500",
+        "color": "rgb(2, 6, 4)",
+        "isButton": true,
+        "buttonStyle": {
+          "backgroundColor": "rgb(229, 236, 246)",
+          "border": "1px solid rgb(229, 236, 246)"
+        }
+      },
+      {
+        "text": "Our Results",
+        "fontSize": "16px",
+        "fontFamily": "Poppins",
+        "fontWeight": "400",
+        "color": "rgb(2, 6, 4)",
+        "hasDropdown": true
+      },
+      {
+        "text": "Reviews",
+        "fontSize": "16px",
+        "fontFamily": "Poppins",
+        "fontWeight": "400",
+        "color": "rgb(2, 6, 4)",
+        "hasDropdown": true
+      },
+      {
+        "text": "Service Areas",
+        "fontSize": "16px",
+        "fontFamily": "Poppins",
+        "fontWeight": "400",
+        "color": "rgb(2, 6, 4)",
+        "hasDropdown": true
+      },
+      {
+        "text": "Contact Us",
+        "fontSize": "16px",
+        "fontFamily": "Poppins",
+        "fontWeight": "400",
+        "color": "rgb(2, 6, 4)",
+        "hasDropdown": true
+      },
+      {
+        "text": "Schedule a Free Consultation",
+        "fontSize": "16px",
+        "fontFamily": "Poppins",
+        "fontWeight": "500",
+        "color": "rgb(2, 6, 4)",
+        "isButton": true,
+        "buttonStyle": {
+          "backgroundColor": "rgb(229, 236, 246)",
+          "border": "1px solid rgb(229, 236, 246)"
+        }
+      },
+      {
+        "text": "(734) 994-0200",
+        "fontSize": "16px",
+        "fontFamily": "Poppins",
+        "fontWeight": "500",
+        "color": "rgb(255, 255, 255)",
+        "isButton": true,
+        "buttonStyle": {
+          "backgroundColor": "rgb(0, 74, 173)",
+          "border": "1px solid rgb(0, 74, 173)"
+        }
+      }
+    ],
+    "linkLayout": {
+      "paddingX": "12px 12px",
+      "pitchPx": 110,
+      "distribution": "left",
+      "verticalAlign": "top"
+    }
+  },
+  "sliders": [],
+  "buttons": [
+    {
+      "backgroundColor": "rgb(0, 74, 173)",
+      "color": "rgb(255, 255, 255)",
+      "border": "1px solid rgb(0, 74, 173)",
+      "padding": "12px 16px 12px 16px",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "text": "Speak with a Lawyer"
+    },
+    {
+      "backgroundColor": "rgba(204, 218, 238, 0.31)",
+      "color": "rgb(2, 6, 4)",
+      "borderRadius": "4px",
+      "border": "1px solid rgb(255, 255, 255)",
+      "padding": "12px 20px 12px 20px",
+      "fontSize": "16px",
+      "fontWeight": "500",
+      "text": "Explore Our Practice Areas"
+    }
+  ],
+  "videos": [],
+  "footer": {
+    "background": "rgb(0, 16, 38)",
+    "textColor": "rgb(255, 255, 255)",
+    "columns": 2,
+    "textAlign": "start"
+  },
+  "socialLinks": null,
+  "hoverStyles": {
+    ".w-lightbox-inactive, .w-lightbox-inactive": {
+      "opacity": "0"
+    },
+    ".form_checkbox-icon": {
+      "backgroundColor": "var(--_primitives---opacity--neutral-darkest-5)"
+    },
+    ".form_checkbox-icon.is-alternate": {
+      "backgroundColor": "var(--_primitives---opacity--white-10)"
+    },
+    ".button": {
+      "backgroundColor": "var(--_primitives---colors--cobalt-dark)",
+      "borderColor": "var(--_primitives---colors--cobalt-dark)"
+    },
+    ".button.is-link.is-icon": {
+      "color": "var(--_primitives---colors--cobalt-darker)"
+    },
+    ".button.is-secondary": {
+      "backgroundColor": "var(--_primitives---opacity--neutral-darkest-15)"
+    },
+    ".button.is-secondary.is-alternate": {
+      "backgroundColor": "var(--_primitives---opacity--white-20)"
+    },
+    ".button.is-alternate": {
+      "backgroundColor": "var(--_primitives---colors--cobalt-lightest)",
+      "borderColor": "var(--_primitives---colors--neutral-lighter)"
+    }
+  },
+  "cssVariables": {
+    "--color-scheme-1--background": "var(--_primitives---colors--white)",
+    "--color-scheme-1--text": "var(--_primitives---colors--neutral-darkest)",
+    "--color-scheme-2--accent": "var(--_primitives---colors--cobalt)",
+    "--color-scheme-3--accent": "var(--_primitives---colors--cobalt)",
+    "--color-scheme-3--background": "#ccdaee4f",
+    "--color-scheme-1--accent": "var(--_primitives---colors--cobalt)",
+    "--color-scheme-5--accent": "var(--_primitives---colors--cobalt)",
+    "--color-scheme-1--border": "var(--_primitives---opacity--neutral-darkest-15)",
+    "--color-scheme-1--foreground": "var(--_primitives---colors--neutral-lightest)",
+    "--color-scheme-5--text": "var(--_primitives---colors--neutral-darkest)",
+    "--color-scheme-2--background": "var(--_primitives---colors--midnight-lighter)",
+    "--color-scheme-2--text": "var(--_primitives---colors--neutral-darkest)",
+    "--color-scheme-3--text": "var(--_primitives---colors--neutral-darkest)",
+    "--color-scheme-4--background": "var(--_primitives---colors--spring-wood-lighter)",
+    "--color-scheme-4--text": "var(--_primitives---colors--neutral-darkest)",
+    "--color-scheme-5--background": "var(--_primitives---colors--spring-wood-light)",
+    "--color-scheme-6--background": "var(--_primitives---colors--midnight-dark)",
+    "--color-scheme-6--text": "var(--_primitives---colors--white)",
+    "--color-scheme-7--background": "var(--_primitives---colors--cobalt-lightest)",
+    "--color-scheme-7--text": "var(--_primitives---colors--neutral-darkest)",
+    "--color-scheme-8--background": "var(--_primitives---colors--neutral-lightest)",
+    "--color-scheme-8--text": "var(--_primitives---colors--neutral-darkest)",
+    "--color-scheme-8--accent": "var(--_primitives---colors--cobalt)",
+    "--color-scheme-4--accent": "var(--_primitives---colors--cobalt)",
+    "--color-scheme-2--border": "var(--_primitives---opacity--neutral-darkest-15)",
+    "--color-scheme-2--foreground": "var(--_primitives---colors--midnight-lightest)",
+    "--color-scheme-3--border": "var(--_primitives---opacity--neutral-darkest-15)",
+    "--color-scheme-3--foreground": "var(--_primitives---colors--cobalt-lightest)",
+    "--color-scheme-4--border": "var(--_primitives---opacity--neutral-darkest-15)",
+    "--color-scheme-4--foreground": "var(--_primitives---colors--spring-wood-lightest)",
+    "--color-scheme-5--border": "var(--_primitives---opacity--neutral-darkest-15)",
+    "--color-scheme-5--foreground": "var(--_primitives---colors--spring-wood)",
+    "--color-scheme-6--border": "var(--_primitives---opacity--white-20)",
+    "--color-scheme-6--accent": "var(--_primitives---colors--white)",
+    "--color-scheme-6--foreground": "var(--_primitives---colors--midnight)",
+    "--color-scheme-7--border": "var(--_primitives---opacity--neutral-darkest-15)",
+    "--color-scheme-7--accent": "var(--_primitives---colors--cobalt)",
+    "--color-scheme-7--foreground": "var(--_primitives---colors--cobalt-lighter)",
+    "--color-scheme-8--border": "var(--_primitives---opacity--neutral-darkest-15)",
+    "--color-scheme-8--foreground": "var(--_primitives---colors--white)"
+  },
+  "externalFonts": [
+    "https://fonts.googleapis.com/",
+    "https://fonts.gstatic.com/",
+    "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700",
+    "font-face: webflow-icons"
+  ],
+  "portSectionStyles": [
+    {
+      "index": 0,
+      "heading": "Site header / navigation (port into Navigation.astro)",
+      "elements": [
+        {
+          "tag": "div",
+          "cls": "navbar6_component",
+          "text": "HomeAbout usPractice Areas\n\nMo",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(252, 253, 248, 0)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_logo-link",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "navbar6_logo",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_link",
+          "text": "Home",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_link",
+          "text": "About us",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "svg",
+          "color": "rgb(0, 74, 173)",
+          "fill": "rgb(0, 74, 173)",
+          "width": 16,
+          "height": 16,
+          "viewBox": "0 0 16 16",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h4",
+          "cls": "heading-style-h5",
+          "text": "Motor Vehicle Accident Injurie",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "20px",
+          "fontWeight": "600"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Bicycle AccidentsResidents and",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "icon-1x1-xsmall",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Car AccidentsCar accidents rem",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Motorcycle AccidentsExperience",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Truck AccidentsOur Ann Arbor t",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "More Vehicle Accident Cases",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(229, 236, 246, 0.54)",
+          "borderRadius": "6px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h4",
+          "cls": "heading-style-h5",
+          "text": "Catastrophic Injuries",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "20px",
+          "fontWeight": "600"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Brain InjuriesLearn how insura",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Construction AccidentsConstruc",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Spinal Cord InjurySpinal cord ",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Wrongful DeathThe loss of a lo",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "More Catastrophic Cases",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(229, 236, 246, 0.54)",
+          "borderRadius": "6px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h4",
+          "cls": "heading-style-h5",
+          "text": "Personal Injury Cases",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "20px",
+          "fontWeight": "600"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Dog Bites and AttacksBitten by",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Electric Scooter AccidentsElec",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Premises LiabilityA premises l",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Product LiabilityWhen defectiv",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "More Personal Injury Cases",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(229, 236, 246, 0.54)",
+          "borderRadius": "6px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h4",
+          "cls": "heading-style-h5",
+          "text": "Featured News Item",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "20px",
+          "fontWeight": "600"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_blog-item",
+          "text": "We're Celebrating 45 Years of ",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgb(229, 231, 234)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "navbar6_blog-image",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "button",
+          "text": "Read more",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(204, 218, 238, 0.31)",
+          "border": "1px solid rgb(255, 255, 255)",
+          "borderRadius": "4px",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "svg",
+          "color": "rgb(2, 6, 4)",
+          "viewBox": "0 0 16 16",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "a",
+          "cls": "button",
+          "text": "See All Practice Areas",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 74, 173)",
+          "border": "1px solid rgb(0, 74, 173)",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "div",
+          "cls": "navbar6_dropdown-background-layer",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgb(248, 248, 248)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_link",
+          "text": "Our Results",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_link",
+          "text": "Reviews",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_link",
+          "text": "Service Areas",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_link",
+          "text": "Contact Us",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "button",
+          "text": "Schedule a Free Consultation",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgb(229, 236, 246)",
+          "border": "1px solid rgb(229, 236, 246)",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "a",
+          "cls": "button",
+          "text": "(734) 994-0200",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 74, 173)",
+          "border": "1px solid rgb(0, 74, 173)",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "div",
+          "cls": "header84_card-content",
+          "text": "Six Combined Decades Of Experi",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(252, 253, 248, 0)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h1",
+          "text": "Six Combined Decades Of Experi",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "44px",
+          "fontWeight": "700"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "heading": "Supporting Your Recovery After Suffering A Catastrophic Injury",
+      "elements": [
+        {
+          "tag": "h2",
+          "text": "Supporting Your Recovery After",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "h2",
+          "text": "The Devastating Impact Of Cata",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "h2",
+          "text": "What Are Considered Catastroph",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "h2",
+          "text": "How Do Catastrophic Injuries A",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "h2",
+          "text": "Can I Sue For Catastrophic Inj",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "h2",
+          "text": "Get The Compensation You Need,",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "a",
+          "text": "(734) 994-0200",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "sidebar",
+          "text": "Awards and HonorsOur Core Lega",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgb(248, 248, 248)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h3",
+          "text": "Awards and Honors",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "22px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "img",
+          "cls": "award-logo",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h3",
+          "cls": "sidebar_heading-left",
+          "text": "Our Core Legal Practice Areas",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "22px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "a",
+          "cls": "practice-area-link-wrap",
+          "text": "Vehicle Accidents OverviewAn o",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(255, 255, 255, 0.5)",
+          "borderRadius": "6px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "svg",
+          "color": "rgb(0, 74, 173)",
+          "width": 24,
+          "height": 24,
+          "viewBox": "0 0 24 24",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "practice-area-link-wrap",
+          "text": "Catastrophic Injuries Overview",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(255, 255, 255, 0.5)",
+          "borderRadius": "6px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "practice-area-link-wrap",
+          "text": "Personal Injury OverviewInjuri",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(255, 255, 255, 0.5)",
+          "borderRadius": "6px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h2",
+          "cls": "heading-style-h2",
+          "text": "Trusted Michigan Personal Inju",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "div",
+          "cls": "layout395_card",
+          "text": "PartnerAdrienne LogemanMs. Log",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(229, 236, 246, 0.54)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "attorney_bio-img",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h4",
+          "text": "Adrienne Logeman",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "22px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "a",
+          "cls": "button",
+          "text": "Learn more",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(204, 218, 238, 0.31)",
+          "border": "1px solid rgb(255, 255, 255)",
+          "borderRadius": "4px",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "svg",
+          "color": "rgb(2, 6, 4)",
+          "width": 16,
+          "height": 16,
+          "viewBox": "0 0 16 16",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "div",
+          "cls": "layout395_card",
+          "text": "Trial readyMichigan Injury Law",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(229, 236, 246, 0.54)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "layout395_card-image",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h4",
+          "text": "Michigan Injury Lawyers",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "22px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "div",
+          "cls": "layout395_card",
+          "text": "PartnerJames A. IafrateLicense",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(229, 236, 246, 0.54)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h4",
+          "text": "James A. Iafrate",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "22px",
+          "fontWeight": "700"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "heading": "Our Law Firm's Practice Areas",
+      "elements": [
+        {
+          "tag": "h2",
+          "cls": "heading-style-h2",
+          "text": "Our Law Firm's Practice Areas",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "h4",
+          "cls": "heading-style-h5",
+          "text": "Motor Vehicle Accident Injurie",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "20px",
+          "fontWeight": "600"
+        },
+        {
+          "tag": "a",
+          "cls": "practice-area-link-wrap",
+          "text": "Vehicle Accidents OverviewAn o",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(255, 255, 255, 0.5)",
+          "borderRadius": "6px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "svg",
+          "color": "rgb(0, 74, 173)",
+          "width": 24,
+          "height": 24,
+          "viewBox": "0 0 24 24",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Bicycle AccidentsResidents and",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "icon-1x1-xsmall",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Bus AccidentsExperienced Ann A",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Car AccidentsCar accidents rem",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Distracted DrivingDistracted d",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Drunk Driver AccidentsSeeking ",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h4",
+          "cls": "heading-style-h5",
+          "text": "...more accident case types",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "20px",
+          "fontWeight": "600"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Lyft & Uber AccidentsAccident ",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Motorcycle AccidentsExperience",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "No Fault Insurance ClaimsExper",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Pedestrian AccidentsAnn Arbor ",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Truck AccidentsOur Ann Arbor t",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Uninsured / Underinsured Motor",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h4",
+          "cls": "heading-style-h5",
+          "text": "Catastrophic Injuries",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "20px",
+          "fontWeight": "600"
+        },
+        {
+          "tag": "a",
+          "cls": "practice-area-link-wrap",
+          "text": "Catastrophic Injuries Overview",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(255, 255, 255, 0.5)",
+          "borderRadius": "6px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Brain InjuriesLearn how insura",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Construction AccidentsConstruc",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Spinal Cord InjurySpinal cord ",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Wrongful DeathThe loss of a lo",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h4",
+          "cls": "heading-style-h5",
+          "text": "Personal Injury Cases",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "20px",
+          "fontWeight": "600"
+        },
+        {
+          "tag": "a",
+          "cls": "practice-area-link-wrap",
+          "text": "Personal Injury OverviewInjuri",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(255, 255, 255, 0.5)",
+          "borderRadius": "6px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Dog Bites and AttacksBitten by",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Electric Scooter AccidentsElec",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Premises LiabilityA premises l",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "navbar6_dropdown-link",
+          "text": "Product LiabilityWhen defectiv",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "heading": "We Stand with You through the Hardest Times, Advocating Vigorously for Your Righ",
+      "elements": [
+        {
+          "tag": "h2",
+          "cls": "heading-style-h2",
+          "text": "We Stand with You through the ",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "a",
+          "cls": "button",
+          "text": "Speak with a Lawyer",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 74, 173)",
+          "border": "1px solid rgb(0, 74, 173)",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "a",
+          "cls": "button",
+          "text": "Explore Our Practice Areas",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(204, 218, 238, 0.31)",
+          "border": "1px solid rgb(255, 255, 255)",
+          "borderRadius": "4px",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "svg",
+          "color": "rgb(2, 6, 4)",
+          "width": 16,
+          "height": 16,
+          "viewBox": "0 0 16 16",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "img",
+          "cls": "layout1_image",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "heading": "What Our Clients Say About Us",
+      "elements": [
+        {
+          "tag": "h2",
+          "cls": "heading-style-h2",
+          "text": "What Our Clients Say About Us",
+          "color": "rgb(255, 255, 255)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "If I could give them 100 stars",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "review-star-rating",
+          "color": "rgb(255, 255, 255)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "review_source-icon",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "fontSize": "12.8px",
+          "fontWeight": "300"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "They did wonderfully in winnin",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "I could not have asked for bet",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "I truly believe you could not ",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "Jim was always available when ",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "I cannot recommended them high",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "By far the best lawyer I’ve ev",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "I can not say enough about thi",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "My wife and I strongly recomme",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "I know that we can always trus",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "testimonial22_card",
+          "text": "I would recommend James and hi",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "8px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "slider-arrow",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "border": "1px solid rgb(0, 16, 38)",
+          "borderRadius": "100%",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "svg",
+          "color": "rgb(255, 255, 255)",
+          "fill": "rgb(255, 255, 255)",
+          "width": 16,
+          "height": 16,
+          "viewBox": "0 0 16 16",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "w-slider-dot",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": "100%",
+          "fontSize": "8px"
+        },
+        {
+          "tag": "a",
+          "cls": "button",
+          "text": "See More Reviews and Testimoni",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 74, 173)",
+          "border": "1px solid rgb(0, 74, 173)",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "heading": "Schedule a Free Case Review with a Lawyer",
+      "elements": [
+        {
+          "tag": "div",
+          "cls": "padding-global",
+          "text": "Schedule a Free Case Review wi",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgb(250, 250, 247)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "layout145_image",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Schedule a Free Case Review wi",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "26px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "a",
+          "cls": "w-inline-block",
+          "text": "Adrienne D. LogemanPartner",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "team17_image",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "w-inline-block",
+          "text": "James A. IafratePartner",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "contact6_form-block",
+          "text": "First nameLast nameEmailPhone ",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgba(229, 236, 246, 0.54)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "input",
+          "cls": "form_input",
+          "color": "rgb(2, 6, 4)",
+          "border": "1px solid rgba(2, 6, 4, 0.15)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "select",
+          "cls": "form_input",
+          "text": "Car AccidentMotorcycle Acciden",
+          "color": "rgb(2, 6, 4)",
+          "border": "1px solid rgba(2, 6, 4, 0.15)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "w-form-formradioinput",
+          "color": "rgb(2, 6, 4)",
+          "border": "1px solid rgba(2, 6, 4, 0.15)",
+          "borderRadius": "100px",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "textarea",
+          "cls": "form_input",
+          "color": "rgb(2, 6, 4)",
+          "border": "1px solid rgba(2, 6, 4, 0.15)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "input",
+          "cls": "button",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 74, 173)",
+          "border": "1px solid rgb(0, 74, 173)",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        },
+        {
+          "tag": "div",
+          "cls": "form_message-success",
+          "text": "Thank you. We will be in touch",
+          "color": "rgb(2, 122, 72)",
+          "backgroundColor": "rgb(236, 253, 243)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "form_message-error",
+          "text": "Something went wrong. Please t",
+          "color": "rgb(180, 35, 24)",
+          "backgroundColor": "rgb(254, 243, 242)",
+          "fontSize": "16px"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "heading": "Frequently Asked Questions",
+      "elements": [
+        {
+          "tag": "h2",
+          "cls": "heading-style-h2",
+          "text": "Frequently Asked Questions",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "36px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "div",
+          "cls": "faq4_accordion",
+          "text": "How does contingency work?\n\nYo",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgb(229, 236, 246)",
+          "borderRadius": "12px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "svg",
+          "color": "rgb(0, 74, 173)",
+          "fill": "rgb(0, 74, 173)",
+          "width": 32,
+          "height": 32,
+          "viewBox": "0 0 32 32",
+          "fontSize": "16px",
+          "fontWeight": "600"
+        },
+        {
+          "tag": "div",
+          "cls": "faq4_accordion",
+          "text": "What cases do you take?\n\nWe ha",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgb(229, 236, 246)",
+          "borderRadius": "12px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "faq4_accordion",
+          "text": "How long does this take?\n\nEver",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgb(229, 236, 246)",
+          "borderRadius": "12px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "faq4_accordion",
+          "text": "Will my case go to trial?\n\nWe'",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgb(229, 236, 246)",
+          "borderRadius": "12px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "div",
+          "cls": "faq4_accordion",
+          "text": "What should I do now?\n\nCall us",
+          "color": "rgb(2, 6, 4)",
+          "backgroundColor": "rgb(229, 236, 246)",
+          "borderRadius": "12px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h4",
+          "text": "Need more help?",
+          "color": "rgb(2, 6, 4)",
+          "fontSize": "22px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "a",
+          "cls": "button",
+          "text": "Schedule a Free Consultation",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(0, 74, 173)",
+          "border": "1px solid rgb(0, 74, 173)",
+          "fontSize": "16px",
+          "fontWeight": "500"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "heading": "Site footer (port into Footer.astro)",
+      "elements": [
+        {
+          "tag": "div",
+          "cls": "w-layout-grid",
+          "text": "Logeman & Iafrate, P.C.2950 S.",
+          "color": "rgb(204, 208, 213)",
+          "backgroundColor": "rgb(1, 21, 48)",
+          "borderRadius": "12px",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_logo-link",
+          "text": "Logeman & Iafrate, P.C.2950 S.",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "img",
+          "cls": "footer9_logo",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "h3",
+          "cls": "footer_firm-name",
+          "text": "Logeman & Iafrate, P.C.",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "26px",
+          "fontWeight": "700"
+        },
+        {
+          "tag": "a",
+          "text": "Read our recent personal injur",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Bicycle Accidents",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Car Accidents",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Motorcycle Accidents",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Truck Accidents",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Brain Injuries",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Construction Accidents",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Spinal Cord Injury",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Wrongful Death",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Dog Bites and Attacks",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Electric Scooter Accidents",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Premises Liability",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Product Liability",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "James A. Iafrate",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Adrienne D. Logeman",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Our Client Testimonials",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Verdicts and Settlements",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_link",
+          "text": "Book a Free Consultation",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_legal-link",
+          "text": "Attorney Disclaimer",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "a",
+          "cls": "footer9_legal-link",
+          "text": "Our Privacy Policy",
+          "color": "rgb(204, 208, 213)",
+          "fontSize": "14px"
+        }
+      ]
+    }
+  ],
+  "imageTreatments": [],
+  "floatingOverlays": [],
+  "positionedOverlays": [],
+  "captureViewport": 1920,
+  "hiddenImages": [
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/69406c0dcb3975457813c92b_08ec9fdf-6c06-4751-81be-ac68d25c1280.avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/69406c086972d9fc86b4079b_d39c9cd3-ebf0-49fe-a6f4-183f84e9fef6.avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/69406c0be85ce8d8904524b0_39eeb3a2-731a-457e-bd5b-bc2787927382.avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/69406c078a4498870b0ae167_9e97459d-4b54-46a6-8e40-e1744ba7325b.avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/69406c096b5a28b78d6e4449_69405fdf51d62a3e4adfb18b_svg-export-1x.avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/69406c0544a2de3be82cb4e2_d4b661a3-68d8-4f6e-823c-96e53e493f51.avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/69406c086972d9fc86b40743_18f32e67-0291-4e99-adf1-bb3d2c231be1.avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/69406c0576a84b05b803944e_8e922b6f-5b6c-4eae-9283-5e426f3c2938.avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/6940c9d6eebd42f8a4b6bc70_199151d5-eafe-4353-bc0b-e72bd0ded9b6.avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/6940c9d97158613cc9049222_6940c13803310ca8a57ad777_svg-export-2x(10).avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/6940cacea3440ef26e702558_2558a15a-8905-47e6-ad64-648e09e0a299.avif",
+    "https://cdn.prod.website-files.com/693446f473f8e04b37562c19/69406c06a16958d97191b0fd_5b9aaba5-06c6-4e5c-b275-28137ee25f84.avif",
+    "https://cdn.prod.website-files.com/693446872c5f1ab9965b1a98/693497142d3f9984e2edc6a5_relume-608159.avif"
+  ]
+}

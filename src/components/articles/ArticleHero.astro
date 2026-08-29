@@ -1,0 +1,14 @@
+---
+interface Props {
+  title?: string;
+}
+const { title } = Astro.props;
+---
+<section class="bg-background py-8 border-b border-border">
+  <div class="max-w-[900px] mx-auto px-6 text-center">
+    <a href="/" aria-label="Logeman & Iafrate home" class="inline-block">
+      <img src="https://pagesmith-cdn.com/881ce63c/images/6941b18a1fbcadfc33d9874c_Logo-320.webp" alt="Logeman & Iafrate, P.C." class="w-[80px] h-auto mx-auto" />
+    </a>
+    {title && <h1 class="text-[36px] lg:text-[44px] font-bold leading-[1.25] text-foreground tracking-normal mt-6">{title}</h1>}
+  </div>
+</section>

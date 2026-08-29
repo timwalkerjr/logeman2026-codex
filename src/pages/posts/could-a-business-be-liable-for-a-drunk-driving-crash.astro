@@ -1,0 +1,39 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+
+const faqItems = [
+  { question: "Can a bar be held liable if they serve someone who later causes a drunk driving crash?", answer: "Yes, under Michigan's dram shop laws, bars and restaurants can be held liable if they serve alcohol to visibly intoxicated patrons who then cause a crash. Establishments have a legal duty to cut off service to customers showing signs of impairment and to verify that all customers are of legal drinking age." },
+  { question: "What is vicarious liability in drunk driving cases?", answer: "Vicarious liability means an employer can be held responsible for the negligent actions of their employees. If an employee causes a drunk driving crash while on the clock or performing work duties, their employer may be partially liable for damages, regardless of whether the employee was driving a company vehicle or their personal vehicle." },
+  { question: "What should I do if I'm injured by a drunk driver who was working at the time?", answer: "Document all details of the crash, including the time, location, and any evidence that the driver was working. Seek immediate medical attention and contact an experienced personal injury attorney who can investigate whether the driver's employer may share liability under vicarious liability rules." },
+  { question: "How do I prove a business violated dram shop laws?", answer: "Evidence may include witness testimony from other patrons or staff, surveillance footage from the establishment, receipts showing the amount of alcohol served, and police reports documenting the driver's level of intoxication. An attorney can help gather this evidence to build your case." },
+  { question: "Can I recover more compensation by holding a business liable?", answer: "Yes, when catastrophic injuries or fatal crashes result in expenses exceeding the drunk driver's insurance coverage, holding a business liable can provide access to additional compensation sources. Businesses typically carry higher liability insurance limits than individual drivers." },
+];
+---
+<BaseLayout title="Could a business be liable for a drunk driving crash?" description="Learn when businesses can be held liable for drunk driving crashes. Understand dram shop laws for bars and restaurants, and employer vicarious liability when employees drive impaired on the job.">
+  <ArticleContent>
+    <p>Most people are well aware that the law prohibits drunk driving. They may choose not to drive after enjoying one or two beers just to err on the side of caution. Unfortunately, not everyone makes their safety and the safety of others in traffic a priority. Drunk drivers are a common safety concern despite widespread awareness about laws prohibiting drunk driving.</p>
+    <p>The people affected by drunk driving crashes often have several options available to them. They may be able to file insurance claims. Personal injury protection (PIP) coverage can help pay for medical care. The liability coverage of the driver at fault can also help limit losses. Yet, catastrophic injuries and tragic fatal crashes could cause expenses that extend well beyond the available insurance coverage.</p>
+    <p>Is it ever possible to hold a business accountable for a drunk driving crash?</p>
+    <h2><strong>Did liquor law violations occur?</strong></h2>
+    <p>Businesses typically are not liable for the decisions made by their customers. However, there are numerous rules that control the distribution of alcoholic beverages. For example, bars and restaurants have to verify that customers are old enough to legally drink.</p>
+    <p>Additionally, bartenders and waitstaff typically need to cut off customers if they demonstrate visible impairment. If there is evidence that a bar or restaurant violated alcohol service rules and then a drunk patron went on to cause a crash immediately afterward, the business may have a degree of liability <a href="https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-436-1801" rel="noopener">under dram shop laws</a>.</p>
+    <h2><strong>Was the drunk driver on the job?</strong></h2>
+    <p>Employers are usually liable for mistakes made by their workers. Vicarious liability rules make businesses liable for the negligence of their employees. Employees in the transportation sector may spend every day on the road, while many other professionals may occasionally drive while performing key work functions.</p>
+    <p>If a drunk driver was on the clock at the time a crash occurred, their employer may be partially liable for the incident. Vicarious liability rules apply regardless of whether the worker was in their own vehicle or a fleet vehicle.</p>
+    <p>Looking carefully at the circumstances surrounding a <a href="/practice-area/drunk-driver-accidents/">drunk driving crash</a> with a skilled legal team can help people understand their options. There may be businesses that have a degree of liability for the actions of impaired motorists in special circumstances.</p>
+    <p><em>This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</em></p>
+  </ArticleContent>
+
+  <ArticleFAQ items={faqItems} />
+
+  <StatsBar />
+
+  <ArticleContactForm />
+
+  <ArticleTestimonials />
+</BaseLayout>
