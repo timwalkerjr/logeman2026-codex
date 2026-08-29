@@ -71,4 +71,23 @@ const docs = defineCollection({
   }),
 });
 
-export const collections = { blog, docs };
+const practiceAreas = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/practice-areas' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    heroTitle: z.string(),
+    heroEyebrow: z.string(),
+    heroDescription: z.string(),
+    heroImage: z.string(),
+    heroImageSrcset: z.array(z.string()).default([]),
+    heroImageAlt: z.string(),
+    canonicalUrl: z.string().url(),
+    faqs: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).default([]),
+  }),
+});
+
+export const collections = { blog, docs, practiceAreas };

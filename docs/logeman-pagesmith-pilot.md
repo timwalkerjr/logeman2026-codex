@@ -10,10 +10,14 @@
 - Webflow production site: `https://www.logeman.com`
 - Hard boundary: Webflow is read-only. PageSmith may be edited and published.
 
-## Pilot route
+## Practice-area collection
 
-- Source: `https://www.logeman.com/practice-area/car-accidents`
-- Target: `https://logeman.newsitebuild.dev/practice-area/car-accidents`
+- Collection entries: `src/content/practice-areas/*.mdx`
+- Shared route: `src/pages/practice-area/[slug].astro`
+- Shared presentation: the restored Car Accidents component stack (`ArticleHero`, `ArticleContent`, `ArticleFAQ`, testimonials, contact form, and map)
+- Route coverage: all 19 existing `/practice-area/*` URLs
+- Per-item fields: document title, description, hero content, responsive PageSmith image set, live-site canonical, FAQ items, and MDX article body
+- The former one-file-per-route Astro pages were removed after their body content and FAQ data were migrated into the collection.
 
 ## Baseline
 
@@ -56,3 +60,10 @@
 - Astro build/check pass.
 - Desktop and mobile PageSmith renders are reviewed against Webflow.
 - PageSmith production test route is published and verified.
+
+## Collection verification
+
+- Astro build: successful, 191 static pages, including all 19 practice-area routes.
+- Astro check: no new diagnostics; the same 3 pre-existing type errors remain in `BlogLayout.astro` and `DocsLayout.astro`.
+- Every rendered practice-area page has exactly one H1, its production Webflow canonical, `noindex, nofollow`, an FAQ section, and a PageSmith CDN hero image.
+- The shared dynamic route does not import the unverified `StatsBar` or `ArticleStats` components.
