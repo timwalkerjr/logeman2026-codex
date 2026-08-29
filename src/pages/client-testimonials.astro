@@ -19,6 +19,7 @@ const description = "Read what past clients say about working with Logeman & Iaf
     imageAlt="Lady Justice holding the scales of justice"
   />
   <ArticleContent>
+    <div class="reviews-page-content">
     <h2>These words from the people we've represented remind us why we do this work every day.</h2>
 
     <p>At Logeman &amp; Iafrate, the relationships we build with our clients mean everything to us. When someone walks through our doors after an accident or injury, they're often facing one of the most difficult times in their lives. It's a privilege to stand beside them, fight for what they deserve, and help them move forward.</p>
@@ -200,9 +201,79 @@ const description = "Read what past clients say about working with Logeman & Iaf
       <p>We were in GREAT hands with Logeman throughout our litigation. Not only having Adrienne leading the charge but everyone in the office provided a caring and knowledgeable atmosphere. Great to have a Great Team on our side. Forever grateful and thankful we chose them.</p>
       <p><em>November 15, 2024</em></p>
     </blockquote>
+    </div>
   </ArticleContent>
   <ArticleStats />
   <ArticleContactForm />
   <ArticleTestimonials />
   <ArticleMap />
 </BaseLayout>
+
+<style is:global>
+  .reviews-page-content blockquote {
+    position: relative;
+    margin: 0 0 2rem !important;
+    border: 0 !important;
+    border-radius: 8px;
+    background: #eef2f8;
+    padding: 2rem 1.75rem 1.75rem !important;
+    color: hsl(var(--foreground));
+    font-style: normal !important;
+    box-shadow: none;
+  }
+
+  .reviews-page-content blockquote::before {
+    display: block;
+    margin-bottom: 1rem;
+    color: #fbbb19;
+    content: '★★★★★';
+    font-family: Arial, sans-serif;
+    font-size: 1.5rem;
+    font-style: normal;
+    letter-spacing: 0.08em;
+    line-height: 1;
+  }
+
+  .reviews-page-content blockquote p {
+    margin: 0 !important;
+    color: hsl(var(--foreground));
+    font-style: normal !important;
+  }
+
+  .reviews-page-content blockquote p:first-of-type {
+    margin-bottom: 1rem !important;
+  }
+
+  .reviews-page-content blockquote p:first-of-type::before,
+  .reviews-page-content blockquote p:last-of-type::after {
+    content: none !important;
+  }
+
+  .reviews-page-content blockquote strong {
+    color: hsl(var(--foreground));
+    font-size: 1.125rem;
+    font-weight: 700;
+  }
+
+  .reviews-page-content blockquote p:nth-of-type(2) {
+    font-size: 1rem;
+    line-height: 1.55;
+  }
+
+  .reviews-page-content blockquote p:last-of-type {
+    margin-top: 1rem !important;
+    text-align: right;
+  }
+
+  .reviews-page-content blockquote em {
+    color: hsl(var(--foreground));
+    font-size: 0.75rem;
+    font-style: normal;
+  }
+
+  @media (min-width: 768px) {
+    .reviews-page-content blockquote {
+      padding: 2rem 2rem 1.75rem !important;
+    }
+  }
+</style>
