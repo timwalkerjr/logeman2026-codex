@@ -1,0 +1,139 @@
+---
+title: "Washtenaw County Distracted Driving Lawyers | Ann Arbor Texting Accident Attorneys"
+description: "Washtenaw County distracted driving accident attorneys fighting for victims in Ann Arbor, Ypsilanti, and beyond. We prove distracted driving cases. Free consultation. No fee unless we win."
+canonicalUrl: "https://www.logeman.com/service/distracted-driving-accident-injuries-in-washtenaw-county-mi/"
+showHero: true
+heroTitle: ""
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"What should I do immediately after a distracted driving accident in Washtenaw County?","answer":"First, check on everyone involved and call 911. Get medical care right away—some serious injuries don't show immediate symptoms. Photograph the scene, including anything suggesting distracted driving (phone, food, etc.). Get contact information from witnesses and the at-fault driver. Report the crash to your insurance company to preserve no-fault benefits, but don't give a recorded statement to the other driver's insurer without legal counsel. Contact an experienced distracted driving attorney as soon as possible."},{"question":"How do I prove the other driver was texting or distracted?","answer":"We obtain cell phone records through subpoenas showing calls, texts, and app usage at the crash time. We also use traffic cameras, business surveillance video, dashcam footage, witness testimony, vehicle data recorders, and any driver admissions. Accident reconstruction experts can demonstrate the driver's inattention through physical evidence like lack of braking or evasive action. Our attorneys use every available tool to build compelling evidence of distraction."},{"question":"What compensation can I recover after a Washtenaw County distracted driving accident?","answer":"Michigan no-fault PIP benefits cover medical expenses up to your coverage limits, 85% of lost wages, and replacement services regardless of fault. If your injuries meet Michigan's serious impairment threshold, you can pursue third-party claims against the distracted driver for pain and suffering, full wage loss, excess medical expenses, lost earning capacity, and loss of enjoyment of life. The total value depends on injury severity, medical expenses, and impact on your life."},{"question":"How long do I have to file a distracted driving claim in Michigan?","answer":"You must report your accident to your insurance company within one year to preserve PIP coverage. Third-party claims have a three-year statute of limitations. However, evidence like cell phone records may only be retained for limited periods, so prompt legal action is essential. Consulting an attorney immediately ensures evidence is preserved and your rights are protected throughout the process."},{"question":"Can I sue the distracted driver's employer?","answer":"Yes, if the driver was using a work phone or driving a company vehicle while distracted, the employer may share liability through negligent entrustment or vicarious liability theories. Employers who require or permit employees to take business calls or texts while driving may be responsible for resulting accidents. Our attorneys investigate employment relationships and company policies to identify all liable parties and maximize your recovery."},{"question":"How much does it cost to hire a distracted driving accident attorney?","answer":"We work on a contingency-fee basis with no upfront costs. You pay nothing unless we recover compensation for you through settlement or verdict. We offer free consultations to evaluate your case. The initial review is always free, and you owe no legal fees unless we win your case."}]
+statsVariant: "article"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+serviceArea: "washtenaw-county-mi"
+serviceTopic: "distracted-driving-accident-injuries"
+practiceArea: "distracted-driving-causing-personal-injury-ann-arbor-mi"
+---
+
+<h2>Distracted Driving Accident Injuries in Washtenaw County: Holding Careless Drivers Accountable</h2>
+
+<p>Distracted driving has become one of the deadliest threats on Washtenaw County roads. From busy Ann Arbor streets filled with students and commuters to I-94 and US-23 corridors carrying thousands of vehicles daily, distracted drivers cause catastrophic accidents throughout our communities. When a moment's inattention causes life-altering injuries, victims deserve experienced legal advocates who know how to prove these complex cases.</p>
+
+<p>At Logeman &amp; Iafrate, P.C., we've spent more than 45 years fighting for accident victims throughout Michigan, including Washtenaw County. We understand how to obtain cell phone records, secure surveillance footage, and use accident reconstruction experts to prove distracted driving. Insurance companies know we prepare every case for trial, and we take cases other firms refuse.</p>
+
+<h2>The Distracted Driving Epidemic in Washtenaw County</h2>
+
+<p>Distracted driving has reached crisis levels in Michigan and across the country. With smartphones, in-vehicle technology, and demanding schedules, drivers face constant temptations to take their attention off the road. The consequences on Washtenaw County roads are devastating:</p>
+
+<ul>
+  <li>Michigan sees thousands of distracted driving crashes annually</li>
+  <li>Distracted driving causes approximately 9% of all fatal crashes nationally</li>
+  <li>Looking away from the road for just 5 seconds at 55 mph means driving the length of a football field blind</li>
+  <li>Texting while driving makes a crash 23 times more likely than driving with full attention</li>
+  <li>Washtenaw County's mix of university traffic, commuters, commercial vehicles, and highway travel creates constant risks</li>
+</ul>
+
+<p>Common forms of distracted driving causing catastrophic Washtenaw County accidents include texting, phone calls, using apps or GPS, eating and drinking, talking to passengers, grooming, adjusting vehicle controls, watching videos, and daydreaming.</p>
+
+<h2>Michigan's Anti-Distracted Driving Laws</h2>
+
+<p>Michigan has enacted several laws targeting distracted driving:</p>
+
+<p><strong>Kelsey's Law:</strong> Prohibits Level 1 and Level 2 graduated license holders from using cell phones while operating a vehicle, with narrow exceptions for emergencies.</p>
+
+<p><strong>Statewide texting ban:</strong> Michigan prohibits all drivers from texting while driving. This is a primary offense, meaning officers can stop drivers solely for texting.</p>
+
+<p>Violations of these statutes provide powerful evidence of negligence in accident cases, strengthening your claim for damages. While you can pursue claims against distracted drivers regardless of citations, violations establish clear fault and often lead to punitive damage considerations.</p>
+
+<h2>How Distracted Driving Causes Catastrophic Accidents</h2>
+
+<p>Distracted drivers create specific dangers throughout Washtenaw County:</p>
+
+<ul>
+  <li><strong>Failure to stop at signals:</strong> Running red lights and stop signs at Ann Arbor intersections, causing T-bone and broadside collisions</li>
+  <li><strong>Lane departures:</strong> Drifting out of lanes on highways like I-94 and US-23, causing head-on crashes and sideswipes</li>
+  <li><strong>Failure to yield:</strong> Missing right-of-way signs and failing to yield at intersections</li>
+  <li><strong>Rear-end crashes:</strong> Not noticing stopped traffic, especially in construction zones and around the University of Michigan campus</li>
+  <li><strong>Pedestrian accidents:</strong> Failing to see pedestrians in crosswalks, particularly in downtown Ann Arbor</li>
+  <li><strong>Chain-reaction crashes:</strong> Sudden braking or speed variations on highways</li>
+  <li><strong>Wrong-way driving:</strong> Confusion from distractions leading to wrong-way travel</li>
+</ul>
+
+<p>The catastrophic nature of distracted driving injuries often stems from drivers not taking any evasive action before impact because they weren't paying attention at all.</p>
+
+<h2>Catastrophic Injuries from Distracted Driving</h2>
+
+<p>Distracted driving accidents frequently cause severe, life-altering injuries:</p>
+
+<ul>
+  <li>Traumatic brain injuries and concussions</li>
+  <li>Spinal cord damage leading to partial or complete paralysis</li>
+  <li>Multiple fractures and broken bones</li>
+  <li>Internal organ damage and internal bleeding</li>
+  <li>Severe lacerations and scarring</li>
+  <li>Neck and back injuries including herniated discs</li>
+  <li>Crush injuries and amputations</li>
+  <li>Permanent disabilities preventing return to work</li>
+  <li>Wrongful death</li>
+</ul>
+
+<p>These injuries require extensive medical treatment, long rehabilitation periods, and often result in permanent disabilities affecting every aspect of your life.</p>
+
+<h2>Michigan Compensation for Distracted Driving Victims</h2>
+
+<p>Michigan's no-fault insurance system provides benefits regardless of fault, but PIP coverage depends on your policy limits:</p>
+
+<p><strong>No-fault PIP benefits:</strong> Your own auto insurance covers medical expenses up to your chosen coverage level, 85% of lost wages, and replacement services for household tasks you cannot perform.</p>
+
+<p><strong>Third-party claims:</strong> If your injuries meet Michigan's "serious impairment of body function" threshold, you can sue the distracted driver for damages beyond no-fault benefits.</p>
+
+<p><strong>Employer liability:</strong> If the distracted driver was working, their employer may share responsibility.</p>
+
+<p>Third-party claims allow recovery of pain and suffering, full wage loss, excess medical costs, lost earning capacity, and loss of enjoyment of life.</p>
+
+<h2>Proving Distracted Driving in Court</h2>
+
+<p>Proving the other driver was distracted requires thorough investigation and compelling evidence. Our attorneys pursue every available avenue:</p>
+
+<ul>
+  <li><strong>Cell phone records:</strong> Subpoenaing phone records showing calls, texts, and data usage at the time of the crash</li>
+  <li><strong>Vehicle data recorders:</strong> Obtaining event data recorder (EDR) downloads from the vehicle</li>
+  <li><strong>Traffic and security footage:</strong> Securing video from traffic cameras, business security cameras, and dashcams throughout Washtenaw County</li>
+  <li><strong>Witness testimony:</strong> Interviewing witnesses who saw the driver using a phone or otherwise distracted</li>
+  <li><strong>Driver admissions:</strong> Statements the driver made about texting, phone calls, or other distractions</li>
+  <li><strong>Social media activity:</strong> Posts, messages, or app activity timestamps showing phone use</li>
+  <li><strong>Accident reconstruction:</strong> Using experts to demonstrate the driver's inattention through lack of braking or evasive action</li>
+</ul>
+
+<p>Cell phone records often provide the strongest evidence, but phone companies retain these records for varying periods—sometimes just months. Prompt legal action is critical to preserve this crucial evidence.</p>
+
+<h2>Why Washtenaw County Distracted Driving Victims Choose Logeman &amp; Iafrate</h2>
+
+<p>Distracted driving cases require attorneys with the resources and knowledge to obtain and present compelling evidence.</p>
+
+<p><strong>Over 45 years of trial experience:</strong> We've spent decades fighting for accident victims throughout Michigan. Insurance companies know our reputation for thorough preparation and trial readiness.</p>
+
+<p><strong>Proven record of results:</strong> Our verdicts and settlements include substantial recoveries for distracted driving victims.</p>
+
+<p><strong>We take cases others refuse:</strong> If another firm turned down your case, we'll give it a fair evaluation. We've built our reputation on winning difficult cases.</p>
+
+<p><strong>No fee unless we win:</strong> We handle all cases on a contingency-fee basis. You pay nothing unless we recover compensation for you.</p>
+
+<p><strong>Compassionate support:</strong> We understand the physical, emotional, and financial toll of serious injuries. Our team provides guidance while handling every aspect of your legal claim.</p>
+
+<h2>Serving All of Washtenaw County</h2>
+
+<p>We represent distracted driving accident victims throughout Washtenaw County, including Ann Arbor, Ypsilanti, Saline, Chelsea, Dexter, Manchester, Milan, and surrounding communities. Whether your accident occurred on I-94, US-23, M-14, Washtenaw Avenue, or any Washtenaw County street, our attorneys are ready to fight for the compensation you deserve.</p>
+
+<p class="text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
+
+<h2>Get the Legal Help You Deserve After a Washtenaw County Distracted Driving Accident</h2>
+
+<p>If you've been injured by a distracted driver in Washtenaw County, your family deserves experienced trial lawyers who know how to prove distracted driving and are ready to take on the insurance companies protecting careless drivers. At Logeman &amp; Iafrate, P.C., we provide compassionate support during the most difficult time of your life while fighting thoroughly for the compensation you need to rebuild your future.</p>
+
+<p>Contact us today for a <a href="/contact-us/">free consultation</a>. Call us at <a href="tel:+17349940200"><strong>(734) 994-0200</strong></a> or fill out our online contact form. We'll evaluate your case, explain your options, and chart a path forward.</p>
+
+<p>We handle all distracted driving cases on a contingency-fee basis—<strong>we don't get paid unless we win</strong>. Let us fight by your side while you focus on healing and rebuilding your life.</p>
+
+<p class="text-muted-foreground italic max-w-[900px] mx-auto px-6 pb-8">The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</p>

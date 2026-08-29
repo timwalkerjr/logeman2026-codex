@@ -1,0 +1,41 @@
+---
+title: "Michigan's New Texting and Driving Law"
+description: "Michigan's hands-free driving law took effect June 30, 2023, banning holding or using a phone while driving. Learn how it affects your accident claim. Free consultation with Ann Arbor injury attorneys."
+canonicalUrl: "https://www.logeman.com/posts/michigan-s-new-texting-and-driving-law/"
+showHero: false
+heroTitle: ""
+contentTitle: "Michigan's New Texting and Driving Law"
+afterFaqHtml: ""
+faqs: [{"question":"What does Michigan's new distracted driving law prohibit?","answer":"The law prohibits drivers from holding or using a mobile electronic device while operating a motor vehicle. That includes sending or reading texts, making calls, browsing, watching or recording video, and accessing social media while behind the wheel."},{"question":"When did Michigan's hands-free law take effect?","answer":"The expanded distracted driving law took effect on June 30, 2023, broadening Michigan's earlier texting ban into a comprehensive prohibition on holding or manually using a phone while driving."},{"question":"Can I still use my phone hands-free while driving?","answer":"Hands-free use through voice commands or a single touch or swipe to activate a hands-free feature is generally permitted. The law targets holding the device and manually using it while operating the vehicle."},{"question":"How does the law affect my accident claim?","answer":"A driver who violates the hands-free law and causes a crash has committed a statutory violation that can serve as powerful evidence of negligence. Phone records, citations and police reports can help establish that distraction caused your injuries."},{"question":"What should I do if a distracted driver injured me?","answer":"Seek medical attention, make sure police document the crash, and note any indication the other driver was on a phone. Contact an experienced attorney promptly so evidence such as phone records and surveillance footage can be preserved before it is lost."}]
+statsVariant: "article"
+formVariant: "home"
+testimonialsVariant: "home"
+mapVariant: "location"
+---
+
+<p>Michigan significantly strengthened its distracted driving law effective June 30, 2023. What was once a narrow ban on texting is now a broad prohibition on holding or manually using a mobile electronic device while operating a motor vehicle.</p>
+
+<h2>What the Law Prohibits</h2>
+<p>Under the expanded statute, drivers may not hold or use a phone or similar device to:</p>
+<ul>
+  <li>Send, read or reply to text messages or email</li>
+  <li>Make or receive handheld phone calls</li>
+  <li>Browse the internet or use applications</li>
+  <li>Watch, record or stream video</li>
+  <li>Access social media</li>
+</ul>
+
+<p>Hands-free operation through voice commands, or a single touch or swipe to activate a hands-free feature, is generally permitted. The point of the law is simple: the device should not be in your hand and your attention should be on the road.</p>
+
+<h2>Why It Matters</h2>
+<p><a href="/practice-area/distracted-driving-causing-personal-injury-ann-arbor-mi/">Distracted driving</a> is one of the leading causes of serious crashes in Michigan. A driver reading a message at highway speed travels the length of a football field essentially blind. The results are predictable: rear-end collisions, crashes at intersections, and vehicles drifting into oncoming traffic or striking <a href="/practice-area/pedestrian-accidents/">pedestrians</a> and <a href="/practice-area/bicycle-accidents-in-ann-arbor-throughout-michigan/">cyclists</a>.</p>
+
+<h2>The Law and Your Injury Claim</h2>
+<p>If a distracted driver caused your crash, the statutory violation can be strong evidence of negligence. Phone records, citations issued at the scene, witness statements and vehicle data can all help establish that the other driver was not paying attention. That evidence often makes a significant difference in negotiations with an insurance company.</p>
+
+<p>Evidence does not preserve itself, though. Phone records can be difficult to obtain later, and surveillance video is frequently overwritten within days. Acting quickly protects your case.</p>
+
+<h2>Talk With an Attorney</h2>
+<p>If you were injured by a distracted driver in a <a href="/practice-area/car-accidents/">car accident</a>, <a href="/practice-area/truck-accidents/">truck accident</a> or <a href="/practice-area/motorcycle-accidents/">motorcycle accident</a>, our attorneys can investigate what happened and pursue the compensation you are owed. Consultations are free and we charge no legal fees unless we recover for you.</p>
+
+<p><em>This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman &amp; Iafrate, P.C. for advice regarding your individual situation.</em></p>

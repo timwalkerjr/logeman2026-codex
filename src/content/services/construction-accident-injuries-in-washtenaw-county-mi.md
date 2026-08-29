@@ -1,0 +1,148 @@
+---
+title: "Washtenaw County Construction Accident Lawyers | Ann Arbor Injury Attorneys"
+description: "Experienced Washtenaw County construction accident attorneys fighting for injured workers in Ann Arbor, Ypsilanti, and surrounding areas. No fee unless we win. Call (734) 994-0200."
+canonicalUrl: "https://www.logeman.com/service/construction-accident-injuries-in-washtenaw-county-mi/"
+showHero: true
+heroTitle: ""
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"What should I do immediately after a construction accident in Washtenaw County?","answer":"Seek medical care right away and document everything. Report the incident to your supervisor in writing. Photograph the scene, equipment, hazards, and your injuries. Collect witness contact information and preserve any defective tools or materials. File your workers' compensation claim, but don't accept settlements or give recorded statements without consulting an attorney. Our lawyers provide free consultations to evaluate your rights."},{"question":"Can I file a lawsuit in addition to workers' compensation for a Washtenaw County construction accident?","answer":"Yes. While workers' comp is your exclusive remedy against your direct employer, you can sue other parties whose negligence contributed to your injuries. General contractors, subcontractors, property owners, equipment manufacturers, and other third parties may all be liable. These third-party claims provide compensation beyond workers' comp, including pain and suffering, full wage loss, and diminished earning capacity."},{"question":"How long do I have to file a construction accident claim in Michigan?","answer":"Workers' compensation claims must generally be reported within 90 days and filed within two years. Third-party liability claims have a three-year statute of limitations. Some claims, including those against government entities or under specific OSHA-related theories, may have shorter deadlines. Contact an attorney immediately to preserve your rights and ensure compliance with all applicable deadlines."},{"question":"What compensation can I recover for a Washtenaw County construction accident?","answer":"Workers' comp covers medical expenses and approximately 80% of wage loss. Third-party claims can recover full pain and suffering, complete wage loss, lost earning capacity, excess medical costs, rehabilitation expenses, home modifications for catastrophic injuries, and loss of enjoyment of life. Our attorneys pursue every avenue of compensation to maximize your recovery."},{"question":"What are common causes of construction accidents in Washtenaw County?","answer":"Washtenaw County's active construction industry—from University of Michigan projects to Ann Arbor residential developments and Ypsilanti commercial builds—creates risks including falls from heights, scaffolding collapses, crane failures, electrical accidents, trench collapses, struck-by accidents from falling objects, defective equipment, and OSHA violations. Many accidents stem from preventable safety failures."},{"question":"How much does it cost to hire a construction accident attorney?","answer":"We work on a contingency-fee basis, meaning no upfront fees. You pay nothing unless we win your case. We offer free consultations to evaluate your claim and explain your options. The initial review of your case is always free, and you owe us nothing unless we recover compensation for you."}]
+statsVariant: "article"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+serviceArea: "washtenaw-county-mi"
+serviceTopic: "construction-accident-injuries"
+practiceArea: "construction-accidents"
+---
+
+<h2>Construction Accident Injuries in Washtenaw County: Protecting Injured Workers' Rights</h2>
+
+<p>Washtenaw County's thriving construction industry—from University of Michigan expansion projects to Ann Arbor commercial developments, Ypsilanti revitalization efforts, and Saline-area residential construction—provides livelihoods for thousands of workers. But construction remains one of the most dangerous occupations in America. When safety failures cause catastrophic injuries, victims need experienced legal advocates who understand both Michigan workers' compensation law and the complex liability issues in construction cases.</p>
+
+<p>At Logeman &amp; Iafrate, P.C., we've spent more than 45 years fighting for injured workers throughout Michigan, including Washtenaw County. We pursue workers' compensation benefits and third-party claims to maximize your total recovery. Insurance companies and contractors know our reputation: we prepare every case for trial and we take cases other firms refuse.</p>
+
+<h2>Construction Accident Risks in Washtenaw County</h2>
+
+<p>From high-rise construction in Ann Arbor's expanding downtown to infrastructure projects along I-94 and residential developments in Pittsfield Township, Washtenaw County construction workers face serious hazards daily. Common causes of accidents include:</p>
+
+<ul>
+  <li><strong>Falls from heights</strong>—the leading cause of construction fatalities, from scaffolding, ladders, roofs, and unprotected edges</li>
+  <li><strong>Scaffolding collapses</strong> due to improper assembly, inadequate bracing, or exceeding load capacity</li>
+  <li><strong>Crane and rigging failures</strong> causing crushing injuries and struck-by accidents</li>
+  <li><strong>Electrical accidents</strong> from contact with overhead power lines, buried utilities, or improperly grounded equipment</li>
+  <li><strong>Trench and excavation collapses</strong> with inadequate shoring or protective systems</li>
+  <li><strong>Struck-by accidents</strong> from falling tools, materials, or heavy equipment</li>
+  <li><strong>Caught-between accidents</strong> involving machinery, vehicles, or collapsing structures</li>
+  <li><strong>Defective equipment</strong> lacking proper safety guards, warning mechanisms, or structural integrity</li>
+  <li><strong>Inadequate safety training</strong> and failure to provide required personal protective equipment</li>
+  <li><strong>OSHA violations</strong> by contractors cutting corners to meet deadlines</li>
+</ul>
+
+<p>Many construction accidents result from preventable safety failures and cost-cutting measures that put workers at unnecessary risk.</p>
+
+<h2>Catastrophic Construction Injuries</h2>
+
+<p>The nature of construction work means accidents frequently result in severe, life-altering injuries:</p>
+
+<ul>
+  <li>Traumatic brain injuries and concussions from falls or struck-by incidents</li>
+  <li>Spinal cord damage leading to paraplegia or quadriplegia</li>
+  <li>Amputations from machinery, power tools, or crushing accidents</li>
+  <li>Multiple fractures including compound and comminuted fractures</li>
+  <li>Severe burns from electrical accidents, explosions, or chemical exposure</li>
+  <li>Internal organ damage and life-threatening internal bleeding</li>
+  <li>Crush injuries and compartment syndrome</li>
+  <li>Occupational illnesses from asbestos, silica, or toxic chemical exposure</li>
+  <li>Permanent hearing loss from prolonged exposure to loud equipment</li>
+  <li>PTSD and serious psychological injuries</li>
+  <li>Wrongful death from fatal construction accidents</li>
+</ul>
+
+<p>These injuries often require multiple surgeries, extensive rehabilitation, and frequently result in permanent disabilities preventing return to construction work.</p>
+
+<h2>Workers' Compensation Benefits in Michigan</h2>
+
+<p>Michigan workers' compensation provides no-fault benefits but has significant limitations:</p>
+
+<p><strong>Medical care:</strong> Workers' comp covers reasonable medical treatment for your injury. However, insurers frequently dispute treatment plans, authorize minimum care, and pressure injured workers to return to work prematurely.</p>
+
+<p><strong>Wage loss benefits:</strong> Workers' compensation typically pays approximately 80% of your average weekly wage, subject to state maximums. This often falls far short of your actual earnings, especially for skilled construction workers.</p>
+
+<p><strong>Specific loss benefits:</strong> Set compensation amounts for permanent loss of use of hands, arms, feet, legs, or eyes.</p>
+
+<p><strong>Vocational rehabilitation:</strong> Limited retraining benefits if you cannot return to your previous work.</p>
+
+<p><strong>Death benefits:</strong> Surviving to dependents if a worker dies from a construction accident.</p>
+
+<p>Critically, workers' compensation does NOT cover pain and suffering, full wage loss, or punitive damages—which is why third-party claims are essential for catastrophic construction injuries.</p>
+
+<h2>Third-Party Liability Claims in Construction Accidents</h2>
+
+<p>In addition to workers' compensation, injured construction workers can often pursue lawsuits against parties whose negligence caused their injuries:</p>
+
+<ul>
+  <li><strong>General contractors</strong> who failed to maintain safe job sites, coordinate subcontractors, or enforce safety standards</li>
+  <li><strong>Subcontractors</strong> whose negligent work created hazardous conditions for other workers</li>
+  <li><strong>Property owners</strong> who failed to address known dangers on their property</li>
+  <li><strong>Equipment manufacturers</strong> for defective machinery, tools, or safety devices</li>
+  <li><strong>Engineers and architects</strong> for defective designs or specifications</li>
+  <li><strong>Maintenance companies</strong> who failed to properly service equipment</li>
+  <li><strong>Other contractors</strong> on shared job sites whose negligence contributed to the accident</li>
+</ul>
+
+<p>Third-party claims allow recovery of full pain and suffering damages, complete wage loss, lost earning capacity, and other compensation unavailable through workers' compensation.</p>
+
+<h2>OSHA Violations and Liability</h2>
+
+<p>When employers or contractors violate OSHA regulations and workers suffer injuries, those violations provide powerful evidence of negligence. Common OSHA violations that contribute to construction accidents include failure to provide fall protection, inadequate scaffolding safety, improper ladder use, lack of required protective equipment, insufficient training, and violations of crane and rigging safety standards.</p>
+
+<p>Our attorneys work with safety experts and former OSHA investigators to identify all violations that contributed to your accident, strengthening both workers' compensation claims and third-party lawsuits.</p>
+
+<h2>Compensation Available Through Third-Party Claims</h2>
+
+<p>Third-party construction accident claims can recover substantial damages unavailable through workers' comp:</p>
+
+<ul>
+  <li>Full pain and suffering compensation</li>
+  <li>Complete wage loss—not limited to 80% of average wages</li>
+  <li>Lost earning capacity for workers permanently disabled</li>
+  <li>Excess medical expenses beyond workers' comp coverage</li>
+  <li>Rehabilitation costs and adaptive equipment</li>
+  <li>Home and vehicle modifications for catastrophic injuries</li>
+  <li>Loss of enjoyment of life</li>
+  <li>Permanent disability and disfigurement damages</li>
+  <li>Punitive damages when defendants acted with egregious misconduct</li>
+</ul>
+
+<p>For catastrophic injuries requiring lifetime care, we work with life care planners, vocational experts, and economists to calculate the full cost of decades of future medical needs, lost earnings, and personal assistance requirements.</p>
+
+<h2>Why Washtenaw County Construction Workers Choose Logeman &amp; Iafrate</h2>
+
+<p>Construction accident cases require attorneys who understand both Michigan workers' compensation law and the complex liability issues in construction litigation.</p>
+
+<p><strong>Over 45 years of trial experience:</strong> We've spent decades fighting for injured workers throughout Michigan. Insurance companies and contractors know our reputation for thorough preparation and trial readiness.</p>
+
+<p><strong>Comprehensive approach:</strong> We pursue both workers' compensation benefits and third-party claims to maximize your total recovery from every available source.</p>
+
+<p><strong>We take cases others refuse:</strong> If another firm turned down your case, we'll give it a fair evaluation. We've built our reputation on winning difficult cases.</p>
+
+<p><strong>No fee unless we win:</strong> We handle all cases on a contingency-fee basis. You pay nothing unless we recover compensation for you through settlement or trial.</p>
+
+<p><strong>Compassionate support:</strong> We understand the physical, emotional, and financial toll of serious construction injuries. Our team provides guidance throughout your recovery while handling every aspect of your legal claims.</p>
+
+<h2>Serving All of Washtenaw County</h2>
+
+<p>We represent injured construction workers throughout Washtenaw County, including Ann Arbor, Ypsilanti, Saline, Chelsea, Dexter, Manchester, Milan, and surrounding communities. Whether your accident occurred on a downtown high-rise, suburban residential development, university campus project, road construction site, or industrial facility, our attorneys are ready to fight for the full compensation you deserve.</p>
+
+<p class="text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
+
+<h2>Get the Legal Help You Deserve After a Washtenaw County Construction Accident</h2>
+
+<p>If you've been injured in a construction accident in Washtenaw County, your family deserves experienced trial lawyers who understand the challenges you face and are ready to take on the contractors and insurance companies responsible for your suffering. At Logeman &amp; Iafrate, P.C., we provide compassionate support during the most difficult time of your life while fighting thoroughly for the compensation you need to rebuild your future.</p>
+
+<p>Contact us today for a <a href="/contact-us/">free consultation</a>. Call us at <a href="tel:+17349940200"><strong>(734) 994-0200</strong></a> or fill out our online contact form. We'll evaluate your case, explain your options, and chart a path forward.</p>
+
+<p>We handle all construction accident cases on a contingency-fee basis—<strong>we don't get paid unless we win</strong>. Let us fight by your side while you focus on healing and rebuilding your life.</p>
+
+<p class="text-muted-foreground italic max-w-[900px] mx-auto px-6 pb-8">The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</p>

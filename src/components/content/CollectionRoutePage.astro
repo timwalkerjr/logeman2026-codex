@@ -1,0 +1,54 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import ArticleStats from '@/components/articles/ArticleStats.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import FreeConsultationForm from '@/components/home/FreeConsultationForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import Testimonials from '@/components/home/Testimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
+import LocationMap from '@/components/home/LocationMap.astro';
+
+interface Props {
+  data: {
+    title: string;
+    description: string;
+    canonicalUrl: string;
+    showHero: boolean;
+    heroTitle: string;
+    contentTitle: string;
+    afterFaqHtml: string;
+    faqs: Array<{ question: string; answer: string }>;
+    statsVariant: 'article' | 'bar';
+    formVariant: 'article' | 'home';
+    testimonialsVariant: 'article' | 'home';
+    mapVariant: 'article' | 'location' | 'none';
+  };
+}
+
+const { data } = Astro.props;
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  canonicalUrl={data.canonicalUrl}
+>
+  {data.showHero && <ArticleHero title={data.heroTitle} />}
+
+  <ArticleContent title={data.contentTitle}>
+    <slot />
+  </ArticleContent>
+
+  <ArticleFAQ items={data.faqs} />
+  {data.afterFaqHtml && <Fragment set:html={data.afterFaqHtml} />}
+
+  {data.statsVariant === 'article' ? <ArticleStats /> : <StatsBar />}
+  {data.formVariant === 'home' ? <FreeConsultationForm /> : <ArticleContactForm />}
+  {data.testimonialsVariant === 'home' ? <Testimonials /> : <ArticleTestimonials />}
+  {data.mapVariant === 'article' && <ArticleMap />}
+  {data.mapVariant === 'location' && <LocationMap />}
+</BaseLayout>

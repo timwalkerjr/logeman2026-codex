@@ -1,0 +1,112 @@
+---
+title: "Ann Arbor Personal Injury Lawyers | Logeman & Iafrate, P.C."
+description: "Ann Arbor personal injury attorneys with 45+ years serving Washtenaw County. Free consultation. No fee unless we win. Call (734) 994-0200."
+canonicalUrl: "https://www.logeman.com/service-area/ann-arbor-mi/"
+showHero: true
+heroTitle: ""
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"Why should I choose a local Ann Arbor injury attorney?","answer":"A local Ann Arbor injury attorney understands the courts, judges, medical providers, and insurance company tactics specific to Washtenaw County. We've spent over 45 years building relationships with the local legal community and have a proven track record of success in Ann Arbor courts. This local knowledge gives our clients a meaningful advantage in negotiations and at trial."},{"question":"What types of cases does your firm handle in Ann Arbor?","answer":"We handle all types of personal injury cases in Ann Arbor and throughout Michigan, including car accidents, truck accidents, motorcycle crashes, bicycle and pedestrian accidents, slip-and-fall injuries, medical malpractice, defective products, wrongful death, brain and spinal cord injuries, dog bites, construction accidents, and premises liability cases. If you've been injured due to someone else's negligence, we can help."},{"question":"How much does it cost to hire your Ann Arbor law firm?","answer":"We work on a contingency-fee basis, meaning you pay no legal fees unless we win your case. The initial consultation is always free, and there are no upfront costs or hourly fees. Our compensation comes as a percentage of the recovery we obtain for you. This arrangement ensures that anyone who has been injured can access quality legal representation, regardless of financial situation."},{"question":"How long will my Ann Arbor injury case take?","answer":"Every case is unique, and the timeline depends on factors like the severity of injuries, complexity of liability, and whether the case settles or proceeds to trial. Many cases resolve within 12 to 24 months. Cases involving catastrophic injuries, complex liability disputes, or insurance company bad faith may take longer. We provide regular updates and realistic timelines throughout the process."},{"question":"What if I was partly at fault for my accident in Ann Arbor?","answer":"Michigan follows comparative negligence rules. You can still recover compensation even if you were partly at fault, but your recovery will be reduced by your percentage of fault. If you were more than 50% at fault, you cannot recover. Our attorneys work to minimize any fault attributed to you and maximize your overall recovery. Insurance companies frequently exaggerate victim fault—having experienced representation makes a critical difference."},{"question":"Do I need to come to your office, or can you meet me elsewhere?","answer":"We're happy to meet you at our Ann Arbor office, your home, the hospital, or another convenient location. We also offer phone and video consultations for clients who are unable to travel due to injuries. Our goal is to make the legal process as easy as possible during your recovery. Contact us today to arrange a consultation that works for your situation."}]
+statsVariant: "article"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+areaName: "Ann Arbor"
+---
+
+<h2>Ann Arbor Personal Injury Attorneys Serving Washtenaw County</h2>
+
+<p>Ann Arbor is home to the University of Michigan, a thriving tech industry, and a vibrant local community. With busy streets like Washtenaw Avenue, State Street, Plymouth Road, and Stadium Boulevard, plus high pedestrian traffic around campus and downtown, accidents are a fact of life. When someone else's negligence causes you serious injury, you need an Ann Arbor personal injury attorney with the experience and resources to fight for the compensation you deserve.</p>
+
+<p>At Logeman &amp; Iafrate, P.C., we've spent more than 45 years representing injury victims throughout Ann Arbor and Washtenaw County. Our attorneys are familiar with the local courts, the medical community, and the insurance companies that operate in this region. We know what it takes to win in Ann Arbor—whether through skilled negotiation or aggressive trial advocacy.</p>
+
+<h2>Practice Areas We Handle in Ann Arbor</h2>
+
+<p>Our firm handles every type of personal injury case affecting Ann Arbor residents:</p>
+
+<h3>Car, Truck, and Motorcycle Accidents</h3>
+
+<p>Ann Arbor's busy roads—including I-94, US-23, M-14, and downtown intersections—see countless crashes every year. We represent victims of all types of motor vehicle accidents, including distracted driving crashes, drunk driving collisions, hit-and-run accidents, and uninsured/underinsured motorist claims.</p>
+
+<h3>Bicycle and Pedestrian Accidents</h3>
+
+<p>Ann Arbor is one of Michigan's most bike-friendly cities, but cyclists and pedestrians face serious risks from careless drivers. We represent injured bicyclists and pedestrians who have been hit by negligent motorists, including cases involving dooring incidents, intersection collisions, and right-of-way violations.</p>
+
+<h3>Slip-and-Fall and Premises Liability</h3>
+
+<p>Property owners in Ann Arbor—from downtown businesses to apartment complexes to the University of Michigan—have a duty to maintain safe premises. When dangerous conditions like icy sidewalks, wet floors, or broken stairs cause injuries, we hold negligent property owners accountable.</p>
+
+<h3>Medical Malpractice</h3>
+
+<p>When doctors, nurses, and hospitals in Ann Arbor provide substandard care, patients suffer devastating consequences. We represent victims of surgical errors, birth injuries, diagnostic failures, medication mistakes, and other forms of medical negligence at Michigan Medicine and other local healthcare providers.</p>
+
+<h3>Catastrophic Injuries and Wrongful Death</h3>
+
+<p>Traumatic brain injuries, spinal cord damage, severe burns, and amputations require extensive medical care and lifelong support. We work with medical experts, life care planners, and economists to secure full compensation for catastrophic injuries and wrongful death cases.</p>
+
+<h3>Product Liability</h3>
+
+<p>Defective products—from auto parts to household appliances to pharmaceutical drugs—cause serious injuries. We hold manufacturers, distributors, and retailers accountable when their products harm consumers.</p>
+
+<h2>Michigan's No-Fault Insurance System</h2>
+
+<p>Michigan's no-fault insurance system provides important benefits for accident victims, including payment of medical expenses, wage loss, and household services regardless of who caused the crash. However, the system changed significantly in 2020, eliminating mandatory unlimited lifetime medical coverage. Today, motorcyclists, family members, and other potential beneficiaries need careful insurance planning—and injury victims need skilled attorneys to navigate the priority rules when seeking benefits.</p>
+
+<p>Our firm has extensive experience with Michigan no-fault claims, including:</p>
+
+<ul>
+  <li>First-party PIP benefit claims</li>
+  <li>Priority disputes between insurance companies</li>
+  <li>Denials and underpayment of no-fault benefits</li>
+  <li>Coordination with health insurance and Medicare</li>
+  <li>Attendant care and replacement services claims</li>
+</ul>
+
+<h2>Compensation Available in Ann Arbor Injury Cases</h2>
+
+<p>Michigan law allows injury victims to pursue compensation for economic and non-economic damages:</p>
+
+<ul>
+  <li><strong>Medical expenses</strong>—past, current, and future medical care, including surgery, hospitalization, rehabilitation, and medication</li>
+  <li><strong>Wage loss</strong>—income lost during recovery and diminished future earning capacity</li>
+  <li><strong>Pain and suffering</strong>—physical pain, emotional distress, and loss of enjoyment of life</li>
+  <li><strong>Out-of-pocket expenses</strong>—transportation, home modifications, and household help</li>
+  <li><strong>Loss of consortium</strong>—the impact of injuries on family relationships</li>
+  <li><strong>Punitive damages</strong>—in cases involving particularly reckless or malicious conduct</li>
+</ul>
+
+<p>For catastrophic injuries requiring lifetime care, total compensation can reach millions of dollars.</p>
+
+<h2>Why Ann Arbor Residents Choose Logeman & Iafrate</h2>
+
+<p>Choosing the right attorney after an injury makes a critical difference in your recovery. Here's why Ann Arbor residents trust our firm:</p>
+
+<h3>Proven Trial Experience</h3>
+
+<p>Insurance companies know which firms settle quickly and which prepare every case for trial. We have a 45-year track record of taking cases to verdict when needed—and our willingness to do so produces better settlement offers for our clients.</p>
+
+<h3>Resources to Take on Major Cases</h3>
+
+<p>Personal injury cases often require expert witnesses, accident reconstruction specialists, and medical professionals. Our firm has the resources to hire the experts needed to build the strongest possible case.</p>
+
+<h3>Personalized Attention</h3>
+
+<p>We're not a high-volume settlement mill. We take a limited number of cases so we can give each client the personal attention and individualized strategy their case deserves.</p>
+
+<h3>Contingency-Fee Representation</h3>
+
+<p>You pay nothing unless we win. There are no upfront costs, hourly fees, or out-of-pocket expenses. Our interests are aligned with yours—we succeed when you succeed.</p>
+
+<h3>Local Knowledge</h3>
+
+<p>As a long-established Ann Arbor firm, we know the local courts, judges, medical providers, and insurance adjusters. This insight helps us navigate the legal system effectively and gives our clients a meaningful advantage.</p>
+
+<h2>Schedule a Free Case Evaluation with an Ann Arbor Injury Attorney</h2>
+
+<p>If you've been injured due to someone else's negligence in Ann Arbor or anywhere in Michigan, contact Logeman &amp; Iafrate, P.C. for a free case evaluation. We'll review the facts of your situation, explain your legal options, and help you understand what compensation you may be entitled to recover.</p>
+
+<p>Call us at <a href="tel:+17349940200"><strong>(734) 994-0200</strong></a> or fill out our online contact form. We handle all cases on a contingency-fee basis—no fee unless we win your case.</p>
+
+<p>Don't let insurance companies take advantage of you. Let our experienced Ann Arbor personal injury attorneys fight for the compensation you deserve.</p>
+
+<p class="text-muted-foreground italic max-w-[900px] mx-auto px-6 pb-8">The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</p>

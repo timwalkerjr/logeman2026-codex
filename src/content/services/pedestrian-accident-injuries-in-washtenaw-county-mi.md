@@ -1,0 +1,108 @@
+---
+title: "Pedestrian Accident Lawyers Washtenaw County MI | Logeman & Iafrate"
+description: "Experienced Washtenaw County pedestrian accident attorneys with 45+ years fighting for injured pedestrians. We handle complex Michigan no-fault claims and third-party cases. Free consultation. (734) 994-0200"
+canonicalUrl: "https://www.logeman.com/service/pedestrian-accident-injuries-in-washtenaw-county-mi/"
+showHero: false
+heroTitle: ""
+contentTitle: "Pedestrian Accident Lawyers Washtenaw County MI"
+afterFaqHtml: ""
+faqs: [{"question":"Do I need a lawyer for a pedestrian accident in Washtenaw County?","answer":"While not legally required, working with an experienced pedestrian accident attorney significantly increases your chances of fair compensation. Insurance companies routinely undervalue or deny legitimate claims. Our attorneys understand Michigan's complex no-fault system, know how to prove serious impairment threshold injuries, and have the trial experience to fight for maximum recovery when insurers won't offer fair settlements."},{"question":"How does Michigan's no-fault insurance system work for pedestrian accidents?","answer":"Pedestrians injured by motor vehicles receive PIP benefits from the highest-priority available auto insurance policy. This is typically the at-fault driver's policy, but if unavailable, your own auto policy or a household member's policy provides coverage. These benefits cover medical expenses, wage loss, and replacement services regardless of who caused the accident. You can also pursue third-party claims against the negligent driver if your injuries meet the serious impairment threshold."},{"question":"What if the driver who hit me left the scene?","answer":"Hit-and-run pedestrian accidents create additional complications but don't prevent recovery. You can still file a claim for PIP benefits from available insurance sources. If the fleeing driver is never identified, you may have an uninsured motorist claim depending on your coverage. Report the accident to police immediately and contact an attorney who can help identify all available sources of compensation."},{"question":"Can I recover compensation if I wasn't in a crosswalk when struck?","answer":"Yes. While pedestrians have the right-of-way in marked crosswalks, Michigan law still requires drivers to exercise reasonable care to avoid striking pedestrians anywhere on the roadway. Even if you were crossing mid-block or jaywalking, you can still recover compensation if the driver was negligent. Comparative fault may reduce your recovery, but it rarely eliminates it entirely."},{"question":"How long do I have to file a pedestrian accident claim in Michigan?","answer":"You must file a lawsuit against the at-fault driver within three years of the accident date. However, you must notify the appropriate insurance company of your intent to claim PIP benefits within one year to preserve those benefits. Important deadlines apply to preserving evidence and witness testimony, so consulting an attorney as soon as possible after your accident protects your rights."},{"question":"What compensation can I recover beyond medical bills?","answer":"If your injuries meet Michigan's serious impairment threshold, you can pursue third-party claims for pain and suffering, permanent disfigurement and scarring, loss of enjoyment of life, emotional distress, and excess economic damages beyond PIP coverage. These non-economic damages compensate for the profound impact catastrophic injuries have on your quality of life, relationships, and ability to engage in activities you once enjoyed."}]
+statsVariant: "article"
+formVariant: "home"
+testimonialsVariant: "home"
+mapVariant: "location"
+serviceArea: "washtenaw-county-mi"
+serviceTopic: "pedestrian-accident-injuries"
+practiceArea: "pedestrian-accidents"
+---
+
+<p>Pedestrians have no protection when a vehicle strikes them. While drivers sit protected by thousands of pounds of steel, airbags, and safety technology, pedestrians absorb the full force of the impact with their bodies. The results are often catastrophic—broken bones, traumatic brain injuries, spinal cord damage, internal bleeding, and in the worst cases, death.</p>
+<p>At Logeman & Iafrate, P.C., we've spent over 45 years fighting for injured pedestrians throughout Washtenaw County. From Ann Arbor's busy streets near the University of Michigan campus to Ypsilanti's commercial corridors and the smaller communities throughout the county, we understand the unique hazards pedestrians face and the devastating consequences when drivers fail to exercise reasonable care.</p>
+
+<h2>Where Pedestrian Accidents Happen in Washtenaw County</h2>
+<p>Washtenaw County's mix of urban density, college campuses, suburban development, and rural roads creates diverse pedestrian safety challenges:</p>
+<ul>
+  <li><strong>Ann Arbor:</strong> High pedestrian traffic near campus, downtown, and commercial districts combined with distracted drivers creates frequent collision risks</li>
+  <li><strong>Ypsilanti:</strong> Eastern Michigan University students and residents navigate busy intersections along Michigan Avenue and Washtenaw Avenue</li>
+  <li><strong>Parking lots and crosswalks:</strong> Drivers backing out or turning through crosswalks without checking for pedestrians</li>
+  <li><strong>Residential neighborhoods:</strong> Children walking to school or playing near streets struck by speeding or inattentive drivers</li>
+  <li><strong>Rural roads:</strong> Pedestrians walking along roads without sidewalks struck by vehicles traveling at high speeds</li>
+</ul>
+
+<h2>Common Causes of Washtenaw County Pedestrian Accidents</h2>
+<p>Most pedestrian accidents result from driver negligence, including:</p>
+<ul>
+  <li>Distracted driving—texting, adjusting navigation, eating, or talking while driving</li>
+  <li>Failing to yield to pedestrians in crosswalks</li>
+  <li>Making illegal or unsafe turns</li>
+  <li>Speeding through residential areas or school zones</li>
+  <li>Driving under the influence of alcohol or drugs</li>
+  <li>Running red lights or stop signs</li>
+  <li>Failing to check for pedestrians when backing out of driveways or parking spaces</li>
+  <li>Poor visibility due to weather, darkness, or obstructed sightlines</li>
+</ul>
+<p>Michigan law requires drivers to yield the right-of-way to pedestrians in crosswalks and exercise reasonable care to avoid striking people on foot. When drivers violate these duties, our attorneys hold them accountable.</p>
+
+<h2>Serious Injuries Pedestrians Face</h2>
+<p>The force of a vehicle striking a human body causes severe trauma:</p>
+<ul>
+  <li><strong>Traumatic brain injuries:</strong> Head impact with the vehicle, windshield, or pavement can cause concussions, skull fractures, and permanent cognitive impairment</li>
+  <li><strong>Spinal cord injuries:</strong> The violent impact can damage the spine, resulting in paralysis, loss of sensation, and permanent disability</li>
+  <li><strong>Broken bones and fractures:</strong> Legs, arms, pelvis, ribs, and facial bones frequently break on impact</li>
+  <li><strong>Internal injuries:</strong> Ruptured organs, internal bleeding, and abdominal trauma require emergency surgery</li>
+  <li><strong>Soft tissue damage:</strong> Torn ligaments, muscle damage, and severe bruising</li>
+  <li><strong>Road rash and lacerations:</strong> Deep cuts and abrasions from being thrown to the pavement</li>
+  <li><strong>Amputations:</strong> Severe crush injuries may require limb amputation</li>
+</ul>
+<p>These injuries require extensive medical treatment, lengthy recovery periods, and often result in permanent disabilities that affect every aspect of a victim's life.</p>
+
+<h2>Compensation Available to Pedestrian Accident Victims</h2>
+<p>Michigan's unique no-fault insurance system provides benefits regardless of who caused the accident, but also creates complexity in pedestrian cases:</p>
+<h3>No-Fault PIP Benefits</h3>
+<p>Pedestrians injured by motor vehicles are entitled to Personal Injury Protection (PIP) benefits covering:</p>
+<ul>
+  <li>All reasonable and necessary medical expenses</li>
+  <li>Wage loss benefits (up to 85% of gross income)</li>
+  <li>Replacement services for household tasks you can no longer perform</li>
+  <li>Attendant care if your injuries require assistance with daily activities</li>
+</ul>
+<p>These benefits come from either the driver's insurance, your own auto policy, or your household's auto insurance depending on the specific circumstances of your case.</p>
+<h3>Third-Party Claims Against the At-Fault Driver</h3>
+<p>If your injuries meet Michigan's "serious impairment of body function" threshold, you can pursue compensation from the negligent driver for:</p>
+<ul>
+  <li>Pain and suffering</li>
+  <li>Permanent scarring and disfigurement</li>
+  <li>Loss of enjoyment of life</li>
+  <li>Emotional distress and psychological trauma</li>
+  <li>Excess economic damages beyond PIP coverage</li>
+</ul>
+<p>Our attorneys have extensive experience proving threshold injuries and maximizing third-party recoveries for pedestrian accident victims throughout Washtenaw County.</p>
+
+<h2>What to Do After a Pedestrian Accident</h2>
+<p>If you or a loved one has been struck by a vehicle, take these critical steps:</p>
+<ol>
+  <li><strong>Seek immediate medical attention.</strong> Even if you don't think you're seriously hurt, get evaluated by medical professionals. Some injuries don't present symptoms immediately.</li>
+  <li><strong>Call police and file a report.</strong> Official documentation establishes the facts and identifies the at-fault driver.</li>
+  <li><strong>Gather evidence at the scene.</strong> If you're able, take photos of your injuries, the vehicle, the roadway, crosswalks, and any skid marks or debris.</li>
+  <li><strong>Collect driver and witness information.</strong> Get the driver's insurance details and contact information from anyone who saw the accident.</li>
+  <li><strong>Preserve your clothing and belongings.</strong> Damaged items serve as evidence of the collision's force.</li>
+  <li><strong>Don't give recorded statements to insurance companies</strong> without consulting an attorney first. Adjusters often use your words against you.</li>
+  <li><strong>Contact an experienced pedestrian accident attorney.</strong> The sooner we begin investigating your case, the stronger your claim will be.</li>
+</ol>
+
+<h2>Why Choose Logeman & Iafrate for Your Washtenaw County Pedestrian Accident Case</h2>
+<p>Pedestrian accident cases require attorneys who understand both Michigan's complex insurance laws and the medical realities of severe trauma. Our firm brings:</p>
+<ul>
+  <li>Over 45 years of experience representing injured pedestrians throughout Michigan</li>
+  <li>Deep knowledge of Michigan's no-fault system and how it applies to pedestrian accidents</li>
+  <li>A trial-ready approach that insurance companies respect—we prepare every case for trial from day one</li>
+  <li>Proven results securing millions in compensation for catastrophically injured clients</li>
+  <li>Relationships with medical experts, accident reconstructionists, and life care planners who strengthen your case</li>
+  <li>A contingency-fee basis—we don't get paid unless we win your case</li>
+</ul>
+<p>We take cases other firms turn down, and we win cases others consider unwinnable. When you're fighting to rebuild your life after being struck by a vehicle, you need fierce advocates who won't back down.</p>
+
+<h2>Schedule Your Free Consultation Today</h2>
+<p>If you or someone you love was injured in a pedestrian accident in Washtenaw County, don't wait to protect your rights. Insurance companies begin building their defense immediately—you need experienced advocates working for you just as quickly.</p>
+<p>Contact Logeman & Iafrate, P.C. today for a free consultation. Call <strong>(734) 994-0200</strong> or fill out our online contact form. We serve pedestrian accident victims throughout Washtenaw County, including Ann Arbor, Ypsilanti, and surrounding communities.</p>
+<p>We handle cases on a contingency-fee basis, which means you pay nothing unless we recover compensation for you. Let us fight by your side while you focus on healing.</p>

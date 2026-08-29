@@ -1,0 +1,63 @@
+---
+title: "Insurance Dispute Resolution Livingston County MI | Logeman & Iafrate"
+description: "Livingston County insurance dispute attorneys with 45 years fighting wrongful claim denials. We force insurers to pay the benefits you're owed. Free consultation. No fee unless we win."
+canonicalUrl: "https://www.logeman.com/service/insurance-dispute-resolution-in-livingston-county-mi/"
+showHero: false
+heroTitle: ""
+contentTitle: "Insurance Dispute Resolution Livingston County MI"
+afterFaqHtml: ""
+faqs: [{"question":"What should I do if my no-fault insurance company denies my claim?","answer":"Contact an experienced insurance dispute attorney immediately. You have one year from the denial to file a lawsuit for no-fault benefits under Michigan law. Reach out promptly—evidence grows stale, witnesses disappear, and insurance companies become more entrenched in their position. We'll review the denial, investigate the facts, and determine whether you have grounds to challenge the decision through litigation."},{"question":"Can I sue my own insurance company?","answer":"Yes. When your own insurance company denies no-fault PIP benefits, uninsured motorist coverage, or underinsured motorist benefits you're entitled to receive, you can file a lawsuit against them. These first-party actions are common in Michigan, and we've successfully sued every major carrier operating in Livingston County to secure benefits for our clients."},{"question":"How long does an insurance dispute case take to resolve?","answer":"It depends on the complexity of your case and the insurance company's willingness to negotiate fairly. Some disputes resolve within months through settlement negotiations. Others require litigation, which can take one to two years before trial. We move as quickly as possible while thoroughly preparing your case, because insurance companies often settle when they see we're truly trial-ready."},{"question":"What if the insurance company says I have pre-existing conditions?","answer":"Insurance companies routinely claim injuries are pre-existing or unrelated to your accident—even when the connection is obvious. We work with your treating physicians and independent medical experts to document how the accident caused or aggravated your condition. Michigan law recognizes that accidents can worsen pre-existing conditions, and insurers remain responsible for the incremental harm their insured caused."},{"question":"Do I need a lawyer for an insurance dispute, or can I handle it myself?","answer":"While you're not legally required to have an attorney, insurance disputes involve complex policy language, medical evidence, and legal standards that are difficult to navigate alone. Insurance companies employ teams of lawyers and adjusters whose job is minimizing payouts. Having experienced legal representation levels the playing field and typically results in significantly higher recovery. We offer free consultations to evaluate your case with no obligation."},{"question":"What damages can I recover in an insurance dispute case?","answer":"It depends on the type of dispute. For no-fault PIP benefit cases, you can recover unpaid medical expenses, wage loss, attendant care costs, replacement services, and future benefits you're entitled to receive. For third-party liability disputes, damages include pain and suffering, excess economic losses, and full compensation for all harm caused by the at-fault party. For UM/UIM claims, you can recover all damages the uninsured or underinsured driver should have paid."}]
+statsVariant: "article"
+formVariant: "home"
+testimonialsVariant: "home"
+mapVariant: "location"
+serviceArea: "livingston-county-mi"
+serviceTopic: "insurance-dispute-resolution"
+practiceArea: "michigan-no-fault-insurance-claims"
+---
+
+<p>Insurance companies in Livingston County make promises when you pay premiums, but too often break those promises when you file a claim. At Logeman & Iafrate, P.C., we've spent more than 45 years forcing insurers to honor their obligations. Whether you're battling a no-fault denial, a third-party liability dispute, or an underinsured motorist claim, we know the tactics insurance companies use—and we know how to beat them.</p>
+
+<p>We take cases other firms turn down, and we prepare every case for trial. Our verdicts and settlements include millions recovered for Livingston County residents whose insurers refused to pay for medical care, attendant services, and the compensation they deserved.</p>
+
+<h2>Common Insurance Disputes in Livingston County</h2>
+<p>Michigan's unique insurance landscape creates frequent disputes between injured people and the companies supposed to protect them. We handle every type of insurance conflict:</p>
+<ul>
+  <li><strong>No-Fault PIP Benefit Denials:</strong> Your own insurance company denies coverage for medical expenses, wage loss, attendant care, or home modifications you're entitled to receive.</li>
+  <li><strong>Threshold Injury Disputes:</strong> Insurers argue your injuries don't meet Michigan's serious impairment threshold, blocking your third-party pain and suffering claim.</li>
+  <li><strong>Uninsured/Underinsured Motorist Claims:</strong> Your UM/UIM carrier refuses to cover damages when the at-fault driver had inadequate insurance.</li>
+  <li><strong>Bad Faith Insurance Practices:</strong> Companies delay, deny, or undervalue legitimate claims hoping you'll give up or accept pennies on the dollar.</li>
+  <li><strong>Coverage Interpretation Disputes:</strong> Insurers claim your policy doesn't cover your accident type or that exclusions apply when they shouldn't.</li>
+</ul>
+
+<h2>Why Insurance Companies Deny Valid Claims</h2>
+<p>Insurance companies are businesses focused on profit, not your wellbeing. They employ teams of adjusters, nurses, and lawyers whose job is to minimize payouts. Common denial tactics we encounter include:</p>
+<p><strong>Claiming injuries are pre-existing or unrelated.</strong> Even when medical records clearly link your injuries to the accident, insurers hire doctors who've never treated you to claim your pain comes from somewhere else.</p>
+<p><strong>Arguing treatment is unnecessary or excessive.</strong> Companies question your doctor's judgment, refuse to pay for procedures they deem experimental, or cut off benefits before you've fully recovered.</p>
+<p><strong>Misinterpreting Michigan's no-fault reforms.</strong> The 2019-2020 changes created confusion about coverage levels, fee schedules, and attendant care that insurers exploit to deny benefits.</p>
+<p><strong>Manufacturing coverage defenses.</strong> They'll claim you weren't covered under the policy, that you missed a notification deadline, or that policy exclusions apply when they legally don't.</p>
+
+<h2>Fighting No-Fault Benefit Denials in Livingston County</h2>
+<p>Michigan's no-fault system promises coverage regardless of fault, but collecting those benefits often requires a legal battle. We've recovered substantial compensation in first-party no-fault claims throughout Livingston County, including a $1 million verdict against Amerisure for a client they denied for 18 years and a $2 million settlement for a traumatic brain injury victim whose insurer refused all benefits.</p>
+<p>Your Personal Injury Protection coverage should pay for medical expenses, wage loss at 85% of gross income, replacement services for household tasks you can no longer perform, and attendant care if you need assistance with daily activities. When your insurer cuts off these benefits or denies your claim entirely, we file suit and prepare for trial.</p>
+<p>Understanding your coverage level is critical. Depending on choices made when you purchased your policy, your PIP medical benefits may be capped at $50,000, $250,000, $500,000, or remain unlimited. We review your policy, identify all available coverage, and fight to pursue the full compensation you're owed under Michigan law.</p>
+
+<h2>Third-Party Liability Insurance Disputes</h2>
+<p>When another driver causes your injuries, you can pursue compensation beyond no-fault benefits—but only if your injuries meet Michigan's serious impairment of body function threshold. Insurance companies defending at-fault drivers deploy aggressive tactics to avoid paying these claims.</p>
+<p>They'll argue your injuries don't objectively manifest, that they don't affect an important body function, or that you've returned to your normal life despite clear evidence otherwise. Our attorneys have extensive experience proving threshold injuries and defeating these defense strategies in Livingston County courts.</p>
+<p>Third-party claims allow recovery for pain and suffering, excess economic damages beyond your PIP limits, loss of consortium for your spouse, and full wage loss without the 85% cap. These damages often represent the difference between financial struggle and true recovery.</p>
+
+<h2>Uninsured and Underinsured Motorist Coverage Battles</h2>
+<p>When the at-fault driver has no insurance or inadequate coverage, your own uninsured motorist and underinsured motorist policies should fill the gap. But UM/UIM carriers frequently dispute these claims, arguing about liability, injury severity, or whether their policy truly applies.</p>
+<p>We've forced UM/UIM carriers throughout Michigan to honor their obligations, securing compensation when the at-fault driver fled the scene, carried only minimum liability limits, or was completely uninsured. These claims require careful navigation of policy language and Michigan insurance law—areas where our 45 years of experience make the difference.</p>
+
+<h2>How We Resolve Insurance Disputes</h2>
+<p>Every insurance dispute requires a different approach. Some resolve through negotiation once we demonstrate the strength of your claim and our willingness to try the case. Others require litigation, discovery, depositions, and ultimately a trial before a Michigan jury.</p>
+<p>Our process includes thoroughly reviewing your policy to identify all available coverage, gathering medical records and expert opinions that prove your injuries and treatment necessity, documenting your wage loss and economic damages, and investigating the insurer's claims file for evidence of bad faith. We prepare every case for trial from day one—because insurance companies know we are ready to try a case.</p>
+
+<h2>Serving Livingston County Communities</h2>
+<p>We represent residents throughout Livingston County who are battling insurance companies, including those in Howell, Brighton, Hartland, Fowlerville, and Pinckney. Whether your accident occurred on I-96, Grand River Avenue, or local roads throughout the county, we bring the same trial-ready approach that's earned us respect throughout Michigan.</p>
+
+<h2>Schedule Your Free Consultation Today</h2>
+<p>If your insurance company denied your claim, delayed your benefits, or undervalued your case, contact Logeman & Iafrate, P.C. today. We offer free consultations to review your insurance dispute and explain your legal options. Call us at <strong>(734) 994-0200</strong> or fill out our online contact form to get started.</p>
+<p>We work on a contingency-fee basis— <strong>no fee unless we win</strong>. You have nothing to lose and everything to gain by having experienced trial lawyers review your case.</p>

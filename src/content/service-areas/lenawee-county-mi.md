@@ -1,0 +1,42 @@
+---
+title: "Lenawee County Personal Injury Attorneys | Adrian Accident Lawyers"
+description: "Experienced Lenawee County personal injury attorneys with 45 years fighting for Adrian-area accident victims. Free consultation. No fee unless we win. Call (734) 994-0200."
+canonicalUrl: "https://www.logeman.com/service-area/lenawee-county-mi/"
+showHero: false
+heroTitle: ""
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"How long do I have to file a personal injury lawsuit in Lenawee County?","answer":"Michigan's statute of limitations for most personal injury cases is three years from the date of injury, but no-fault claims require notifying your insurer within one year of the accident. Because deadlines vary, contact an attorney as soon as possible."},{"question":"What damages can I recover after a Lenawee County car accident?","answer":"You may recover PIP benefits from your own insurer for medical expenses, wage loss, and replacement services. If your injuries meet Michigan's threshold, you can also pursue a third-party claim for pain and suffering and excess economic damages."},{"question":"Do I need a lawyer if the insurance company already made an offer?","answer":"Yes. Insurers routinely make low initial offers before the full extent of your injuries is known. An experienced attorney can evaluate the offer and negotiate for what you truly deserve."},{"question":"What if I was partially at fault for the accident?","answer":"Michigan follows modified comparative negligence. If you're 50% or less at fault you can still recover, though your award is reduced by your share of fault. If you're more than 50% at fault you cannot recover from other parties."},{"question":"How much does it cost to hire a personal injury attorney?","answer":"Nothing up front. We work on a contingency-fee basis and don't charge legal fees unless we recover compensation for you."}]
+statsVariant: "bar"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "none"
+areaName: "Lenawee County"
+---
+
+<p>At Logeman &amp; Iafrate, P.C., we've spent more than 45 years fighting for accident victims across Michigan, including residents of Lenawee County and Adrian. Whether you've been injured in a crash on US-223 or M-52, hurt in a farm or workplace accident, or coping with the aftermath of a catastrophic injury, our trial-ready attorneys are prepared to fight by your side.</p>
+
+<h2><strong>Serving Lenawee County's Communities</strong></h2>
+<p>Lenawee County's mix of the city of Adrian, smaller communities like Tecumseh, Hudson, Blissfield, and Morenci, the Irish Hills lake country, and miles of rural highway near the Ohio border creates a wide range of accident risks. We represent injured clients throughout the county and understand the local roadways, the Lenawee County Circuit Court in Adrian, and the tactics insurers use to deny legitimate claims.</p>
+
+<h2><strong>Personal Injury Cases We Handle in Lenawee County</strong></h2>
+<p>Our attorneys bring six combined decades of experience to cases involving:</p>
+<ul>
+  <li><strong>Car accidents</strong> on US-223, US-127, M-52, M-50, and rural county roads</li>
+  <li><strong>Truck accidents</strong> involving commercial vehicles on regional freight routes</li>
+  <li><strong>Motorcycle crashes</strong> through the Irish Hills and beyond, often causing catastrophic injuries</li>
+  <li><strong>Workplace, farm, and construction accidents</strong></li>
+  <li><strong>Wrongful death claims</strong> helping families seek justice after a devastating loss</li>
+  <li><strong>Catastrophic injuries</strong> including spinal cord damage, traumatic brain injuries, and paralysis</li>
+</ul>
+<p>We take cases others won't and prepare every case for trial. When insurance companies see our name on a file, they know we're ready to take the case to a jury.</p>
+
+<h2><strong>Michigan's No-Fault System and Your Rights</strong></h2>
+<p>After a crash you typically file with your own insurer for Personal Injury Protection (PIP) benefits, which can cover medical expenses, wage loss, and replacement services. The 2019-2020 reforms changed coverage levels, and many Lenawee County residents may have limited PIP coverage without realizing it. If your injuries meet Michigan's serious-impairment threshold, you can also pursue a third-party claim against the at-fault driver. We navigate both to pursue the full compensation you're owed.</p>
+
+<h2><strong>Fighting Insurance Companies That Deny Legitimate Claims</strong></h2>
+<p>Insurers are in the business of paying as little as possible. Over more than four decades we have taken them to trial when they denied or undervalued claims. Our verdicts and settlements include a $2 million settlement for a client who suffered a traumatic brain injury after the insurer denied all benefits, and a $1 million verdict against Amerisure after an 18-year fight over no-fault benefits. <em>Past results do not guarantee future outcomes; each case is decided on its own facts.</em></p>
+
+<h2><strong>Contact Our Lenawee County Personal Injury Attorneys Today</strong></h2>
+<p>If you or a loved one has been injured in an accident in Lenawee County, you don't have to face the insurance companies alone. Contact Logeman &amp; Iafrate, P.C. today for a free consultation. Call us at <strong>(734) 994-0200</strong> or fill out our online contact form.</p>
+<p>We handle cases on a contingency-fee basis — <strong>no fee unless we win</strong>. Let our experienced trial attorneys fight by your side.</p>

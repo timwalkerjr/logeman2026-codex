@@ -1,0 +1,43 @@
+---
+title: "Lenawee County Pedestrian Accident Injuries Lawyers | Logeman & Iafrate"
+description: "Experienced Lenawee County pedestrian accident attorneys helping people struck by negligent drivers recover full no-fault and third-party compensation."
+canonicalUrl: "https://www.logeman.com/service/pedestrian-accident-injuries-in-lenawee-county-mi/"
+showHero: true
+heroTitle: ""
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"Can I get no-fault benefits if I was walking when I was hit?","answer":"Yes. A pedestrian struck by a motor vehicle is generally entitled to PIP benefits from the involved vehicle's insurer or through the Assigned Claims Plan. We determine the correct source and pursue your benefits."},{"question":"What if the driver who hit me fled the scene?","answer":"Even in a hit-and-run, you may recover no-fault benefits through the Assigned Claims Plan and pursue uninsured motorist coverage. We help you navigate these options."},{"question":"Can I still recover if I was crossing outside a crosswalk?","answer":"Possibly. Michigan's comparative negligence rules may reduce but not necessarily bar your recovery. We investigate the driver's conduct, speed, and attention to establish liability."},{"question":"How long do I have to file a pedestrian accident claim?","answer":"Generally three years for a personal injury claim and one year to claim no-fault benefits. Prompt action protects your rights."}]
+statsVariant: "article"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+serviceArea: "lenawee-county-mi"
+serviceTopic: "pedestrian-accident-injuries"
+practiceArea: "pedestrian-accidents"
+---
+
+<p>A person on foot has no protection against a moving vehicle, so pedestrian crashes routinely cause severe, life-changing injuries. Our <a href="/service-area/lenawee-county-mi">Lenawee County pedestrian accident attorneys</a> have more than 45 years of experience fighting for people struck by careless drivers throughout Michigan. From the city of Adrian to the Irish Hills lake country and the rural roads along the Ohio border, Lenawee County's mix of highway, farm, and small-town traffic creates serious accident risks.</p>
+
+<h2>No-Fault Benefits for Injured Pedestrians</h2>
+
+<p>Many pedestrians don't realize that Michigan's no-fault system still protects them. If you're struck by a car or truck, you can generally recover PIP benefits — even though you weren't in a vehicle — from the involved automobile's insurer or, in some cases, through the Michigan Assigned Claims Plan. These benefits cover medical care, wage loss, and attendant care. We make sure the right insurer pays.</p>
+
+<h2>Where Pedestrian Crashes Happen in Lenawee County</h2>
+
+<p>Crosswalks, parking lots, school zones, and busy corridors near US-223, US-127, M-52, M-50, and M-34 are frequent crash sites. Common causes include distracted driving, failure to yield, speeding, drivers turning without looking, and poor visibility at night.</p>
+
+<h2>Serious and Fatal Pedestrian Injuries</h2>
+
+<p>Because there is nothing between the pedestrian and the vehicle, these crashes often cause traumatic brain injuries, multiple fractures, internal injuries, and wrongful death. We build cases that account for the full lifetime impact, working with medical and economic experts.</p>
+
+<h2>Why Choose Logeman & Iafrate</h2>
+
+<p>We are not a high-volume settlement mill. We take cases other firms turn down and prepare every case for trial, and insurance companies know it. Our verdicts and settlements in cases involving people struck by vehicles include a $937,500 recovery for a college student struck while crossing the road who sustained a closed head injury, and a $1.9 million recovery in a case involving a person struck by an impaired driver. We offer free consultations and work on a contingency-fee basis — no fee unless we win.</p>
+
+<p class="text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
+
+<h2>Struck by a Vehicle in Lenawee County?</h2>
+
+<p>If you or a loved one was hit by a car or truck throughout Lenawee County, contact Logeman &amp; Iafrate, P.C. We'll identify every source of compensation and fight to recover what you deserve. Call us at <a href="tel:+17349940200"><strong>(734) 994-0200</strong></a> or fill out our online contact form to schedule your free consultation. We take cases on a contingency-fee basis — no fee unless we win.</p>
+
+<p class="text-muted-foreground italic max-w-[900px] mx-auto px-6 pb-8">The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</p>

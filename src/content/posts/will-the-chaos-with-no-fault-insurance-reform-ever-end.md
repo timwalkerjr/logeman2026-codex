@@ -1,0 +1,48 @@
+---
+title: "The Ongoing Challenges with Michigan No-Fault Insurance Reform"
+description: "Michigan's no-fault insurance reform has created chaos for accident victims and medical providers. Learn about denied care, higher premiums, and the ongoing consequences of this poorly written law from experienced personal injury attorneys."
+canonicalUrl: "https://www.logeman.com/posts/will-the-chaos-with-no-fault-insurance-reform-ever-end/"
+showHero: true
+heroTitle: "The Ongoing Challenges with Michigan No-Fault Insurance Reform"
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"What changes did Michigan's no-fault insurance reform make?","answer":"Michigan's 2019 no-fault reform introduced several significant changes, including allowing policyholders to opt out of unlimited medical coverage, implementing a 45% fee schedule reduction for medical providers treating auto accident victims, and applying these changes retroactively to existing claims. These changes have resulted in denied care for catastrophically injured accident victims and financial hardship for medical providers."},{"question":"Why are insurance companies denying medical benefits under the reformed no-fault law?","answer":"Insurance companies are using ambiguities in the poorly written reform law to deny claims, delay payments by requesting excessive documentation, and incorrectly apply fee schedule reductions to services like durable medical equipment and home modifications that were never intended to be included. The Michigan Catastrophic Claims Association has also been empowered to deny claims with little accountability, leaving injured victims without the care they need."},{"question":"What can I do if my no-fault insurance benefits are being denied?","answer":"If your no-fault benefits are being denied or delayed, you need experienced legal representation to fight back against insurance company tactics. Logeman & Iafrate, P.C. has more than 60 years of combined experience handling complex no-fault insurance disputes. We offer free consultations and work on a contingency-fee basis—meaning you pay nothing unless we recover compensation for you. Contact our Ann Arbor office today to discuss your case."}]
+statsVariant: "bar"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+---
+
+<p>We continue to hear about medical providers shutting down their businesses on a daily basis, catastrophically injured accident victims being denied medical care, insurance companies refusing to pay medical bills, and attempting to apply the 45% reduction to durable medical equipment, home modifications, and other services that were never intended to be included in the fee schedule.</p>
+
+<p><strong>When medical providers request help with billing issues, they are typically told by the insurance company or audit company that "we can't help you" or "you need to figure it out on your own."</strong></p>
+
+<p>Insurers are also delaying payment by repeatedly asking for additional documentation in order to avoid paying on a timely basis. The consequences are real and should not be unexpected when lawmakers rush to pass a new law in the middle of the night without even reading it. The fact that the majority of lawmakers did not even realize that the no-fault amendment would be applied retroactively to existing accident victims is inexcusable.</p>
+
+<p>The promise of reduced insurance rates is an illusion. Insurance companies have earned record profits while policyholders are increasingly paying higher premiums for less coverage. The promise that policyholders could still purchase the same unlimited lifetime coverage that existed before the amendment to the no-fault law is a falsehood.</p>
+
+<p><strong>Consumers can purchase unlimited medical coverage that they cannot utilize since the coverage no longer pays for services—resulting in accident victims being denied care.</strong></p>
+
+<p>As predicted, some medical providers are now refusing to accept no-fault insurance. Auto consumers are now paying more for medical coverage that they cannot use. Worse yet, the no-fault changes have caused an increase in fraudulent claims. Medical providers who overcharge or bill for care that is not provided are not hurt by the changes to the no-fault system. They can continue to operate their businesses indefinitely since they do not have the typical overhead expenses of operating a legitimate business and can continue business as usual.</p>
+
+<p><strong>The current effects of this law can be summarized as follows:</strong></p>
+<ul>
+  <li>Accident victims being denied medical care and benefits</li>
+  <li>Higher insurance premiums for auto consumers because of the need to purchase additional coverage to protect themselves against tort lawsuits and reduced PIP coverage</li>
+  <li>Record profits for insurance companies</li>
+  <li>Medical providers going out of business</li>
+  <li>Business as usual for unscrupulous medical providers</li>
+  <li>Increased litigation costs because of the ambiguities of this poorly written law</li>
+  <li>Consumers being put at risk for bankruptcy if they have inadequate insurance to protect against lawsuits</li>
+  <li>The Michigan Catastrophic Claims Association empowered to use ambiguities in the law to deny claims with no consequences</li>
+</ul>
+
+<p>Insurance companies are offering families the option of signing attendant care contracts that significantly reduce reimbursements, and such agreements are written in a manner that completely favors insurance companies. There is no flexibility when policyholders request that the draconian provisions be removed. The insurers are responding with a take-it-or-leave-it approach.</p>
+
+<p>Unfortunately, the only individuals who can repair the damage caused are the politicians who created this mess—and they are unable to agree on just about any legislation during these polarized political times. It remains to be seen if Michigan lawmakers can fix the chaos created by the amendment to the law.</p>
+
+<p>Right now, the biggest winner is the Michigan Catastrophic Claims Association (Big Brother), which flexes its muscles with little consequences and no accountability. The billions of dollars in the CAT fund earmarked for accident victims is likely vulnerable to being plundered by special interests. The money in the fund is the <strong>big prize</strong> that will be the next thing targeted by special interests. All the while, the most vulnerable <a href="/motor-vehicle-accidents-overview/no-fault-claim-attorney-ann-arbor-mi/">accident victims</a> continue to suffer the consequences of this so-called reform law.</p>
+
+<p>For over 45 years, Logeman & Iafrate, P.C. has fought for injured clients throughout Michigan, taking on challenging cases and securing the compensation families deserve. Our attorneys bring more than 60 years of combined experience to every no-fault insurance dispute. If you're facing denied benefits or unpaid medical bills, call our Ann Arbor office for a free consultation. We don't get paid unless we win your case.</p>
+
+<p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>

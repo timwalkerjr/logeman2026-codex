@@ -1,0 +1,104 @@
+---
+title: "Pain and Suffering Claims Ann Arbor MI | Michigan Personal Injury Attorneys"
+description: "Experienced Ann Arbor attorneys fighting for maximum pain and suffering compensation after serious injuries. 45 years winning Michigan personal injury cases. Free consultation. No fee unless we win."
+canonicalUrl: "https://www.logeman.com/service/pain-and-suffering-claims-in-ann-arbor-mi/"
+showHero: true
+heroTitle: "Pain and Suffering Claims Ann Arbor MI | Michigan Personal Injury Attorneys"
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"What is the difference between economic and non-economic damages?","answer":"Economic damages compensate for financial losses with specific dollar amounts—medical bills, lost wages, property damage, and future care costs. Non-economic damages compensate for harms without receipts, including pain and suffering, emotional distress, loss of enjoyment of life, and permanent impairment. Both categories are recoverable in Michigan personal injury cases when negligence causes serious injuries."},{"question":"Can I recover pain and suffering damages after a car accident in Ann Arbor?","answer":"Yes, but only if your injuries meet Michigan's serious impairment of body function threshold. You must prove an objectively manifested impairment of an important body function that affects your general ability to lead your normal life. Our attorneys have extensive experience proving threshold injuries and securing pain and suffering compensation for car accident victims throughout Ann Arbor and Washtenaw County."},{"question":"Do I need to meet the threshold requirement for slip and fall or dog bite cases?","answer":"No. Michigan's threshold requirement applies only to motor vehicle accidents. For premises liability cases like slip and falls, dog bite injuries, construction accidents, and other non-auto incidents, you can pursue pain and suffering damages without meeting any threshold—if negligence caused your injury, you're entitled to full compensation including non-economic damages."},{"question":"How is pain and suffering calculated in Michigan injury cases?","answer":"There's no formula. Juries consider the severity and permanence of injuries, the intensity and duration of pain, the extent of treatment required, scarring or disfigurement, impact on daily activities and quality of life, age and life expectancy, emotional trauma, and expert medical testimony. We build comprehensive evidence showing the true human cost of your injuries to support full compensation."},{"question":"Are there caps on pain and suffering damages in Michigan?","answer":"For most personal injury cases—car accidents, premises liability, construction accidents—no caps apply. Juries can award whatever amount they believe fair. However, medical malpractice and product liability cases are subject to non-economic damage caps of approximately $569,000 for standard cases and $1,047,000 for cases involving death or permanent loss of vital bodily functions, adjusted annually for inflation."},{"question":"How long do I have to file a pain and suffering claim in Ann Arbor?","answer":"The statute of limitations for most personal injury claims in Michigan is three years from the date of injury. However, specific deadlines can vary based on the type of case and circumstances. Consulting an attorney promptly ensures you preserve your rights, allows thorough evidence gathering, and prevents insurance companies from taking advantage of delay."},{"question":"What evidence strengthens a pain and suffering claim?","answer":"Strong claims require comprehensive documentation including detailed medical records showing the severity of injuries, expert testimony from treating physicians, activity logs demonstrating how injuries affect daily life, testimony from family and friends about changes they've observed, photographs of injuries and scarring, psychological evaluations documenting emotional trauma, and employment records showing lost opportunities. We gather all evidence needed to prove the full impact of your injuries."},{"question":"Will my case go to trial?","answer":"Most cases settle, but we prepare every case for trial. This trial-ready approach produces better settlements because insurance companies know we're willing and prepared to present your case to a jury. When they see the strength of our preparation and our record of thorough trial preparation, they're motivated to make fair offers. If they don't, we're ready to fight for you in court."}]
+statsVariant: "bar"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+serviceArea: "ann-arbor-mi"
+serviceTopic: "pain-and-suffering-claims"
+practiceArea: ""
+---
+
+<p>When you suffer serious injuries in an accident in Ann Arbor, the physical pain is only part of what you endure. The emotional trauma, the sleepless nights worrying about medical bills, the frustration of missing work and family activities—these real harms deserve real compensation. At Logeman & Iafrate, P.C., we've spent more than 45 years fighting to make sure injured people throughout Michigan recover not just their medical expenses and lost wages, but full compensation for their pain and suffering.</p>
+
+<h2>Understanding Pain and Suffering Damages in Michigan</h2>
+<p>Pain and suffering falls into the category of non-economic damages—compensation for harms that don't come with a receipt. Unlike medical bills or wage statements, there's no invoice for the chronic pain that wakes you at night, the anxiety that follows a traumatic accident, or the loss of enjoyment when injuries prevent you from activities you once loved.</p>
+
+<p>In Michigan, your right to recover pain and suffering damages depends on the type of case and the severity of your injuries. For car accidents, motorcycle crashes, and other motor vehicle collisions, Michigan's threshold injury requirement applies. For premises liability, construction accidents, dog bites, and other non-auto cases, no threshold exists—if negligence caused your injury, you can pursue full compensation including pain and suffering.</p>
+
+<h2>Michigan's Serious Impairment Threshold for Auto Accidents</h2>
+<p>If your injuries resulted from a car accident, Michigan law requires that you meet the serious impairment of body function threshold before you can sue the at-fault driver for pain and suffering. This threshold requires proving an objectively manifested impairment of an important body function that affects your general ability to lead your normal life.</p>
+
+<p>Insurance companies fight these claims thoroughly, arguing that injuries aren't serious enough or that you've returned to most of your normal activities. We've heard every defense tactic. Our attorneys know how to document the real impact of your injuries through medical records, expert testimony, activity logs, and compelling evidence that shows how your life has fundamentally changed.</p>
+
+<p>We've successfully proven threshold injuries for clients throughout <a href="/service-area/washtenaw-county-mi">Ann Arbor and Washtenaw County</a>, securing pain and suffering compensation for:</p>
+<ul>
+  <li>Herniated and ruptured discs requiring surgery or ongoing treatment</li>
+  <li>Traumatic brain injuries causing cognitive impairment, memory loss, and personality changes</li>
+  <li>Fractures and orthopedic injuries requiring extended recovery</li>
+  <li>Soft tissue injuries causing chronic pain and limitation of movement</li>
+  <li>Spinal cord injuries resulting in paralysis or significant functional loss</li>
+  <li>Scarring and disfigurement affecting appearance and self-confidence</li>
+</ul>
+
+<h2>Pain and Suffering in Non-Auto Accident Cases</h2>
+<p>When your injuries result from premises liability, construction accidents, dog attacks, or other non-vehicle incidents in Ann Arbor, Michigan's threshold requirement doesn't apply. If someone's negligence caused your injury, you have the right to pursue compensation for pain and suffering regardless of whether the harm meets any specific legal standard.</p>
+
+<p>These cases allow recovery for the full human impact of your injuries, including physical pain, emotional distress, loss of enjoyment of life, and the permanent changes serious injuries cause. From slip and falls on Ann Arbor sidewalks to construction site accidents to dog bites requiring reconstructive surgery, we fight to make sure juries understand what you've lost and award compensation that reflects the true cost.</p>
+
+<h2>What Pain and Suffering Compensation Covers</h2>
+<p>Pain and suffering damages compensate you for a wide range of harms that serious injuries cause:</p>
+<ul>
+  <li><strong>Physical pain and discomfort.</strong> The immediate trauma of your injuries, ongoing pain during recovery, chronic pain that persists long after treatment ends, and physical limitations that affect your daily life.</li>
+  <li><strong>Emotional and psychological harm.</strong> Anxiety, depression, post-traumatic stress, fear, humiliation, and the emotional toll of dealing with serious injuries and their consequences.</li>
+  <li><strong>Loss of enjoyment of life.</strong> The inability to participate in hobbies, sports, family activities, and the pursuits that once brought you joy and fulfillment.</li>
+  <li><strong>Loss of consortium.</strong> The impact on your relationship with your spouse, including loss of companionship, affection, and intimacy.</li>
+  <li><strong>Permanent impairment and disability.</strong> Compensation for lasting limitations, disfigurement, scarring, and the knowledge that you'll never fully recover.</li>
+</ul>
+
+<h2>Calculating Pain and Suffering Damages</h2>
+<p>Unlike medical expenses that come with bills and receipts, pain and suffering requires a more nuanced evaluation. Our attorneys consider multiple factors when building your claim:</p>
+<ul>
+  <li>The severity and permanence of your injuries</li>
+  <li>The intensity and duration of your physical pain</li>
+  <li>The extent of medical treatment required</li>
+  <li>Whether you've suffered permanent scarring or disfigurement</li>
+  <li>How your injuries affect your daily activities and quality of life</li>
+  <li>Your age and life expectancy</li>
+  <li>The emotional and psychological impact of the accident</li>
+  <li>Expert testimony from medical professionals</li>
+  <li>Comparable verdicts and settlements in similar cases</li>
+</ul>
+
+<p>We work with medical experts, life care planners, and vocational specialists to document every dimension of your harm. When insurance companies see the depth of preparation behind our claims, they know we're ready to present compelling evidence to a jury if necessary.</p>
+
+<h2>Michigan Damage Caps and Limitations</h2>
+<p>For most personal injury cases in Ann Arbor—including car accidents, premises liability, and construction accidents—there are no caps on pain and suffering damages. Juries can award whatever amount they believe fairly compensates your harm.</p>
+
+<p>However, if your case involves medical malpractice, Michigan law imposes caps on non-economic damages. For 2025, the standard cap is approximately $569,000, with a higher cap of approximately $1,047,000 for cases involving death or permanent loss of vital bodily functions. These amounts adjust annually for inflation.</p>
+
+<p>Product liability cases are also subject to these damage caps. Our attorneys understand how these limitations affect your case and work to pursue the full value of recovery within applicable legal frameworks.</p>
+
+<h2>Fighting Insurance Company Tactics</h2>
+<p>Insurance companies employ aggressive tactics to minimize or deny pain and suffering claims. They'll argue that your injuries aren't as serious as you claim, that you've exaggerated symptoms, or that pre-existing conditions—not the accident—caused your problems. They'll hire doctors to examine you once for fifteen minutes and then testify that you're fine.</p>
+
+<p>We've seen every defense strategy, and we know how to counter them. Our trial-ready approach means thorough investigation, compelling expert testimony, and evidence that tells your story truthfully and powerfully. When insurance companies see our name on a case, they know we're prepared to go to trial. That preparation produces results—from substantial settlements to jury verdicts that hold negligent parties accountable.</p>
+
+<h2>Our Trial-Ready Approach to Ann Arbor Pain and Suffering Claims</h2>
+<p>Many personal injury firms settle quickly to avoid trial preparation. We take a different approach. Every case we accept is prepared as if it will go to trial—because insurance companies settle cases for full value only when they know you're willing and able to take them to court.</p>
+
+<p>Our verdicts and settlements reflect this commitment. From a $5.1 million verdict for a woman killed by a semi truck to substantial awards for Ann Arbor residents suffering traumatic brain injuries, spinal cord damage, and other catastrophic harms, our results demonstrate what trial-ready advocacy achieves.</p>
+
+<h2>We Don't Get Paid Unless We Win</h2>
+<p>We represent injured people on a contingency-fee basis. You pay no legal fees unless we recover compensation for you. This arrangement allows you to access experienced legal representation without upfront costs, and it ensures our interests align completely with yours—we succeed only when you do.</p>
+
+<p>We offer free consultations at our Ann Arbor office. During this meeting, we'll review the circumstances of your accident, evaluate the strength of your pain and suffering claim, explain your legal options, and answer your questions. You'll leave with a clear understanding of your rights and the path forward.</p>
+
+<p class="text-[14px] text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
+
+<h2>Contact Our Ann Arbor Pain and Suffering Attorneys Today</h2>
+<p>If you've suffered serious injuries in Ann Arbor due to another person's negligence, you deserve full compensation for your pain and suffering. The attorneys at Logeman & Iafrate, P.C., have spent more than 45 years fighting for injured people throughout Michigan, and we're ready to fight for you.</p>
+
+<p><strong>Call us at (734) 994-0200 or fill out our online <a href="/contact-us">contact form</a> to schedule a free consultation.</strong> We take cases on a contingency-fee basis—no fee unless we win. Let us handle the legal battle while you focus on your recovery.</p>
+
+<h2>Our Story — Built on Experience and Determination</h2>
+<p>For decades, Logeman & Iafrate has represented injured clients across Michigan with unwavering commitment. We take cases others won't, and we win cases others can't. Our founders built this firm on a simple principle: injured people deserve fierce advocacy and real results.</p>
+
+<p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>

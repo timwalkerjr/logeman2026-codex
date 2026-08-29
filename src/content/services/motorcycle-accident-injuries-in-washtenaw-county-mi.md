@@ -1,0 +1,94 @@
+---
+title: "Washtenaw County Motorcycle Accident Lawyers | Michigan Injury Attorneys"
+description: "Washtenaw County motorcycle accident attorneys with 45 years fighting for injured riders. We handle denied insurance claims and catastrophic injuries. Free consultation. No fee unless we win."
+canonicalUrl: "https://www.logeman.com/service/motorcycle-accident-injuries-in-washtenaw-county-mi/"
+showHero: true
+heroTitle: ""
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"Who pays for my medical expenses after a motorcycle accident in Washtenaw County?","answer":"Under Michigan law, the striking motor vehicle's insurance is responsible for all accident-related medical expenses incurred by motorcycle occupants. However, if you purchased additional medical coverage on your motorcycle policy, that provides important protection given the changes to Michigan's no-fault law that eliminated mandatory lifetime medical coverage starting July 1, 2020. Without adequate coverage, you may face gaps in payment for necessary medical treatment."},{"question":"Can I sue the at-fault driver who hit my motorcycle?","answer":"Yes, if your injuries meet Michigan's serious impairment of body function threshold. This requires showing an objectively manifested impairment of an important body function that affects your general ability to lead your normal life. Successfully meeting this threshold allows you to recover compensation for pain and suffering, excess medical expenses, and other damages beyond your no-fault benefits. Our attorneys have extensive experience proving threshold injuries in motorcycle accident cases."},{"question":"What should I do immediately after a motorcycle accident in Washtenaw County?","answer":"First, ensure your safety and call 911 if there are injuries. Move to a safe location if possible and exchange insurance and contact information with other drivers. Document the scene with photos, including road conditions, vehicle positions, and your injuries. Report the accident to police and notify your insurance company within one year to preserve your no-fault benefits. Seek immediate medical attention even if injuries seem minor—some serious injuries like traumatic brain injuries may not be immediately apparent. Avoid admitting fault or making recorded statements to other insurers without legal counsel."},{"question":"Will my lack of a helmet affect my motorcycle accident claim?","answer":"While wearing a DOT-certified helmet is strongly recommended and can reduce the likelihood of serious injuries, not wearing one does not automatically prevent you from recovering compensation. Michigan law does not require adult motorcyclists to wear helmets in all circumstances. However, the defense may argue that your injuries would have been less severe with a helmet. The National Highway Traffic Safety Administration estimates helmets are 37% effective in preventing fatal injuries to riders, so protective gear is always wise."},{"question":"How long do I have to file a motorcycle accident lawsuit in Washtenaw County?","answer":"Michigan's statute of limitations for personal injury lawsuits is generally three years from the date of the accident. For no-fault insurance claims, you must notify your insurance company within one year of the accident to preserve your benefits. However, specific circumstances can affect these deadlines. It's crucial to consult an experienced motorcycle accident attorney as soon as possible to ensure you meet all applicable deadlines and preserve your rights."},{"question":"What if the insurance company denies my motorcycle accident claim?","answer":"Insurance companies routinely deny legitimate claims from motorcycle accident victims, arguing that injuries are unrelated to the accident, that treatment is unnecessary, or that coverage doesn't apply. You don't have to face this alone. Our firm has successfully challenged insurance denials throughout our 45 years of practice, recovering substantial compensation for riders whose insurers refused to pay. We're prepared to take your case to trial if necessary to hold insurance companies accountable for the benefits they owe you."}]
+statsVariant: "article"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+serviceArea: "washtenaw-county-mi"
+serviceTopic: "motorcycle-accident-injuries"
+practiceArea: "motorcycle-accidents"
+---
+
+<p>Motorcycle accidents in Washtenaw County frequently result in catastrophic injuries that change lives forever. When you ride through Ann Arbor, Ypsilanti, Saline, or rural roads across the county, you're at risk from distracted drivers who fail to see motorcyclists or make unsafe turns. At Logeman &amp; Iafrate, P.C., we've spent more than 45 years fighting for injured riders throughout Michigan—securing the compensation they need to rebuild their lives.</p>
+
+<h2>Common Motorcycle Accident Injuries in Washtenaw County</h2>
+
+<p>The consequences of a motorcycle collision can be devastating. Even with a helmet and protective gear, riders face serious injuries when struck by cars and trucks:</p>
+
+<ul>
+  <li><strong>Spinal cord and brain injuries.</strong> Damage to the spinal column can cause chronic back pain, paralysis, spine fractures, and traumatic brain injuries. Little barrier protection can be offered to motorcycle operators, making these injuries particularly severe. The National Highway Traffic Safety Administration estimates that helmets are 37% effective in preventing fatal injuries to riders and 41% for passengers.</li>
+  <li><strong>Arm injuries.</strong> When a motorcyclist is thrown from the bike, arms and shoulders often take the brunt of the trauma. Many riders try to brace for impact, leading to broken bones, nerve damage, and other injuries requiring long-term care and recovery.</li>
+  <li><strong>Leg injuries.</strong> Injuries to the hips, knees, and feet are extremely common. These can occur at impact or when a rider is thrown from the motorcycle. Bone fractures, muscle damage, and other trauma often require extensive physical therapy and treatment.</li>
+  <li><strong>Amputations.</strong> Motorcycle accidents frequently result in amputations when cars strike the legs, which are unprotected even with proper gear. These injuries require lifelong rehabilitation and medical care.</li>
+</ul>
+
+<h2>Understanding Michigan's Motorcycle Insurance Laws</h2>
+
+<p>Under Michigan law, the striking motor vehicle is responsible for payment of all accident-related medical expenses incurred by motorcycle occupants. However, changes to Michigan's no-fault law effective July 1, 2020, eliminated mandatory lifetime medical coverage. This means many motorcycle accident victims now face reduced insurance coverage for necessary medical expenses resulting from limited insurance coverage.</p>
+
+<p>Motorcycle operators should purchase additional medical coverage on their motorcycle policy to ensure adequate protection in the event of a serious accident. This coverage is generally very inexpensive but can make an enormous difference when catastrophic injuries occur.</p>
+
+<h3>Fighting Denied Insurance Claims</h3>
+
+<p>Insurance companies routinely deny legitimate claims from motorcycle accident victims. They argue that injuries stem from unrelated conditions, that treatment is unnecessary, or that coverage doesn't apply. We've heard every excuse—and we've beaten them in court.</p>
+
+<p>Our verdicts and settlements include results for riders whose insurers refused to pay for the care they needed. When insurance companies see our name on a case, they know we're prepared to go to trial to secure the benefits our clients are owed.</p>
+
+<h2>Compensation Available for Washtenaw County Motorcycle Accidents</h2>
+
+<p>Different types of injuries require different treatments and costs, and you deserve full compensation for both your immediate and future needs:</p>
+
+<ul>
+  <li><strong>Long-term medical care.</strong> Serious injuries such as extensive spinal damage, brain injuries, limb injuries, or multiple fractures often require long hospital stays, in-home care for months, and significant out-of-pocket expenses. Purchasing adequate medical coverage helps pay for these unexpected costs.</li>
+  <li><strong>Wage loss.</strong> Even less severe injuries may require time away from work during your recovery. Motorcycle operators are entitled to 85% of their average weekly salary for up to three years under no-fault insurance coverage.</li>
+  <li><strong>Attendant care.</strong> For catastrophic injuries requiring ongoing assistance with daily living activities, Michigan's no-fault system provides attendant care benefits—though insurers often fight these claims.</li>
+  <li><strong>Pain and suffering.</strong> When your injuries meet Michigan's serious impairment threshold, you can pursue compensation for pain and suffering from the at-fault driver beyond your no-fault benefits.</li>
+  <li><strong>Future medical expenses.</strong> We work with medical experts and life care planners to document the full extent of future care needs and ensure you receive compensation for decades of treatment ahead.</li>
+</ul>
+
+<h2>Protecting Yourself: Motorcycle Safety in Washtenaw County</h2>
+
+<p>While we fight for injured riders in the courtroom, prevention remains critical. The Motorcycle Safety Foundation offers safety booklets and rider course handbooks at msf-usa.org or 800-446-9227. It's wise for beginners to take a safety course, and experienced riders benefit from refresher courses after being off the bike for a while.</p>
+
+<p>Essential safety steps include:</p>
+
+<ul>
+  <li>Use a certified DOT helmet—look for the DOT sticker guaranteeing the helmet satisfies safety standards required by law</li>
+  <li>Wear protective gear including pants designed for motorcycle safety, not just jeans</li>
+  <li>Increase visibility with bright clothing and reflective tape</li>
+  <li>Maintain your motorcycle according to the manufacturer's schedule</li>
+  <li>Stay alert to drivers who may not see you, especially at intersections</li>
+</ul>
+
+<h2>Why Experience Matters in Motorcycle Accident Cases</h2>
+
+<p>Motorcycle accident cases involve complex issues that require attorneys who understand both Michigan's no-fault system and the specific challenges riders face. Insurance companies often harbor bias against motorcyclists, claiming riders were at fault or engaged in reckless behavior. Police reports sometimes incorrectly assign fault to the rider.</p>
+
+<p>We've successfully challenged these assumptions throughout our decades of practice. Our approach includes enlisting accident reconstructionists to build a strong case, identifying all sources of compensation, and working with medical and economic experts who testify about the extent of your injuries.</p>
+
+<p>There is no question that insurance companies work to deny or undervalue legitimate claims and fail to pay benefits owed. If you've been injured in a motorcycle accident, don't assume you've exhausted all avenues for benefits or that the cost of your injury has been calculated accurately.</p>
+
+<h2>Taking Action After Your Washtenaw County Motorcycle Accident</h2>
+
+<p>Start early for the strongest claim. As soon as you retain our firm to represent you, we begin a thorough investigation, identifying witnesses and enlisting scientific experts and accident reconstructionists. We identify all sources of compensation and work with medical and economic experts who will testify as to the extent of your injuries.</p>
+
+<p>Time matters in these cases. Evidence disappears, witnesses' memories fade, and insurance companies use delay as a tactic. Our trial-ready approach ensures that we preserve critical evidence and build the strongest possible case from day one.</p>
+
+<p>At Logeman &amp; Iafrate, P.C., we don't get paid unless we win. We take cases on a contingency-fee basis, meaning you can pursue justice without worrying about upfront legal costs. Our commitment is to fight by your side until you receive the compensation you need to move forward.</p>
+
+<p class="text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
+
+<h2>Get Help from Experienced Washtenaw County Motorcycle Accident Attorneys</h2>
+
+<p>If you or a loved one has been injured in a motorcycle accident in Washtenaw County, contact Logeman &amp; Iafrate, P.C. today. Our Ann Arbor-based attorneys serve riders throughout Washtenaw County, including Ann Arbor, Ypsilanti, Saline, Chelsea, Dexter, and surrounding communities.</p>
+
+<p>We offer free consultations and operate on a contingency-fee basis—you pay nothing unless we win your case. Call us at <a href="tel:+17349940200"><strong>(734) 994-0200</strong></a> or fill out our online contact form to schedule your free consultation. Let us fight for the compensation you deserve while you focus on your recovery.</p>
+
+<p class="text-muted-foreground italic max-w-[900px] mx-auto px-6 pb-8">The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</p>

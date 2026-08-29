@@ -1,0 +1,22 @@
+---
+title: "Legal Decision Regarding No-Fault Fee Caps | Logeman & Iafrate, P.C."
+description: "Chief Judge Carol Kuhnke ruled Michigan's no-fault insurance fee schedule (MCL 500.3157(7)) unconstitutional in September 2022. Learn how this decision affects accident victims' rights and insurance claims."
+canonicalUrl: "https://www.logeman.com/posts/legal-decision-regarding-no-fault-fee-caps/"
+showHero: true
+heroTitle: ""
+contentTitle: ""
+afterFaqHtml: "<p class=\"text-muted-foreground italic max-w-[900px] mx-auto px-6 pb-8\">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>"
+faqs: [{"question":"What did Judge Kuhnke rule about Michigan's no-fault fee schedule?","answer":"Chief Judge Carol Kuhnke of Washtenaw County Circuit Court ruled on September 29, 2022, that the no-fault insurance fee schedule contained in MCL 500.3157(7) is unconstitutional because it violates the equal protection clause of the constitution."},{"question":"Why is this decision important for accident victims?","answer":"This ruling represents a significant victory for accident victims in Michigan as it challenges fee caps that may have limited their access to necessary medical care and rehabilitation services following motor vehicle accidents covered under no-fault insurance."},{"question":"What is MCL 500.3157(7)?","answer":"MCL 500.3157(7) is a Michigan statute that established a fee schedule limiting the amounts that healthcare providers could charge for services rendered to patients injured in auto accidents and covered by no-fault insurance."},{"question":"How does this ruling affect my accident injury claim?","answer":"If you were injured in an accident, this ruling may positively impact your ability to receive full compensation for medical services. It's important to get a legal review of your case as soon as possible to understand how this decision applies to your specific situation."},{"question":"Who can help me with my Michigan accident claim?","answer":"Our Ann Arbor personal injury law firm serves clients throughout Michigan and offers free consultations to review accident injury claims and explain how recent legal decisions like Judge Kuhnke's ruling may affect your case."}]
+statsVariant: "article"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+---
+
+<h2>Recent Legal Decision Regarding the Constitutionality of No-Fault Fee Caps</h2>
+
+<p>The Honorable Carol Kuhnke, Chief Judge of the Washtenaw County Circuit Court, in a written opinion dated September 29, 2022 has ruled that the no-fault insurance fee schedule contained in MCL 500.3157(7) is unconstitutional because it "violates the constitutional promise of equal protection under the law." This is another victory for accident victims!</p>
+
+<p><a href="https://www.logeman.com/wp-content/uploads/2022/10/Kuhke-Opinion-10-04-22b.pdf">Please see attached opinion of Judge Kuhnke</a>.</p>
+
+<p>If you were <a href="/about-us/">injured in an accident</a> it is important to get a <a href="/posts/don-t-let-an-insurance-adjuster-ruin-your-michigan-car-accident-claim">legal review of the case</a> as soon as possible. Our Ann Arbor <a href="/">personal injury law firm</a> serves clients throughout Michigan. Contact our firm at any time for a Free Consultation or help with your <a href="/contact-us/">accident injury claim</a>.</p>

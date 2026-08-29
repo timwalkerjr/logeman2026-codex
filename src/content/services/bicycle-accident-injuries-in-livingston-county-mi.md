@@ -1,0 +1,175 @@
+---
+title: "Livingston County Bicycle Accident Lawyers | Michigan Cyclist Injury Attorneys"
+description: "Experienced Livingston County bicycle accident attorneys with 45 years helping injured cyclists recover full compensation. Free consultation. No fee unless we win. Call (734) 994-0200."
+canonicalUrl: "https://www.logeman.com/service/bicycle-accident-injuries-in-livingston-county-mi/"
+showHero: true
+heroTitle: "Livingston County Bicycle Accident Lawyers | Michigan Cyclist Injury Attorneys"
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"What should I do immediately after a bicycle accident in Livingston County?","answer":"First, ensure your safety and call 911 if you're injured. Move to a safe location if possible, but don't leave the scene. Report the accident to police and obtain the driver's insurance information and contact details. Document the scene with photos of your bicycle, the vehicle, road conditions, visible injuries, and any relevant traffic signs or signals. Collect contact information from witnesses. Seek medical attention immediately, even if injuries seem minor—some serious injuries don't present symptoms right away. Notify your insurance company about the accident, but avoid giving detailed recorded statements before consulting an attorney. Keep all medical records and receipts."},{"question":"Can I recover compensation if I wasn't wearing a helmet?","answer":"Yes. While wearing a helmet is strongly recommended for safety, not wearing one does not automatically prevent you from recovering compensation in Michigan. The at-fault driver's negligence caused your accident, not your choice of safety equipment. However, insurance companies may argue that your injuries would have been less severe with a helmet, potentially affecting the amount of damages. Our attorneys can counter these arguments by demonstrating the full extent of the driver's fault and the reasonable nature of your damages."},{"question":"How does Michigan's no-fault insurance work for bicycle accidents?","answer":"If you own a vehicle and carry auto insurance with PIP coverage, your own policy typically covers your medical expenses, wage loss (up to 85% of gross income), and replacement services after a bicycle accident—regardless of who caused it. If you don't own a vehicle, you may be entitled to benefits from the at-fault driver's insurance, a household member's policy, or the Michigan Assigned Claims Plan. Additionally, if your injuries meet Michigan's \"serious impairment of body function\" threshold, you can pursue a third-party claim against the negligent driver for pain and suffering, excess medical costs, and full wage loss."},{"question":"What is Michigan's \"serious impairment of body function\" threshold?","answer":"To pursue a lawsuit against the at-fault driver for pain and suffering, your injuries must meet Michigan's threshold of \"serious impairment of body function.\" This means an objectively manifested impairment of an important body function that affects your general ability to lead your normal life. Courts consider factors including the nature and extent of your injuries, the type of treatment required, how long the impairment lasted, whether it's permanent, and how it affects your ability to work and perform daily activities. Bicycle accidents frequently result in threshold injuries including broken bones, traumatic brain injuries, spinal damage, and permanent scarring."},{"question":"How long do I have to file a bicycle accident claim in Livingston County?","answer":"For third-party claims against the at-fault driver, Michigan's statute of limitations is generally three years from the date of the accident. For no-fault PIP benefits, you must notify your insurance company of the accident within one year to preserve your rights. However, certain circumstances can affect these deadlines, and some claims have shorter time limits. Evidence also deteriorates over time, so consulting an attorney as soon as possible after your accident protects your rights and strengthens your case."},{"question":"What if the driver who hit me doesn't have insurance?","answer":"Uninsured drivers create additional challenges, but you may still have options for recovery. If you have uninsured motorist coverage on your own auto policy, it may provide compensation for your injuries. If you don't own a vehicle or don't have UM coverage, you may be eligible for benefits through the Michigan Assigned Claims Plan. Our attorneys can evaluate all potential sources of compensation and pursue every available avenue to secure the recovery you deserve."},{"question":"Can I still recover compensation if I was partially at fault?","answer":"Michigan follows a modified comparative negligence rule. You can still recover compensation if you were partially at fault, as long as you were less than 50% responsible for the accident. However, your compensation will be reduced by your percentage of fault. For example, if you're found 20% at fault and awarded $100,000, you would receive $80,000. Insurance companies routinely try to shift blame to cyclists to reduce their payout. Our attorneys fight these tactics by thoroughly investigating the accident and demonstrating the driver's primary responsibility."},{"question":"What damages can I recover beyond medical bills?","answer":"Beyond medical expenses covered by no-fault PIP benefits, you may recover compensation for pain and suffering, emotional distress, permanent scarring or disfigurement, loss of enjoyment of life, full wage loss (not just the 85% covered by PIP), lost earning capacity if you can't return to your previous work, property damage to your bicycle and gear, and out-of-pocket expenses. If your injuries meet Michigan's threshold, third-party claims against the at-fault driver allow recovery of these non-economic damages that PIP benefits don't cover."},{"question":"Do I really need an attorney for my bicycle accident case?","answer":"While you're not legally required to hire an attorney, insurance companies have teams of lawyers working to minimize what they pay you. Bicycle accident cases involve complex insurance laws, medical evidence, liability disputes, and damage calculations. Experienced attorneys understand how to navigate Michigan's no-fault system, prove threshold injuries, counter insurance company tactics, and pursue the full compensation you're owed. We take cases on a contingency-fee basis—you pay nothing unless we win—so there's no financial risk in having skilled advocates fighting for you."}]
+statsVariant: "bar"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+serviceArea: "livingston-county-mi"
+serviceTopic: "bicycle-accident-injuries"
+practiceArea: "bicycle-accidents-in-ann-arbor-throughout-michigan"
+---
+
+<h2>Experienced Advocates for Injured Cyclists in <a href="/service-area/livingston-county-mi">Livingston County</a></h2>
+
+<p>Bicycling through Livingston County's roads and trails should be safe, but careless drivers continue to put cyclists at serious risk. When a collision between a 3,000-pound vehicle and a bicycle occurs, even helmets and safety gear can't prevent catastrophic injuries. At Logeman & Iafrate, P.C., our bicycle accident attorneys have spent more than 45 years fighting for injured cyclists throughout Michigan, including Livingston County communities like Brighton, Howell, Hartland, and Fowlerville.</p>
+
+<p>We understand both the physical trauma of bicycle accidents and the complex legal battles that follow. Michigan's unique no-fault insurance system creates challenges for cyclists—and insurance companies know it. They'll argue your injuries aren't serious enough, that you were at fault, or that coverage doesn't apply. We've heard every excuse, and we've beaten them in courtrooms across Michigan.</p>
+
+<h2>Common Causes of Bicycle Accidents in Livingston County</h2>
+<p>Despite increased awareness of cyclist safety, Livingston County roads remain dangerous for bike riders. Distracted drivers pose the greatest threat, but numerous forms of motorist negligence cause serious bicycle accidents:</p>
+<ul>
+  <li><strong>Distracted driving:</strong> Texting, phone calls, and other distractions prevent drivers from seeing cyclists until it's too late</li>
+  <li><strong>Unsafe turns:</strong> Drivers making right turns without checking bike lanes or left turns across cyclist paths</li>
+  <li><strong>Failing to yield:</strong> Motorists ignoring traffic signals or stop signs at intersections where cyclists have right-of-way</li>
+  <li><strong>Dooring incidents:</strong> Vehicle occupants opening doors into the path of passing cyclists</li>
+  <li><strong>Drunk or impaired driving:</strong> Alcohol and drugs dramatically increase accident risk for everyone on the road</li>
+  <li><strong>Following too closely:</strong> Drivers tailgating cyclists instead of maintaining safe passing distance</li>
+  <li><strong>Unsafe passing:</strong> Motorists passing too close or failing to move into adjacent lanes when overtaking</li>
+</ul>
+
+<p>While cyclists can sometimes share fault by not obeying traffic signals or engaging in unsafe behavior, the car driver is frequently solely at fault. Our attorneys investigate every aspect of your accident to establish liability and hold negligent drivers accountable.</p>
+
+<h2>Serious Injuries From Livingston County Bicycle Accidents</h2>
+<p>The physics are simple and brutal: when a multi-ton vehicle strikes an unprotected cyclist, devastating injuries result. Even with proper safety equipment, bicycle accident victims commonly suffer:</p>
+<ul>
+  <li>Traumatic brain injuries and concussions</li>
+  <li>Skull fractures</li>
+  <li>Broken bones, including arms, legs, collarbones, and ribs</li>
+  <li>Spinal cord injuries leading to paralysis</li>
+  <li>Herniated and ruptured discs</li>
+  <li>Road rash, severe abrasions, and lacerations</li>
+  <li>Internal injuries to organs</li>
+  <li>Facial injuries requiring reconstructive surgery</li>
+  <li>Shoulder and rotator cuff damage</li>
+  <li>Amputations in the most severe collisions</li>
+</ul>
+
+<p>These injuries require extensive medical treatment, long recovery periods, and often result in permanent disabilities that affect your ability to work and enjoy life. Fighting for full compensation isn't just about medical bills—it's about securing your financial future and holding negligent drivers accountable.</p>
+
+<h2>Michigan's No-Fault System and Bicycle Accident Claims</h2>
+<p>Michigan's no-fault auto insurance system creates unique challenges for bicycle accident victims. Understanding your coverage options is critical to maximizing your recovery.</p>
+
+<p><strong>No-Fault PIP Benefits:</strong> If you own a vehicle and maintain auto insurance with PIP coverage, your own policy typically covers your medical expenses, wage loss, and replacement services—regardless of who caused the accident. If you don't own a vehicle, you may be entitled to benefits from the driver's insurance, a household member's policy, or the Michigan Assigned Claims Plan.</p>
+
+<p>The 2019-2020 no-fault reforms significantly changed the landscape. Depending on your coverage level, your PIP medical benefits may be capped at $50,000, $250,000, $500,000, or remain unlimited. Understanding your coverage before an accident occurs is critical.</p>
+
+<p><strong>Third-Party Claims Against the At-Fault Driver:</strong> Beyond no-fault benefits, you can pursue a lawsuit against the negligent driver if your injuries meet Michigan's "serious impairment of body function" threshold. This requires showing an objectively manifested impairment of an important body function that affects your general ability to lead your normal life.</p>
+
+<p>Successfully meeting this threshold allows you to recover compensation for pain and suffering, excess medical expenses beyond your PIP coverage, and other damages. Our attorneys have extensive experience proving threshold injuries in bicycle accident cases and maximizing third-party recoveries.</p>
+
+<h2>What Compensation Can You Recover After a Livingston County Bicycle Accident?</h2>
+<p>Bicycle accident victims in Livingston County may be entitled to substantial compensation through multiple sources:</p>
+
+<p><strong>No-Fault PIP Benefits:</strong></p>
+<ul>
+  <li>All reasonable and necessary medical expenses (subject to your coverage limits)</li>
+  <li>Wage loss benefits (up to 85% of gross income for three years)</li>
+  <li>Replacement services for household tasks you can no longer perform</li>
+  <li>Mileage reimbursement for medical appointments</li>
+</ul>
+
+<p><strong>Third-Party Claims (if you meet the threshold injury requirement):</strong></p>
+<ul>
+  <li>Pain and suffering compensation</li>
+  <li>Excess medical expenses beyond PIP limits</li>
+  <li>Full wage loss and diminished earning capacity</li>
+  <li>Loss of enjoyment of life</li>
+  <li>Permanent scarring and disfigurement</li>
+</ul>
+
+<p><strong>Property Damage:</strong></p>
+<ul>
+  <li>Mini-tort claims for bicycle damage (up to $3,000)</li>
+  <li>Full repair or replacement costs if the at-fault driver has adequate property damage coverage</li>
+</ul>
+
+<p>Every bicycle accident case is different. The experienced attorneys at Logeman & Iafrate, P.C. will evaluate your situation, explain your options, and fight to pursue the full compensation you're owed through every available avenue.</p>
+
+<h2>Michigan Bicycle Laws and Cyclist Responsibilities</h2>
+<p>Understanding Michigan's bicycle laws is essential for both safety and establishing liability after an accident. Cyclists have rights—but also responsibilities when sharing Livingston County roads.</p>
+
+<p><strong>Key Michigan Bicycle Laws:</strong></p>
+<ul>
+  <li>Bicycles are vehicles under Michigan law and must generally follow the same traffic rules as cars</li>
+  <li>Cyclists must ride as close to the right side of the roadway as practicable</li>
+  <li>When bike lanes exist, cyclists should use them (with exceptions for avoiding hazards, preparing to turn, or when the lane is unsafe)</li>
+  <li>Cyclists making left turns must merge toward the center of the road</li>
+  <li>Headlights and rear reflectors are required after sunset</li>
+  <li>Cyclists must signal turns and stops when safety permits</li>
+</ul>
+
+<p><strong>Cyclist Safety Recommendations:</strong></p>
+<ul>
+  <li>Always wear a properly fitted, DOT-certified helmet</li>
+  <li>Wear bright clothing and use reflectors to increase visibility</li>
+  <li>Ride at least three feet away from parked cars to avoid dooring incidents</li>
+  <li>Announce your presence to pedestrians when riding on shared paths</li>
+  <li>Never ride while intoxicated or distracted</li>
+  <li>Make eye contact with drivers at intersections when possible</li>
+  <li>Use lights and reflective gear for visibility, especially at dawn, dusk, and night</li>
+</ul>
+
+<p>Even when cyclists follow every rule, negligent drivers cause devastating accidents. If you've been injured, our attorneys will investigate whether driver negligence, road defects, or other factors contributed to your crash.</p>
+
+<h2>Why Insurance Companies Fight Bicycle Accident Claims</h2>
+<p>Insurance companies routinely deny or undervalue legitimate bicycle accident claims. They hope injured cyclists will give up or accept inadequate settlements. Common tactics include:</p>
+<ul>
+  <li>Arguing the cyclist was at fault or partially responsible</li>
+  <li>Claiming injuries don't meet Michigan's threshold for third-party claims</li>
+  <li>Disputing that medical treatment is reasonable or necessary</li>
+  <li>Offering quick, low settlements before victims understand the full extent of their injuries</li>
+  <li>Delaying claim processing hoping you'll miss critical deadlines</li>
+  <li>Arguing that pre-existing conditions caused your injuries, not the accident</li>
+</ul>
+
+<p>We've spent more than 45 years fighting these tactics. When insurance companies see our name on a case, they know we're prepared to go to trial. That preparation shows in our results—from substantial verdicts to substantial settlements that provide injured cyclists with the compensation they need to rebuild their lives.</p>
+
+<h2>Why Livingston County Cyclists Choose Logeman & Iafrate</h2>
+<p>When you're recovering from a bicycle accident, you need attorneys who understand both Michigan's complex insurance laws and the unique challenges cyclists face. Here's what sets us apart:</p>
+<ul>
+  <li><strong>More than 45 years of trial experience:</strong> We've spent decades winning tough personal injury cases in Michigan courtrooms</li>
+  <li><strong>We prepare every case for trial:</strong> Insurance companies know we prepare every case for trial, which strengthens negotiations</li>
+  <li><strong>We take cases others refuse:</strong> Complex liability, disputed injuries, denied claims—we handle cases other firms turn down</li>
+  <li><strong>Free consultations and contingency fees:</strong> You pay nothing unless we win your case</li>
+  <li><strong>Deep knowledge of Michigan's no-fault system:</strong> We navigate the state's unique insurance laws to pursue the full compensation you're owed</li>
+  <li><strong>record of verdicts and settlements:</strong> Our verdicts and settlements demonstrate our commitment to fighting for full compensation</li>
+  <li><strong>Compassionate support:</strong> We understand the physical, emotional, and financial toll of serious bicycle accidents</li>
+</ul>
+
+<h2>Take Action Now to Protect Your Rights</h2>
+<p>Time matters in bicycle accident cases. Evidence disappears, witnesses' memories fade, and Michigan's statute of limitations limits how long you have to file a claim. Taking prompt action protects your rights and strengthens your case.</p>
+
+<p><strong>Important steps after a bicycle accident:</strong></p>
+<ul>
+  <li>Seek immediate medical attention, even if injuries seem minor</li>
+  <li>Report the accident to police and obtain a copy of the accident report</li>
+  <li>Document the scene with photos of your bicycle, the vehicle, road conditions, and visible injuries</li>
+  <li>Collect contact information from witnesses</li>
+  <li>Notify your insurance company about the accident (but avoid detailed recorded statements before consulting an attorney)</li>
+  <li>Keep records of all medical treatment, expenses, and how injuries affect your daily life</li>
+  <li>Do not accept quick settlement offers from insurance companies</li>
+  <li>Consult an experienced bicycle accident attorney as soon as possible</li>
+</ul>
+
+<p>The experienced attorneys at Logeman & Iafrate, P.C. are ready to evaluate your case, explain your legal options, and fight for the compensation you deserve. We serve bicycle accident victims throughout Livingston County and all of Michigan.</p>
+
+<p class="text-[14px] text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
+
+<h2>Contact Our Livingston County Bicycle Accident Attorneys Today</h2>
+<p>If you or a loved one has been injured in a bicycle accident in Livingston County, acting promptly protects your rights. The experienced trial attorneys at <a href="/">Logeman & Iafrate, P.C.</a> are ready to fight for the compensation you deserve.</p>
+
+<p><strong>Call us today at (734) 994-0200 or fill out our <a href="/contact-us">online contact form</a> to schedule a free consultation.</strong> We take cases on a contingency-fee basis—you pay nothing unless we win. Let us handle the legal battles while you focus on recovery.</p>
+
+<p>We serve cyclists injured throughout Livingston County, including Brighton, Howell, Hartland, Fowlerville, Pinckney, and surrounding communities. With more than 45 years of experience and a record of verdicts and settlements, we're ready to fight by your side.</p>
+
+<h2>Our Story — Built on Experience and Determination</h2>
+<p>For decades, Logeman & Iafrate has represented injured clients across Michigan with unwavering commitment. We take cases others won't, and we win cases others can't. Our founders built this firm on a simple principle: injured people deserve fierce advocacy and real results.</p>
+
+<p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>

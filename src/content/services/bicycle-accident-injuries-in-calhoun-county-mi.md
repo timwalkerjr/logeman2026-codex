@@ -1,0 +1,112 @@
+---
+title: "Bicycle Accident Lawyers Calhoun County MI | Cyclist Injury Attorneys"
+description: "Experienced Calhoun County bicycle accident attorneys with 45+ years fighting for injured cyclists. We handle insurance battles and maximize compensation. Free consultation. No fee unless we win."
+canonicalUrl: "https://www.logeman.com/service/bicycle-accident-injuries-in-calhoun-county-mi/"
+showHero: false
+heroTitle: ""
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"What should I do immediately after a bicycle accident in Calhoun County?","answer":"First, seek medical attention even if injuries seem minor—adrenaline can mask serious injuries. Call 911 to report the accident and ensure police documentation. If physically able, photograph the scene, bicycle damage, vehicle involved, road conditions, and visible injuries. Collect contact information from the driver and witnesses. Report the accident to your own auto insurance company to preserve PIP benefits. Avoid giving recorded statements to the at-fault driver's insurer without legal representation. Contact an experienced bicycle accident attorney promptly to protect your rights."},{"question":"Can I recover compensation if I wasn't wearing a helmet?","answer":"Yes. While wearing a helmet is strongly recommended for safety, not wearing one doesn't automatically prevent recovery. Michigan doesn't require adult cyclists to wear helmets. The at-fault driver's insurance company may try to argue that your injuries would have been less severe with a helmet, potentially reducing damages under comparative negligence principles. However, this defense applies only to head injuries that might have been prevented. An experienced attorney can counter these arguments and protect your full recovery rights."},{"question":"What if the driver claims I violated traffic laws or rode unsafely?","answer":"Michigan follows comparative negligence rules, meaning you can recover damages even if you were partially at fault. Your compensation is reduced by your percentage of fault—so if you were 20% at fault, you'd recover 80% of total damages. However, insurance companies routinely exaggerate cyclist fault to minimize payouts. We thoroughly investigate crashes, gather evidence, and present the full picture of how the accident occurred. Many claimed traffic violations prove false under scrutiny, and even legitimate violations don't eliminate the driver's duty to exercise reasonable care."},{"question":"How does Michigan's no-fault system apply to bicycle accidents?","answer":"As a cyclist, you're entitled to Personal Injury Protection benefits from your own auto insurance policy (or that of a relative you live with). These benefits cover medical expenses, 85% of lost wages, and replacement services for household tasks you can't perform. Your PIP coverage level determines medical benefit limits. Beyond no-fault benefits, you can sue the at-fault driver if your injuries meet the serious impairment threshold, allowing recovery for pain and suffering, excess medical costs, and full wage loss."},{"question":"What compensation can I recover for my bicycle accident injuries?","answer":"You may recover PIP benefits for medical expenses up to your policy limits, wage loss benefits, and replacement services. If your injuries meet Michigan's serious impairment threshold, third-party claims against the at-fault driver provide compensation for pain and suffering, permanent disability and disfigurement, loss of enjoyment of life, excess medical expenses beyond PIP coverage, full wage loss not covered by no-fault benefits, and future medical needs. The value depends on injury severity, medical expenses, lost earnings, and how the injuries affect your life. Our attorneys work with medical and economic experts to calculate full damages."},{"question":"How long do I have to file a bicycle accident claim in Calhoun County?","answer":"You must report your accident to your own insurance company within one year to preserve no-fault PIP benefits. For third-party liability claims against the at-fault driver, Michigan's statute of limitations is three years from the accident date. However, gathering evidence, documenting injuries, and building a strong case takes time. Consulting an attorney promptly ensures evidence is preserved, witnesses are identified, and your rights are protected throughout the claims process."}]
+statsVariant: "bar"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "none"
+serviceArea: "calhoun-county-mi"
+serviceTopic: "bicycle-accident-injuries"
+practiceArea: "bicycle-accidents-in-ann-arbor-throughout-michigan"
+---
+
+<p>Cycling is a popular mode of transportation and recreation throughout Calhoun County, from Battle Creek to Marshall and beyond. Whether commuting to work, enjoying a ride on rural roads, or navigating city streets, cyclists face serious risks when sharing the road with careless drivers. When a collision occurs between a bicycle and a motor vehicle, the cyclist nearly always suffers the most devastating consequences.</p>
+<p>At Logeman &amp; Iafrate, P.C., we've spent more than 45 years fighting for injured cyclists across Michigan. We understand the unique challenges bicycle accident victims face—serious injuries, disputed liability, and insurance companies that minimize legitimate claims. Our trial-ready approach ensures you have fierce advocates prepared to go the distance for the compensation you deserve.</p>
+
+<h2><strong>How Bicycle Accidents Happen in Calhoun County</strong></h2>
+<p>Michigan law requires motorists to share the road safely with cyclists, but negligent drivers continue to pose serious threats. Common causes of bicycle accidents in Calhoun County include:</p>
+<ul>
+  <li><strong>Distracted driving</strong> from texting, phone calls, or other activities that take attention from the road</li>
+  <li><strong>Failure to yield</strong> when turning across bike lanes or at intersections</li>
+  <li><strong>Dooring accidents</strong> when vehicle occupants open doors into a cyclist's path</li>
+  <li><strong>Right hook collisions</strong> when drivers turn right across a cyclist traveling straight</li>
+  <li><strong>Left cross crashes</strong> when drivers turn left directly into oncoming cyclists</li>
+  <li><strong>Unsafe passing</strong> without maintaining adequate clearance</li>
+  <li><strong>Driving under the influence</strong> of alcohol or drugs</li>
+  <li><strong>Aggressive driving</strong> and road rage targeting vulnerable cyclists</li>
+</ul>
+<p>Even when cyclists follow traffic laws and ride defensively, they remain vulnerable to drivers who fail to exercise reasonable care.</p>
+
+<h2><strong>Serious Injuries from Bicycle Crashes</strong></h2>
+<p>When a 3,000-pound vehicle strikes a bicycle, catastrophic injuries are common. Even cyclists wearing helmets and protective gear face significant risk of:</p>
+<ul>
+  <li>Traumatic brain injuries and concussions</li>
+  <li>Skull and facial fractures</li>
+  <li>Spinal cord injuries and paralysis</li>
+  <li>Broken bones including clavicles, wrists, and femurs</li>
+  <li>Internal organ damage</li>
+  <li>Road rash and severe abrasions</li>
+  <li>Herniated discs and soft tissue injuries</li>
+  <li>Dental injuries</li>
+  <li>Permanent scarring and disfigurement</li>
+</ul>
+<p>These injuries require extensive medical treatment, long recovery periods, and often result in permanent disabilities that affect your ability to work and enjoy life.</p>
+
+<h2><strong>Recovering Compensation Under Michigan Law</strong></h2>
+<p>Michigan's unique no-fault insurance system affects how bicycle accident claims work. As a cyclist, you're entitled to Personal Injury Protection (PIP) benefits from your own auto insurance policy or the policy of a relative you live with. These benefits cover medical expenses, wage loss, and replacement services regardless of who caused the crash.</p>
+<p>However, your PIP coverage level—which may be $50,000, $250,000, $500,000, or unlimited—determines the extent of medical benefits available. Understanding your coverage is critical.</p>
+<p>Beyond no-fault benefits, you can pursue a third-party liability claim against the at-fault driver if your injuries meet Michigan's "serious impairment of body function" threshold. This allows recovery of:</p>
+<ul>
+  <li>Pain and suffering compensation</li>
+  <li>Excess medical expenses beyond PIP limits</li>
+  <li>Full wage loss not covered by no-fault benefits</li>
+  <li>Loss of enjoyment of life</li>
+  <li>Permanent disability and disfigurement damages</li>
+</ul>
+<p>Our attorneys have extensive experience proving threshold injuries and maximizing recovery for Calhoun County bicycle accident victims.</p>
+
+<h2><strong>Fighting Insurance Company Tactics</strong></h2>
+<p>Insurance companies routinely employ tactics designed to minimize payouts to injured cyclists:</p>
+<ul>
+  <li><strong>Blaming the cyclist</strong> by claiming you violated traffic laws or rode unsafely</li>
+  <li><strong>Arguing comparative negligence</strong> to reduce the settlement value</li>
+  <li><strong>Disputing injury severity</strong> by claiming pre-existing conditions caused your symptoms</li>
+  <li><strong>Denying threshold injuries</strong> by arguing your injuries don't meet the serious impairment standard</li>
+  <li><strong>Offering quick lowball settlements</strong> before you understand the full extent of damages</li>
+</ul>
+<p>We've seen every defense tactic and know how to counter them. When insurance companies see our name on a case, they know we're prepared to take the fight to trial if necessary.</p>
+
+<h2><strong>Cyclist Safety and Rights in Calhoun County</strong></h2>
+<p>Michigan law grants cyclists the same rights and responsibilities as motor vehicle operators. Key legal protections include:</p>
+<ul>
+  <li>The right to use roadways except where specifically prohibited</li>
+  <li>The right to full lane use when necessary for safety</li>
+  <li>Protection under distracted driving and drunk driving laws</li>
+  <li>The requirement that motorists pass with at least three feet of clearance</li>
+</ul>
+<p>While cyclists must follow traffic signals and ride with traffic, violations of cycling laws don't automatically prevent recovery. Even if you bear partial fault, Michigan's comparative negligence rules allow recovery of damages reduced by your percentage of fault.</p>
+
+<h2><strong>Why Choose Logeman & Iafrate for Your Bicycle Accident Claim</strong></h2>
+<p>Bicycle accident cases require attorneys who understand both Michigan's complex insurance laws and the unique dynamics of cyclist-motorist collisions. Our firm brings:</p>
+<ul>
+  <li><strong>Over 45 years of trial-ready advocacy</strong> throughout Michigan</li>
+  <li><strong>Proven success</strong> securing multi-million dollar verdicts and settlements</li>
+  <li><strong>Deep knowledge</strong> of Michigan's no-fault system and threshold injury requirements</li>
+  <li><strong>A reputation for taking cases others refuse</strong> and winning cases others consider unwinnable</li>
+  <li><strong>Compassionate support</strong> during your recovery while we handle the legal battles</li>
+</ul>
+<p>We work on a contingency-fee basis—you pay nothing unless we win your case. From our Ann Arbor office, we serve cyclists throughout Calhoun County, including Battle Creek, Marshall, Albion, and surrounding communities.</p>
+
+<h2><strong>Building Your Strongest Case</strong></h2>
+<p>Strong bicycle accident claims require thorough investigation and documentation:</p>
+<ul>
+  <li>Police reports and accident reconstruction analysis</li>
+  <li>Witness statements from motorists and bystanders</li>
+  <li>Medical records establishing injury causation and extent</li>
+  <li>Photographic evidence of the scene, bicycle damage, and injuries</li>
+  <li>Expert testimony from accident reconstructionists and medical specialists</li>
+  <li>Documentation of economic losses including wage statements and medical bills</li>
+</ul>
+<p>The sooner you contact us after your crash, the better we can preserve critical evidence and protect your rights. Michigan's three-year statute of limitations for third-party claims means time matters.</p>
+
+<h2><strong>Get the Compensation You Deserve After a Calhoun County Bicycle Accident</strong></h2>
+<p>You didn't ask to be hit by a negligent driver. You shouldn't have to fight insurance companies alone while recovering from serious injuries. At Logeman &amp; Iafrate, P.C., we shoulder your legal burdens so you can focus on healing.</p>
+<p>Our experienced bicycle accident attorneys serve cyclists throughout Calhoun County with the fierce, trial-ready advocacy that gets results. We offer free consultations to evaluate your case and explain your legal options. You pay nothing unless we recover compensation for you.</p>
+<p><strong>Call us today at (734) 994-0200 or fill out our online contact form to schedule your free consultation.</strong> Don't let insurance companies deny you the compensation you need to rebuild your life after a bicycle accident. Let us fight by your side.</p>
+<p><em>The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</em></p>

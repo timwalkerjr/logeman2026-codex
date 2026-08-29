@@ -1,0 +1,93 @@
+---
+title: "Livingston County Dog Bite Lawyers | Michigan Animal Attack Attorneys"
+description: "Experienced Livingston County dog bite attorneys with 45+ years holding owners accountable under Michigan's strict liability law. Free consultation. No fee unless we win. Call (734) 994-0200."
+canonicalUrl: "https://www.logeman.com/service/dog-bite-injuries-in-livingston-county-mi/"
+showHero: false
+heroTitle: ""
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"What should I do immediately after a dog bite in Livingston County?","answer":"Seek medical attention immediately, even if the wound seems minor. Dog bites can cause serious infections and require antibiotics or rabies treatment. Report the attack to Livingston County Animal Control to create an official record. Document your injuries with photographs, identify the dog and its owner, and gather contact information from any witnesses. Then contact an experienced dog bite attorney to protect your legal rights."},{"question":"Do I have a case if the dog never bit anyone before?","answer":"Yes. Michigan's strict liability statute (MCL 287.351) holds dog owners responsible for bites regardless of the animal's prior history. Unlike states with a \"one bite rule,\" Michigan doesn't give dangerous dogs a free pass. The owner is liable from the very first incident as long as you were lawfully present and didn't provoke the dog."},{"question":"Can I recover compensation if I was bitten while visiting someone's home?","answer":"Absolutely. If you were an invited guest—visiting a friend, attending a party, or providing services—you were lawfully present on the property. Michigan's dog bite statute protects invited guests, making the homeowner strictly liable for the attack. Their homeowner's insurance typically covers dog bite claims."},{"question":"What if the dog knocked me down but didn't bite me?","answer":"You may still have a valid claim under Michigan common law negligence. If the owner knew or should have known their dog had dangerous tendencies (such as jumping on people or acting aggressively), they can be held strictly liable for injuries the dog causes. Even without prior knowledge, owners can be liable for negligence if they failed to properly control or restrain their animal."},{"question":"How long do I have to file a dog bite lawsuit in Livingston County?","answer":"Michigan's statute of limitations gives you three years from the date of the attack to file a lawsuit. However, waiting too long can weaken your case as evidence disappears and memories fade. Contact an attorney promptly to preserve your rights and begin building a strong case."},{"question":"Will the dog owner's homeowner's insurance cover my damages?","answer":"In most cases, yes. Homeowner's insurance policies typically include liability coverage for dog bites that occur on the insured property or by dogs owned by household members. Our attorneys handle all communications and negotiations with insurance companies to maximize your recovery."},{"question":"What if my child was bitten by a neighbor's dog?","answer":"Children are entitled to full compensation for their injuries, including damages for permanent scarring and disfigurement that will affect them throughout their lives. Michigan law allows parents to recover medical expenses they paid on their child's behalf, and the child (through a next friend or guardian) can recover for pain, suffering, and permanent injuries. We handle these cases with particular care, understanding the lasting impact facial and hand injuries can have on a child's development and self-esteem."}]
+statsVariant: "bar"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "none"
+serviceArea: "livingston-county-mi"
+serviceTopic: "dog-bite-injuries"
+practiceArea: "animal-bites-and-attacks"
+---
+
+<p>A dog bite can happen without warning. One moment you're walking down your street in Brighton or visiting a neighbor's home in Howell, and the next you're facing a vicious attack that leaves you with puncture wounds, torn tissue, and lasting scars. At Logeman &amp; Iafrate, P.C., we've spent more than 45 years representing injury victims throughout Livingston County and across Michigan. We understand the physical pain, emotional trauma, and mounting medical bills that follow a serious dog attack—and we know how to hold negligent animal owners accountable.</p>
+
+<h2><strong>Michigan's Strict Liability Statute Protects Dog Bite Victims</strong></h2>
+<p>Michigan law is clear: dog owners are responsible when their animals bite. Under MCL 287.351, dog owners face strict liability for bite injuries—meaning you don't need to prove the owner knew the dog was dangerous or had bitten before. Michigan has no "one bite rule" that gives aggressive dogs a free pass. From the very first incident, the owner is legally responsible for the harm their animal causes.</p>
+<p>To recover compensation under Michigan's dog bite statute, you must establish two elements:</p>
+<ul>
+  <li><strong>You were lawfully present.</strong> This includes being on public property such as sidewalks, parks, and trails throughout Livingston County, or being lawfully on private property as an invited guest, mail carrier, delivery worker, or service provider. Trespassers generally cannot recover under the statute.</li>
+  <li><strong>You did not provoke the dog.</strong> Provocation means actions that would cause a reasonable dog to react aggressively—such as hitting, teasing, or threatening the animal. Simply walking past a dog, delivering a package, or being present on the property does not constitute provocation.</li>
+</ul>
+<p>When these conditions are satisfied, the owner's liability is automatic. You don't need to show negligence or prior knowledge of danger. The statute does the work for your case, which is why retaining experienced legal counsel promptly can make all the difference in your recovery.</p>
+
+<h2><strong>Common Dog Attack Scenarios Throughout Livingston County</strong></h2>
+<p>Dog attacks happen across Livingston County in various settings. We've represented victims injured in attacks at residential properties in Hartland Township, on walking trails near Huron River and Island Lake Recreation Area, in neighborhoods throughout Howell and Brighton, and even in commercial areas where poorly controlled animals injure customers. Common scenarios include:</p>
+<ul>
+  <li>Attacks by dogs running loose in violation of local leash ordinances</li>
+  <li>Bites occurring when a resident opens their door and an unrestrained dog rushes out</li>
+  <li>Injuries to children playing in yards or parks when neighborhood dogs escape containment</li>
+  <li>Postal workers, delivery drivers, and utility workers bitten while performing job duties</li>
+  <li>Visitors attacked by dogs on residential or commercial property</li>
+</ul>
+<p>Each of these situations may give rise to a valid claim under Michigan's strict liability statute or common law negligence principles, depending on the specific facts.</p>
+
+<h2><strong>Serious Injuries Caused by Dog Attacks</strong></h2>
+<p>Dog bites aren't minor incidents. The force of a large dog's jaws can cause devastating injuries that require immediate emergency care, multiple surgeries, and months of recovery. Common injuries we see in dog attack cases include:</p>
+<ul>
+  <li><strong>Deep puncture wounds</strong> that damage muscle, nerves, and tissue beneath the skin</li>
+  <li><strong>Torn tissue and lacerations</strong> requiring extensive stitching and surgical repair</li>
+  <li><strong>Facial injuries</strong>, especially to children, that may require reconstructive surgery</li>
+  <li><strong>Nerve damage</strong> leading to loss of sensation or function</li>
+  <li><strong>Permanent scarring and disfigurement</strong> affecting appearance and self-confidence</li>
+  <li><strong>Infections</strong> including cellulitis, sepsis, and rabies exposure requiring urgent treatment</li>
+  <li><strong>Emotional trauma</strong>, anxiety, PTSD, and lasting fear of dogs</li>
+  <li><strong>Broken bones</strong> when victims are knocked down or attempt to defend themselves</li>
+</ul>
+<p>Children are particularly vulnerable to severe facial and head injuries because of their height relative to dogs. These injuries can require plastic surgery, skin grafts, and ongoing psychological counseling.</p>
+
+<h2><strong>Beyond Bites: Other Dog Attack Injuries</strong></h2>
+<p>While Michigan's strict liability statute specifically addresses dog bites, dogs injure people in other ways too. They knock elderly residents to the ground, causing hip fractures and head injuries. They chase joggers through Livingston County parks, causing falls and broken bones. They scratch and claw, leading to infections.</p>
+<p>For these non-bite injuries, Michigan common law provides two avenues for recovery:</p>
+<ul>
+  <li><strong>Strict liability if the owner knew or should have known of dangerous tendencies.</strong> Evidence might include previous aggressive incidents, complaints from neighbors, or the dog's history of jumping on visitors or chasing people.</li>
+  <li><strong>Negligence for failing to use reasonable care in controlling the animal.</strong> Violating local leash laws, leaving gates or fences unsecured, or allowing a dog to roam freely can establish negligence.</li>
+</ul>
+<p>Our attorneys investigate every aspect of your case to identify all available legal theories and maximize your compensation.</p>
+
+<h2><strong>Full Compensation for Dog Bite Victims in Livingston County</strong></h2>
+<p>Dog attacks cause real harm that deserves real compensation. You shouldn't have to pay out of pocket for injuries caused by someone else's failure to control their animal. Michigan law entitles dog bite victims to recover:</p>
+<ul>
+  <li><strong>Medical expenses.</strong> Emergency room treatment, surgery, wound care, antibiotics, rabies shots, reconstructive procedures, physical therapy, and all future medical care your injuries require.</li>
+  <li><strong>Lost income.</strong> Wages lost during recovery, plus reduced earning capacity if your injuries prevent you from returning to your previous work.</li>
+  <li><strong>Pain and suffering.</strong> Compensation for the physical pain from your injuries and the emotional distress, anxiety, nightmares, and trauma that often follow a violent attack.</li>
+  <li><strong>Scarring and disfigurement.</strong> Additional damages for permanent scars, especially visible injuries on the face, neck, arms, and hands that affect your appearance and confidence.</li>
+  <li><strong>Psychological treatment.</strong> Counseling, therapy, and mental health care needed to address PTSD, anxiety around dogs, and other emotional consequences.</li>
+</ul>
+<p>Children who suffer disfiguring facial injuries deserve compensation that reflects not just current medical costs but the lifetime impact on their appearance, self-esteem, and future opportunities. We work with medical experts, plastic surgeons, and psychological professionals to document the full extent of your damages.</p>
+
+<h2><strong>Why Choose Logeman & Iafrate for Your Livingston County Dog Bite Case</strong></h2>
+<p>Not all personal injury firms understand the unique challenges of dog bite cases. Insurance companies for homeowners try to minimize payouts by arguing the victim provoked the dog, trespassed, or exaggerates injuries. Our trial-ready approach puts them on notice: we're prepared to take your case to a Livingston County jury if necessary to secure the compensation you deserve.</p>
+<p>We take cases on a contingency-fee basis. That means no upfront costs, no hourly fees—you pay nothing unless we win your case. Your first consultation is completely free, and you'll meet with an experienced attorney who will evaluate your claim and explain your options in plain language.</p>
+
+<h2><strong>How We Build Strong Dog Bite Cases</strong></h2>
+<p>From the moment you retain us, we begin investigating your case. This includes obtaining animal control reports documenting the attack and any history of prior complaints, photographing your injuries and the attack location, interviewing witnesses who saw the incident or know the dog's history, gathering medical records documenting the extent of your injuries, and consulting with medical and psychological experts who can testify about your damages.</p>
+<p>This thorough preparation allows us to negotiate from strength. Insurance companies know we're not afraid to go to trial—and that knowledge helps us secure fair settlements without unnecessary delays.</p>
+
+<h2><strong>Local Leash Laws in Livingston County</strong></h2>
+<p>Livingston County and its municipalities have leash laws designed to protect the public. Violations of these ordinances can establish negligence in dog attack cases. If a dog was running loose in violation of local law when it attacked you, that strengthens your claim. Our attorneys know Livingston County's local ordinances and use them to hold negligent owners accountable.</p>
+
+<h2><strong>Act Quickly to Protect Your Rights</strong></h2>
+<p>Michigan's statute of limitations gives you three years from the date of the dog attack to file a lawsuit. However, waiting too long can hurt your case. Witnesses' memories fade, evidence disappears, and dog owners may relocate or their insurance coverage may change. Reporting the attack promptly to local animal control creates an official record and may prevent future attacks.</p>
+<p>If you or a family member was bitten or attacked by a dog in Livingston County, contact Logeman &amp; Iafrate today. Call us at <strong>(734) 994-0200</strong> or fill out our online contact form to schedule your free consultation. We'll review your case, explain your rights, and help you pursue the compensation you deserve—no fees unless we win.</p>
+
+<h2><strong>Contact Our Livingston County Dog Bite Attorneys Today</strong></h2>
+<p>Dog attacks cause serious harm—physically, emotionally, and financially. You shouldn't face the consequences alone. At Logeman &amp; Iafrate, P.C., we have over 45 years of experience fighting for injured clients across Livingston County and throughout Michigan. We take cases others won't, and we win cases others can't.</p>
+<p><strong>Call (734) 994-0200 today or contact us online for your free consultation.</strong> We operate on a contingency-fee basis, meaning you pay nothing unless we recover compensation for you. Let us handle the legal battle while you focus on healing.</p>
+<p><em>The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</em></p>

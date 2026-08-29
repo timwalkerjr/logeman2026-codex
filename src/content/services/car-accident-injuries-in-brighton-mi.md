@@ -1,0 +1,56 @@
+---
+title: "Car Accident Injuries Brighton | Logeman & Iafrate"
+description: "Experienced Brighton car accident attorneys helping Michigan victims navigate no-fault claims, meet the serious-impairment threshold, and recover full."
+canonicalUrl: "https://www.logeman.com/service/car-accident-injuries-in-brighton-mi/"
+showHero: true
+heroTitle: ""
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"What should I do immediately after a car accident in Brighton?","answer":"Ensure everyone's safety and call 911 if there are injuries. Exchange insurance and contact information, document the scene with photos, and report the crash to police. Notify your own insurer within one year to preserve your PIP benefits, avoid giving recorded statements to other insurers, and see a doctor even if you feel fine — some injuries don't appear immediately."},{"question":"Can I sue the at-fault driver after a Michigan car accident?","answer":"Yes, but only if your injuries meet the serious impairment of body function threshold. If you do, you can pursue pain and suffering, excess medical expenses, and damages beyond your PIP coverage. Our attorneys have extensive experience proving threshold injuries."},{"question":"What if the other driver doesn't have insurance?","answer":"You may be able to recover through your own uninsured/underinsured motorist coverage. We evaluate every available policy and pursue all avenues for recovery."},{"question":"How long do I have to file a car accident lawsuit in Michigan?","answer":"The statute of limitations for personal injury claims is generally three years from the date of the accident, but no-fault PIP benefits must be claimed within one year. Acting promptly protects your rights."}]
+statsVariant: "article"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+serviceArea: "brighton-mi"
+serviceTopic: "car-accident-injuries"
+practiceArea: "car-accidents"
+---
+
+<h2>Car Accident Injuries in Brighton: Aggressive Representation When You Need It</h2>
+
+<p>Car accidents change lives in seconds, leaving you with injuries, mounting medical bills, and an insurance system that feels impossible to navigate. At Logeman &amp; Iafrate, P.C., our <a href="/service-area/brighton-mi">Brighton car accident injury attorneys</a> have spent more than 45 years fighting for accident victims throughout Michigan. Brighton sits at the busy US-23 and I-96 interchange in Livingston County, where heavy commuter and commercial traffic, lake-season congestion around the Mill Pond and Brighton State Recreation Area, and fast-moving highway ramps combine to cause serious crashes.</p>
+
+<h2>Common Car Accident Injuries We See in Brighton</h2>
+
+<p>The crashes we handle range from low-speed collisions to high-impact wrecks along US-23, I-96, Grand River Avenue, Old US-23, and Lee Road. The most serious injuries often include:</p>
+
+<ul>
+  <li><strong>Traumatic brain injuries and concussions</strong> that cause memory loss, difficulty concentrating, personality changes, and depression — injuries emergency rooms often miss.</li>
+  <li><strong>Spinal cord injuries</strong> causing chronic pain, herniated discs, paralysis, and permanent disability.</li>
+  <li><strong>Broken bones and fractures</strong> requiring surgery, hardware, and months of rehabilitation.</li>
+  <li><strong>Soft tissue injuries</strong> such as whiplash and torn ligaments that may not appear immediately.</li>
+  <li><strong>Internal injuries</strong> including organ damage and internal bleeding.</li>
+  <li><strong>Psychological trauma</strong>, including PTSD and anxiety around driving.</li>
+</ul>
+
+<h2>Understanding Michigan's No-Fault System</h2>
+
+<p>Michigan's no-fault auto insurance system is unique and often confusing. After a crash you typically file with your own insurer for Personal Injury Protection (PIP) benefits — regardless of who caused the accident. These benefits can cover medical expenses, lost wages, and replacement services.</p>
+
+<p>The 2019-2020 no-fault reforms changed the landscape. Depending on the coverage level you chose, your PIP medical benefits may be capped at $50,000, $250,000, $500,000, or remain unlimited. Many drivers selected lower limits to save on premiums, only to discover their medical costs far exceed their cap.</p>
+
+<h2>Meeting the Serious Impairment Threshold</h2>
+
+<p>Michigan law lets you pursue a third-party lawsuit against the at-fault driver if your injuries meet the "serious impairment of body function" threshold — an objectively manifested impairment of an important body function that affects your general ability to lead your normal life. Meeting this threshold opens the door to compensation for pain and suffering and excess economic damages beyond your no-fault benefits. We document exactly how your injuries have changed your daily life to prove it.</p>
+
+<h2>Why Choose Logeman &amp; Iafrate</h2>
+
+<p>We are not a high-volume settlement mill. We take cases other firms turn down and prepare every case for trial, and insurance companies know it. Our verdicts and settlements in serious auto cases include a $2 million settlement for a victim who suffered a traumatic brain injury after the insurer denied all benefits, and a $1.9 million recovery for a person struck by a drunk driver who suffered a closed head injury. We offer free consultations and work on a contingency-fee basis — no fee unless we win.</p>
+
+<p class="text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
+
+<h2>Get Help After a Car Accident in Brighton</h2>
+
+<p>If you or a loved one was injured in a car accident in Brighton and the surrounding Livingston County communities or anywhere in Michigan, contact Logeman &amp; Iafrate, P.C. today. We'll review your case, explain your rights under Michigan's no-fault system, and fight to recover every dollar you deserve. Call us at <a href="tel:+17349940200"><strong>(734) 994-0200</strong></a> or fill out our online contact form to schedule your free consultation. We take cases on a contingency-fee basis — no fee unless we win.</p>
+
+<p class="text-muted-foreground italic max-w-[900px] mx-auto px-6 pb-8">The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</p>

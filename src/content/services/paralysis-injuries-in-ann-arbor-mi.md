@@ -1,0 +1,121 @@
+---
+title: "Ann Arbor Paralysis Injury Lawyers | Michigan Spinal Cord Attorneys"
+description: "Experienced Ann Arbor paralysis injury attorneys with 45 years helping quadriplegia and paraplegia victims secure lifetime compensation. Free consultation. No fee unless we win."
+canonicalUrl: "https://www.logeman.com/service/paralysis-injuries-in-ann-arbor-mi/"
+showHero: true
+heroTitle: "Ann Arbor Paralysis Injury Lawyers | Michigan Spinal Cord Attorneys"
+contentTitle: ""
+afterFaqHtml: ""
+faqs: [{"question":"What compensation is available for paralysis victims in Ann Arbor?","answer":"Paralysis cases can involve multiple sources of compensation including no-fault PIP benefits for auto accidents (covering medical expenses and attendant care), workers' compensation if injured on the job, and third-party liability claims against negligent parties for pain and suffering, full wage loss, and excess medical costs. Our attorneys work with life care planners to document lifetime care needs often exceeding millions of dollars."},{"question":"How do you calculate lifetime damages in a paralysis case?","answer":"We work with <a href=\"/about-us\">certified life care planners</a>, vocational experts, and medical specialists to evaluate all future costs including ongoing rehabilitation, adaptive equipment replacement schedules, 24-hour attendant care, home modifications and maintenance, transportation and vehicle modifications, secondary medical complications, psychological support, and reduced life expectancy considerations. These comprehensive plans often span 40-60 years and form the foundation of your claim."},{"question":"Can I receive both no-fault benefits and pursue a lawsuit after paralysis from a car accident?","answer":"Yes. If your paralysis resulted from an auto accident in Ann Arbor, you're entitled to no-fault PIP benefits from your own insurance regardless of fault. You can also pursue a third-party claim against the at-fault driver for damages not covered by PIP, including pain and suffering, excess medical expenses, and full wage loss. These claims provide substantial additional compensation critical to lifetime care."},{"question":"Do Michigan damage caps apply to paralysis injury cases?","answer":"It depends on the type of case. For medical malpractice cases involving permanent paralysis, Michigan's higher non-economic damage cap of approximately $1,047,000 applies. However, these caps generally don't apply to auto accident cases or most other personal injury claims. Our attorneys evaluate each case to determine applicable caps and pursue the full value of recovery through all available sources."},{"question":"What if my paralysis occurred at work in Ann Arbor?","answer":"If your paralysis occurred in a workplace accident, you're entitled to workers' compensation benefits from your employer covering medical treatment and wage loss. You can also pursue third-party claims against negligent contractors, equipment manufacturers, property owners, or other parties who contributed to your injury. These third-party claims provide additional compensation including pain and suffering not available through workers' compensation."},{"question":"How long do I have to file a paralysis injury claim in Michigan?","answer":"The statute of limitations for personal injury claims in Michigan is generally three years from the date of injury. For auto accident no-fault claims, you must report the accident and file within one year. However, certain circumstances can affect these deadlines. Given the complexity of paralysis cases and the need for immediate investigation and evidence preservation, we strongly recommend consulting an attorney as soon as possible."},{"question":"What makes paralysis cases different from other injury claims?","answer":"Paralysis injuries require specialized legal and medical expertise due to their catastrophic nature and lifetime implications. These cases involve complex medical testimony, detailed life care planning spanning decades, coordination with multiple insurance policies, and often trial preparation against well-funded defense teams. The stakes are measured in millions of dollars needed for lifetime care, making experienced advocacy essential."},{"question":"Will I need to go to trial for my paralysis injury case?","answer":"Many paralysis cases settle before trial when insurance companies recognize the strength of the evidence and our trial-ready preparation. However, we prepare every case as if it will go to trial—and insurance companies know we are ready to try a case. This preparation strengthens negotiations and ensures we secure full compensation whether through settlement or verdict. Our 45 years of trial experience give our clients a significant advantage."}]
+statsVariant: "bar"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+serviceArea: "ann-arbor-mi"
+serviceTopic: "paralysis-injuries"
+practiceArea: ""
+---
+
+<p>Paralysis injuries change everything in an instant. Whether caused by a car accident, workplace incident, fall, or medical negligence in Ann Arbor or throughout <a href="/service-area/washtenaw-county-mi">Washtenaw County</a>, these catastrophic injuries often result in permanent quadriplegia or paraplegia, requiring lifelong medical care, adaptive equipment, and personal assistance.</p>
+
+<p>At Logeman & Iafrate, P.C., our Ann Arbor paralysis injury attorneys understand the enormous physical, emotional, and financial challenges facing paralysis victims and their families. With more than 45 years of experience serving clients throughout Michigan, we fight to secure the full compensation needed to address lifetime care requirements.</p>
+
+<h2>Understanding Paralysis Injuries and Their Impact</h2>
+<p>Paralysis occurs when spinal cord damage interrupts the brain's ability to send signals to muscles. The location of the spinal injury determines which body parts are affected:</p>
+<ul>
+  <li><strong>Quadriplegia (tetraplegia)</strong> results from cervical spine injuries, affecting all four limbs and often impairing breathing and other vital functions</li>
+  <li><strong>Paraplegia</strong> results from thoracic or lumbar spine injuries, affecting the lower body including legs and pelvic organs</li>
+  <li><strong>Complete paralysis</strong> means total loss of motor function and sensation below the injury site</li>
+  <li><strong>Incomplete paralysis</strong> allows some function or sensation to remain, though significant impairment persists</li>
+</ul>
+
+<p>Paralysis victims in Ann Arbor face immediate and lifelong challenges including loss of mobility, inability to work, dependence on others for personal care, and profound emotional trauma. The financial burden of lifetime medical care often reaches millions of dollars.</p>
+
+<h2>Common Causes of Paralysis in Ann Arbor</h2>
+<p>Throughout Washtenaw County, paralysis injuries most frequently result from:</p>
+<ul>
+  <li><strong>Motor vehicle accidents</strong> on I-94, US-23, M-14, and Ann Arbor streets—particularly high-speed crashes and collisions with commercial trucks</li>
+  <li><strong>Construction site accidents</strong> including falls from heights, scaffolding collapses, and being struck by equipment</li>
+  <li><strong>Motorcycle accidents</strong> where riders have minimal protection from impact</li>
+  <li><strong>Diving accidents</strong> in pools, lakes, and the Huron River</li>
+  <li><strong>Slip and fall accidents</strong> from dangerous property conditions throughout Ann Arbor</li>
+  <li><strong>Medical malpractice</strong> including surgical errors at <a href="/">Michigan Medicine</a> and other area hospitals</li>
+  <li><strong>Workplace accidents</strong> in industrial settings, warehouses, and manufacturing facilities</li>
+</ul>
+
+<h2>Compensation for Paralysis Victims in Ann Arbor</h2>
+<p>Paralysis cases require comprehensive evaluation of lifetime costs. Our attorneys work with life care planners, vocational experts, and medical specialists to document the full extent of damages:</p>
+<ul>
+  <li><strong>Immediate medical expenses</strong> including emergency care, surgery, and hospital stays</li>
+  <li><strong>Ongoing rehabilitation</strong> and physical therapy</li>
+  <li><strong>Adaptive equipment</strong> including wheelchairs, mobility devices, and specialized vehicles</li>
+  <li><strong>Home modifications</strong> for accessibility—ramps, widened doorways, modified bathrooms, and lift systems</li>
+  <li><strong>24-hour attendant care</strong> or nursing assistance for daily living activities</li>
+  <li><strong>Lost wages and diminished earning capacity</strong> for the remainder of working life</li>
+  <li><strong>Pain, suffering, and loss of enjoyment of life</strong></li>
+  <li><strong>Psychological counseling</strong> for depression, anxiety, and adjustment disorders</li>
+  <li><strong>Future medical complications</strong> including pressure sores, infections, and secondary conditions</li>
+</ul>
+
+<h2>Michigan No-Fault Benefits for Paralysis Victims</h2>
+<p>If your paralysis resulted from an auto accident in Ann Arbor, Michigan's no-fault system provides critical first-party benefits through your own insurance, regardless of who caused the crash:</p>
+<ul>
+  <li><strong>Personal Injury Protection (PIP) benefits</strong> cover medical expenses, attendant care, and home modifications</li>
+  <li><strong>Attendant care benefits</strong> pay family members or professional caregivers for assistance with daily activities</li>
+  <li><strong>Wage loss benefits</strong> provide partial income replacement during recovery</li>
+  <li><strong>Replacement services</strong> cover household tasks you can no longer perform</li>
+</ul>
+
+<p>However, the 2019-2020 no-fault reforms changed coverage significantly. Depending on your policy choice, your PIP medical benefits may be capped at $50,000, $250,000, $500,000, or remain unlimited. Understanding your coverage and fighting for every dollar of benefits requires experienced legal advocacy.</p>
+
+<h3>Third-Party Claims Against At-Fault Drivers</h3>
+<p>Beyond no-fault benefits, paralysis victims can pursue third-party lawsuits against negligent drivers for damages not covered by PIP, including pain and suffering, excess medical expenses, and full wage loss. These claims often provide substantial additional compensation critical to lifetime care.</p>
+
+<h2>Workers' Compensation and Third-Party Claims</h2>
+<p>If your paralysis occurred in a workplace accident in Ann Arbor or Washtenaw County, you're entitled to workers' compensation benefits covering medical treatment and wage loss. However, you can also pursue third-party claims against negligent contractors, equipment manufacturers, or property owners who contributed to your injury—providing additional compensation including pain and suffering not available through workers' compensation.</p>
+
+<h2>The Importance of Life Care Planning</h2>
+<p>Paralysis cases require detailed life care plans developed by certified experts who evaluate:</p>
+<ul>
+  <li>All future medical and rehabilitative needs</li>
+  <li>Equipment replacement schedules for wheelchairs and adaptive devices</li>
+  <li>Ongoing attendant care requirements as you age</li>
+  <li>Home modification and maintenance costs</li>
+  <li>Transportation needs and vehicle modifications</li>
+  <li>Secondary medical complications and their treatment</li>
+  <li>Psychological support throughout your lifetime</li>
+</ul>
+
+<p>These plans, often extending 40-60 years into the future, form the foundation of our demand for full compensation. Insurance companies will try to minimize these projections—we won't let them.</p>
+
+<h2>Why Ann Arbor Paralysis Victims Choose Logeman & Iafrate</h2>
+<p>Paralysis injuries require specialized legal and medical expertise. Our firm brings:</p>
+<ul>
+  <li><strong>More than 45 years of experience</strong> handling catastrophic injury cases throughout Michigan</li>
+  <li><strong>Trial-ready advocacy</strong>—insurance companies know we won't settle for less than you deserve</li>
+  <li><strong>Proven results</strong> securing substantial settlements and verdicts for catastrophic injury victims</li>
+  <li><strong>Deep understanding of Michigan's no-fault system</strong> and complex insurance battles</li>
+  <li><strong>Relationships with top medical experts</strong> and life care planners who strengthen your case</li>
+  <li><strong>Compassionate support</strong> during the most challenging time of your life</li>
+</ul>
+
+<p>We take cases on a contingency-fee basis—you pay nothing unless we win. We handle every aspect of your claim while you focus on adapting to your new reality and maximizing your recovery.</p>
+
+<h2>Serving Paralysis Victims Throughout Ann Arbor and Washtenaw County</h2>
+<p>Our Ann Arbor office serves paralysis victims from across Washtenaw County, including Ypsilanti, Saline, Dexter, Chelsea, Manchester, and surrounding communities. We also represent clients throughout Southeast Michigan in Wayne, Livingston, Jackson, Lenawee, and Monroe counties.</p>
+
+<p>If you or a loved one suffered paralysis due to another's negligence, you deserve experienced trial lawyers who understand both the legal complexities and the human toll. We've spent decades fighting for injured clients throughout Michigan—and we're ready to fight for you.</p>
+
+<p class="text-[14px] text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
+
+<h2>Contact Our Ann Arbor Paralysis Injury Attorneys Today</h2>
+<p>If you or a loved one has suffered paralysis due to someone else's negligence in Ann Arbor or anywhere in Michigan, reach out promptly to get the legal help you need. The sooner we begin investigating your case and securing evidence, the stronger your claim will be.</p>
+
+<p><strong>Call us at (734) 994-0200 or fill out our <a href="/contact-us">online contact form</a> to schedule a free consultation.</strong> We take cases on a contingency-fee basis, which means you pay nothing unless we win your case. Let us handle the legal battles while you focus on adapting to your new reality and maximizing your recovery.</p>
+
+<p>We don't get paid unless we win. We're trial-ready advocates fighting by your side—helping you rebuild your life after catastrophic injury.</p>
+
+<h2>Our Story — Built on Experience and Determination</h2>
+<p>For decades, Logeman & Iafrate has represented injured clients across Michigan with unwavering commitment. We take cases others won't, and we win cases others can't. Our founders built this firm on a simple principle: injured people deserve fierce advocacy and real results.</p>
+
+<p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>

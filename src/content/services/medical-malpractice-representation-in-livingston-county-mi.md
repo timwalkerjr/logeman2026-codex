@@ -1,0 +1,41 @@
+---
+title: "Medical Malpractice Attorneys Livingston County MI | Surgical Error Lawyers"
+description: "Livingston County medical malpractice attorneys with 45+ years experience holding doctors and hospitals accountable for surgical errors, misdiagnosis, and birth injuries. Free consultation."
+canonicalUrl: "https://www.logeman.com/service/medical-malpractice-representation-in-livingston-county-mi/"
+showHero: false
+heroTitle: ""
+contentTitle: "Medical Malpractice Attorneys Livingston County MI"
+afterFaqHtml: ""
+faqs: [{"question":"How do I know if my doctor committed medical malpractice?","answer":"Medical malpractice occurs when a healthcare provider's negligence causes you harm. Simply having a bad outcome isn't enough—you must prove the provider fell below the accepted standard of care for their specialty. If your treatment differed significantly from what a competent doctor would have done, if critical tests were missed, or if obvious symptoms were ignored, you may have a claim. Our attorneys work with medical experts to evaluate whether malpractice occurred."},{"question":"How long do I have to file a medical malpractice lawsuit in Michigan?","answer":"Michigan law generally requires you to file within two years of when the malpractice occurred or within six months of discovering the injury—whichever is later. However, the discovery period cannot extend beyond six years from the negligent act. These deadlines are strictly enforced, and exceptions are rare. Contact an attorney immediately if you suspect medical negligence to protect your rights."},{"question":"Do I need a medical expert to prove my malpractice case?","answer":"Yes. Michigan law requires an affidavit of merit from a qualified medical expert before you can file a malpractice lawsuit. This expert must be board-certified in the same specialty and spend at least 75% of their time in active clinical practice or instruction. Additionally, expert testimony is required at trial to prove the healthcare provider fell below the standard of care and caused your injury."},{"question":"What damages are available in Livingston County medical malpractice cases?","answer":"You can recover economic damages including all medical expenses, lost wages, future care costs, and rehabilitation expenses—these damages are not capped. Non-economic damages for pain and suffering are capped at approximately $569,000, but a higher cap of approximately $1,047,000 applies when malpractice caused death, permanent loss of a vital bodily function, or permanent cognitive impairment. Wrongful death cases may also include loss of companionship and financial support."},{"question":"Can I sue a hospital for medical malpractice in Michigan?","answer":"Yes. Hospitals can be held liable for their own negligence, including inadequate staffing, failure to properly credential physicians, negligent supervision, or unsafe policies. Hospitals may also be vicariously liable for the negligence of their employed physicians, nurses, and staff. Independent contractors like emergency room physicians may require separate claims, but our attorneys investigate all potentially liable parties to maximize your recovery."}]
+statsVariant: "article"
+formVariant: "home"
+testimonialsVariant: "home"
+mapVariant: "location"
+serviceArea: "livingston-county-mi"
+serviceTopic: "medical-malpractice-representation"
+practiceArea: ""
+---
+
+<p>You trusted your doctor to provide competent medical care, but something went terribly wrong. Maybe a surgeon made an error during a routine procedure. Perhaps a misdiagnosis delayed treatment for cancer or a heart condition. Maybe your loved one received the wrong medication or died from a preventable infection. When medical professionals make mistakes, patients suffer catastrophic injuries—or lose their lives entirely.</p>
+<p>At Logeman & Iafrate, P.C., our medical malpractice attorneys understand the complex medical and legal issues these cases require. We've spent over 45 years fighting for injured clients throughout Michigan, including Livingston County communities like Brighton, Howell, Hartland, and Fowlerville.</p>
+
+<h2>What Constitutes Medical Malpractice in Michigan?</h2>
+<p>Not every bad outcome is malpractice. Medicine involves judgment, risk, and uncertainty. However, when a healthcare provider's negligence causes harm, Michigan law provides a path to compensation. To prove medical malpractice, you must establish four elements: the healthcare provider owed you a duty of care; the provider breached the standard of care; the breach caused your injury; and you suffered damages.</p>
+
+<h2>Common Types of Medical Malpractice in Livingston County</h2>
+<p>Medical errors happen across all healthcare settings in Livingston County. Common forms of medical negligence include surgical errors, misdiagnosis or delayed diagnosis, medication mistakes, birth injuries, anesthesia errors, emergency room negligence, and nursing home abuse and neglect.</p>
+
+<h2>Michigan's Medical Malpractice Statute of Limitations</h2>
+<p>Michigan law strictly limits the time you have to file a medical malpractice lawsuit. Under MCL 600.5805(8), you generally must file within two years of when the malpractice occurred or within six months of discovering the injury—whichever is later. However, the discovery period cannot extend beyond six years from the date of the negligent act.</p>
+
+<h2>Proving Medical Negligence Requires Expert Testimony</h2>
+<p>Michigan law requires an affidavit of merit from a qualified medical expert before you can file a malpractice lawsuit. This expert must practice in the same specialty, be board-certified (or have equivalent training), and spend at least 75% of their professional time in active clinical practice or instruction. Building a successful medical malpractice case requires extensive investigation, medical record review, and collaboration with top experts.</p>
+
+<h2>Compensation Available in Livingston County Medical Malpractice Cases</h2>
+<p>Medical malpractice victims may recover both economic and non-economic damages. Economic damages include all past and future medical expenses, rehabilitation costs, lost wages, reduced earning capacity, and attendant care needs. These damages have no statutory cap in Michigan. Non-economic damages compensate for pain and suffering, permanent disability, loss of enjoyment of life, and emotional distress. Michigan caps non-economic damages in medical malpractice cases at approximately $569,000 (adjusted annually for inflation), with a higher cap of approximately $1,047,000 for death, permanent loss of a vital bodily function, or permanent cognitive impairment.</p>
+
+<h2>Why Medical Malpractice Cases Require Experienced Trial Attorneys</h2>
+<p>Medical malpractice cases are among the most complex and expensive to litigate. Many firms settle cases quickly to avoid the substantial costs of preparing for trial. We take a different approach. We invest in the expert testimony, medical records analysis, and thorough preparation necessary to prove your case—and we're prepared to go to trial when insurance companies refuse to offer fair compensation.</p>
+
+<h2>Contact Our Livingston County Medical Malpractice Attorneys Today</h2>
+<p>When healthcare providers fail their patients, the consequences can be devastating and permanent. We offer free consultations and handle all cases on a contingency-fee basis—no fees unless we win. Call us at <strong>(734) 994-0200</strong> or fill out our online contact form to schedule your free consultation.</p>
