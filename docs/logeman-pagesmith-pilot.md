@@ -17,6 +17,7 @@
 - Shared presentation: the restored Car Accidents component stack (`ArticleHero`, `ArticleContent`, `ArticleFAQ`, testimonials, contact form, and map)
 - Shared content layout: live-site two-column article/FAQ grid with the attorney team image and Awards and Honors sidebar; it stacks to one column on smaller screens.
 - Sidebar navigation: an automatic “On This Page” table of contents is generated from each rendered practice-area page's `h2` and `h3` headings, including the FAQ section, with stable anchor targets and no editor-maintained link list.
+- Sidebar CTA: each practice-area item's CTA fields render as a branded navy case-review panel immediately below the table of contents and link to the Contact Us form section.
 - Route coverage: all 19 existing `/practice-area/*` URLs
 - Per-item fields: document title, description, hero content, responsive PageSmith image set, live-site canonical, CTA headline/text/button label/button link, FAQ items, and MDX article body
 - The former one-file-per-route Astro pages were removed after their body content and FAQ data were migrated into the collection.

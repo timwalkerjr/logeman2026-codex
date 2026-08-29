@@ -3,8 +3,18 @@ import PracticeAreaSidebar from './PracticeAreaSidebar.astro';
 
 interface Props {
   title?: string;
+  ctaHeadline?: string;
+  ctaText?: string;
+  ctaButtonText?: string;
+  ctaButtonLink?: string;
 }
-const { title } = Astro.props;
+const {
+  title,
+  ctaHeadline = '',
+  ctaText = '',
+  ctaButtonText = '',
+  ctaButtonLink = '',
+} = Astro.props;
 ---
 <section class="bg-background py-12">
   <div class="mx-auto grid max-w-[1312px] grid-cols-1 gap-10 px-6 lg:grid-cols-[minmax(0,1fr)_325px] lg:px-[46px]">
@@ -15,6 +25,11 @@ const { title } = Astro.props;
       </div>
       <slot name="after" />
     </div>
-    <PracticeAreaSidebar />
+    <PracticeAreaSidebar
+      ctaHeadline={ctaHeadline}
+      ctaText={ctaText}
+      ctaButtonText={ctaButtonText}
+      ctaButtonLink={ctaButtonLink}
+    />
   </div>
 </section>

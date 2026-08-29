@@ -33,6 +33,10 @@ const {
   heroImageSrcset,
   heroImageAlt,
   canonicalUrl,
+  ctaHeadline,
+  ctaText,
+  ctaButtonText,
+  ctaButtonLink,
   faqs,
 } = entry.data;
 ---
@@ -52,7 +56,12 @@ const {
     imageAlt={heroImageAlt}
   />
 
-  <ArticleContent>
+  <ArticleContent
+    ctaHeadline={ctaHeadline}
+    ctaText={ctaText}
+    ctaButtonText={ctaButtonText}
+    ctaButtonLink={ctaButtonLink}
+  >
     <Content />
     {faqs.length > 0 && <ArticleFAQ slot="after" items={faqs} embedded />}
   </ArticleContent>
