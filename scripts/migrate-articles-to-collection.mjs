@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { articlePracticeAreaMap } from './article-practice-area-map.mjs';
+import { articleCardImageMap } from './article-card-image-map.mjs';
 
 const projectRoot = process.cwd();
 const sourceDir = path.join(projectRoot, 'src', 'pages', 'articles');
@@ -121,8 +122,8 @@ const records = sourceFiles.map((file) => {
   const faqs = faqVariable ? extractArrayLiteral(source, faqVariable) : [];
   const featured = featuredBySlug.get(slug);
 
-  if (!title || !description || !heroTitle || !articlePracticeAreaMap[slug] || faqs.length === 0) {
-    throw new Error(`Incomplete article mapping in ${file}: title=${Boolean(title)}, description=${Boolean(description)}, heroTitle=${Boolean(heroTitle)}, heroPracticeArea=${Boolean(articlePracticeAreaMap[slug])}, faqs=${faqs.length}`);
+  if (!title || !description || !heroTitle || !articlePracticeAreaMap[slug] || !articleCardImageMap[slug] || faqs.length === 0) {
+    throw new Error(`Incomplete article mapping in ${file}: title=${Boolean(title)}, description=${Boolean(description)}, heroTitle=${Boolean(heroTitle)}, heroPracticeArea=${Boolean(articlePracticeAreaMap[slug])}, cardImage=${Boolean(articleCardImageMap[slug])}, faqs=${faqs.length}`);
   }
 
   return {
@@ -139,7 +140,7 @@ const records = sourceFiles.map((file) => {
       heroImageAlt: 'Lady Justice holding the scales of justice',
       canonicalUrl,
       excerpt: featured?.excerpt || description,
-      cardImage: featured?.image || defaultHeroImage,
+      cardImage: articleCardImageMap[slug],
       featuredOrder: featured?.featuredOrder,
       faqs,
       statsVariant: source.includes('<ArticleStats />') ? 'article' : 'bar',
