@@ -1,63 +1,7 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import ArticleHero from '@/components/articles/ArticleHero.astro';
-
-const recentArticles = [
-  {
-    title: "What to Do if You Are Injured in a Hit-and-Run Accident",
-    excerpt: "After securing your medical needs and contacting 911 if necessary, the first step is to contact the police immediately. It is very important to properly document the incident and to maximize the ability of law...",
-    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7c1f4a0256dfbeb4af_6934905cfa866f743ff0ebd6_69343de43ee8b90d83b0edc6_6931aeb78a1da6e837596c43_6930e47f2951a368fe9d811b_6930e2953573b35f057c907b_1764659007901-auto-accident-injury-law024-1536.webp",
-    url: "/articles/what-to-do-if-you-are-injured-in-a-hit-and-run-accident-ded4e"
-  },
-  {
-    title: "What to Do After a Car Accident",
-    excerpt: "If you or a family member are involved in a car accident, there are steps you should take to help ensure the safety of everyone involved. You should follow these steps in an accident when possible:",
-    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7cdd4f907ac7d1d239_6934905ce3ac2fc4d0679c0e_69343d26290a5898ac030128_6931c6043e703751deb3312c_6930dfa6f09ab4ae548b469b_photo-1650157192590-f5c12d899906-1024.webp",
-    url: "/articles/what-to-do-after-a-car-accident"
-  },
-  {
-    title: "Who Pays After a Rideshare Collision?",
-    excerpt: "Rideshare vehicles are beneficial for many parties. Rideshare companies secure revenue by facilitating trips. The independent contractors who drive for them can control their work schedules or augment the wages they...",
-    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7c8ec7a892ea32fa1c_6934905c3426eb9a7a168a79_69343d265dfda7dc53cd48f6_6931b6ac90766af8119b562b_6930c898e9d71c3b174e5230_photo-1615929362369-4af8423ebd68-1024.webp",
-    url: "/articles/who-pays-after-a-rideshare-collision"
-  },
-  {
-    title: "What Steps Should You Take After a Car Accident Involving Personal Injury?",
-    excerpt: "In order to protect you and your family after a serious car accident where you or family members are injured, you should make sure to do the following:",
-    image: "https://pagesmith-cdn.com/881ce63c/images/693acef1aca637d1607aa0d8_693a6a5280b8b70032dc506a_image-0009-1024.webp",
-    url: "/articles/what-steps-should-you-take-after-a-car-accident-involving-personal-injury"
-  },
-  {
-    title: "What Does it Mean When People Say \"Michigan is a No-Fault State\"?",
-    excerpt: "Historically, Michigan has been a \"no-fault state\" for car accidents. After the amendment to the No-Fault Law in May of 2019, the rules regarding available coverage and benefits were significantly changed, and Michigan...",
-    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7c3e0c4ea85f9c4f95_6934905cb667facffe493830_69343de45b4a15d0e1e9c621_6931fa0116a150a86ca8b276_6930d2790d3ad66eca5ad133_photo-1541747277704-ef7fb8e1a31c-1024.webp",
-    url: "/articles/what-does-it-mean-when-people-say-michigan-is-a-no-fault-state"
-  },
-  {
-    title: "What Damages Are Recoverable in a Wrongful Death Injury Case",
-    excerpt: "There are different categories of damages recoverable in a wrongful death case in Michigan. A lawsuit is required to be filed by a representative of the estate of the deceased victim on behalf of the deceased person's...",
-    image: "https://pagesmith-cdn.com/881ce63c/images/693acef25bb2d028b55fefe0_693a69dcacf6506ef07aa881_wrongful-death-1024.webp",
-    url: "/articles/what-damages-are-recoverable-in-a-wrongful-death-injury-case"
-  },
-  {
-    title: "Uninsured and Underinsured Motorist Coverage and Car Accidents",
-    excerpt: "Uninsured and underinsured motorist coverage is designed to protect automobile insureds and resident family members who are involved in car accidents with irresponsible drivers who have inadequate insurance of their own...",
-    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7b05cfe1465a42eb19_6934905b2d3f9984e2ed0685_69343de13f95bf1d41aa4fb0_69322011060e55d62cfee99d_6930e47be9982fc76695e658_6930cc30a0b357522031c6ad_1764660545154-auto-accident-injury-law025-1536.webp",
-    url: "/articles/uninsured-and-underinsured-motorist-coverage-and-car-accidents"
-  },
-  {
-    title: "What Are the Types of Damages Recoverable in Personal Injury Lawsuits? | Ann Arbor",
-    excerpt: "There are two types of damages normally recoverable in personal injury lawsuits. First, an injured accident victim can normally seek compensation for economic damages which includes loss of past and future earnings,...",
-    image: "https://pagesmith-cdn.com/881ce63c/images/693adb786ea2d635097f4f62_6934905836bac125d35d7592_69343ddf4e0b7ca1588d23cd_6932067b8e44dccfd4a4328a_photo-1589829545856-d10d557cf95f-1024.webp",
-    url: "/articles/what-are-the-types-of-damages-recoverable-in-personal-injury-lawsuits-ann-arbor-2ea2b"
-  },
-  {
-    title: "Understanding the Steps Involved in Pursuing a Personal Injury Lawsuit | Ann Arbor",
-    excerpt: "Hiring your attorney is probably the most important decision you will make before initiating a personal injury lawsuit. You need to make sure that your attorney is experienced in handling your type of personal injury...",
-    image: "https://pagesmith-cdn.com/881ce63c/images/693adb7bbf25e18849126d77_6934905b6ca9db8e17866a7a_69343d25eee8657ad84f52cc_6932ffc5ce30f8d5db2673d2_6930e47e5b8f8d516b01be9e_6930e2fc3a718e8381d2c489_photo-1522752622479-65eefd320386-1024.webp",
-    url: "/articles/understanding-the-steps-involved-in-pursuing-a-personal-injury-lawsuit-ann-arbor"
-  }
-];
 
 const recentNews = [
   {
@@ -97,6 +41,13 @@ const recentNews = [
     url: "/posts/product-liability-in-michigan-defective-products-manufacturing-defect-claims"
   }
 ];
+
+const articleEntries = (await getCollection('articles')).sort((a, b) => {
+  const orderA = a.data.featuredOrder ?? Number.MAX_SAFE_INTEGER;
+  const orderB = b.data.featuredOrder ?? Number.MAX_SAFE_INTEGER;
+
+  return orderA - orderB || a.data.heroTitle.localeCompare(b.data.heroTitle);
+});
 ---
 
 <BaseLayout
@@ -129,21 +80,21 @@ const recentNews = [
       </p>
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {recentArticles.map((article) => (
+        {articleEntries.map((entry) => (
           <article class="bg-[rgba(229,236,246,0.54)] rounded-[8px] overflow-hidden border border-white/60 hover-lift">
-            <a href={article.url} class="block">
+            <a href={`/articles/${entry.id}`} class="block">
               <img
-                src={article.image}
-                alt={article.title}
+                src={entry.data.cardImage}
+                alt={entry.data.heroTitle}
                 class="w-full h-[200px] object-cover"
                 loading="lazy"
               />
               <div class="p-6">
                 <h3 class="text-[20px] font-semibold text-foreground mb-3 leading-[1.4]">
-                  {article.title}
+                  {entry.data.heroTitle}
                 </h3>
                 <p class="text-[14px] text-foreground leading-[1.6] mb-4">
-                  {article.excerpt}
+                  {entry.data.excerpt}
                 </p>
                 <span class="text-primary font-medium text-[14px] inline-flex items-center gap-1">
                   Learn More →

@@ -1,0 +1,37 @@
+---
+title: "What to Do After a Hit-and-Run Accident | Michigan Injury Lawyers"
+description: "Injured in a hit-and-run accident? Learn critical steps to protect your rights and insurance benefits. Contact police within 24 hours, document evidence, and get experienced legal help from Ann Arbor personal injury attorneys."
+heroTitle: "What to Do After a Hit-and-Run Accident"
+heroEyebrow: ""
+heroDescription: "Injured in a hit-and-run accident? Learn critical steps to protect your rights and insurance benefits. Contact police within 24 hours, document evidence, and get experienced legal help from Ann Arbor personal injury attorneys."
+heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
+heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
+heroImageAlt: "Lady Justice holding the scales of justice"
+canonicalUrl: "https://www.logeman.com/articles/what-to-do-if-you-are-injured-in-a-hit-and-run-accident-ded4e/"
+excerpt: "After securing your medical needs and contacting 911 if necessary, the first step is to contact the police immediately. It is very important to properly document the incident and to maximize the ability of law..."
+cardImage: "https://pagesmith-cdn.com/881ce63c/images/693adb7c1f4a0256dfbeb4af_6934905cfa866f743ff0ebd6_69343de43ee8b90d83b0edc6_6931aeb78a1da6e837596c43_6930e47f2951a368fe9d811b_6930e2953573b35f057c907b_1764659007901-auto-accident-injury-law024-1536.webp"
+featuredOrder: 1
+faqs: [{"question":"What should I do immediately after a hit-and-run accident?","answer":"After ensuring your safety and seeking medical attention if needed, contact the police immediately—ideally within 24 hours. Document everything: photograph vehicle damage, paint transfer, and the accident scene. Collect names and contact information from any witnesses. This documentation is critical for both the police investigation and protecting your right to uninsured motorist benefits under your insurance policy."},{"question":"Can I still recover compensation if the hit-and-run driver is never found?","answer":"Yes. Even if the at-fault driver is never identified, you may be eligible for Uninsured Motorist Benefits through your own insurance policy. These benefits provide compensation for injuries caused by hit-and-run drivers. However, most policies require you to file a police report within 24 hours of the incident to preserve these rights, so prompt action is essential."},{"question":"Why is it important to preserve physical evidence after a hit-and-run?","answer":"Insurance companies sometimes dispute whether a hit-and-run vehicle was actually involved in an accident. Physical evidence like paint transfer, vehicle damage patterns, and debris can prove that another vehicle caused the collision. In some cases, scientific analysis of paint samples can even identify the manufacturer of the hit-and-run vehicle. Photographing and preserving this evidence immediately after the accident strengthens your claim and helps establish your right to compensation."}]
+statsVariant: "bar"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+---
+
+<p>After securing your medical needs and contacting 911 if necessary, the first step is to contact the police immediately. It is very important to properly document the incident and to maximize the ability of law enforcement to identify the culprit.</p>
+
+<h2>This Will Also Protect Your Right to <a href="/articles/types-of-compensation-after-a-car-accident-in-michigan">certain insurance benefits</a></h2>
+
+<p><strong>Many insurance policies require that you file a police report within 24 hours of the incident, or you may be disqualified from recovering Uninsured Motorist Benefits under policy exclusions.</strong> Uninsured Motorist Benefits provide an injured person with compensation for injuries arising from the accident involving a hit-and-run driver. Other policies provide that a police report must be made after an accident as soon as reasonably practical to preserve your right to uninsured motorist benefits. To be safe, it is prudent to report the accident within 24 hours to avoid any legal arguments that the insurance company could use to avoid their obligation to pay such benefits.</p>
+
+<p><strong>You should also document all physical evidence establishing that a hit-and-run vehicle was involved in an accident.</strong> Sometimes insurers will dispute that a hit-and-run vehicle was involved in an accident with your vehicle. Photograph any evidence of damage or paint transfer onto your vehicle. In a case for uninsured motorist benefits, our office was able to preserve paint transfer markings and utilize scientific analysis of the paint which established that the paint was from an automobile manufacturer.</p>
+
+<p>This evidence was very helpful in proving that a hit-and-run automobile was involved in the accident with our client. It is important to retain all physical evidence that is helpful to prove that a hit-and-run vehicle was involved in the crash.</p>
+
+<p><strong>It is also important to obtain the names and phone numbers of any potential witnesses.</strong> If you do not do so at the accident scene, you likely will not be able to identify these witnesses at a later date. You should provide any witness information to the investigating police department. Your attorney may also be able to locate potential witnesses by obtaining 911 calls or call logs. Many times there will be witnesses who will call 911 that would not otherwise be identified by the injured person or the police. This frequently provides relevant testimony in injury cases. <a href="https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-442-of-1976.pdf">Freedom of Information Act (FOIA), 1976 PA 442</a>. It is prudent to contact an experienced personal injury attorney after an accident to protect your legal rights.</p>
+
+<p>If you have been a victim of a hit-and-run accident and have suffered injuries, it is extremely important to have an experienced lawyer review any injury claim. The <a href="/personal-injury-overview/">personal injury attorneys</a> at <a href="/">Logeman, Iafrate &amp; Logeman</a> can help.</p>
+
+<p>Our Ann Arbor <a href="/personal-injury-overview/">personal injury law practice</a> is prepared to handle claims involving car accidents, <a href="/motor-vehicle-accidents-overview/uninsured-umi-attorney-ann-arbor-mi/">uninsured accidents</a>, motorcycle accidents, truck accidents, <a href="/catastrophic-injuries/wrongful-death-attorneys-ann-arbor-mi/">wrongful death</a>, pedestrian accidents, traumatic brain injury, <a href="/motor-vehicle-accidents-overview/no-fault-claim-attorney-ann-arbor-mi/">no-fault</a>, and more. Our highly experienced attorneys have helped countless clients throughout Michigan recover losses and rebuild their lives for over 45 years! Call us today to speak with an experienced attorney. Free consultations.</p>
+
+<p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>

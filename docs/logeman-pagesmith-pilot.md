@@ -79,3 +79,15 @@
 - Desktop and mobile checks cover representative pages from all three hero families.
 - Verification: Astro build succeeds for all 191 routes; all 14 restored routes have exactly one H1, their matching `https://www.logeman.com/.../` canonical, and `noindex, nofollow`.
 - The same 3 pre-existing type errors remain in `BlogLayout.astro` and `DocsLayout.astro`; no new type-check diagnostics were introduced.
+
+## Articles collection
+
+- Collection entries: `src/content/articles/*.md`
+- Shared route: `src/pages/articles/[slug].astro`
+- Route coverage: all 47 existing `/articles/*` URLs; the overall build remains 191 static pages.
+- Per-item fields: document title, description, hero content, responsive PageSmith hero image set, live-site canonical, card excerpt/image/order, FAQ items, preserved presentation variants, and article body.
+- The shared route preserves each source page's statistics, form, testimonials, and map choices while standardizing the article hero on the approved About Us Lady Justice treatment.
+- `src/pages/articles-posts.astro` now reads the Articles collection and maps all 47 entries. The 9 existing featured card images and excerpts retain their original priority; remaining entries use their collection fallback image and excerpt.
+- The former 47 one-file-per-route Astro pages were removed after migration. `scripts/migrate-articles-to-collection.mjs` documents and reproduces the extraction and normalization logic from a clean pre-migration checkout.
+- Verification: all 47 rendered articles have exactly one H1, the corresponding `https://www.logeman.com/articles/.../` canonical, `noindex, nofollow`, and an FAQ section; all 247 FAQ items are preserved. No article renders literal or encoded HTML as a code block.
+- Astro build succeeds for all 191 routes. The same 3 pre-existing type errors remain in `BlogLayout.astro` and `DocsLayout.astro`; no new type-check errors were introduced.

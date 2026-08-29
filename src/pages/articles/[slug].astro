@@ -1,0 +1,75 @@
+---
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleHero from '@/components/articles/ArticleHero.astro';
+import ArticleContent from '@/components/articles/ArticleContent.astro';
+import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
+import ArticleStats from '@/components/articles/ArticleStats.astro';
+import StatsBar from '@/components/articles/StatsBar.astro';
+import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
+import FreeConsultationForm from '@/components/home/FreeConsultationForm.astro';
+import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import Testimonials from '@/components/home/Testimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
+import LocationMap from '@/components/home/LocationMap.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+
+  return articles.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+interface Props {
+  entry: CollectionEntry<'articles'>;
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const {
+  title,
+  description,
+  heroTitle,
+  heroEyebrow,
+  heroDescription,
+  heroImage,
+  heroImageSrcset,
+  heroImageAlt,
+  canonicalUrl,
+  faqs,
+  statsVariant,
+  formVariant,
+  testimonialsVariant,
+  mapVariant,
+} = entry.data;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  image={heroImage}
+  canonicalUrl={canonicalUrl}
+>
+  <ArticleHero
+    title={heroTitle}
+    eyebrow={heroEyebrow}
+    description={heroDescription}
+    image={heroImage}
+    imageSrcset={heroImageSrcset.join(', ')}
+    imageAlt={heroImageAlt}
+  />
+
+  <ArticleContent>
+    <Content />
+  </ArticleContent>
+
+  <ArticleFAQ items={faqs} />
+
+  {statsVariant === 'article' ? <ArticleStats /> : <StatsBar />}
+  {formVariant === 'home' ? <FreeConsultationForm /> : <ArticleContactForm />}
+  {testimonialsVariant === 'home' ? <Testimonials /> : <ArticleTestimonials />}
+  {mapVariant === 'article' && <ArticleMap />}
+  {mapVariant === 'location' && <LocationMap />}
+</BaseLayout>

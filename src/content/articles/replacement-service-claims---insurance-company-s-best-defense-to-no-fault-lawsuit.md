@@ -1,0 +1,76 @@
+---
+title: "Replacement Service Claims Defense in No-Fault Lawsuits | Michigan"
+description: "Learn how replacement service claims can become an insurance company's best defense in no-fault lawsuits. Expert guidance on Bahri motions, fraud allegations, and protecting your claim under Michigan law."
+heroTitle: "Replacement Service Claims Defense in No-Fault Lawsuits"
+heroEyebrow: ""
+heroDescription: "Learn how replacement service claims can become an insurance company's best defense in no-fault lawsuits. Expert guidance on Bahri motions, fraud allegations, and protecting your claim under Michigan law."
+heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
+heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
+heroImageAlt: "Lady Justice holding the scales of justice"
+canonicalUrl: "https://www.logeman.com/articles/replacement-service-claims---insurance-company-s-best-defense-to-no-fault-lawsuit/"
+excerpt: "Learn how replacement service claims can become an insurance company's best defense in no-fault lawsuits. Expert guidance on Bahri motions, fraud allegations, and protecting your claim under Michigan law."
+cardImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
+faqs: [{"question":"What are replacement service claims under Michigan no-fault law?","answer":"Replacement service claims allow injured persons to seek reimbursement up to $20 per day for ordinary household services they can no longer perform due to accident-related injuries. These services include cleaning, babysitting, lawn care, snow shoveling, grocery shopping, and other daily tasks performed during the first three years after the accident."},{"question":"What is a Bahri motion and how can it affect my no-fault claim?","answer":"A Bahri motion is a legal defense used by insurance companies to void an entire no-fault claim based on alleged fraud or misrepresentation in replacement service claims or other benefit applications. If successful, it can result in the dismissal of your case and the voiding of all no-fault benefits, including medical and wage loss coverage."},{"question":"How can I protect myself from having my claim dismissed due to replacement service issues?","answer":"To protect your claim, only submit replacement service claims if you can accurately document each service without error. Be conservative in your calculations, ensure services are clearly needed due to accident injuries, and review all documentation carefully before submission. Consider having your attorney review forms before submitting them to the insurer."},{"question":"What evidence do insurance companies use to challenge replacement service claims?","answer":"Insurance companies commonly use surveillance video, social media posts (especially Facebook), deposition testimony, employment records, and inconsistencies between claimed services and observed activities. They look for discrepancies such as claims for snow shoveling in summer or activities that contradict stated limitations."},{"question":"What defenses are available against a Bahri motion?","answer":"Several defenses exist, including: reviewing policy fraud language for narrower provisions than Bahri, arguing non-applicability if you're not the named insured, demonstrating the insurer's higher burden of proof (clear and convincing evidence), challenging materiality of alleged misrepresentations, and arguing that policy provisions conflicting with mandatory No-Fault Act coverage cannot void benefits."}]
+statsVariant: "bar"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "none"
+---
+
+<p>Under the no-fault law, an injured person may present a claim for reimbursement of ordinary household expenses (replacement services) performed by others up to $20.00 a day that an injured person can no longer perform as a result of accident-related injuries.</p>
+<p>MCL 500.3107(c) reads as follows:</p>
+<p>"(c) Expenses not exceeding $20.00 per day, reasonably incurred in obtaining ordinary and necessary services in lieu of those that, if he or she had not been injured, an injured person would have performed during the first 3 years after the date of the accident, not for income but for the benefit of himself or of his or her dependent."</p>
+<p>Replacement services include common household tasks including cleaning, babysitting, lawn care, snow shoveling, grocery shopping and taking out the garbage.</p>
+<p>In the initial years after the No-Fault Law was passed, these claims were mostly submitted in a modest manner and usually did not amount to a substantial part of an injured person's claim for benefits. In recent years, replacement services have become a staple for any no-fault claim being presented including a multitude of forms with letters designating activities provided which are sometimes filled out haphazardly by claimants with little thought or reality as to what services are really being provided.</p>
+
+<h2><strong>Why Replacement Service Claims Have Become an Insurance Company Defense</strong></h2>
+<p>You cannot blame an insurance company for being upset about being charged for snow shoveling in July or claims for vacuuming 7 days a week. In response to overzealous claims for replacement services, insurers began attempting to void the entire claim for benefits based on anti-fraud language in the auto policy of insurance which normally includes language allowing an insurer to void coverage when a fraudulent claim has been submitted.</p>
+<p>Courts began to grant defense motions and requests to dismiss cases, voiding an injured person's coverage completely including all medical and wage loss benefits. Insurers even began to ask judges to dismiss cases where there were inconsistencies in a claimant's testimony concerning injuries and past medical history. Scrutiny of replacement services claims or inconsistent testimony by the plaintiff became a weapon for the insurers to attempt to dismiss otherwise valid cases. It also in some cases became a tool for some judges to more efficiently manage their case loads by dismissing cases based on this legal ruling.</p>
+<p>Given the current substantial risks associated with replacement service claims being submitted to an insurer, the question becomes is the $20.00 worth the risk of having your case dismissed or no-fault benefits voided forever.</p>
+<p>The advice we give clients is to only submit these claims if you are willing to spend the necessary time required to accurately document each service without error and make sure you are very conservative in your calculations related to the amount of time involved and that the service is clearly needed as a result of the accident-related injuries. If you are not willing to take the time to be 100% accurate, then you should not be submitting these claims to the insurance company.</p>
+
+<h2><strong>Bahri Issues From the Plaintiff's Perspective</strong></h2>
+<p>Here is important guidance for plaintiffs facing Bahri motions and how to protect yourself from having your entire no-fault claim voided.</p>
+
+<h3><strong>1. How to protect your client from a Bahri Motion</strong></h3>
+<p>Educate your client early given the serious consequences related to Bahri. It is critical that counsel explain the importance of providing accurate information related to claims information. Attorneys should explain how to properly prepare no-fault insurance forms and may wish to review documentation before it is submitted to the insurer:</p>
+<ul>
+  <li>No-Fault Application</li>
+  <li>Replacement service forms</li>
+  <li>Attendant care forms</li>
+  <li>Mileage forms</li>
+</ul>
+
+<h3><strong>2. Common problems that could lead to a Bahri motion</strong></h3>
+<p><strong>A. Failing to provide accurate information on an application of insurance or no-fault application for benefits.</strong> See Auto-Owners Ins. Co. v Yahia Motan & Motan Yahia, Court of Appeals No. 321059, rel'd Sept. 8, 2015 (unpublished) declaratory action by insurer seeking to declare policy void was granted and affirmed by Court of Appeals where insured made numerous misrepresentations on the application for insurance.</p>
+<p><strong>B. Providing false wage or medical information in no-fault submissions.</strong> See Ward v State Farm Mut. Auto Ins. Co., Court of Appeals No. 327018 rel'd September 15, 2016 (unpublished). The trial court's decision to grant defendant insurer's motion for summary disposition was affirmed based on a Bahri motion where plaintiff claimed she was entitled to wage loss benefits because she had to leave work because of the accident when contrary evidence in employment records revealed a series of warnings for failure to adhere to company policy. The plaintiff's false statement in connection with her wage loss claim voided all coverage under the policy including her claim for medical benefits.</p>
+<p><strong>C. Replacement service or attendant care claims that are false or inconsistent with testimony or surveillance evidence.</strong> There are multiple cases where replacement service or attendant claims that were inconsistent with testimony and surveillance video led to the voiding of no-fault coverage. See <em>Bahri v IDS Prop. Cas. Ins. Co.,</em> 308 Mich App 420 (2014), where Court of Appeals held that a fraud exclusion in an automobile no-fault policy barred a personal injury protection claim.</p>
+<p><strong>D. Postings on Facebook that are inconsistent with testimony may lead to a Bahri motion.</strong> See <em>Diallo v Nationwide Mut. Fire Ins. Co.,</em> Court of Appeals No. 328639 rel'd Nov. 15, 2016 (unpublished). The Court of Appeals affirmed the trial court grant of summary disposition where the policy contained general fraud exclusion and plaintiff's Facebook posts showing that plaintiff was in Europe when plaintiff had submitted contradictory replacement service claims.</p>
+<p><strong>E. Deposition testimony that is inconsistent with documentary evidence.</strong></p>
+
+<h3><strong>3. Plaintiff's guide for responding to a Bahri motion</strong></h3>
+<p><strong>A. Review the fraud language in the insurance policy</strong> to determine if the language is narrower than policy language contained in Bahri. The policy language may not be as broad as the general fraud exclusion language found in Bahri which covered fraudulent statements and conduct.</p>
+<p><strong>B. If the plaintiff is not a named insured or policy holder</strong> under the insurance policy, the fraud exclusion does not apply because the insurer is required to pay benefits pursuant to the no-fault statute and not a contractual agreement. Relying on <em>Rohlman v Hawkeye Security,</em> 442 Mich 520 (1993), the Court of Appeals held that the policy cannot operate to bar the plaintiff's claim because the defendant was required to provide first party benefits to plaintiff pursuant to MCL 500.3114. See <em>Shelton v Auto-Owners Ins. Co.,</em> 318 Mich App 648 (2017).</p>
+<p><strong>C. No-fault benefits paid as Assigned Claims are statutory</strong> and therefore the contractual provisions of the assigned insurer's auto policy do not apply. A plaintiff may argue that the language of MCL 500.3173(a)(2) only creates a fraud exclusion where the application for benefits contains material misrepresentations, and does not allow for an exclusion of benefits where the misrepresentations occur during the adjusting.</p>
+<p><strong>D. The insurer has a higher burden of proof when alleging fraud:</strong></p>
+<ul>
+  <li>Fraud must be established by clear and convincing evidence. See <em>Mina v General Star Indemnity Co.,</em> 218 Mich App 678, 685 rev'd in part on other grounds 455 Mich 866 (1997).</li>
+  <li>Summary disposition should not be granted where motive and intent are at issue or where credibility of a witness is involved. See <em>Vanguard Ins. Co. v Bolt,</em> 204 Mich App 271 (1994).</li>
+  <li>There may be a question of fact as to whether any of the elements of the fraud have been proven and the court should give the benefit of reasonable doubt to the opposing party.</li>
+</ul>
+<p><strong>E. The plaintiff should consider filing a motion to strike fraud allegations</strong> where the fraud is not listed as an affirmative defense. See MCR 2.111(F)(3)(a) and where allegations of fraud are not stated with particularity. See MCR 2.112(B)(1).</p>
+<p><strong>F. The plaintiff may argue that the misrepresentation was not material.</strong></p>
+<ul>
+  <li>"A statement is material if it is reasonably relevant to insurer's investigation of the claim" <em>Bahri v IDS Prop. Cas. Ins. Co.,</em> 308 Mich App 420, 424-425 (2014).</li>
+  <li>Adjuster testimony could be very relevant to this issue.</li>
+</ul>
+<p><strong>G. A plaintiff should always argue that policy provisions which conflict with the mandatory coverage of the No-Fault Act do not void coverage.</strong> See <em>Cruz v State Farm Mut. Auto Ins. Co.,</em> 466 Mich 588 (2002).</p>
+<ul>
+  <li>The No-Fault Law does not contain a disqualification provision for fraud claims.</li>
+  <li>The remedy for fraud under the No-Fault Act is contained in MCL 500.3148(2) which provides a specific penalty for claims as an attorney fee that may be an offset against benefits.</li>
+</ul>
+<p><strong>H. A plaintiff may argue that statutory provisions of MCL 500.2123(1), MCL 500.3224(2) and MCL 500.3224(3)</strong> require that an insurer provide written notice of cancellation before an insurer may rescind a policy.</p>
+
+<h2><strong>Get Experienced Legal Help With Your No-Fault Claim</strong></h2>
+<p>For over forty-five years lawyers at our <a href="/personal-injury-overview/">personal injury law firm</a>, <a href="/about-us/">Logeman & Iafrate, P.C.</a>, have helped <a href="/motor-vehicle-accidents-overview/no-fault-claim-attorney-ann-arbor-mi/">accident victims</a> recover the compensation they need to rebuild their lives and take care of their families. Our attorneys are highly experienced and supported by well-trained staff. Their successful advocacy is highlighted by the fact that they have recovered damages in cases turned down by other firms as hopeless.</p>
+<p><a href="/contact-us/">Contact us today</a> for a free consultation at <strong>(734) 994-0200</strong> to discuss your case and learn how we can protect your rights against insurance company tactics like the Bahri motion.</p>

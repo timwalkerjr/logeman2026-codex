@@ -1,0 +1,84 @@
+---
+title: "Car Accident Statute of Limitations in Michigan | Logeman & Iafrate"
+description: "Learn about Michigan's 3-year statute of limitations for car accident claims, including exceptions, the discovery rule, and how to protect your right to compensation."
+heroTitle: "Car Accident Statute of Limitations in Michigan"
+heroEyebrow: ""
+heroDescription: "Learn about Michigan's 3-year statute of limitations for car accident claims, including exceptions, the discovery rule, and how to protect your right to compensation."
+heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
+heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
+heroImageAlt: "Lady Justice holding the scales of justice"
+canonicalUrl: "https://www.logeman.com/articles/car-accident-statute-of-limitations-in-michigan/"
+excerpt: "Learn about Michigan's 3-year statute of limitations for car accident claims, including exceptions, the discovery rule, and how to protect your right to compensation."
+cardImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
+faqs: [{"question":"How long do I have to file a car accident lawsuit in Michigan?","answer":"Under Michigan law, you generally have three years from the date of the car accident to file a personal injury lawsuit. This is known as the statute of limitations. If you fail to file within this three-year window, you will likely lose your right to seek compensation for your injuries."},{"question":"What is the discovery rule in Michigan car accident cases?","answer":"The discovery rule provides that the statute of limitations clock may not begin to run until you discover (or reasonably should have discovered) the injury. This exception typically applies to injuries that are not immediately apparent, such as internal injuries or conditions that develop or worsen over time after the accident."},{"question":"Does the statute of limitations apply to property damage claims?","answer":"Yes, Michigan law generally provides a three-year statute of limitations for property damage claims arising from car accidents as well. You have three years from the date of the accident to file a lawsuit seeking compensation for vehicle damage or other property losses."},{"question":"Are there exceptions that toll (pause) the statute of limitations?","answer":"Yes, certain circumstances can toll (pause) the statute of limitations, such as when the injured party is a minor, when the injured party is legally incapacitated, or when the defendant leaves the state of Michigan. Each situation is fact-specific, so consult an attorney promptly to preserve your rights."},{"question":"What happens if I miss the filing deadline?","answer":"If you miss the statute of limitations deadline, the court will almost certainly dismiss your case, and you will lose the right to seek compensation for your injuries, medical bills, lost wages, and pain and suffering. This is why contacting an attorney as soon as possible after an accident is critical."}]
+statsVariant: "bar"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "none"
+---
+
+<h2><strong>Understanding Michigan's Car Accident Statute of Limitations</strong></h2>
+<p>If you've been injured in a car accident in Michigan, time is not on your side. Michigan law imposes strict deadlines for filing personal injury lawsuits, and missing these deadlines can permanently bar you from recovering the compensation you deserve. Understanding the statute of limitations is critical to protecting your legal rights.</p>
+<p>The statute of limitations is a law that sets the maximum time period after an accident within which a person can file a lawsuit. Once this time period expires, the injured party loses the right to seek compensation through the court system. These laws exist to ensure that evidence remains fresh, witnesses' memories are reliable, and legal disputes are resolved in a timely manner.</p>
+
+<h2><strong>Michigan's Three-Year Deadline for Car Accident Claims</strong></h2>
+<p>Under Michigan Compiled Laws § 600.5805, the general statute of limitations for personal injury claims, including those arising from car accidents, is <strong>three years</strong> from the date the injury occurred. This means you have three years from the date of your car accident to file a lawsuit seeking compensation for your injuries.</p>
+<p>The three-year clock typically begins to run on the date the accident occurred, regardless of when you first realize the full extent of your injuries. This is sometimes called the "occurrence rule," and it's important to understand because it means the clock is running even if you're still recovering from your injuries.</p>
+
+<h2><strong>The Discovery Rule Exception</strong></h2>
+<p>In some cases, the statute of limitations may be extended through what is known as the "discovery rule." Under this doctrine, the three-year clock may not begin to run until you discover, or reasonably should have discovered, your injury.</p>
+<p>The discovery rule typically applies in situations where:</p>
+<ul>
+  <li>The injury is not immediately apparent at the time of the accident</li>
+  <li>Symptoms develop or worsen over time</li>
+  <li>An injury is misdiagnosed initially</li>
+  <li>The full extent of the injury is hidden or latent</li>
+</ul>
+<p>However, the discovery rule has limits. Michigan courts generally require that you exercise reasonable diligence in discovering your injuries. Waiting too long to investigate symptoms or seek medical attention could prevent you from successfully invoking the discovery rule.</p>
+
+<h2><strong>Property Damage Statute of Limitations</strong></h2>
+<p>If your car was damaged or totaled in the accident, you also have a limited time to file a property damage claim. Under Michigan law, the statute of limitations for property damage claims is generally also <strong>three years</strong> from the date of the accident.</p>
+<p>It's worth noting that you may need to file your property damage claim with your own insurance company (under your collision coverage) or with the at-fault driver's insurance (under their property damage liability coverage) before considering litigation. Michigan's no-fault insurance system adds additional complexity to car accident claims, and an experienced attorney can help you navigate these requirements.</p>
+
+<h2><strong>Exceptions That Can Toll the Statute of Limitations</strong></h2>
+<p>Certain circumstances can pause, or "toll," the statute of limitations clock, giving you additional time to file your claim. Common tolling exceptions in Michigan include:</p>
+<ul>
+  <li><strong>Minor Children:</strong> If the injured party is under 18 at the time of the accident, the statute of limitations is typically tolled until they reach the age of majority. However, parents or guardians may still file a claim on behalf of the child before they turn 18.</li>
+  <li><strong>Legal Incapacity:</strong> If the injured party is legally incapacitated (for example, due to a severe brain injury), the statute of limitations may be tolled during the period of incapacity.</li>
+  <li><strong>Defendant Out of State:</strong> If the at-fault driver leaves Michigan after the accident, the statute of limitations may be tolled while they are out of state.</li>
+  <li><strong>Fraudulent Concealment:</strong> If the defendant actively conceals their wrongdoing, the statute of limitations may be tolled.</li>
+</ul>
+<p>These exceptions are fact-specific and can be complex. If any of these circumstances apply to your situation, it is especially important to consult with an experienced personal injury attorney.</p>
+
+<h2><strong>Why Acting Quickly Matters</strong></h2>
+<p>Even though Michigan gives you three years to file a car accident lawsuit, waiting to take action can significantly harm your case. Here's why acting promptly is so important:</p>
+<ul>
+  <li><strong>Evidence Preservation:</strong> Physical evidence from the accident scene (skid marks, vehicle damage, surveillance footage) can disappear over time.</li>
+  <li><strong>Witness Memory:</strong> Witnesses' recollections of the accident can fade or become less reliable over time.</li>
+  <li><strong>Medical Documentation:</strong> Delays in seeking medical treatment can make it harder to connect your injuries to the accident.</li>
+  <li><strong>Insurance Complications:</strong> Insurance companies may use delays as a reason to deny or reduce your claim.</li>
+  <li><strong>Negotiation Leverage:</strong> Acting quickly often leads to better settlement outcomes.</li>
+</ul>
+
+<h2><strong>Special Considerations for Michigan No-Fault Claims</strong></h2>
+<p>Michigan's no-fault insurance system requires that injured drivers first seek compensation for medical expenses and lost wages through their own insurance company, regardless of who caused the accident. There are strict deadlines for filing no-fault insurance claims, including:</p>
+<ul>
+  <li><strong>One-Year Application Deadline:</strong> Under Michigan's no-fault law, you generally have one year from the date of the accident to file an application for no-fault benefits with your insurance company.</li>
+  <li><strong>Prompt Notice Requirements:</strong> Most insurance policies require that you provide prompt notice of the accident and your injuries.</li>
+</ul>
+<p>These no-fault deadlines are often shorter than the three-year statute of limitations for personal injury lawsuits. Missing these deadlines can result in the loss of valuable insurance benefits, even if your right to file a lawsuit remains intact.</p>
+
+<h2><strong>What to Do After a Michigan Car Accident</strong></h2>
+<p>To protect your rights after a car accident in Michigan, take these important steps:</p>
+<ol>
+  <li><strong>Seek medical attention immediately</strong>, even if you don't think you're seriously injured.</li>
+  <li><strong>Report the accident</strong> to law enforcement and your insurance company.</li>
+  <li><strong>Document the scene</strong> by taking photos of vehicles, injuries, and the accident site.</li>
+  <li><strong>Gather witness information</strong> from anyone who saw the accident.</li>
+  <li><strong>Avoid speaking with insurance adjusters</strong> or signing anything before consulting an attorney.</li>
+  <li><strong>Contact an experienced Michigan car accident attorney</strong> as soon as possible.</li>
+</ol>
+
+<h2><strong>How Logeman & Iafrate, P.C. Can Help</strong></h2>
+<p>At <a href="/about-us/">Logeman & Iafrate, P.C.</a>, we have over 45 years of experience helping car accident victims in Ann Arbor and throughout Michigan recover the compensation they need to rebuild their lives. Our attorneys understand the complex interplay between Michigan's no-fault insurance system and personal injury lawsuits, and we know how to meet every deadline to protect your rights.</p>
+<p>We work on a contingency fee basis, which means you don't pay any legal fees unless we successfully recover compensation for you. Don't let the statute of limitations bar you from getting the justice you deserve. <a href="/contact-us/">Contact us today</a> for a free consultation at <strong>(734) 994-0200</strong> to discuss your case.</p>

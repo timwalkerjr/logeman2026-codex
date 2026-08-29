@@ -94,4 +94,30 @@ const practiceAreas = defineCollection({
   }),
 });
 
-export const collections = { blog, docs, practiceAreas };
+const articles = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/articles' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    heroTitle: z.string(),
+    heroEyebrow: z.string().default(''),
+    heroDescription: z.string(),
+    heroImage: z.string(),
+    heroImageSrcset: z.array(z.string()).default([]),
+    heroImageAlt: z.string(),
+    canonicalUrl: z.string().url(),
+    excerpt: z.string(),
+    cardImage: z.string(),
+    featuredOrder: z.number().optional(),
+    faqs: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).default([]),
+    statsVariant: z.enum(['article', 'bar']).default('bar'),
+    formVariant: z.enum(['article', 'home']).default('article'),
+    testimonialsVariant: z.enum(['article', 'home']).default('article'),
+    mapVariant: z.enum(['article', 'location', 'none']).default('none'),
+  }),
+});
+
+export const collections = { blog, docs, practiceAreas, articles };

@@ -1,0 +1,34 @@
+---
+title: "3 Rules for Michigan Wrongful Death Lawsuits | Logeman & Iafrate"
+description: "Learn the three critical rules that apply to wrongful death lawsuits in Michigan, including statutory standards, filing requirements, and time limitations. Free consultation available."
+heroTitle: "3 Rules for Michigan Wrongful Death Lawsuits"
+heroEyebrow: ""
+heroDescription: "Learn the three critical rules that apply to wrongful death lawsuits in Michigan, including statutory standards, filing requirements, and time limitations. Free consultation available."
+heroImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
+heroImageSrcset: ["https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-640.webp 640w","https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp 1024w"]
+heroImageAlt: "Lady Justice holding the scales of justice"
+canonicalUrl: "https://www.logeman.com/articles/3-rules-that-apply-to-michigan-wrongful-death-lawsuits/"
+excerpt: "Learn the three critical rules that apply to wrongful death lawsuits in Michigan, including statutory standards, filing requirements, and time limitations. Free consultation available."
+cardImage: "https://pagesmith-cdn.com/881ce63c/images/693497a35eaaff8688ef590f_relume-608351-1024.webp"
+faqs: [{"question":"Who can file a wrongful death lawsuit in Michigan?","answer":"Only the personal representative of the deceased person's estate can file a wrongful death lawsuit in Michigan. If successful, immediate family members of the decedent can receive damages awarded by the courts."},{"question":"How long do I have to file a wrongful death lawsuit in Michigan?","answer":"Michigan has a three-year statute of limitations for wrongful death lawsuits. This means you must file within three years from the date of death, or in most cases, you will lose the right to pursue legal action."},{"question":"What must be proven in a Michigan wrongful death case?","answer":"To file a wrongful death lawsuit in Michigan, you must have proof of wrongful acts, negligence, or fault. This can include misconduct like drunk driving, or negligence such as engaging in unsafe behaviors or failing to take necessary safety actions when there is a duty of care."},{"question":"What types of damages can be recovered in a wrongful death lawsuit?","answer":"In Michigan wrongful death cases, the party at fault may be liable for both economic losses (such as medical expenses, funeral costs, and lost income) and non-economic losses (such as pain and suffering, loss of companionship, and emotional distress)."},{"question":"Can multiple family members file separate wrongful death lawsuits?","answer":"No. Michigan law typically allows for only one wrongful death lawsuit per incident. The personal representative files on behalf of the estate, and if successful, immediate family members can receive portions of the damages awarded."}]
+statsVariant: "article"
+formVariant: "article"
+testimonialsVariant: "article"
+mapVariant: "article"
+---
+
+<p>The last experience anyone wants to have is the sudden death of a loved one. Most people hope for the maximum amount of time possible with their family members. Unfortunately, tragedies occur every day across Michigan that forever change the lives of those left behind.</p>
+<p>Car crashes, sudden product failures and numerous other incidents can result in people dying prematurely. In some cases, those situations are truly unpredictable and unpreventable tragedies. However, many premature deaths are preventable with proper care and legal compliance.</p>
+<p>Other people or a business can be responsible for an individual's sudden death. The surviving family members of the deceased party may want to pursue justice after their tragic loss by filing a wrongful death lawsuit. People who understand the three rules below can more effectively evaluate whether they are in a position to file a wrongful death lawsuit.</p>
+
+<h2>The situation must meet statutory standards</h2>
+<p>The <a href="https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2922">wrongful death statute</a> in Michigan is very clear. Legal action is only possible in specific scenarios. Generally speaking, the plaintiffs filing the lawsuit must have proof of wrongful acts, negligence or fault. Misconduct typically entails any kind of lawbreaking. Drunk driving might constitute legally actionable misconduct. Negligence involves either engaging in unsafe behaviors or failing to take necessary actions for safety when there is a duty of care. The party at fault may be liable for economic and non-economic losses after causing a tragedy.</p>
+
+<h2>Only one party can file the lawsuit</h2>
+<p>While many people may feel the impact of a tragic situation, the law usually only allows for one wrongful death lawsuit. The personal representative of the deceased person's estate may file the lawsuit. If they are successful, then immediate family members of the decedent can receive some of the damages awarded by the courts.</p>
+
+<h2>Survivors must take action quickly</h2>
+<p>Those grieving a tragedy may need to communicate with one another and with the personal representative of the decedent's estate early about their concerns. They may need to take action by initiating a wrongful death lawsuit before they have fully healed from their grief. In Michigan, there's a three-year statute of limitations that applies. In all but the rarest of situations, litigation becomes impossible once more than three years have passed since the date of the death.</p>
+<p>Those who understand the rules that apply to <a href="/practice-area/wrongful-death/">wrongful death lawsuits</a> can make use of the laws in place for their protection. Filing a lawsuit against an individual or business can provide financial relief and possibly a sense of closure to those left behind after a tragedy.</p>
+
+<p class="text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>
