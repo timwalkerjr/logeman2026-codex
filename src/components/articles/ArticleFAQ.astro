@@ -2,13 +2,14 @@
 interface Props {
   title?: string;
   items: Array<{ question: string; answer: string }>;
+  embedded?: boolean;
 }
-const { title = "Frequently Asked Questions", items } = Astro.props;
+const { title = "Frequently Asked Questions", items, embedded = false } = Astro.props;
 ---
-<section class="bg-background py-16">
-  <div class="max-w-[1000px] mx-auto px-6">
-    <h2 class="text-[36px] font-bold leading-[1.3] text-foreground tracking-[-0.52px] mb-3 text-center">{title}</h2>
-    <p class="text-muted-foreground text-[18px] mb-10 text-center">Find answers to what matters most about your case and how we work.</p>
+<section class:list={["bg-background", embedded ? "pt-12" : "py-16"]}>
+  <div class:list={[embedded ? "" : "max-w-[1000px] mx-auto px-6"]}>
+    <h2 class:list={["font-bold leading-[1.3] text-foreground tracking-[-0.52px] mb-3", embedded ? "text-[30px] text-left" : "text-[36px] text-center"]}>{title}</h2>
+    <p class:list={["text-muted-foreground text-[18px] mb-10", embedded ? "text-left" : "text-center"]}>Find answers to what matters most about your case and how we work.</p>
     <div class="space-y-4">
       {items.map((item) => (
         <details class="bg-secondary p-5 rounded-[12px] group">
