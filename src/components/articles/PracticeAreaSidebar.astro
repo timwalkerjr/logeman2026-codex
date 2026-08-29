@@ -18,6 +18,11 @@ const awards = [
 ---
 
 <aside class="self-stretch bg-[#f8f8f8]" aria-label="Attorney awards and honors">
+  <nav class="border-b border-black/10 px-6 py-7 text-left" aria-label="Table of contents" data-practice-area-toc hidden>
+    <h2 class="font-serif text-[24px] font-bold leading-[1.3] text-foreground">On This Page</h2>
+    <ol class="mt-4" data-practice-area-toc-list></ol>
+  </nav>
+
   <div class="px-4 pt-8">
     <img
       src={`${teamImageBase}-768.webp`}
@@ -45,3 +50,94 @@ const awards = [
     </div>
   </div>
 </aside>
+
+<script>
+  const createPracticeAreaToc = () => {
+    const content = document.querySelector<HTMLElement>('[data-practice-area-content]');
+    const toc = document.querySelector<HTMLElement>('[data-practice-area-toc]');
+    const list = toc?.querySelector<HTMLOListElement>('[data-practice-area-toc-list]');
+
+    if (!content || !toc || !list) return;
+
+    const headings = Array.from(content.querySelectorAll<HTMLHeadingElement>('h2, h3'))
+      .filter((heading) => heading.textContent?.trim());
+
+    if (headings.length === 0) return;
+
+    const usedIds = new Set<string>();
+    list.replaceChildren();
+
+    headings.forEach((heading) => {
+      const existingId = heading.id.trim();
+      const generatedId = heading.textContent!
+        .trim()
+        .toLowerCase()
+        .replace(/&/g, ' and ')
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '') || 'section';
+      const baseId = existingId || `section-${generatedId}`;
+
+      let id = baseId;
+      let duplicate = 2;
+      while (usedIds.has(id) || (document.getElementById(id) && document.getElementById(id) !== heading)) {
+        id = `${baseId}-${duplicate}`;
+        duplicate += 1;
+      }
+
+      usedIds.add(id);
+      heading.id = id;
+
+      const item = document.createElement('li');
+      item.dataset.tocDepth = heading.tagName === 'H3' ? '3' : '2';
+
+      const link = document.createElement('a');
+      link.href = `#${id}`;
+      link.textContent = heading.textContent!.trim();
+
+      item.append(link);
+      list.append(item);
+    });
+
+    toc.hidden = false;
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', createPracticeAreaToc, { once: true });
+  } else {
+    createPracticeAreaToc();
+  }
+</script>
+
+<style is:global>
+  [data-practice-area-toc] a {
+    display: block;
+    padding: 0.4rem 0;
+    color: hsl(var(--foreground));
+    font-size: 0.9375rem;
+    font-weight: 500;
+    line-height: 1.4;
+    text-decoration: none;
+    transition: color 150ms ease;
+  }
+
+  [data-practice-area-toc] a:hover,
+  [data-practice-area-toc] a:focus-visible {
+    color: hsl(var(--primary));
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+
+  [data-practice-area-toc] [data-toc-depth='3'] {
+    padding-left: 1rem;
+  }
+
+  [data-practice-area-toc] [data-toc-depth='3'] a {
+    font-size: 0.875rem;
+    font-weight: 400;
+  }
+
+  [data-practice-area-content] h2[id],
+  [data-practice-area-content] h3[id] {
+    scroll-margin-top: 7rem;
+  }
+</style>
