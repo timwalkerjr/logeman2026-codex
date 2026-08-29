@@ -14,7 +14,10 @@ import remarkGfm from 'remark-gfm';
 
 import remarkToc from './src/plugins/remark-toc.mjs';
 
-const siteUrl = process.env.SITE_URL || 'https://example.com';
+// PageSmith injects SITE_URL for its own runtime host. Canonical and sitemap
+// URLs must continue to point at the real Logeman domain while this is a test
+// deployment.
+const siteUrl = 'https://www.logeman.com';
 const projectRoot = dirname(fileURLToPath(import.meta.url));
 
 // Scan pages once at config load for noIndex={true} so we can exclude them

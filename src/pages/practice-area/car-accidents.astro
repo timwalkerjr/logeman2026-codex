@@ -42,7 +42,13 @@ const faqItems = [
   }
 ];
 ---
-<BaseLayout title={title} description={description} image={heroImage}>
+<BaseLayout
+  title={title}
+  description={description}
+  image={heroImage}
+  canonicalUrl="https://www.logeman.com/practice-area/car-accidents/"
+  noIndex={true}
+>
   <ArticleHero
     title={heroTitle}
     eyebrow={heroEyebrow}

@@ -18,6 +18,7 @@ export interface Props {
 
 const { title, description, image, type, jsonLd, noIndex, canonicalUrl, lang } = Astro.props;
 const htmlLang = lang ?? Astro.currentLocale ?? SITE.lang;
+const effectiveNoIndex = noIndex ?? SITE.isStaging;
 ---
 
 <!DOCTYPE html>
@@ -32,7 +33,7 @@ const htmlLang = lang ?? Astro.currentLocale ?? SITE.lang;
       image={image}
       type={type}
       jsonLd={jsonLd}
-      noIndex={noIndex}
+      noIndex={effectiveNoIndex}
       canonicalUrl={canonicalUrl}
     />
     <!-- Mark JS as enabled immediately -->

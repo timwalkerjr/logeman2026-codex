@@ -4,7 +4,7 @@
 
 - PageSmith project: `881ce63c-4e57-4d8d-8eb2-873170c0396f`
 - PageSmith production test site: `https://logeman.newsitebuild.dev`
-- PageSmith preview: `https://881ce63c-27ee00a-preview.buildsites.xyz`
+- PageSmith preview after the pilot import: `https://881ce63c-b7cf2f9-preview.buildsites.xyz`
 - GitHub source: `timwalkerjr/logeman2026-codex`, branch `main`
 - Webflow source site: `693446872c5f1ab9965b1a98`
 - Webflow production site: `https://www.logeman.com`
@@ -52,6 +52,7 @@
 - Hero restores source eyebrow, introduction, featured image, and both CTAs.
 - Main and expanded source content are present.
 - Unverified statistics do not appear on this route.
+- Canonicals remain on `https://www.logeman.com`, all PageSmith test pages emit `noindex, nofollow`, and `robots.txt` disallows crawling. `SITE.isStaging` must change only as part of an authorized production cutover.
 - Astro build/check pass.
 - Desktop and mobile PageSmith renders are reviewed against Webflow.
 - PageSmith production test route is published and verified.
