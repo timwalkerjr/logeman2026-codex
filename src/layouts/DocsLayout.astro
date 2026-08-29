@@ -64,7 +64,7 @@ const docsBySection = sortedDocs.reduce((acc, doc) => {
                 {docs.map((doc, __psIdx2) => (
                   <li data-ps={`src/layouts/DocsLayout.astro:uuiy8o-${__psIdx2}`}>
                     <a
-                      href={`/docs/${doc.slug}`}
+                      href={`/docs/${doc.id}`}
                       class="block rounded px-3 py-1.5 text-sm transition-opacity opacity-70 hover:opacity-100"
                      data-ps={`src/layouts/DocsLayout.astro:ldu2n-${__psIdx2}`}>
                       {doc.data.title}

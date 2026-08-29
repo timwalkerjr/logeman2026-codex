@@ -67,7 +67,7 @@
 ## Collection verification
 
 - Astro build: successful, 191 static pages, including all 19 practice-area routes.
-- Astro check: no new diagnostics; the same 3 pre-existing type errors remain in `BlogLayout.astro` and `DocsLayout.astro`.
+- Astro check initially introduced no new diagnostics; the three baseline layout errors were subsequently corrected during the pilot cleanup.
 - Every rendered practice-area page has exactly one H1, its production Webflow canonical, `noindex, nofollow`, an FAQ section, and a PageSmith CDN hero image.
 - The shared dynamic route does not import the unverified `StatsBar` or `ArticleStats` components.
 
@@ -78,7 +78,7 @@
 - Page-specific hero copy and images were mapped from the corresponding live Webflow pages; the existing body-section headings were demoted where necessary so every route retains exactly one H1.
 - Desktop and mobile checks cover representative pages from all three hero families.
 - Verification: Astro build succeeds for all 191 routes; all 14 restored routes have exactly one H1, their matching `https://www.logeman.com/.../` canonical, and `noindex, nofollow`.
-- The same 3 pre-existing type errors remain in `BlogLayout.astro` and `DocsLayout.astro`; no new type-check diagnostics were introduced.
+- No new type-check diagnostics were introduced by the static-page hero work.
 
 ## Articles collection
 
@@ -92,4 +92,4 @@
 - `scripts/article-card-image-map.mjs` records the read-only Webflow image mapping, and `scripts/apply-article-card-images.mjs` applies it deterministically to the collection records.
 - The former 47 one-file-per-route Astro pages were removed after migration. `scripts/migrate-articles-to-collection.mjs` documents and reproduces the extraction and normalization logic from a clean pre-migration checkout.
 - Verification: all 47 rendered articles have exactly one H1, the corresponding `https://www.logeman.com/articles/.../` canonical, `noindex, nofollow`, and an FAQ section; all 247 FAQ items are preserved. No article renders literal or encoded HTML as a code block.
-- Astro build succeeds for all 191 routes. The same 3 pre-existing type errors remain in `BlogLayout.astro` and `DocsLayout.astro`; no new type-check errors were introduced.
+- Astro build succeeds for all 191 routes. The project type check now completes with zero errors after correcting the baseline `BlogLayout.astro` callback types and replacing the obsolete `doc.slug` reference with Astro 7's `doc.id` in `DocsLayout.astro`.
