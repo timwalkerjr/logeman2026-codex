@@ -1,0 +1,57 @@
+# Logeman PageSmith pilot
+
+## Contract
+
+- PageSmith project: `881ce63c-4e57-4d8d-8eb2-873170c0396f`
+- PageSmith production test site: `https://logeman.newsitebuild.dev`
+- PageSmith preview: `https://881ce63c-27ee00a-preview.buildsites.xyz`
+- GitHub source: `timwalkerjr/logeman2026-codex`, branch `main`
+- Webflow source site: `693446872c5f1ab9965b1a98`
+- Webflow production site: `https://www.logeman.com`
+- Hard boundary: Webflow is read-only. PageSmith may be edited and published.
+
+## Pilot route
+
+- Source: `https://www.logeman.com/practice-area/car-accidents`
+- Target: `https://logeman.newsitebuild.dev/practice-area/car-accidents`
+
+## Baseline
+
+- PageSmith MCP project/file/history/media/deploy/publish access works.
+- PageSmith MCP full-project pull returned an internal server error twice.
+- GitHub export and sync provide the durable source-edit path.
+- Export commit: `4bff190` (`Export from Pagesmith: Logeman & Iafrate, P.C.`)
+- Untouched Astro build: successful, 191 static pages.
+- Untouched Astro check: 3 pre-existing type errors in `BlogLayout.astro` and `DocsLayout.astro`; the pilot files have no diagnostics.
+- Baseline build warnings: PageSmith-hosted font URLs are runtime-only; empty content collection directories are referenced.
+
+## Webflow field mapping
+
+| Webflow field | PageSmith destination |
+| --- | --- |
+| `name` | visible hero H1 |
+| `practice-area-excerpt` | hero introduction |
+| `practice-area-featured-image` | hero image and Open Graph image |
+| `practice-area-seo-title` | document title |
+| `practice-area-seo-meta-description` | meta description |
+| `practice-area-content` | main article content |
+| `practice-area-faqs` | FAQ component |
+| `content-findlaw` | expanded article section |
+
+## Baseline defects on Car Accidents
+
+- `ArticleHero` receives no title, producing a second logo and no H1.
+- Hero eyebrow, introduction, featured image, and CTAs are omitted.
+- Expanded source content is omitted.
+- Generic statistics are inserted without a traced source in the inspected Webflow record/template.
+- PageSmith retains the main article and FAQ content.
+
+## Acceptance checks
+
+- Exactly one H1 with the Webflow page title.
+- Hero restores source eyebrow, introduction, featured image, and both CTAs.
+- Main and expanded source content are present.
+- Unverified statistics do not appear on this route.
+- Astro build/check pass.
+- Desktop and mobile PageSmith renders are reviewed against Webflow.
+- PageSmith production test route is published and verified.

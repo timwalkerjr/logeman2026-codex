@@ -2,7 +2,6 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleHero from '../../components/articles/ArticleHero.astro';
 import ArticleContent from '../../components/articles/ArticleContent.astro';
-import ArticleStats from '../../components/articles/ArticleStats.astro';
 import ArticleContactForm from '../../components/articles/ArticleContactForm.astro';
 import ArticleTestimonials from '../../components/articles/ArticleTestimonials.astro';
 import ArticleMap from '../../components/articles/ArticleMap.astro';
@@ -10,6 +9,15 @@ import ArticleFAQ from '../../components/articles/ArticleFAQ.astro';
 
 const title = "Ann Arbor Car Accident Lawyers | Michigan Auto Accident Attorneys";
 const description = "Experienced Ann Arbor car accident lawyers helping Michigan auto accident victims recover maximum compensation. Free consultation. No fee unless we win.";
+const heroTitle = "Car Accident Attorneys Ann Arbor | Michigan Auto Injury Lawyers";
+const heroEyebrow = "Compassionate And Aggressive Legal Representation For Injury Victims";
+const heroDescription = "When you face the aftermath of an accident, navigating through your personal injury claim can feel overwhelming and complex while trying to heal from physical injuries. At Logeman & Iafrate, P.C., in Ann Arbor, we understand the physical, emotional and financial toll an injury can take on you and your family. That is why we dedicate ourselves to advocating for your rights and securing the compensation you deserve.";
+const heroImage = "https://pagesmith-cdn.com/881ce63c/images/69406c086972d9fc86b407a0_693ae2466baeaaa865fc456c_shutterstock_2382107643-768.webp";
+const heroImageSrcset = [
+  "https://pagesmith-cdn.com/881ce63c/images/69406c086972d9fc86b407a0_693ae2466baeaaa865fc456c_shutterstock_2382107643-320.webp 320w",
+  "https://pagesmith-cdn.com/881ce63c/images/69406c086972d9fc86b407a0_693ae2466baeaaa865fc456c_shutterstock_2382107643-640.webp 640w",
+  "https://pagesmith-cdn.com/881ce63c/images/69406c086972d9fc86b407a0_693ae2466baeaaa865fc456c_shutterstock_2382107643-768.webp 768w",
+].join(', ');
 
 const faqItems = [
   {
@@ -34,8 +42,15 @@ const faqItems = [
   }
 ];
 ---
-<BaseLayout title={title} description={description}>
-  <ArticleHero />
+<BaseLayout title={title} description={description} image={heroImage}>
+  <ArticleHero
+    title={heroTitle}
+    eyebrow={heroEyebrow}
+    description={heroDescription}
+    image={heroImage}
+    imageSrcset={heroImageSrcset}
+    imageAlt="Traffic congestion on a Michigan roadway"
+  />
   <ArticleContent>
     <h2>Experienced Car Accident Attorneys Serving Ann Arbor and Michigan</h2>
 
@@ -65,10 +80,23 @@ const faqItems = [
     </ul>
 
     <p>Every car accident case is different. The experienced attorneys at Logeman &amp; Iafrate, P.C. will evaluate your situation, explain your options, and fight to maximize your recovery.</p>
+
+    <h3>2024-2025 Michigan Car Accident Law Updates</h3>
+
+    <p>Several recent changes affect Michigan car accident claims:</p>
+
+    <p><strong>Medical Provider Reimbursement:</strong> As of July 2024, medical providers can receive up to 240% of Medicare rates for treating auto accident patients. This increase from previous caps may improve access to care for seriously injured victims.</p>
+
+    <p><strong>Modified Comparative Negligence:</strong> Michigan follows a modified comparative fault rule. You can recover damages if you were less than 50% at fault for the accident, but your compensation is reduced by your percentage of fault. If you're found more than 50% at fault, you cannot recover non-economic damages like pain and suffering.</p>
+
+    <p><strong>Statute of Limitations:</strong> You have three years from the accident date to file a personal injury lawsuit. However, you must notify your no-fault insurance company of your claim within one year of the accident, with limited exceptions.</p>
+
+    <p><strong>Bodily Injury Liability Minimums:</strong> Since 2020, all Michigan drivers must carry bodily injury liability coverage of at least $250,000 per person and $500,000 per accident (with an option to reduce to $50,000/$100,000). This provides more coverage when pursuing claims against at-fault drivers.</p>
+
+    <p>Our attorneys stay current on all changes to Michigan auto law to ensure our clients receive every benefit available under the law.</p>
   </ArticleContent>
   <ArticleFAQ items={faqItems} />
-  <ArticleStats />
-  <ArticleContactForm />
   <ArticleTestimonials />
+  <ArticleContactForm />
   <ArticleMap />
 </BaseLayout>

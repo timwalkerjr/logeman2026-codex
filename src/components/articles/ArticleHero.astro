@@ -1,14 +1,92 @@
 ---
 interface Props {
   title?: string;
+  eyebrow?: string;
+  description?: string;
+  image?: string;
+  imageSrcset?: string;
+  imageAlt?: string;
+  primaryCtaText?: string;
+  primaryCtaHref?: string;
+  secondaryCtaText?: string;
+  secondaryCtaHref?: string;
 }
-const { title } = Astro.props;
+const {
+  title,
+  eyebrow,
+  description,
+  image,
+  imageSrcset,
+  imageAlt = '',
+  primaryCtaText = 'Schedule a Free Consultation',
+  primaryCtaHref = '#free-consultation',
+  secondaryCtaText = 'Contact Our Team',
+  secondaryCtaHref = '/contact-us',
+} = Astro.props;
 ---
-<section class="bg-background py-8 border-b border-border">
-  <div class="max-w-[900px] mx-auto px-6 text-center">
-    <a href="/" aria-label="Logeman & Iafrate home" class="inline-block">
-      <img src="https://pagesmith-cdn.com/881ce63c/images/6941b18a1fbcadfc33d9874c_Logo-320.webp" alt="Logeman & Iafrate, P.C." class="w-[80px] h-auto mx-auto" />
-    </a>
-    {title && <h1 class="text-[36px] lg:text-[44px] font-bold leading-[1.25] text-foreground tracking-normal mt-6">{title}</h1>}
-  </div>
-</section>
+{image ? (
+  <header class="relative isolate overflow-hidden bg-[#001a33] text-white">
+    <div class="relative min-h-[620px] lg:min-h-[570px]">
+      <div class="absolute inset-y-0 right-0 w-full lg:w-[58%]">
+        <img
+          src={image}
+          srcset={imageSrcset}
+          sizes="(min-width: 1024px) 58vw, 100vw"
+          alt={imageAlt}
+          class="h-full w-full object-cover"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </div>
+
+      <div class="absolute inset-0 bg-gradient-to-r from-[#001a33] via-[#001a33]/95 to-[#001a33]/55 lg:hidden"></div>
+      <div
+        class="absolute inset-y-0 left-0 hidden w-[68%] bg-[#001a33] lg:block"
+        style="clip-path: polygon(0 0, 100% 0, 82% 100%, 0 100%);"
+      ></div>
+
+      <div class="relative z-10 mx-auto flex min-h-[620px] max-w-[1440px] items-center px-6 py-16 lg:min-h-[570px] lg:px-10 lg:py-20">
+        <div class="max-w-[720px] lg:w-[58%]">
+          {eyebrow && (
+            <p class="mb-5 max-w-[560px] text-[15px] font-medium leading-[1.5] text-[#75a6d8] sm:text-[17px]">
+              {eyebrow}
+            </p>
+          )}
+          {title && (
+            <h1 class="mb-7 max-w-[700px] font-serif text-[42px] font-bold leading-[1.08] tracking-[-0.02em] text-white sm:text-[54px] lg:text-[64px]">
+              {title}
+            </h1>
+          )}
+          {description && (
+            <p class="mb-8 max-w-[620px] text-[17px] leading-[1.7] text-white/92 sm:text-[18px]">
+              {description}
+            </p>
+          )}
+          <div class="flex flex-col gap-4 sm:flex-row">
+            <a
+              href={primaryCtaHref}
+              class="inline-flex min-h-12 items-center justify-center rounded-[3px] bg-primary px-6 py-3 text-center text-[16px] font-semibold text-primary-foreground no-underline transition-colors hover:bg-primary-hover"
+            >
+              {primaryCtaText}
+            </a>
+            <a
+              href={secondaryCtaHref}
+              class="inline-flex min-h-12 items-center justify-center rounded-[3px] border border-white/70 bg-white/10 px-6 py-3 text-center text-[16px] font-semibold text-white no-underline backdrop-blur-sm transition-colors hover:bg-white hover:text-[#001a33]"
+            >
+              {secondaryCtaText}
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+) : (
+  <section class="border-b border-border bg-background py-8">
+    <div class="mx-auto max-w-[900px] px-6 text-center">
+      <a href="/" aria-label="Logeman & Iafrate home" class="inline-block">
+        <img src="https://pagesmith-cdn.com/881ce63c/images/6941b18a1fbcadfc33d9874c_Logo-320.webp" alt="Logeman & Iafrate, P.C." class="mx-auto h-auto w-[80px]" />
+      </a>
+      {title && <h1 class="mt-6 text-[36px] font-bold leading-[1.25] tracking-normal text-foreground lg:text-[44px]">{title}</h1>}
+    </div>
+  </section>
+)}
