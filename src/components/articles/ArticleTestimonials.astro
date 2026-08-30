@@ -71,9 +71,9 @@ const testimonials = [
       <p class="text-dark-muted-foreground text-[18px]">Cases won, lives changed, and we are happy to have helped each one of our clients.</p>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {testimonials.slice(0, limit).map((t) => (
-        <div class="bg-[hsl(215,96%,10%)] rounded-[8px] p-8 border border-white/10 text-white">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" data-random-reviews data-review-limit={limit}>
+      {testimonials.map((t, index) => (
+        <div class:list={["bg-[hsl(215,96%,10%)] rounded-[8px] p-8 border border-white/10 text-white", { hidden: index >= limit }]} data-review-card>
           <div class="flex gap-1 mb-4">
             {[1,2,3,4,5].map(() => (
               <svg viewBox="0 0 24 24" fill="#FFB800" class="w-5 h-5" xmlns="http://www.w3.org/2000/svg">
@@ -96,3 +96,29 @@ const testimonials = [
     </div>
   </div>
 </section>
+
+<script>
+  const randomizeReviewSections = () => {
+    document.querySelectorAll<HTMLElement>('[data-random-reviews]').forEach((section) => {
+      if (section.dataset.randomized === 'true') return;
+
+      const cards = Array.from(section.querySelectorAll<HTMLElement>(':scope > [data-review-card]'));
+      const limit = Math.min(Number(section.dataset.reviewLimit) || 6, cards.length);
+
+      for (let index = cards.length - 1; index > 0; index -= 1) {
+        const randomIndex = Math.floor(Math.random() * (index + 1));
+        [cards[index], cards[randomIndex]] = [cards[randomIndex], cards[index]];
+      }
+
+      cards.forEach((card, index) => {
+        card.classList.toggle('hidden', index >= limit);
+        section.append(card);
+      });
+
+      section.dataset.randomized = 'true';
+    });
+  };
+
+  randomizeReviewSections();
+  document.addEventListener('astro:page-load', randomizeReviewSections);
+</script>

@@ -16,7 +16,7 @@
 
     <!-- Testimonials Slider Container -->
     <div class="relative" data-ps="src/components/home/Testimonials.astro:rl25kt">
-      <div id="testimonial-track" class="grid grid-cols-1 md:grid-cols-3 gap-6" data-ps="src/components/home/Testimonials.astro:rl25ku">
+      <div id="testimonial-track" class="grid grid-cols-1 md:grid-cols-3 gap-6" data-random-reviews data-review-limit="6" data-ps="src/components/home/Testimonials.astro:rl25ku">
         <!-- Card 1: Vivian S. -->
         <div class="bg-[hsl(215,96%,10%)] border border-white/10 rounded-[8px] p-8 flex flex-col justify-between" data-ps="src/components/home/Testimonials.astro:rl25kv">
           <div data-ps="src/components/home/Testimonials.astro:rl25kw">
@@ -266,3 +266,32 @@
     </div>
   </div>
 </section>
+
+<style>
+  [data-random-reviews] > :nth-child(n + 7) {
+    display: none;
+  }
+</style>
+
+<script>
+  const randomizeReviewSections = () => {
+    document.querySelectorAll<HTMLElement>('[data-random-reviews]').forEach((section) => {
+      if (section.dataset.randomized === 'true') return;
+
+      const cards = Array.from(section.children) as HTMLElement[];
+      const limit = Math.min(Number(section.dataset.reviewLimit) || 6, cards.length);
+
+      for (let index = cards.length - 1; index > 0; index -= 1) {
+        const randomIndex = Math.floor(Math.random() * (index + 1));
+        [cards[index], cards[randomIndex]] = [cards[randomIndex], cards[index]];
+      }
+
+      cards.forEach((card) => section.append(card));
+      section.dataset.randomized = 'true';
+      section.style.setProperty('--review-limit', String(limit));
+    });
+  };
+
+  randomizeReviewSections();
+  document.addEventListener('astro:page-load', randomizeReviewSections);
+</script>
