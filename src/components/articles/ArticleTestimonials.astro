@@ -1,4 +1,10 @@
 ---
+interface Props {
+  limit?: number;
+}
+
+const { limit = 6 } = Astro.props;
+
 const testimonials = [
   {
     quoteTitle: "If I could give them 100 stars I would!",
@@ -66,7 +72,7 @@ const testimonials = [
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {testimonials.slice(0, 6).map((t) => (
+      {testimonials.slice(0, limit).map((t) => (
         <div class="bg-[hsl(215,96%,10%)] rounded-[8px] p-8 border border-white/10 text-white">
           <div class="flex gap-1 mb-4">
             {[1,2,3,4,5].map(() => (

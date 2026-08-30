@@ -1,11 +1,91 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import ArticleHero from '@/components/articles/ArticleHero.astro';
-import ArticleContent from '@/components/articles/ArticleContent.astro';
-import StatsBar from '@/components/articles/StatsBar.astro';
 import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
 import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
 import ArticleMap from '@/components/articles/ArticleMap.astro';
+
+const serviceAreas = [
+  {
+    slug: 'ann-arbor-mi',
+    eyebrow: 'Ann Arbor Personal Injury Lawyers | Michigan Accident Attorneys',
+    name: 'Ann Arbor, MI',
+    description: "Logeman & Iafrate has stood with injured Ann Arbor residents for more than 45 years. We're trial-ready personal injury attorneys who take cases other lawyers have turned down and prepare every case for trial.",
+    mapUrl: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d94474.17089513635!2d-83.73459928047954!3d42.27173815813427!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883cafbf8ff9d311%3A0xf9fba0d4da3f17e4!2sLogeman%20%26%20Iafrate%2C%20P.C.!5e0!3m2!1sen!2sus!4v1782312043019!5m2!1sen!2sus',
+  },
+  {
+    slug: 'brighton-mi',
+    eyebrow: 'Brighton Personal Injury Lawyers | Livingston County Attorneys',
+    name: 'Brighton, MI',
+    description: "Logeman & Iafrate has stood with injured Brighton and Livingston County residents for more than 45 years. We're trial-ready personal injury attorneys who take cases other lawyers turned down and prepare every case for trial.",
+    mapUrl: 'https://www.google.com/maps?q=Brighton%2C+MI&output=embed',
+  },
+  {
+    slug: 'calhoun-county-mi',
+    eyebrow: 'Calhoun County Personal Injury Attorneys | Battle Creek Accident Lawyers',
+    name: 'Calhoun County, MI',
+    description: 'Logeman & Iafrate serves injured clients throughout Calhoun County with more than 45 years of courtroom experience. We hold insurance companies accountable, prepare every case for trial, and work on a contingency-fee basis—no fee unless we win.',
+    mapUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d378049.0813834444!2d-85.33421426679948!3d42.246313408783706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8817f47db53de9a9%3A0xaa0d3b692292b3bd!2sCalhoun%20County%2C%20MI!5e0!3m2!1sen!2sus!4v1782312455870!5m2!1sen!2sus',
+  },
+  {
+    slug: 'jackson-county-mi',
+    eyebrow: 'Jackson County Personal Injury Lawyers | Michigan Accident Attorneys',
+    name: 'Jackson County, MI',
+    description: 'Logeman & Iafrate serves Jackson County with experienced personal injury representation, taking cases other lawyers have turned down and preparing every case for trial. Our decades of courtroom experience mean insurers know we are ready to try a case.',
+    mapUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d378041.14079226146!2d-84.75435170701363!3d42.2476384559898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883cdf6129a2ce41%3A0xf94e059348b7f752!2sJackson%20County%2C%20MI!5e0!3m2!1sen!2sus!4v1782312291429!5m2!1sen!2sus',
+  },
+  {
+    slug: 'lenawee-county-mi',
+    eyebrow: 'Lenawee County Personal Injury Attorneys | Adrian Accident Lawyers',
+    name: 'Lenawee County, MI',
+    description: 'Logeman & Iafrate serves injured clients throughout Lenawee County with more than 45 years of courtroom experience. We hold insurance companies accountable, prepare every case for trial, and charge no legal fee unless we win.',
+    mapUrl: 'https://www.google.com/maps?q=Lenawee+County%2C+MI&output=embed',
+  },
+  {
+    slug: 'livingston-county-mi',
+    eyebrow: 'Livingston County Personal Injury Lawyers | Michigan Accident Attorneys',
+    name: 'Livingston County, MI',
+    description: "Logeman & Iafrate, P.C. provides experienced personal injury representation to Livingston County residents injured in accidents and catastrophic injury cases. Our trial-ready attorneys understand Michigan's complex no-fault system.",
+    mapUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d375900.5658923283!2d-84.24114836082893!3d42.60361659910205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882347307d516f61%3A0xaef3118b2ced7a1d!2sLivingston%20County%2C%20MI!5e0!3m2!1sen!2sus!4v1782312239453!5m2!1sen!2sus',
+  },
+  {
+    slug: 'washtenaw-county-mi',
+    eyebrow: 'Washtenaw County Personal Injury Lawyers | Michigan Accident Attorneys',
+    name: 'Washtenaw County, MI',
+    description: 'Logeman & Iafrate, P.C. provides experienced personal injury representation to injured clients throughout Washtenaw County. We take cases others will not and prepare every case for trial.',
+    mapUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d377915.17926936893!2d-83.91095552251578!3d42.268653157068464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883cb00dd4431f33%3A0x6ec9ae99b955b1b8!2sWashtenaw%20County%2C%20MI!5e0!3m2!1sen!2sus!4v1782312140508!5m2!1sen!2sus',
+  },
+  {
+    slug: 'wayne-county-mi',
+    eyebrow: 'Wayne County Personal Injury Lawyers | Detroit Accident Attorneys',
+    name: 'Wayne County, MI',
+    description: 'Logeman & Iafrate, P.C. represents injured people throughout Wayne County, Michigan—from Detroit to Dearborn, Livonia, and the Downriver communities. We take cases others will not and prepare every case for trial.',
+    mapUrl: 'https://www.google.com/maps?q=Wayne%20County%2C%20MI&output=embed',
+  },
+];
+
+const faqs = [
+  {
+    question: 'What cases do you handle?',
+    answer: 'We represent clients in personal injury, wrongful death, auto accidents, premises liability, medical malpractice, and other serious injury cases throughout Michigan. Our attorneys have decades of experience fighting for injured people and their families.',
+  },
+  {
+    question: 'Do I pay upfront fees?',
+    answer: 'No. We work on a contingency-fee basis, meaning you pay no legal fee unless we recover damages for you. The initial consultation is free.',
+  },
+  {
+    question: 'How long does a case take?',
+    answer: 'Every case is different. Some settle quickly while others require trial. We will keep you informed at every step and work at the pace that best serves your interests.',
+  },
+  {
+    question: 'Will my case go to trial?',
+    answer: 'We prepare every case for trial and are ready to take your case to court when necessary. Many cases settle, but we do not back down when a trial is the best path forward.',
+  },
+  {
+    question: 'What should I do after an accident?',
+    answer: 'Seek medical attention first, document everything you can about the incident, and avoid giving recorded statements to an insurer before getting advice. Then contact us for a free consultation so we can help protect your rights.',
+  },
+];
 ---
 
 <BaseLayout
@@ -19,87 +99,79 @@ import ArticleMap from '@/components/articles/ArticleMap.astro';
     title="Our Firm's Service Areas"
     description="Our attorneys, James A. Iafrate and Adrienne D. Logeman, share over 60 years of combined experience representing injured clients in Ann Arbor and throughout Southeast Michigan."
     image="https://pagesmith-cdn.com/881ce63c/images/693ae3bfbd437f799d63087e_0-1024.webp"
-    imageAlt="Logeman & Iafrate attorneys"
+    imageAlt="Ann Arbor office building and fountain"
+    primaryCtaHref="#free-consultation"
+    secondaryCtaHref="/contact-us/"
   />
 
-  <ArticleContent>
-    <p>We have over six decades of combined personal injury law success.</p>
+  <section class="bg-background py-16 lg:py-20">
+    <div class="mx-auto max-w-[1440px] px-6 lg:px-10">
+      <p class="mb-5 text-[14px] font-medium text-primary">We have over six decades of combined personal injury law success.</p>
+      <div class="mb-10 max-w-[860px]">
+        <h2 class="mb-4 font-serif text-[36px] font-bold leading-[1.2] tracking-[-0.02em] text-foreground lg:text-[42px]">Our Michigan Service Areas</h2>
+        <p class="text-[17px] leading-[1.7] text-muted-foreground">We handle personal injury law cases across Southeast Michigan. We take on the tough cases other firms pass on.</p>
+      </div>
 
-    <h2>Our Michigan Service Areas</h2>
-    <p>We handle personal injury law cases across Southeast Michigan. We take on the tough cases other firms pass on.</p>
+      <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+        {serviceAreas.map((area) => (
+          <article class="flex h-full flex-col overflow-hidden rounded-[8px] border border-black/5 bg-[rgba(229,236,246,0.62)] shadow-sm transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg">
+            <div class="h-[220px] overflow-hidden bg-secondary">
+              <iframe
+                src={area.mapUrl}
+                title={`Map of ${area.name}`}
+                class="h-full w-full border-0"
+                loading="lazy"
+                referrerpolicy="strict-origin-when-cross-origin"
+                tabindex="-1"
+              ></iframe>
+            </div>
+            <div class="flex flex-1 flex-col p-6">
+              <p class="mb-2 text-[12px] font-medium leading-[1.45] text-primary">{area.eyebrow}</p>
+              <h3 class="mb-3 font-serif text-[24px] font-bold leading-[1.25] text-foreground">{area.name}</h3>
+              <p class="mb-6 flex-1 text-[15px] leading-[1.65] text-foreground/80">{area.description}</p>
+              <a
+                href={`/service-area/${area.slug}/`}
+                class="inline-flex w-fit items-center gap-2 rounded-[4px] bg-white px-4 py-2.5 text-[14px] font-semibold text-foreground no-underline shadow-sm transition-colors hover:bg-primary hover:text-white"
+              >
+                Learn More <span aria-hidden="true">›</span>
+              </a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
 
-    <h3>Ann Arbor Personal Injury Lawyers | Michigan Accident Attorneys</h3>
-    <h4>Ann Arbor, MI</h4>
-    <p>Logeman & Iafrate has stood with injured Ann Arbor residents for more than 45 years. We're trial-ready personal injury attorneys who take cases other lawyers have turned down and prepare every case for trial.</p>
-    <p><a href="/service-area/ann-arbor-mi">Learn More</a></p>
-
-    <h3>Brighton Personal Injury Lawyers | Livingston County Attorneys</h3>
-    <h4>Brighton, MI</h4>
-    <p>Logeman & Iafrate has stood with injured Brighton and Livingston County residents for more than 45 years. We're trial-ready personal injury attorneys who take cases other lawyers turned down and prepare every case for trial.</p>
-    <p><a href="/service-area/brighton-mi">Learn More</a></p>
-
-    <h3>Calhoun County Personal Injury Attorneys | Battle Creek Accident Lawyers</h3>
-    <h4>Calhoun County, MI</h4>
-    <p>Logeman & Iafrate serves injured clients throughout Calhoun County with more than 45 years of courtroom experience. We hold insurance companies accountable, prepare every case for trial, and work on a contingency-fee basis—no fee unless we win.</p>
-    <p><a href="/service-area/calhoun-county-mi">Learn More</a></p>
-
-    <h3>Jackson County Personal Injury Lawyers | Michigan Accident Attorneys</h3>
-    <h4>Jackson County, MI</h4>
-    <p>Logeman & Iafrate serves Jackson County with experienced personal injury representation, taking cases other lawyers have turned down and preparing every case for trial. Our trial-ready approach and decades of Michigan courtroom experience mean insurance companies know we are ready to try a case.</p>
-    <p><a href="/service-area/jackson-county-mi">Learn More</a></p>
-
-    <h3>Lenawee County Personal Injury Attorneys | Adrian Accident Lawyers</h3>
-    <h4>Lenawee County, MI</h4>
-    <p>Logeman & Iafrate serves injured clients throughout Lenawee County with more than 45 years of courtroom experience. We hold insurance companies accountable, prepare every case for trial, and work on a contingency-fee basis — no fee unless we win.</p>
-    <p><a href="/service-area/lenawee-county-mi">Learn More</a></p>
-
-    <h3>Livingston County Personal Injury Lawyers | Michigan Accident Attorneys</h3>
-    <h4>Livingston County, MI</h4>
-    <p>Logeman & Iafrate, P.C. provides experienced personal injury representation to Livingston County residents injured in car accidents, truck crashes, and catastrophic injury cases. Our trial-ready attorneys understand Michigan's complex no-fault system and fight insurance companies that deny legitimate claims.</p>
-    <p><a href="/service-area/livingston-county-mi">Learn More</a></p>
-
-    <h3>Washtenaw County Personal Injury Lawyers | Michigan Accident Attorneys</h3>
-    <h4>Washtenaw County, MI</h4>
-    <p>Logeman & Iafrate, P.C. provides experienced personal injury representation to injured clients throughout Washtenaw County, Michigan. Our attorneys have six combined decades of experience handling car accidents, catastrophic injuries, wrongful death, and complex insurance battles. We take cases others won't and prepare every case for trial.</p>
-    <p><a href="/service-area/washtenaw-county-mi">Learn More</a></p>
-
-    <h3>Wayne County Personal Injury Lawyers | Detroit Accident Attorneys</h3>
-    <h4>Wayne County, MI</h4>
-    <p>Logeman & Iafrate, P.C. represents injured people throughout Wayne County, Michigan—from Detroit to Dearborn, Livonia, and the Downriver communities. With six combined decades of injury-law experience, we handle car and truck crashes, catastrophic injuries, and complex no-fault disputes. We take cases others won't and prepare every case for trial.</p>
-    <p><a href="/service-area/wayne-county-mi">Learn More</a></p>
-
-    <h2>Frequently Asked Questions</h2>
-    <p>Find answers to common questions about our services and process.</p>
-
-    <h3>What cases do you handle?</h3>
-    <p>We represent clients in personal injury, wrongful death, auto accidents, premises liability, medical malpractice, and nursing home abuse cases throughout Michigan. Our attorneys have decades of experience fighting for injured victims and their families.</p>
-
-    <h3>Do I pay upfront fees?</h3>
-    <p>No. We work on a contingency basis, meaning you pay nothing unless we recover damages for you. We believe in our cases and stand behind our clients.</p>
-
-    <h3>How long does a case take?</h3>
-    <p>Every case is different. Some settle quickly while others require trial. We will keep you informed at every step and work at the pace that serves your interests best.</p>
-
-    <h3>Will my case go to trial?</h3>
-    <p>We are prepared to take your case to trial if necessary. Many cases settle before trial, but we never back down from fighting in court when it serves you best.</p>
-
-    <h3>What should I do after an accident?</h3>
-    <p>Seek medical attention first. Document everything you can about the incident. Then contact us for a free consultation. The sooner we get involved, the better we can protect your rights.</p>
-
-    <h3>Still have questions?</h3>
-    <p>Reach out to us directly for answers.</p>
-
-    <h2>Our Story — Built on Experience and Determination</h2>
-    <p>For decades, Logeman & Iafrate has represented injured clients across Michigan with unwavering commitment. We take cases others won't, and we win cases others can't. Our founders built this firm on a simple principle: injured people deserve fierce advocacy and real results.</p>
-
-    <p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>
-  </ArticleContent>
-
-  <StatsBar />
+  <ArticleTestimonials limit={3} />
 
   <ArticleContactForm />
 
-  <ArticleTestimonials />
+  <section class="bg-[rgba(229,236,246,0.54)] py-20">
+    <div class="mx-auto max-w-[1000px] px-6">
+      <div class="mb-12">
+        <h2 class="mb-3 font-serif text-[36px] font-bold leading-[1.3] text-foreground">Frequently Asked Questions</h2>
+        <p class="text-[17px] text-muted-foreground">Find answers to common questions about our services and process.</p>
+      </div>
+
+      <div class="space-y-4">
+        {faqs.map((item) => (
+          <details class="group rounded-[8px] border border-black/5 bg-white p-6 shadow-sm [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer list-none items-center justify-between gap-6 text-[17px] font-semibold text-foreground">
+              <span>{item.question}</span>
+              <span class="font-sans text-[26px] font-light text-primary transition-transform group-open:rotate-45" aria-hidden="true">+</span>
+            </summary>
+            <p class="mt-4 max-w-[860px] text-[15px] leading-[1.7] text-foreground/80">{item.answer}</p>
+          </details>
+        ))}
+      </div>
+
+      <div class="mt-14 text-center">
+        <h3 class="mb-3 font-serif text-[22px] font-bold text-foreground">Still have questions?</h3>
+        <p class="mb-6 text-[16px] text-muted-foreground">Reach out to us directly for answers.</p>
+        <a href="#free-consultation" class="inline-flex items-center rounded-[4px] bg-primary px-6 py-3 text-[16px] font-medium text-white no-underline transition-colors hover:bg-primary-hover">Schedule a Free Consultation</a>
+      </div>
+    </div>
+  </section>
 
   <ArticleMap />
 </BaseLayout>
