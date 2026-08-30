@@ -1,11 +1,10 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import ArticleContent from '@/components/articles/ArticleContent.astro';
 import ArticleHero from '@/components/articles/ArticleHero.astro';
-import ArticleFAQ from '@/components/articles/ArticleFAQ.astro';
-import StatsBar from '@/components/articles/StatsBar.astro';
 import ArticleContactForm from '@/components/articles/ArticleContactForm.astro';
 import ArticleTestimonials from '@/components/articles/ArticleTestimonials.astro';
+import ArticleMap from '@/components/articles/ArticleMap.astro';
 
 const faqItems = [
   { question: "What cases do you handle?", answer: "We represent clients in personal injury, wrongful death, auto accidents, premises liability, medical malpractice, and nursing home abuse cases throughout Michigan. Our attorneys have decades of experience fighting for injured victims and their families." },
@@ -15,29 +14,42 @@ const faqItems = [
   { question: "What should I do after an accident?", answer: "Seek medical attention first. Document everything you can about the incident. Then contact us for a free consultation. The sooner we get involved, the better we can protect your rights." },
 ];
 
-const practiceAreas = [
-  { title: "Bicycle Accidents", description: "Injured in a bicycle accident in Ann Arbor or throughout Michigan? Our experienced attorneys fight for cyclists' rights. Free consultation. Call (734) 994-0200 today.", href: "/practice-area/bicycle-accidents-in-ann-arbor-throughout-michigan" },
-  { title: "Bus Accidents", description: "Experienced Ann Arbor bus accident attorneys helping victims of SMART, The Ride, and school bus accidents. Free consultation. Contingency-fee basis. Call (734) 994-0200.", href: "/practice-area/bus-accidents" },
-  { title: "Car Accidents", description: "Experienced Ann Arbor car accident lawyers helping Michigan auto accident victims recover maximum compensation. Free consultation. No fee unless we win.", href: "/practice-area/car-accidents" },
-  { title: "Construction Accidents", description: "Michigan construction accident attorneys helping injured workers pursue workers' compensation and third-party claims. Experienced trial lawyers. Free consultation.", href: "/practice-area/construction-accidents" },
-  { title: "Distracted Driving", description: "Distracted driving causes over 50% of teen driver crashes and 1,000+ daily injuries. Learn Michigan's texting laws, penalties, and how our Ann Arbor personal injury attorneys can help you recover compensation.", href: "/practice-area/distracted-driving-causing-personal-injury-ann-arbor-mi" },
-  { title: "Dog Bites and Attacks", description: "Bitten by a dog in Michigan? Under MCL 287.351, dog owners face strict liability—no 'one bite' rule. Our Ann Arbor attorneys fight for full compensation for medical bills, scarring, and trauma.", href: "/practice-area/animal-bites-and-attacks" },
-  { title: "Drunk Driver Accidents", description: "Experienced drunk driving accident attorneys in Ann Arbor. We hold negligent drivers and alcohol providers accountable. Free consultation. Call (734) 994-0200.", href: "/practice-area/drunk-driver-accidents" },
-  { title: "Motorcycle Accidents", description: "Experienced Michigan motorcycle accident attorneys in Ann Arbor. Get compensation for injuries, medical expenses, and lost wages. Free consultation. 45+ years helping riders.", href: "/practice-area/motorcycle-accidents" },
-  { title: "No Fault Insurance Claims", description: "Expert Michigan no-fault insurance attorneys in Ann Arbor helping accident victims navigate complex claims, secure full benefits, and fight denied claims. Free consultation available. Call (734) 994-0200.", href: "/practice-area/michigan-no-fault-insurance-claims" },
-  { title: "Pedestrian Accidents", description: "Experienced Ann Arbor pedestrian accident attorneys at Logeman & Iafrate, P.C. fight for victims injured by negligent drivers. Free consultation. 45+ years of proven results. Call (734) 994-0200.", href: "/practice-area/pedestrian-accidents" },
-  { title: "Electric Scooter Accidents", description: "Injured in an electric scooter accident in Ann Arbor? Our experienced personal injury attorneys help victims recover compensation for scooter-related injuries. Free consultation. 45+ years experience.", href: "/practice-area/personal-injury-cases-involving-electric-scooters-personal-injury-attorneys-ann-arbor" },
-  { title: "Lyft & Uber Accidents", description: "Injured in a Lyft or Uber accident in Michigan? Learn about rideshare liability, insurance coverage, compensation, and your legal rights. Free consultation with experienced personal injury attorneys.", href: "/practice-area/personal-injury-claims-involving-lyft-and-uber-drivers-in-michigan" },
-  { title: "Premises Liability", description: "Learn about premises liability law in Michigan, including property owner duties, the open and obvious doctrine, common accident types, and how to pursue compensation for injuries on unsafe property.", href: "/practice-area/premises-liability-law-in-michigan" },
-  { title: "Product Liability", description: "Michigan product liability attorneys holding manufacturers accountable for defective products. Experienced trial lawyers. Free consultation.", href: "/practice-area/product-liability" },
-  { title: "Spinal Cord Injury", description: "Ann Arbor spinal cord injury attorneys helping paralysis victims and their families recover maximum compensation. Experienced trial lawyers. Free consultation.", href: "/practice-area/spinal-cord-injury" },
-  { title: "Brain Injuries", description: "Expert Michigan TBI attorneys explain how to prove long-term cognitive impairment from concussions and mild traumatic brain injuries. Learn defense tactics and evidence needed to win your case. Free consultation.", href: "/practice-area/personal-injury-lawsuits-involving-traumatic-brain-injury" },
-  { title: "Truck Accidents", description: "Experienced Ann Arbor truck accident attorneys with 45+ years fighting for Michigan victims. Free consultation. We don't get paid unless we win. Call (734) 994-0200.", href: "/practice-area/truck-accidents" },
-  { title: "Uninsured / Underinsured Motorists", description: "Injured by an uninsured or underinsured driver in Michigan? Logeman & Iafrate's experienced attorneys help you recover compensation. Free consultation. Call (734) 994-0200.", href: "/practice-area/uninsured-underinsured-motorist-accidents" },
-  { title: "Wrongful Death", description: "Compassionate Ann Arbor wrongful death attorneys helping families seek justice after losing a loved one to negligence. Free consultation. No fee unless we win.", href: "/practice-area/wrongful-death" },
+const practiceAreaOrder = [
+  { id: 'bicycle-accidents-in-ann-arbor-throughout-michigan', title: 'Bicycle Accidents' },
+  { id: 'bus-accidents', title: 'Bus Accidents' },
+  { id: 'car-accidents', title: 'Car Accidents' },
+  { id: 'construction-accidents', title: 'Construction Accidents' },
+  { id: 'distracted-driving-causing-personal-injury-ann-arbor-mi', title: 'Distracted Driving' },
+  { id: 'animal-bites-and-attacks', title: 'Dog Bites and Attacks' },
+  { id: 'drunk-driver-accidents', title: 'Drunk Driver Accidents' },
+  { id: 'motorcycle-accidents', title: 'Motorcycle Accidents' },
+  { id: 'michigan-no-fault-insurance-claims', title: 'No Fault Insurance Claims' },
+  { id: 'pedestrian-accidents', title: 'Pedestrian Accidents' },
+  { id: 'personal-injury-cases-involving-electric-scooters-personal-injury-attorneys-ann-arbor', title: 'Electric Scooter Accidents' },
+  { id: 'personal-injury-claims-involving-lyft-and-uber-drivers-in-michigan', title: 'Lyft & Uber Accidents' },
+  { id: 'premises-liability-law-in-michigan', title: 'Premises Liability' },
+  { id: 'product-liability', title: 'Product Liability' },
+  { id: 'spinal-cord-injury', title: 'Spinal Cord Injury' },
+  { id: 'personal-injury-lawsuits-involving-traumatic-brain-injury', title: 'Brain Injuries' },
+  { id: 'truck-accidents', title: 'Truck Accidents' },
+  { id: 'uninsured-underinsured-motorist-accidents', title: 'Uninsured / Underinsured Motorists' },
+  { id: 'wrongful-death', title: 'Wrongful Death' },
 ];
+
+const entries = await getCollection('practiceAreas');
+const entriesById = new Map(entries.map((entry) => [entry.id, entry]));
+const practiceAreas = practiceAreaOrder.map(({ id, title }) => {
+  const entry = entriesById.get(id);
+  if (!entry) throw new Error(`Missing practice area collection item: ${id}`);
+  return { id, title, data: entry.data };
+});
 ---
-<BaseLayout title="Logeman & Iafrate, P.C. Practice Areas | Ann Arbor Personal Injury Lawyers" description="With over 60 years of combined experience, our team offers free consultations and operates on a contingency-fee basis, meaning we do not charge fees unless we recover damages for you.">
+
+<BaseLayout
+  title="Logeman & Iafrate, P.C. Practice Areas | Ann Arbor Personal Injury Lawyers"
+  description="With over 60 years of combined experience, our team offers free consultations and operates on a contingency-fee basis, meaning we do not charge fees unless we recover damages for you."
+  canonicalUrl="https://www.logeman.com/practice-areas/"
+>
   <ArticleHero
     variant="background"
     eyebrow="Compassionate And Aggressive Legal Representation For Injury Victims"
@@ -46,32 +58,78 @@ const practiceAreas = [
     image="https://pagesmith-cdn.com/881ce63c/images/69406c0ce85ce8d8904524b7_693ad97ca5fa6617b9679f45_almani-aXtYkEMJih4-unsplash-1024.webp"
     imageSrcset="https://pagesmith-cdn.com/881ce63c/images/69406c0ce85ce8d8904524b7_693ad97ca5fa6617b9679f45_almani-aXtYkEMJih4-unsplash-640.webp 640w, https://pagesmith-cdn.com/881ce63c/images/69406c0ce85ce8d8904524b7_693ad97ca5fa6617b9679f45_almani-aXtYkEMJih4-unsplash-1024.webp 1024w, https://pagesmith-cdn.com/881ce63c/images/69406c0ce85ce8d8904524b7_693ad97ca5fa6617b9679f45_almani-aXtYkEMJih4-unsplash-1536.webp 1536w"
     imageAlt="Motorcyclist riding a Harley-Davidson motorcycle"
+    primaryCtaHref="#free-consultation"
+    secondaryCtaHref="/contact-us/"
   />
-  <ArticleContent>
-    <p>We have over 6 decades of combined personal injury law success.</p>
-    <h2><strong>Practice Areas and Case Types</strong></h2>
-    <p>We handle personal injury law cases in Michigan. We take on the tough cases other firms pass on.</p>
-  </ArticleContent>
 
-  <section class="bg-background py-16">
-    <div class="max-w-[1440px] mx-auto px-6">
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+  <section class="bg-background py-16 lg:py-20">
+    <div class="mx-auto max-w-[1440px] px-6 lg:px-10">
+      <p class="mb-5 text-[14px] font-medium text-primary">We have over 6 decades of combined personal injury law success.</p>
+      <div class="mb-10 max-w-[860px]">
+        <h2 class="mb-4 font-serif text-[36px] font-bold leading-[1.2] tracking-[-0.02em] text-foreground lg:text-[42px]">Practice Areas and Case Types</h2>
+        <p class="text-[17px] leading-[1.7] text-muted-foreground">We handle personal injury law cases in Michigan. We take on the tough cases other firms pass on.</p>
+      </div>
+
+      <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
         {practiceAreas.map((area) => (
-          <div class="bg-[rgba(229,236,246,0.54)] rounded-[8px] p-6 border border-white/60 hover:shadow-md transition-shadow">
-            <h3 class="text-[20px] font-semibold mb-3 text-foreground">{area.title}</h3>
-            <p class="text-[14px] leading-[1.6] text-foreground mb-4">{area.description}</p>
-            <a href={area.href} class="bg-[rgba(204,218,238,0.31)] border border-white text-foreground px-4 py-2 rounded-[4px] font-medium inline-flex items-center gap-2 text-[14px]">Learn More →</a>
-          </div>
+          <article class="flex h-full flex-col overflow-hidden rounded-[8px] border border-black/5 bg-[rgba(229,236,246,0.62)] shadow-sm transition-transform duration-300 hover:-translate-y-1 hover:shadow-lg">
+            <a href={`/practice-area/${area.id}/`} class="block h-[220px] overflow-hidden bg-secondary" aria-label={`Learn more about ${area.title}`}>
+              <img
+                src={area.data.heroImage}
+                srcset={area.data.heroImageSrcset.join(', ')}
+                sizes="(min-width: 1024px) 31vw, (min-width: 768px) 48vw, 100vw"
+                alt={area.data.heroImageAlt}
+                class="h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+                loading="lazy"
+                decoding="async"
+              />
+            </a>
+            <div class="flex flex-1 flex-col p-6">
+              <h3 class="mb-3 font-serif text-[24px] font-bold leading-[1.25] text-foreground">{area.title}</h3>
+              <p class="mb-6 flex-1 text-[15px] leading-[1.65] text-foreground/80">{area.data.description}</p>
+              <a
+                href={`/practice-area/${area.id}/`}
+                class="inline-flex w-fit items-center gap-2 rounded-[4px] bg-white px-4 py-2.5 text-[14px] font-semibold text-foreground no-underline shadow-sm transition-colors hover:bg-primary hover:text-white"
+              >
+                Learn More <span aria-hidden="true">›</span>
+              </a>
+            </div>
+          </article>
         ))}
       </div>
     </div>
   </section>
 
-  <ArticleFAQ items={faqItems} />
-
-  <StatsBar />
+  <ArticleTestimonials limit={3} />
 
   <ArticleContactForm />
 
-  <ArticleTestimonials />
+  <section class="bg-[rgba(229,236,246,0.54)] py-20">
+    <div class="mx-auto max-w-[1000px] px-6">
+      <div class="mb-12">
+        <h2 class="mb-3 font-serif text-[36px] font-bold leading-[1.3] text-foreground">Frequently Asked Questions</h2>
+        <p class="text-[17px] text-muted-foreground">Find answers to common questions about our services and process.</p>
+      </div>
+
+      <div class="space-y-4">
+        {faqItems.map((item) => (
+          <details class="group rounded-[8px] border border-black/5 bg-white p-6 shadow-sm [&_summary::-webkit-details-marker]:hidden">
+            <summary class="flex cursor-pointer list-none items-center justify-between gap-6 text-[17px] font-semibold text-foreground">
+              <span>{item.question}</span>
+              <span class="font-sans text-[26px] font-light text-primary transition-transform group-open:rotate-45" aria-hidden="true">+</span>
+            </summary>
+            <p class="mt-4 max-w-[860px] text-[15px] leading-[1.7] text-foreground/80">{item.answer}</p>
+          </details>
+        ))}
+      </div>
+
+      <div class="mt-14 text-center">
+        <h3 class="mb-3 font-serif text-[22px] font-bold text-foreground">Still have questions?</h3>
+        <p class="mb-6 text-[16px] text-muted-foreground">Reach out to us directly for answers.</p>
+        <a href="#free-consultation" class="inline-flex items-center rounded-[4px] bg-primary px-6 py-3 text-[16px] font-medium text-white no-underline transition-colors hover:bg-primary-hover">Schedule a Free Consultation</a>
+      </div>
+    </div>
+  </section>
+
+  <ArticleMap />
 </BaseLayout>
