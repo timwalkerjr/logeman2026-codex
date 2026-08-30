@@ -15,6 +15,15 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 ---
 
-<CollectionRoutePage data={entry.data}>
+<CollectionRoutePage
+  data={entry.data}
+  forceHero
+  heroTitle={`${entry.data.areaName} Personal Injury Lawyers`}
+  heroEyebrow="Compassionate And Aggressive Legal Representation For Injury Victims"
+  heroDescription={entry.data.description}
+  heroImage="https://pagesmith-cdn.com/881ce63c/images/693ae3bfbd437f799d63087e_0-1024.webp"
+  heroImageAlt="Logeman & Iafrate serving injured clients throughout Southeast Michigan"
+  heroVariant="background"
+>
   <Content />
 </CollectionRoutePage>

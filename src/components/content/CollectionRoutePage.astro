@@ -27,9 +27,30 @@ interface Props {
     testimonialsVariant: 'article' | 'home';
     mapVariant: 'article' | 'location' | 'none';
   };
+  forceHero?: boolean;
+  heroTitle?: string;
+  heroEyebrow?: string;
+  heroDescription?: string;
+  heroImage?: string;
+  heroImageSrcset?: string;
+  heroImageAlt?: string;
+  heroVariant?: 'split' | 'background' | 'simple';
 }
 
-const { data } = Astro.props;
+const {
+  data,
+  forceHero = false,
+  heroTitle,
+  heroEyebrow,
+  heroDescription,
+  heroImage,
+  heroImageSrcset,
+  heroImageAlt,
+  heroVariant,
+} = Astro.props;
+
+const heroVisible = forceHero || data.showHero;
+const resolvedHeroTitle = heroTitle || data.heroTitle || data.title;
 ---
 
 <BaseLayout
@@ -37,7 +58,17 @@ const { data } = Astro.props;
   description={data.description}
   canonicalUrl={data.canonicalUrl}
 >
-  {data.showHero && <ArticleHero title={data.heroTitle} />}
+  {heroVisible && (
+    <ArticleHero
+      title={resolvedHeroTitle}
+      eyebrow={heroEyebrow}
+      description={heroDescription}
+      image={heroImage}
+      imageSrcset={heroImageSrcset}
+      imageAlt={heroImageAlt}
+      variant={heroVariant}
+    />
+  )}
 
   <ArticleContent title={data.contentTitle}>
     <slot />
