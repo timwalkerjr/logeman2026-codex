@@ -23,6 +23,7 @@ const verdicts = (await getCollection('verdicts')).sort((a, b) => a.data.order -
   />
 
   <ArticleContent>
+    <div class="results-page-content">
     <h2>We are fierce trial ready advocates for our injured clients with a track record built in the courtroom.</h2>
     <p>Many personal injury firms settle quickly to avoid the work of trial preparation. We take a different approach. Our verdicts and settlements reflect decades of fighting for injured clients throughout Michigan—in Washtenaw, Wayne, Livingston, Jackson, and Calhoun counties. When insurance companies see our name on a case, they know we're prepared to go the distance. That preparation shows in our results, from a $5.1 million verdict for a woman killed by a semi truck to a $1.3 million malicious prosecution award against a township that abused its authority.</p>
 
@@ -35,11 +36,11 @@ const verdicts = (await getCollection('verdicts')).sort((a, b) => a.data.order -
     <h2>Here's a few of our recent verdicts and settlements:</h2>
 
     {verdicts.map((verdict) => (
-      <>
+      <article class="result-card">
         <h3>{verdict.data.title}</h3>
         <p>{verdict.data.description}</p>
-        <h4>{verdict.data.amount}</h4>
-      </>
+        <p class="result-amount">{verdict.data.amount}</p>
+      </article>
     ))}
 
     <p class="text-[14px] text-muted-foreground italic mt-8">Past results do not guarantee future outcomes. Each case is decided on its own facts.</p>
@@ -48,6 +49,7 @@ const verdicts = (await getCollection('verdicts')).sort((a, b) => a.data.order -
     <p>For decades, Logeman & Iafrate has represented injured clients across Michigan with unwavering commitment. We take cases others won't, and we win cases others can't. Our founders built this firm on a simple principle: injured people deserve fierce advocacy and real results.</p>
 
     <p class="text-[14px] text-muted-foreground italic mt-8">This article is provided for informational purposes only and does not constitute legal advice. Consult a qualified attorney at Logeman & Iafrate, P.C. for advice regarding your individual situation.</p>
+    </div>
   </ArticleContent>
 
   <StatsBar />
@@ -58,3 +60,60 @@ const verdicts = (await getCollection('verdicts')).sort((a, b) => a.data.order -
 
   <ArticleMap />
 </BaseLayout>
+
+<style is:global>
+  .results-page-content .result-card {
+    position: relative;
+    margin: 0 0 2rem;
+    border: 0;
+    border-radius: 8px;
+    background: #eef2f8;
+    padding: 2rem 1.75rem 1.75rem;
+    color: var(--color-foreground);
+    box-shadow: none;
+  }
+
+  .results-page-content .result-card::before {
+    display: block;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+    content: 'CASE RESULT';
+    font-family: Arial, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    line-height: 1;
+  }
+
+  .results-page-content .result-card h3 {
+    margin: 0 0 0.75rem;
+    color: var(--color-foreground);
+    font-size: 1.25rem;
+    line-height: 1.35;
+  }
+
+  .results-page-content .result-card > p:not(.result-amount) {
+    margin: 0;
+    color: var(--color-foreground);
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .results-page-content .result-card .result-amount {
+    display: inline-flex;
+    margin: 1.25rem 0 0;
+    border-radius: 4px;
+    background: var(--color-primary);
+    padding: 0.55rem 0.85rem;
+    color: white;
+    font-size: 1.125rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  @media (min-width: 768px) {
+    .results-page-content .result-card {
+      padding: 2rem;
+    }
+  }
+</style>
