@@ -13,6 +13,7 @@ import { fileURLToPath } from 'node:url';
 import remarkGfm from 'remark-gfm';
 
 import remarkToc from './src/plugins/remark-toc.mjs';
+import { serviceRedirects } from './src/data/service-redirects.mjs';
 
 // PageSmith injects SITE_URL for its own runtime host. Canonical and sitemap
 // URLs must continue to point at the real Logeman domain while this is a test
@@ -57,6 +58,7 @@ export default defineConfig({
     driver: sessionDrivers.lruCache(),
   },
   site: siteUrl,
+  redirects: serviceRedirects,
   // CSRF origin check for form-encoded POST/PUT/PATCH/DELETE. This is the
   // Astro 5/6 default; pinned explicitly so a template edit can't silently
   // disable it. Note it does NOT cover /api/auth/* (JSON posts) — those are
@@ -72,7 +74,7 @@ export default defineConfig({
       filter: (page) => {
         const { pathname } = new URL(page);
         const normalized = pathname.endsWith('/') ? pathname : pathname + '/';
-        return !noIndexPaths.has(normalized);
+        return !normalized.startsWith('/service/') && !noIndexPaths.has(normalized);
       },
     }),
   ],
