@@ -1,0 +1,14 @@
+---
+import { serviceRedirects } from '../../data/service-redirects.mjs';
+
+export const prerender = false;
+
+const sourcePath = `/service/${Astro.params.slug}`;
+const destination = serviceRedirects[sourcePath];
+
+if (!destination) {
+  return new Response('Not found', { status: 404 });
+}
+
+return Astro.redirect(destination, 301);
+---
